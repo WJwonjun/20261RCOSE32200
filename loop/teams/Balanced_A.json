@@ -1,0 +1,65 @@
+{
+  "name": "Balanced_A",
+  "members": [
+    {
+      "species": "Metagross",
+      "moves": [
+        "Meteor Mash",
+        "Earthquake",
+        "Ice Punch",
+        "Bullet Punch"
+      ],
+      "held_item": "Leftovers"
+    },
+    {
+      "species": "Starmie",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Thunderbolt",
+        "Rapid Spin"
+      ],
+      "held_item": "Life Orb"
+    },
+    {
+      "species": "Tyranitar",
+      "moves": [
+        "Stone Edge",
+        "Crunch",
+        "Earthquake",
+        "Ice Punch"
+      ],
+      "held_item": "Choice Band"
+    },
+    {
+      "species": "Rotom-W",
+      "moves": [
+        "Thunderbolt",
+        "Hydro Pump",
+        "Will-O-Wisp",
+        "Volt Switch"
+      ],
+      "held_item": "Leftovers"
+    },
+    {
+      "species": "Conkeldurr",
+      "moves": [
+        "Drain Punch",
+        "Mach Punch",
+        "Thunder Punch",
+        "Bulk Up"
+      ],
+      "held_item": "Assault Vest"
+    },
+    {
+      "species": "Togekiss",
+      "moves": [
+        "Air Slash",
+        "Dazzling Gleam",
+        "Roost",
+        "Nasty Plot"
+      ],
+      "held_item": "Leftovers"
+    }
+  ]
+}

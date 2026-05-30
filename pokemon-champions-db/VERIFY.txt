@@ -1,0 +1,81 @@
+### 4_merge
+pokemon=258 (ko_missing=0 movepool_missing=13)
+  with_stats=258 legal=258
+moves=901 legal=496 (ko_missing=130 type_missing=58)
+abilities=191 (ko_missing=14)
+items=583 (ko_missing=84)
+natures=25 legal=21
+learnsets=258 type_chart_attackers=18
+### 5_build
+Built champions.db
+  pokemon: 258
+  pokemon_abilities: 544
+  pokemon_moves: 15788
+  moves: 901
+  abilities: 191
+  items: 583
+  natures: 25
+  type_chart: 324
+  reference: 13
+### verify
+=== row counts ===
+  pokemon            258
+  moves              901
+  abilities          191
+  items              583
+  natures            25
+  type_chart         324
+  pokemon_moves      15788
+  pokemon_abilities  544
+  reference          13
+
+=== coverage ===
+  pokemon w/ KO name      258/258
+  pokemon missing stats   0
+  legal moves             496
+   ├ with KO name         453/496
+   └ with type            493/496
+  legal natures           21
+
+=== sample: Venusaur movepool (top power) ===
+   ('하드플랜트', '풀', 150, 8)
+   ('기가임팩트', '노말', 150, 8)
+   ('파괴광선', '노말', 150, 8)
+   ('리프스톰', '풀', 130, 8)
+   ('이판사판태클', '노말', 120, 16)
+  movepool size: 58
+
+=== sample: Venusaur abilities ===
+   ('Chlorophyll', '엽록소', 1)
+   ('Overgrow', '심록', 0)
+
+=== sample: top-5 BST ===
+   ('메가 망나뇽', 'Mega Dragonite', 700)
+   ('메가 마기라스', 'Mega Tyranitar', 700)
+   ('메가 한카리아스', 'Mega Garchomp', 700)
+   ('메가 플라엣테', 'Mega Floette', 651)
+   ('메가 갸라도스', 'Mega Gyarados', 640)
+
+=== sample: Fire legal moves power>=100 ===
+   ('블러스트번', 'Blast Burn', 150)
+   ('분화', 'Eruption', 150)
+   ('불사르기', 'Burn Up', 130)
+   ('오버히트', 'Overheat', 130)
+   (None, 'Armor Cannon', 120)
+
+=== sample: item categories ===
+   ('Other', 331)
+   ('Mega Stone', 85)
+   ('Berry', 77)
+   ('Z-Crystal', 38)
+   ('Gem', 18)
+   ('Plate', 17)
+   ('Memory', 17)
+
+=== sample: 3 legal natures ===
+   ('고집', 'Adamant', 'attack', 'sp_attack')
+   ('대담', 'Bold', 'defense', 'attack')
+   ('용감', 'Brave', 'attack', 'speed')
+
+OK
+### DONE

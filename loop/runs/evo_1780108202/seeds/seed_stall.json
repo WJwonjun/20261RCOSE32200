@@ -1,0 +1,173 @@
+{
+  "name": "seed_stall",
+  "members": [
+    {
+      "species": "toxapex",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "recover",
+        "toxic",
+        "toxic_spikes",
+        "protect"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "skarmory",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "nature": "impish",
+      "moves": [
+        "stealth_rock",
+        "roost",
+        "whirlwind",
+        "spikes"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "gliscor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 184,
+        "spa": 0,
+        "spd": 0,
+        "spe": 72
+      },
+      "nature": "impish",
+      "moves": [
+        "earthquake",
+        "roost",
+        "toxic",
+        "ice_fang"
+      ],
+      "item": "toxic_orb"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "nature": "modest",
+      "moves": [
+        "flamethrower",
+        "will_o_wisp",
+        "morning_sun",
+        "protect"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "slowbro",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "scald",
+        "slack_off",
+        "thunder_wave",
+        "psychic"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 4,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "nature": "careful",
+      "moves": [
+        "body_slam",
+        "toxic",
+        "rest",
+        "sleep_talk"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

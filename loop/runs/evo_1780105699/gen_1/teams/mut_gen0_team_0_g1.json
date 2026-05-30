@@ -1,0 +1,173 @@
+{
+  "name": "mut_gen0_team_0_g1",
+  "members": [
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 154,
+        "atk": 55,
+        "def": 59,
+        "spa": 3,
+        "spd": 0,
+        "spe": 129
+      },
+      "nature": "bold",
+      "moves": [
+        "flamethrower",
+        "thunderbolt",
+        "body_slam",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 207,
+        "atk": 44,
+        "def": 0,
+        "spa": 0,
+        "spd": 222,
+        "spe": 20
+      },
+      "nature": "calm",
+      "moves": [
+        "toxic",
+        "earthquake",
+        "flamethrower",
+        "body_slam"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 88,
+        "def": 216,
+        "spa": 16,
+        "spd": 154,
+        "spe": 2
+      },
+      "nature": "modest",
+      "moves": [
+        "will_o_wisp",
+        "toxic",
+        "ice_beam",
+        "surf"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 17,
+        "atk": 180,
+        "def": 58,
+        "spa": 11,
+        "spd": 0,
+        "spe": 169
+      },
+      "nature": "timid",
+      "moves": [
+        "flamethrower",
+        "thunder_wave",
+        "rest",
+        "thunderbolt"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 41,
+        "atk": 94,
+        "def": 171,
+        "spa": 0,
+        "spd": 90,
+        "spe": 53
+      },
+      "nature": "hardy",
+      "moves": [
+        "dragon_claw",
+        "ice_beam",
+        "thunderbolt",
+        "earthquake"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 236,
+        "atk": 22,
+        "def": 97,
+        "spa": 69,
+        "spd": 81,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "ice_beam",
+        "flamethrower",
+        "body_slam",
+        "dragon_claw"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

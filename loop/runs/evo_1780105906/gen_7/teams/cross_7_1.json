@@ -1,0 +1,173 @@
+{
+  "name": "cross_7_1",
+  "members": [
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 20,
+        "def": 208,
+        "spa": 47,
+        "spd": 11,
+        "spe": 204
+      },
+      "nature": "calm",
+      "moves": [
+        "ice_beam",
+        "quick_attack",
+        "thunder_wave",
+        "flamethrower"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 2,
+        "atk": 0,
+        "def": 158,
+        "spa": 7,
+        "spd": 110,
+        "spe": 205
+      },
+      "nature": "timid",
+      "moves": [
+        "surf",
+        "toxic",
+        "dragon_claw",
+        "will_o_wisp"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 228,
+        "def": 16,
+        "spa": 219,
+        "spd": 17,
+        "spe": 13
+      },
+      "nature": "hardy",
+      "moves": [
+        "tackle",
+        "flamethrower",
+        "quick_attack",
+        "will_o_wisp"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 188,
+        "atk": 0,
+        "def": 157,
+        "spa": 18,
+        "spd": 8,
+        "spe": 27
+      },
+      "nature": "bold",
+      "moves": [
+        "earthquake",
+        "quick_attack",
+        "surf",
+        "body_slam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 149,
+        "atk": 25,
+        "def": 72,
+        "spa": 65,
+        "spd": 0,
+        "spe": 138
+      },
+      "nature": "adamant",
+      "moves": [
+        "rest",
+        "will_o_wisp",
+        "ice_beam",
+        "protect"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 188,
+        "atk": 7,
+        "def": 154,
+        "spa": 0,
+        "spd": 9,
+        "spe": 130
+      },
+      "nature": "jolly",
+      "moves": [
+        "ice_beam",
+        "body_slam",
+        "dragon_claw",
+        "surf"
+      ],
+      "item": "none"
+    }
+  ]
+}

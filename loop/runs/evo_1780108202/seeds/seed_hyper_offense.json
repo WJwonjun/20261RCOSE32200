@@ -1,0 +1,173 @@
+{
+  "name": "seed_hyper_offense",
+  "members": [
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "nature": "jolly",
+      "moves": [
+        "earthquake",
+        "dragon_claw",
+        "stone_edge",
+        "fire_fang"
+      ],
+      "item": "choice_band"
+    },
+    {
+      "species": "talonflame",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "nature": "adamant",
+      "moves": [
+        "brave_bird",
+        "flare_blitz",
+        "swords_dance",
+        "roost"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "greninja",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "nature": "timid",
+      "moves": [
+        "hydro_pump",
+        "ice_beam",
+        "dark_pulse",
+        "grass_knot"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "mega_charizard_x",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "nature": "jolly",
+      "moves": [
+        "dragon_dance",
+        "dragon_claw",
+        "flare_blitz",
+        "earthquake"
+      ],
+      "item": "charizardite_x"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "nature": "adamant",
+      "moves": [
+        "waterfall",
+        "earthquake",
+        "ice_fang",
+        "dragon_dance"
+      ],
+      "item": "lum_berry"
+    },
+    {
+      "species": "lucario",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "nature": "adamant",
+      "moves": [
+        "close_combat",
+        "bullet_punch",
+        "extreme_speed",
+        "swords_dance"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

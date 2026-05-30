@@ -1,0 +1,3452 @@
+[
+ {
+  "name": "-Champions Pok�dex",
+  "slug": "pokedex-champions",
+  "dex": null,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Ability Database",
+  "slug": "pokedex-champions",
+  "dex": null,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Abomasnow",
+  "slug": "abomasnow",
+  "dex": 460,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Snow Warning",
+   "Soundproof"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Absol",
+  "slug": "absol",
+  "dex": 359,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Pressure",
+   "Super Luck",
+   "Justified",
+   "Magic Bounce"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Aegislash",
+  "slug": "aegislash",
+  "dex": 681,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Stance Change"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Aerodactyl",
+  "slug": "aerodactyl",
+  "dex": 142,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Rock Head",
+   "Pressure",
+   "Unnerve",
+   "Tough Claws"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Aggron",
+  "slug": "aggron",
+  "dex": 306,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sturdy",
+   "Rock Head",
+   "Heavy Metal",
+   "Filter"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Alakazam",
+  "slug": "alakazam",
+  "dex": 65,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Synchronize",
+   "Inner Focus",
+   "Magic Guard",
+   "Trace"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Alcremie",
+  "slug": "alcremie",
+  "dex": 869,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sweet Veil",
+   "Aroma Veil"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Altaria",
+  "slug": "altaria",
+  "dex": 334,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Natural Cure",
+   "Cloud Nine",
+   "Pixilate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Ampharos",
+  "slug": "ampharos",
+  "dex": 181,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Static",
+   "Plus",
+   "Mold Breaker"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Appletun",
+  "slug": "appletun",
+  "dex": 842,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Ripen",
+   "Gluttony",
+   "Thick Fat"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Araquanid",
+  "slug": "araquanid",
+  "dex": 752,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Water Bubble",
+   "Water Absorb"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Arbok",
+  "slug": "arbok",
+  "dex": 24,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Intimidate",
+   "Shed Skin",
+   "Unnerve"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Arcanine",
+  "slug": "arcanine",
+  "dex": 59,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Intimidate",
+   "Flash Fire",
+   "Justified",
+   "Rock Head"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Archaludon",
+  "slug": "archaludon",
+  "dex": 1018,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Stamina",
+   "Sturdy",
+   "Stalwart"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Ariados",
+  "slug": "ariados",
+  "dex": 168,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Swarm",
+   "Insomnia",
+   "Sniper"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Armarouge",
+  "slug": "armarouge",
+  "dex": 936,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Flash Fire",
+   "Weak Armor"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Aromatisse",
+  "slug": "aromatisse",
+  "dex": 683,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Healer",
+   "Aroma Veil"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Audino",
+  "slug": "audino",
+  "dex": 531,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Healer",
+   "Regenerator",
+   "Klutz"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Aurorus",
+  "slug": "aurorus",
+  "dex": 699,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Refrigerate",
+   "Snow Warning"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Avalugg",
+  "slug": "avalugg",
+  "dex": 713,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Own Tempo",
+   "Ice Body",
+   "Sturdy",
+   "Strong Jaw"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Azumarill",
+  "slug": "azumarill",
+  "dex": 184,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Thick Fat",
+   "Huge Power",
+   "Sap Sipper"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Banette",
+  "slug": "banette",
+  "dex": 354,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Insomnia",
+   "Frisk",
+   "Cursed Body",
+   "Prankster"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Basculegion",
+  "slug": "basculegion",
+  "dex": 902,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Swift Swim",
+   "Adaptability",
+   "Mold Breaker"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Bastiodon",
+  "slug": "bastiodon",
+  "dex": 411,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sturdy",
+   "Soundproof"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Beartic",
+  "slug": "beartic",
+  "dex": 614,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Snow Cloak",
+   "Slush Rush",
+   "Swift Swim"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Beedrill",
+  "slug": "beedrill",
+  "dex": 15,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Swarm",
+   "Sniper",
+   "Adaptability"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Bellibolt",
+  "slug": "bellibolt",
+  "dex": 939,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Electromorphosis",
+   "Static",
+   "Damp"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Blastoise",
+  "slug": "blastoise",
+  "dex": 9,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Torrent",
+   "Rain Dish",
+   "Mega Launcher"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Camerupt",
+  "slug": "camerupt",
+  "dex": 323,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Magma Armor",
+   "Solid Rock",
+   "Anger Point",
+   "Sheer Force"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Castform",
+  "slug": "castform",
+  "dex": 351,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Forecast"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Ceruledge",
+  "slug": "ceruledge",
+  "dex": 937,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Flash Fire",
+   "Weak Armor"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Chandelure",
+  "slug": "chandelure",
+  "dex": 609,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Flash Fire",
+   "Flame Body",
+   "Infiltrator"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Charizard",
+  "slug": "charizard",
+  "dex": 6,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Blaze",
+   "Solar Power",
+   "Tough Claws",
+   "Drought"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Chesnaught",
+  "slug": "chesnaught",
+  "dex": 652,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Overgrow",
+   "Bulletproof"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Chimecho",
+  "slug": "chimecho",
+  "dex": 358,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Levitate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Clawitzer",
+  "slug": "clawitzer",
+  "dex": 693,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Mega Launcher"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Clefable",
+  "slug": "clefable",
+  "dex": 36,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Cute Charm",
+   "Magic Guard",
+   "Unaware",
+   "Magic Bounce"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Cofagrigus",
+  "slug": "cofagrigus",
+  "dex": 563,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Mummy"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Conkeldurr",
+  "slug": "conkeldurr",
+  "dex": 534,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Guts",
+   "Sheer Force",
+   "Iron Fist"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Corviknight",
+  "slug": "corviknight",
+  "dex": 823,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Pressure",
+   "Unnerve",
+   "Mirror Armor"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Crabominable",
+  "slug": "crabominable",
+  "dex": 740,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Hyper Cutter",
+   "Iron Fist",
+   "Anger Point"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Decidueye",
+  "slug": "decidueye",
+  "dex": 724,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Overgrow",
+   "Long Reach",
+   "Scrappy"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Dedenne",
+  "slug": "dedenne",
+  "dex": 702,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Cheek Pouch",
+   "Pickup",
+   "Plus"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Delphox",
+  "slug": "delphox",
+  "dex": 655,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Blaze",
+   "Magician",
+   "Levitate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Diggersby",
+  "slug": "diggersby",
+  "dex": 660,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Pickup",
+   "Cheek Pouch",
+   "Huge Power"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Ditto",
+  "slug": "ditto",
+  "dex": 132,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Limber",
+   "Imposter"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Dragapult",
+  "slug": "dragapult",
+  "dex": 887,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Clear Body",
+   "Infiltrator",
+   "Cursed Body"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Dragonite",
+  "slug": "dragonite",
+  "dex": 149,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Inner Focus",
+   "Multiscale"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Drampa",
+  "slug": "drampa",
+  "dex": 780,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Berserk",
+   "Sap Sipper",
+   "Cloud Nine"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Emboar",
+  "slug": "emboar",
+  "dex": 500,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Blaze",
+   "Reckless",
+   "Mold Breaker"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Emolga",
+  "slug": "emolga",
+  "dex": 587,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Static",
+   "Motor Drive"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Empoleon",
+  "slug": "empoleon",
+  "dex": 395,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Torrent",
+   "Competitive"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Espathra",
+  "slug": "espathra",
+  "dex": 956,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Opportunist",
+   "Frisk",
+   "Speed Boost"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Espeon",
+  "slug": "espeon",
+  "dex": 196,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Synchronize",
+   "Magic Bounce"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Excadrill",
+  "slug": "excadrill",
+  "dex": 530,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sand Rush",
+   "Sand Force",
+   "Mold Breaker",
+   "Piercing Drill"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Farigiraf",
+  "slug": "farigiraf",
+  "dex": 981,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Cud Chew",
+   "Armor Tail",
+   "Sap Sipper"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Feraligatr",
+  "slug": "feraligatr",
+  "dex": 160,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Torrent",
+   "Sheer Force",
+   "Dragonize"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Flapple",
+  "slug": "flapple",
+  "dex": 841,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Ripen",
+   "Gluttony",
+   "Hustle"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Flareon",
+  "slug": "flareon",
+  "dex": 136,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Flash Fire",
+   "Guts"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Floette",
+  "slug": "floette",
+  "dex": 670,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Flower Veil",
+   "Symbiosis",
+   "Fairy Aura"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Florges",
+  "slug": "florges",
+  "dex": 671,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Flower Veil",
+   "Symbiosis"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Forretress",
+  "slug": "forretress",
+  "dex": 205,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sturdy",
+   "Overcoat"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Froslass",
+  "slug": "froslass",
+  "dex": 478,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Snow Cloak",
+   "Cursed Body",
+   "Snow Warning"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Furfrou",
+  "slug": "furfrou",
+  "dex": 676,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Fur Coat"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Gallade",
+  "slug": "gallade",
+  "dex": 475,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Steadfast",
+   "Sharpness",
+   "Justified",
+   "Inner Focus"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Garbodor",
+  "slug": "garbodor",
+  "dex": 569,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Stench",
+   "Weak Armor",
+   "Aftermath"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Garchomp",
+  "slug": "garchomp",
+  "dex": 445,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sand Veil",
+   "Rough Skin",
+   "Sand Force"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Gardevoir",
+  "slug": "gardevoir",
+  "dex": 282,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Synchronize",
+   "Trace",
+   "Telepathy",
+   "Pixilate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Garganacl",
+  "slug": "garganacl",
+  "dex": 934,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Purifying Salt",
+   "Sturdy",
+   "Clear Body"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Gengar",
+  "slug": "gengar",
+  "dex": 94,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Cursed Body",
+   "Shadow Tag"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Glaceon",
+  "slug": "glaceon",
+  "dex": 471,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Snow Cloak",
+   "Ice Body"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Glalie",
+  "slug": "glalie",
+  "dex": 362,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Inner Focus",
+   "Ice Body",
+   "Moody",
+   "Refrigerate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Glimmora",
+  "slug": "glimmora",
+  "dex": 970,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Toxic Debris",
+   "Corrosion",
+   "Adaptability"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Gliscor",
+  "slug": "gliscor",
+  "dex": 472,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Hyper Cutter",
+   "Sand Veil",
+   "Poison Heal"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Golurk",
+  "slug": "golurk",
+  "dex": 623,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Iron Fist",
+   "Klutz",
+   "No Guard",
+   "Unseen Fist"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Goodra",
+  "slug": "goodra",
+  "dex": 706,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sap Sipper",
+   "Hydration",
+   "Gooey",
+   "Shell Armor"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Gourgeist",
+  "slug": "gourgeist",
+  "dex": 711,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Pickup",
+   "Frisk",
+   "Insomnia"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Greninja",
+  "slug": "greninja",
+  "dex": 658,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Torrent",
+   "Protean",
+   "Battle Bond"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Gyarados",
+  "slug": "gyarados",
+  "dex": 130,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Intimidate",
+   "Moxie",
+   "Mold Breaker"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Hatterene",
+  "slug": "hatterene",
+  "dex": 858,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Healer",
+   "Anticipation",
+   "Magic Bounce"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Hawlucha",
+  "slug": "hawlucha",
+  "dex": 701,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Limber",
+   "Unburden",
+   "Mold Breaker",
+   "No Guard"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Heliolisk",
+  "slug": "heliolisk",
+  "dex": 695,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Dry Skin",
+   "Sand Veil",
+   "Solar Power"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Heracross",
+  "slug": "heracross",
+  "dex": 214,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Swarm",
+   "Guts",
+   "Moxie",
+   "Skill Link"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Hippowdon",
+  "slug": "hippowdon",
+  "dex": 450,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sand Stream",
+   "Sand Force"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Houndoom",
+  "slug": "houndoom",
+  "dex": 229,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Early Bird",
+   "Flash Fire",
+   "Unnerve",
+   "Solar Power"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Hydrapple",
+  "slug": "hydrapple",
+  "dex": 1019,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Supersweet Syrup",
+   "Regenerator",
+   "Sticky Hold"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Hydreigon",
+  "slug": "hydreigon",
+  "dex": 635,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Levitate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Incineroar",
+  "slug": "incineroar",
+  "dex": 727,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Blaze",
+   "Intimidate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Infernape",
+  "slug": "infernape",
+  "dex": 392,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Blaze",
+   "Iron Fist"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Jolteon",
+  "slug": "jolteon",
+  "dex": 135,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Volt Absorb",
+   "Quick Feet"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Kangaskhan",
+  "slug": "kangaskhan",
+  "dex": 115,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Early Bird",
+   "Scrappy",
+   "Inner Focus",
+   "Parental Bond"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Kingambit",
+  "slug": "kingambit",
+  "dex": 983,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Defiant",
+   "Supreme Overlord",
+   "Pressure"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Kleavor",
+  "slug": "kleavor",
+  "dex": 900,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Swarm",
+   "Sheer Force",
+   "Sharpness"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Klefki",
+  "slug": "klefki",
+  "dex": 707,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Prankster",
+   "Magician"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Kommo-o",
+  "slug": "kommo-o",
+  "dex": 784,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Bulletproof",
+   "Soundproof",
+   "Overcoat"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Krookodile",
+  "slug": "krookodile",
+  "dex": 553,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Intimidate",
+   "Moxie",
+   "Anger Point"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Leafeon",
+  "slug": "leafeon",
+  "dex": 470,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Leaf Guard",
+   "Chlorophyll"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Liepard",
+  "slug": "liepard",
+  "dex": 510,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Limber",
+   "Unburden",
+   "Prankster"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Lopunny",
+  "slug": "lopunny",
+  "dex": 428,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Cute Charm",
+   "Klutz",
+   "Limber",
+   "Scrappy"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Lucario",
+  "slug": "lucario",
+  "dex": 448,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Steadfast",
+   "Inner Focus",
+   "Justified",
+   "Adaptability"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Luxray",
+  "slug": "luxray",
+  "dex": 405,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Rivalry",
+   "Intimidate",
+   "Guts"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Lycanroc",
+  "slug": "lycanroc",
+  "dex": 745,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Keen Eye",
+   "Sand Rush",
+   "Steadfast",
+   "Vital Spirit",
+   "No Guard",
+   "Tough Claws"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Machamp",
+  "slug": "machamp",
+  "dex": 68,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Guts",
+   "No Guard",
+   "Steadfast"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mamoswine",
+  "slug": "mamoswine",
+  "dex": 473,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Oblivious",
+   "Snow Cloak",
+   "Thick Fat"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Manectric",
+  "slug": "manectric",
+  "dex": 310,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Static",
+   "Lightning Rod",
+   "Minus",
+   "Intimidate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Maushold",
+  "slug": "maushold",
+  "dex": 925,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Friend Guard",
+   "Cheek Pouch",
+   "Technician"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Medicham",
+  "slug": "medicham",
+  "dex": 308,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Pure Power",
+   "Telepathy"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Abomasnow",
+  "slug": "abomasnow",
+  "dex": 460,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Snow Warning",
+   "Soundproof"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Absol",
+  "slug": "absol",
+  "dex": 359,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Pressure",
+   "Super Luck",
+   "Justified",
+   "Magic Bounce"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Aerodactyl",
+  "slug": "aerodactyl",
+  "dex": 142,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Rock Head",
+   "Pressure",
+   "Unnerve",
+   "Tough Claws"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Aggron",
+  "slug": "aggron",
+  "dex": 306,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sturdy",
+   "Rock Head",
+   "Heavy Metal",
+   "Filter"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Alakazam",
+  "slug": "alakazam",
+  "dex": 65,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Synchronize",
+   "Inner Focus",
+   "Magic Guard",
+   "Trace"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Altaria",
+  "slug": "altaria",
+  "dex": 334,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Natural Cure",
+   "Cloud Nine",
+   "Pixilate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Ampharos",
+  "slug": "ampharos",
+  "dex": 181,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Static",
+   "Plus",
+   "Mold Breaker"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Audino",
+  "slug": "audino",
+  "dex": 531,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Healer",
+   "Regenerator",
+   "Klutz"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Banette",
+  "slug": "banette",
+  "dex": 354,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Insomnia",
+   "Frisk",
+   "Cursed Body",
+   "Prankster"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Beedrill",
+  "slug": "beedrill",
+  "dex": 15,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Swarm",
+   "Sniper",
+   "Adaptability"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Blastoise",
+  "slug": "blastoise",
+  "dex": 9,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Torrent",
+   "Rain Dish",
+   "Mega Launcher"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Camerupt",
+  "slug": "camerupt",
+  "dex": 323,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Magma Armor",
+   "Solid Rock",
+   "Anger Point",
+   "Sheer Force"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Chandelure",
+  "slug": "chandelure",
+  "dex": 609,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Flash Fire",
+   "Flame Body",
+   "Infiltrator"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Charizard",
+  "slug": "charizard",
+  "dex": 6,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Blaze",
+   "Solar Power",
+   "Tough Claws",
+   "Drought"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Chesnaught",
+  "slug": "chesnaught",
+  "dex": 652,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Overgrow",
+   "Bulletproof"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Chimecho",
+  "slug": "chimecho",
+  "dex": 358,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Levitate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Clefable",
+  "slug": "clefable",
+  "dex": 36,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Cute Charm",
+   "Magic Guard",
+   "Unaware",
+   "Magic Bounce"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Crabominable",
+  "slug": "crabominable",
+  "dex": 740,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Hyper Cutter",
+   "Iron Fist",
+   "Anger Point"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Delphox",
+  "slug": "delphox",
+  "dex": 655,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Blaze",
+   "Magician",
+   "Levitate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Dragonite",
+  "slug": "dragonite",
+  "dex": 149,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Inner Focus",
+   "Multiscale"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Drampa",
+  "slug": "drampa",
+  "dex": 780,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Berserk",
+   "Sap Sipper",
+   "Cloud Nine"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Emboar",
+  "slug": "emboar",
+  "dex": 500,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Blaze",
+   "Reckless",
+   "Mold Breaker"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Excadrill",
+  "slug": "excadrill",
+  "dex": 530,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sand Rush",
+   "Sand Force",
+   "Mold Breaker",
+   "Piercing Drill"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Feraligatr",
+  "slug": "feraligatr",
+  "dex": 160,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Torrent",
+   "Sheer Force",
+   "Dragonize"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Floette",
+  "slug": "floette",
+  "dex": 670,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Flower Veil",
+   "Symbiosis",
+   "Fairy Aura"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Froslass",
+  "slug": "froslass",
+  "dex": 478,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Snow Cloak",
+   "Cursed Body",
+   "Snow Warning"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Gallade",
+  "slug": "gallade",
+  "dex": 475,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Steadfast",
+   "Sharpness",
+   "Justified",
+   "Inner Focus"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Garchomp",
+  "slug": "garchomp",
+  "dex": 445,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sand Veil",
+   "Rough Skin",
+   "Sand Force"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Gardevoir",
+  "slug": "gardevoir",
+  "dex": 282,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Synchronize",
+   "Trace",
+   "Telepathy",
+   "Pixilate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Gengar",
+  "slug": "gengar",
+  "dex": 94,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Cursed Body",
+   "Shadow Tag"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Glalie",
+  "slug": "glalie",
+  "dex": 362,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Inner Focus",
+   "Ice Body",
+   "Moody",
+   "Refrigerate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Glimmora",
+  "slug": "glimmora",
+  "dex": 970,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Toxic Debris",
+   "Corrosion",
+   "Adaptability"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Golurk",
+  "slug": "golurk",
+  "dex": 623,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Iron Fist",
+   "Klutz",
+   "No Guard",
+   "Unseen Fist"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Greninja",
+  "slug": "greninja",
+  "dex": 658,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Torrent",
+   "Protean",
+   "Battle Bond"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Gyarados",
+  "slug": "gyarados",
+  "dex": 130,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Intimidate",
+   "Moxie",
+   "Mold Breaker"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Hawlucha",
+  "slug": "hawlucha",
+  "dex": 701,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Limber",
+   "Unburden",
+   "Mold Breaker",
+   "No Guard"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Heracross",
+  "slug": "heracross",
+  "dex": 214,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Swarm",
+   "Guts",
+   "Moxie",
+   "Skill Link"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Houndoom",
+  "slug": "houndoom",
+  "dex": 229,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Early Bird",
+   "Flash Fire",
+   "Unnerve",
+   "Solar Power"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Kangaskhan",
+  "slug": "kangaskhan",
+  "dex": 115,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Early Bird",
+   "Scrappy",
+   "Inner Focus",
+   "Parental Bond"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Lopunny",
+  "slug": "lopunny",
+  "dex": 428,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Cute Charm",
+   "Klutz",
+   "Limber",
+   "Scrappy"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Lucario",
+  "slug": "lucario",
+  "dex": 448,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Steadfast",
+   "Inner Focus",
+   "Justified",
+   "Adaptability"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Manectric",
+  "slug": "manectric",
+  "dex": 310,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Static",
+   "Lightning Rod",
+   "Minus",
+   "Intimidate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Medicham",
+  "slug": "medicham",
+  "dex": 308,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Pure Power",
+   "Telepathy"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Meganium",
+  "slug": "meganium",
+  "dex": 154,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Overgrow",
+   "Leaf Guard",
+   "Mega Sol"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Meowstic",
+  "slug": "meowstic",
+  "dex": 678,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Keen Eye",
+   "Infiltrator",
+   "Prankster",
+   "Competitive",
+   "Prankster(Male)",
+   "Competitive(Female)",
+   "Trace"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Pidgeot",
+  "slug": "pidgeot",
+  "dex": 18,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Keen Eye",
+   "Tangled Feet",
+   "Big Pecks",
+   "No Guard"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Pinsir",
+  "slug": "pinsir",
+  "dex": 127,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Hyper Cutter",
+   "Mold Breaker",
+   "Moxie",
+   "Aerilate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Sableye",
+  "slug": "sableye",
+  "dex": 302,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Keen Eye",
+   "Stall",
+   "Prankster",
+   "Magic Bounce"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Scizor",
+  "slug": "scizor",
+  "dex": 212,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Swarm",
+   "Technician",
+   "Light Metal"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Scovillain",
+  "slug": "scovillain",
+  "dex": 952,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Chlorophyll",
+   "Insomnia",
+   "Moody",
+   "Spicy Spray"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Sharpedo",
+  "slug": "sharpedo",
+  "dex": 319,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Rough Skin",
+   "Speed Boost",
+   "Strong Jaw"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Skarmory",
+  "slug": "skarmory",
+  "dex": 227,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Keen Eye",
+   "Sturdy",
+   "Weak Armor",
+   "Stalwart"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Slowbro",
+  "slug": "slowbro",
+  "dex": 80,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Oblivious",
+   "Own Tempo",
+   "Regenerator",
+   "Quick Draw",
+   "Shell Armor"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Starmie",
+  "slug": "starmie",
+  "dex": 121,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Illuminate",
+   "Natural Cure",
+   "Analytic",
+   "Huge Power"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Steelix",
+  "slug": "steelix",
+  "dex": 208,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Rock Head",
+   "Sturdy",
+   "Sheer Force",
+   "Sand Force"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Tyranitar",
+  "slug": "tyranitar",
+  "dex": 248,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sand Stream",
+   "Unnerve"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Venusaur",
+  "slug": "venusaur",
+  "dex": 3,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Overgrow",
+   "Chlorophyll",
+   "Thick Fat"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mega Victreebel",
+  "slug": "victreebel",
+  "dex": 71,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Chlorophyll",
+   "Gluttony",
+   "Innards Out"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Meganium",
+  "slug": "meganium",
+  "dex": 154,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Overgrow",
+   "Leaf Guard",
+   "Mega Sol"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Meowscarada",
+  "slug": "meowscarada",
+  "dex": 908,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Overgrow",
+   "Protean"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Meowstic",
+  "slug": "meowstic",
+  "dex": 678,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Keen Eye",
+   "Infiltrator",
+   "Prankster",
+   "Competitive",
+   "Prankster(Male)",
+   "Competitive(Female)",
+   "Trace"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Milotic",
+  "slug": "milotic",
+  "dex": 350,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Marvel Scale",
+   "Competitive",
+   "Cute Charm"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mimikyu",
+  "slug": "mimikyu",
+  "dex": 778,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Disguise"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Morpeko",
+  "slug": "morpeko",
+  "dex": 877,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Hunger Switch"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Move Database",
+  "slug": "pokedex-champions",
+  "dex": null,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mr. Rime",
+  "slug": "mr.rime",
+  "dex": 866,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Tangled Feet",
+   "Screen Cleaner",
+   "Ice Body"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Mudsdale",
+  "slug": "mudsdale",
+  "dex": 750,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Own Tempo",
+   "Stamina",
+   "Inner Focus"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Ninetales",
+  "slug": "ninetales",
+  "dex": 38,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Flash Fire",
+   "Drought",
+   "Snow Cloak",
+   "Snow Warning"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Noivern",
+  "slug": "noivern",
+  "dex": 715,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Frisk",
+   "Infiltrator",
+   "Telepathy"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Oranguru",
+  "slug": "oranguru",
+  "dex": 765,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Inner Focus",
+   "Telepathy",
+   "Symbiosis"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Orthworm",
+  "slug": "orthworm",
+  "dex": 968,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Earth Eater",
+   "Sand Veil"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Palafin",
+  "slug": "palafin",
+  "dex": 964,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Zero to Hero"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Pangoro",
+  "slug": "pangoro",
+  "dex": 675,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Iron Fist",
+   "Mold Breaker",
+   "Scrappy"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Passimian",
+  "slug": "passimian",
+  "dex": 766,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Receiver",
+   "Defiant"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Pelipper",
+  "slug": "pelipper",
+  "dex": 279,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Keen Eye",
+   "Drizzle",
+   "Rain Dish"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Pidgeot",
+  "slug": "pidgeot",
+  "dex": 18,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Keen Eye",
+   "Tangled Feet",
+   "Big Pecks",
+   "No Guard"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Pikachu",
+  "slug": "pikachu",
+  "dex": 25,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Static",
+   "Lightning Rod"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Pinsir",
+  "slug": "pinsir",
+  "dex": 127,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Hyper Cutter",
+   "Mold Breaker",
+   "Moxie",
+   "Aerilate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Pok�dex",
+  "slug": "pokedex-champions",
+  "dex": null,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Politoed",
+  "slug": "politoed",
+  "dex": 186,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Water Absorb",
+   "Damp",
+   "Drizzle"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Polteageist",
+  "slug": "polteageist",
+  "dex": 855,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Weak Armor",
+   "Cursed Body"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Primarina",
+  "slug": "primarina",
+  "dex": 730,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Torrent",
+   "Liquid Voice"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Quaquaval",
+  "slug": "quaquaval",
+  "dex": 914,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Torrent",
+   "Moxie"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Raichu",
+  "slug": "raichu",
+  "dex": 26,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Static",
+   "Lightning Rod",
+   "Surge Surfer"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Rampardos",
+  "slug": "rampardos",
+  "dex": 409,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Mold Breaker",
+   "Sheer Force"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Reuniclus",
+  "slug": "reuniclus",
+  "dex": 579,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Overcoat",
+   "Magic Guard",
+   "Regenerator"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Rhyperior",
+  "slug": "rhyperior",
+  "dex": 464,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Lightning Rod",
+   "Solid Rock",
+   "Reckless"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Roserade",
+  "slug": "roserade",
+  "dex": 407,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Natural Cure",
+   "Poison Point",
+   "Technician"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Rotom",
+  "slug": "rotom",
+  "dex": 479,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Levitate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Runerigus",
+  "slug": "runerigus",
+  "dex": 867,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Wandering Spirit"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Sableye",
+  "slug": "sableye",
+  "dex": 302,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Keen Eye",
+   "Stall",
+   "Prankster",
+   "Magic Bounce"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Salazzle",
+  "slug": "salazzle",
+  "dex": 758,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Corrosion",
+   "Oblivious"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Samurott",
+  "slug": "samurott",
+  "dex": 503,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Torrent",
+   "Shell Armor",
+   "Sharpness"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Sandaconda",
+  "slug": "sandaconda",
+  "dex": 844,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sand Spit",
+   "Shed Skin",
+   "Sand Veil"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Scizor",
+  "slug": "scizor",
+  "dex": 212,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Swarm",
+   "Technician",
+   "Light Metal"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Scovillain",
+  "slug": "scovillain",
+  "dex": 952,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Chlorophyll",
+   "Insomnia",
+   "Moody",
+   "Spicy Spray"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Serperior",
+  "slug": "serperior",
+  "dex": 497,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Overgrow",
+   "Contrary"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Sharpedo",
+  "slug": "sharpedo",
+  "dex": 319,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Rough Skin",
+   "Speed Boost",
+   "Strong Jaw"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Simipour",
+  "slug": "simipour",
+  "dex": 516,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Gluttony",
+   "Torrent"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Simisage",
+  "slug": "simisage",
+  "dex": 512,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Gluttony",
+   "Overgrow"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Simisear",
+  "slug": "simisear",
+  "dex": 514,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Gluttony",
+   "Blaze"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Sinistcha",
+  "slug": "sinistcha",
+  "dex": 1013,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Hospitality",
+   "Heatproof"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Skarmory",
+  "slug": "skarmory",
+  "dex": 227,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Keen Eye",
+   "Sturdy",
+   "Weak Armor",
+   "Stalwart"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Skeledirge",
+  "slug": "skeledirge",
+  "dex": 911,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Blaze",
+   "Unaware"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Slowbro",
+  "slug": "slowbro",
+  "dex": 80,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Oblivious",
+   "Own Tempo",
+   "Regenerator",
+   "Quick Draw",
+   "Shell Armor"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Slowking",
+  "slug": "slowking",
+  "dex": 199,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Oblivious",
+   "Own Tempo",
+   "Regenerator",
+   "Curious Medicine"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Slurpuff",
+  "slug": "slurpuff",
+  "dex": 685,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sweet Veil",
+   "Unburden"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Sneasler",
+  "slug": "sneasler",
+  "dex": 903,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Pressure",
+   "Unburden",
+   "Poison Touch"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Snorlax",
+  "slug": "snorlax",
+  "dex": 143,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Immunity",
+   "Thick Fat",
+   "Gluttony"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Spiritomb",
+  "slug": "spiritomb",
+  "dex": 442,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Pressure",
+   "Infiltrator"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Starmie",
+  "slug": "starmie",
+  "dex": 121,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Illuminate",
+   "Natural Cure",
+   "Analytic",
+   "Huge Power"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Steelix",
+  "slug": "steelix",
+  "dex": 208,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Rock Head",
+   "Sturdy",
+   "Sheer Force",
+   "Sand Force"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Stunfisk",
+  "slug": "stunfisk",
+  "dex": 618,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Static",
+   "Limber",
+   "Sand Veil",
+   "Mimicry"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Sylveon",
+  "slug": "sylveon",
+  "dex": 700,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Cute Charm",
+   "Pixilate"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Talonflame",
+  "slug": "talonflame",
+  "dex": 663,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Flame Body",
+   "Gale Wings"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Tauros",
+  "slug": "tauros",
+  "dex": 128,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Intimidate",
+   "Anger Point",
+   "Sheer Force",
+   "Cud Chew"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Tinkaton",
+  "slug": "tinkaton",
+  "dex": 959,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Mold Breaker",
+   "Own Tempo",
+   "Pickpocket"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Torkoal",
+  "slug": "torkoal",
+  "dex": 324,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "White Smoke",
+   "Drought",
+   "Shell Armor"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Torterra",
+  "slug": "torterra",
+  "dex": 389,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Overgrow",
+   "Shell Armor"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Toucannon",
+  "slug": "toucannon",
+  "dex": 733,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Keen Eye",
+   "Skill Link",
+   "Sheer Force"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Toxapex",
+  "slug": "toxapex",
+  "dex": 748,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Merciless",
+   "Limber",
+   "Regenerator"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Toxicroak",
+  "slug": "toxicroak",
+  "dex": 454,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Anticipation",
+   "Dry Skin",
+   "Poison Touch"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Trevenant",
+  "slug": "trevenant",
+  "dex": 709,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Natural Cure",
+   "Frisk",
+   "Harvest"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Tsareena",
+  "slug": "tsareena",
+  "dex": 763,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Leaf Guard",
+   "Queenly Majesty",
+   "Sweet Veil"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Typhlosion",
+  "slug": "typhlosion",
+  "dex": 157,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Blaze",
+   "Flash Fire",
+   "Frisk"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Tyranitar",
+  "slug": "tyranitar",
+  "dex": 248,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Sand Stream",
+   "Unnerve"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Tyrantrum",
+  "slug": "tyrantrum",
+  "dex": 697,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Strong Jaw",
+   "Rock Head"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Umbreon",
+  "slug": "umbreon",
+  "dex": 197,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Synchronize",
+   "Inner Focus"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Vanilluxe",
+  "slug": "vanilluxe",
+  "dex": 584,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Ice Body",
+   "Snow Warning",
+   "Weak Armor"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Vaporeon",
+  "slug": "vaporeon",
+  "dex": 134,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Water Absorb",
+   "Hydration"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Venusaur",
+  "slug": "venusaur",
+  "dex": 3,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Overgrow",
+   "Chlorophyll",
+   "Thick Fat"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Victreebel",
+  "slug": "victreebel",
+  "dex": 71,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Chlorophyll",
+   "Gluttony",
+   "Innards Out"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Vivillon",
+  "slug": "vivillon",
+  "dex": 666,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Shield Dust",
+   "Compoundeyes",
+   "Friend Guard"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Volcarona",
+  "slug": "volcarona",
+  "dex": 637,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Flame Body",
+   "Swarm"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Watchog",
+  "slug": "watchog",
+  "dex": 505,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Illuminate",
+   "Keen Eye",
+   "Analytic"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Weavile",
+  "slug": "weavile",
+  "dex": 461,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Pressure",
+   "Pickpocket"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Whimsicott",
+  "slug": "whimsicott",
+  "dex": 547,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Prankster",
+   "Infiltrator",
+   "Chlorophyll"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Wyrdeer",
+  "slug": "wyrdeer",
+  "dex": 899,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Intimidate",
+   "Frisk",
+   "Sap Sipper"
+  ],
+  "hiddenAbility": null
+ },
+ {
+  "name": "Zoroark",
+  "slug": "zoroark",
+  "dex": 571,
+  "types": [],
+  "baseStats": null,
+  "abilities": [
+   "Abilitydex",
+   "Illusion"
+  ],
+  "hiddenAbility": null
+ }
+]

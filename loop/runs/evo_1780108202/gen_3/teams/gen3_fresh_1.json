@@ -1,0 +1,173 @@
+{
+  "name": "gen3_fresh_1",
+  "members": [
+    {
+      "species": "alcremie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 1,
+        "atk": 0,
+        "def": 99,
+        "spa": 132,
+        "spd": 143,
+        "spe": 127
+      },
+      "nature": "timid",
+      "moves": [
+        "psych_up",
+        "imprison",
+        "light_screen",
+        "giga_impact"
+      ],
+      "item": "mewtwonite_y"
+    },
+    {
+      "species": "tyrantrum",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 20,
+        "def": 230,
+        "spa": 182,
+        "spd": 56,
+        "spe": 5
+      },
+      "nature": "quiet",
+      "moves": [
+        "iron_defense",
+        "stone_edge",
+        "head_smash",
+        "lash_out"
+      ],
+      "item": "helix_fossil"
+    },
+    {
+      "species": "aurorus",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 28,
+        "def": 0,
+        "spa": 203,
+        "spd": 130,
+        "spe": 7
+      },
+      "nature": "relaxed",
+      "moves": [
+        "round",
+        "ice_beam",
+        "sleep_talk",
+        "blizzard"
+      ],
+      "item": "ultra_ball"
+    },
+    {
+      "species": "hatterene",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 226,
+        "atk": 11,
+        "def": 0,
+        "spa": 156,
+        "spd": 39,
+        "spe": 8
+      },
+      "nature": "quiet",
+      "moves": [
+        "facade",
+        "sleep_talk",
+        "dazzling_gleam",
+        "giga_impact"
+      ],
+      "item": "beast_ball"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 5,
+        "atk": 212,
+        "def": 224,
+        "spa": 35,
+        "spd": 32,
+        "spe": 0
+      },
+      "nature": "careful",
+      "moves": [
+        "snore",
+        "thunder_wave",
+        "stone_edge",
+        "crunch"
+      ],
+      "item": "pink_bow"
+    },
+    {
+      "species": "heracross",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 181,
+        "atk": 2,
+        "def": 1,
+        "spa": 239,
+        "spd": 0,
+        "spe": 82
+      },
+      "nature": "bold",
+      "moves": [
+        "flail",
+        "dig",
+        "stone_edge",
+        "upper_hand"
+      ],
+      "item": "enigma_berry"
+    }
+  ]
+}

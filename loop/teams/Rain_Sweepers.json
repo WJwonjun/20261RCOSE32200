@@ -1,0 +1,65 @@
+{
+  "name": "Rain_Sweepers",
+  "members": [
+    {
+      "species": "Politoed",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Thunderbolt",
+        "Protect"
+      ],
+      "held_item": "Choice Specs"
+    },
+    {
+      "species": "Ludicolo",
+      "moves": [
+        "Surf",
+        "Giga Drain",
+        "Ice Beam",
+        "Rain Dance"
+      ],
+      "held_item": "Life Orb"
+    },
+    {
+      "species": "Kingdra",
+      "moves": [
+        "Surf",
+        "Dragon Pulse",
+        "Ice Beam",
+        "Protect"
+      ],
+      "held_item": "Lum Berry"
+    },
+    {
+      "species": "Jolteon",
+      "moves": [
+        "Thunderbolt",
+        "Shadow Ball",
+        "Quick Attack",
+        "Protect"
+      ],
+      "held_item": "Choice Specs"
+    },
+    {
+      "species": "Kabutops",
+      "moves": [
+        "Waterfall",
+        "Stone Edge",
+        "X-Scissor",
+        "Aqua Jet"
+      ],
+      "held_item": "Life Orb"
+    },
+    {
+      "species": "Toxicroak",
+      "moves": [
+        "Surf",
+        "Cross Chop",
+        "Sucker Punch",
+        "Bulk Up"
+      ],
+      "held_item": "Black Sludge"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_0",
+  "members": [
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 199,
+        "atk": 7,
+        "def": 179,
+        "spa": 64,
+        "spd": 50,
+        "spe": 0
+      },
+      "nature": "hardy",
+      "moves": [
+        "toxic",
+        "body_slam",
+        "dragon_claw",
+        "crunch"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 22,
+        "atk": 0,
+        "def": 42,
+        "spa": 246,
+        "spd": 56,
+        "spe": 141
+      },
+      "nature": "jolly",
+      "moves": [
+        "crunch",
+        "body_slam",
+        "will_o_wisp",
+        "thunderbolt"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "rhydon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 184,
+        "atk": 0,
+        "def": 28,
+        "spa": 7,
+        "spd": 215,
+        "spe": 62
+      },
+      "nature": "calm",
+      "moves": [
+        "rest",
+        "quick_attack",
+        "thunder_wave",
+        "flamethrower"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 203,
+        "atk": 0,
+        "def": 53,
+        "spa": 15,
+        "spd": 58,
+        "spe": 26
+      },
+      "nature": "jolly",
+      "moves": [
+        "will_o_wisp",
+        "dragon_claw",
+        "ice_beam",
+        "protect"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 9,
+        "atk": 0,
+        "def": 134,
+        "spa": 5,
+        "spd": 206,
+        "spe": 104
+      },
+      "nature": "jolly",
+      "moves": [
+        "earthquake",
+        "tackle",
+        "protect",
+        "body_slam"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 197,
+        "def": 19,
+        "spa": 1,
+        "spd": 63,
+        "spe": 223
+      },
+      "nature": "hardy",
+      "moves": [
+        "dragon_claw",
+        "will_o_wisp",
+        "quick_attack",
+        "thunderbolt"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

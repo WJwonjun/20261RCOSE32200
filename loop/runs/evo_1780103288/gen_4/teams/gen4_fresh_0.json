@@ -1,0 +1,173 @@
+{
+  "name": "gen4_fresh_0",
+  "members": [
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 9,
+        "atk": 0,
+        "def": 35,
+        "spa": 182,
+        "spd": 85,
+        "spe": 11
+      },
+      "nature": "jolly",
+      "moves": [
+        "toxic",
+        "dragon_claw",
+        "rest",
+        "protect"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 41,
+        "atk": 9,
+        "def": 189,
+        "spa": 157,
+        "spd": 0,
+        "spe": 100
+      },
+      "nature": "modest",
+      "moves": [
+        "dragon_claw",
+        "thunder_wave",
+        "protect",
+        "crunch"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 172,
+        "def": 28,
+        "spa": 94,
+        "spd": 106,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "quick_attack",
+        "toxic",
+        "protect",
+        "dragon_claw"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 10,
+        "atk": 149,
+        "def": 184,
+        "spa": 122,
+        "spd": 13,
+        "spe": 0
+      },
+      "nature": "hardy",
+      "moves": [
+        "quick_attack",
+        "ice_beam",
+        "dragon_claw",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 0,
+        "def": 112,
+        "spa": 4,
+        "spd": 48,
+        "spe": 107
+      },
+      "nature": "hardy",
+      "moves": [
+        "protect",
+        "body_slam",
+        "flamethrower",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 83,
+        "atk": 132,
+        "def": 143,
+        "spa": 84,
+        "spd": 0,
+        "spe": 53
+      },
+      "nature": "timid",
+      "moves": [
+        "surf",
+        "will_o_wisp",
+        "flamethrower",
+        "earthquake"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "cross_3_0",
+  "members": [
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 95,
+        "def": 190,
+        "spa": 189,
+        "spd": 8,
+        "spe": 17
+      },
+      "nature": "timid",
+      "moves": [
+        "ice_beam",
+        "toxic",
+        "thunderbolt",
+        "earthquake"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 92,
+        "atk": 56,
+        "def": 0,
+        "spa": 130,
+        "spd": 126,
+        "spe": 35
+      },
+      "nature": "bold",
+      "moves": [
+        "dragon_claw",
+        "surf",
+        "earthquake",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 0,
+        "def": 119,
+        "spa": 70,
+        "spd": 152,
+        "spe": 135
+      },
+      "nature": "modest",
+      "moves": [
+        "thunderbolt",
+        "dragon_claw",
+        "tackle",
+        "rest"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 232,
+        "atk": 115,
+        "def": 146,
+        "spa": 5,
+        "spd": 0,
+        "spe": 6
+      },
+      "nature": "bold",
+      "moves": [
+        "ice_beam",
+        "thunderbolt",
+        "body_slam",
+        "crunch"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 138,
+        "atk": 39,
+        "def": 41,
+        "spa": 195,
+        "spd": 0,
+        "spe": 95
+      },
+      "nature": "hardy",
+      "moves": [
+        "rest",
+        "flamethrower",
+        "ice_beam",
+        "protect"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 40,
+        "def": 86,
+        "spa": 158,
+        "spd": 193,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "body_slam",
+        "thunder_wave",
+        "toxic",
+        "surf"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

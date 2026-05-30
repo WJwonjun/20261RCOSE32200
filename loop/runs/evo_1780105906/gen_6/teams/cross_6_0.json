@@ -1,0 +1,173 @@
+{
+  "name": "cross_6_0",
+  "members": [
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 165,
+        "atk": 41,
+        "def": 0,
+        "spa": 0,
+        "spd": 92,
+        "spe": 142
+      },
+      "nature": "adamant",
+      "moves": [
+        "tackle",
+        "ice_beam",
+        "protect",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "machamp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 188,
+        "atk": 37,
+        "def": 68,
+        "spa": 184,
+        "spd": 22,
+        "spe": 0
+      },
+      "nature": "modest",
+      "moves": [
+        "protect",
+        "toxic",
+        "thunder_wave",
+        "quick_attack"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 228,
+        "def": 16,
+        "spa": 219,
+        "spd": 17,
+        "spe": 13
+      },
+      "nature": "hardy",
+      "moves": [
+        "tackle",
+        "protect",
+        "thunderbolt",
+        "will_o_wisp"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 109,
+        "atk": 0,
+        "def": 136,
+        "spa": 186,
+        "spd": 35,
+        "spe": 14
+      },
+      "nature": "timid",
+      "moves": [
+        "thunder_wave",
+        "surf",
+        "will_o_wisp",
+        "crunch"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 182,
+        "atk": 0,
+        "def": 17,
+        "spa": 118,
+        "spd": 123,
+        "spe": 56
+      },
+      "nature": "timid",
+      "moves": [
+        "protect",
+        "toxic",
+        "dragon_claw",
+        "will_o_wisp"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 188,
+        "atk": 7,
+        "def": 154,
+        "spa": 0,
+        "spd": 9,
+        "spe": 130
+      },
+      "nature": "calm",
+      "moves": [
+        "ice_beam",
+        "body_slam",
+        "dragon_claw",
+        "surf"
+      ],
+      "item": "none"
+    }
+  ]
+}

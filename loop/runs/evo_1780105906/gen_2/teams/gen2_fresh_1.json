@@ -1,0 +1,173 @@
+{
+  "name": "gen2_fresh_1",
+  "members": [
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 20,
+        "def": 208,
+        "spa": 47,
+        "spd": 11,
+        "spe": 204
+      },
+      "nature": "calm",
+      "moves": [
+        "ice_beam",
+        "protect",
+        "thunder_wave",
+        "flamethrower"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 82,
+        "atk": 64,
+        "def": 0,
+        "spa": 102,
+        "spd": 209,
+        "spe": 39
+      },
+      "nature": "modest",
+      "moves": [
+        "thunderbolt",
+        "rest",
+        "protect",
+        "thunder_wave"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 228,
+        "def": 16,
+        "spa": 219,
+        "spd": 17,
+        "spe": 13
+      },
+      "nature": "hardy",
+      "moves": [
+        "body_slam",
+        "protect",
+        "quick_attack",
+        "will_o_wisp"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 201,
+        "atk": 200,
+        "def": 18,
+        "spa": 9,
+        "spd": 0,
+        "spe": 66
+      },
+      "nature": "jolly",
+      "moves": [
+        "tackle",
+        "quick_attack",
+        "earthquake",
+        "body_slam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 145,
+        "atk": 0,
+        "def": 2,
+        "spa": 199,
+        "spd": 76,
+        "spe": 86
+      },
+      "nature": "calm",
+      "moves": [
+        "surf",
+        "toxic",
+        "thunderbolt",
+        "rest"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 11,
+        "atk": 0,
+        "def": 118,
+        "spa": 1,
+        "spd": 175,
+        "spe": 184
+      },
+      "nature": "calm",
+      "moves": [
+        "flamethrower",
+        "dragon_claw",
+        "surf",
+        "rest"
+      ],
+      "item": "none"
+    }
+  ]
+}

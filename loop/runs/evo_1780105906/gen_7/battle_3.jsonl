@@ -1,0 +1,428 @@
+# mode: sidecar (socket=/tmp/pokemon_sidecar_evo_1780105906.sock) rulebook=rulebook/rulebook.md
+{"event":"battle_start","team_a":"Pikachu lead","team_b":"Exeggutor lead"}
+{"event":"turn_start","turn":1}
+{"event":"move","pokemon":"Pikachu","move":"Thunder Wave"}
+{"event":"status_inflicted","pokemon":"Exeggutor","status":"PAR"}
+{"event":"move","pokemon":"Exeggutor","move":"Toxic"}
+{"event":"status_inflicted","pokemon":"Pikachu","status":"PSN"}
+{"event":"status_damage","pokemon":"Pikachu","status":"PSN","damage":15}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":111,"hp_b":170,"turn":1}
+{"event":"turn_start","turn":2}
+{"event":"move","pokemon":"Pikachu","move":"Thunder Wave"}
+{"event":"move","pokemon":"Exeggutor","move":"Toxic"}
+{"event":"status_damage","pokemon":"Pikachu","status":"PSN","damage":15}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":96,"hp_b":170,"turn":2}
+{"event":"turn_start","turn":3}
+{"event":"move","pokemon":"Pikachu","move":"Thunder Wave"}
+{"event":"move","pokemon":"Exeggutor","move":"Toxic"}
+{"event":"status_damage","pokemon":"Pikachu","status":"PSN","damage":15}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":81,"hp_b":170,"turn":3}
+{"event":"turn_start","turn":4}
+{"event":"move","pokemon":"Pikachu","move":"Thunder Wave"}
+{"event":"paralysis_skip","pokemon":"Exeggutor"}
+{"event":"status_damage","pokemon":"Pikachu","status":"PSN","damage":15}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":66,"hp_b":170,"turn":4}
+{"event":"turn_start","turn":5}
+{"event":"move","pokemon":"Pikachu","move":"Thunder Wave"}
+{"event":"move","pokemon":"Exeggutor","move":"Toxic"}
+{"event":"status_damage","pokemon":"Pikachu","status":"PSN","damage":15}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":51,"hp_b":170,"turn":5}
+{"event":"turn_start","turn":6}
+{"event":"move","pokemon":"Pikachu","move":"Thunder Wave"}
+{"event":"move","pokemon":"Exeggutor","move":"Toxic"}
+{"event":"status_damage","pokemon":"Pikachu","status":"PSN","damage":15}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":36,"hp_b":170,"turn":6}
+{"event":"turn_start","turn":7}
+{"event":"move","pokemon":"Pikachu","move":"Thunder Wave"}
+{"event":"move","pokemon":"Exeggutor","move":"Toxic"}
+{"event":"status_damage","pokemon":"Pikachu","status":"PSN","damage":15}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":21,"hp_b":170,"turn":7}
+{"event":"turn_start","turn":8}
+{"event":"move","pokemon":"Pikachu","move":"Thunder Wave"}
+{"event":"move","pokemon":"Exeggutor","move":"Toxic"}
+{"event":"status_damage","pokemon":"Pikachu","status":"PSN","damage":15}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":6,"hp_b":170,"turn":8}
+{"event":"turn_start","turn":9}
+{"event":"move","pokemon":"Pikachu","move":"Thunder Wave"}
+{"event":"move","pokemon":"Exeggutor","move":"Toxic"}
+{"event":"miss","pokemon":"Exeggutor"}
+{"event":"status_damage","pokemon":"Pikachu","status":"PSN","damage":15}
+{"event":"force_switch","side":"A","out":"Pikachu","in":"Gyarados"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":187,"hp_b":170,"turn":9}
+{"event":"turn_start","turn":10}
+{"event":"move","pokemon":"Gyarados","move":"Thunder Wave"}
+{"event":"move","pokemon":"Exeggutor","move":"Toxic"}
+{"event":"miss","pokemon":"Exeggutor"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":187,"hp_b":170,"turn":10}
+{"event":"turn_start","turn":11}
+{"event":"move","pokemon":"Gyarados","move":"Thunder Wave"}
+{"event":"move","pokemon":"Exeggutor","move":"Toxic"}
+{"event":"status_inflicted","pokemon":"Gyarados","status":"PSN"}
+{"event":"status_damage","pokemon":"Gyarados","status":"PSN","damage":23}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":164,"hp_b":170,"turn":11}
+{"event":"turn_start","turn":12}
+{"event":"switch","side":"B","out":"Exeggutor","in":"Dragonite"}
+{"event":"move","pokemon":"Gyarados","move":"Thunder Wave"}
+{"event":"status_inflicted","pokemon":"Dragonite","status":"PAR"}
+{"event":"status_damage","pokemon":"Gyarados","status":"PSN","damage":23}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":173,"turn":12}
+{"event":"turn_start","turn":13}
+{"event":"move","pokemon":"Gyarados","move":"Thunder Wave"}
+{"event":"paralysis_skip","pokemon":"Dragonite"}
+{"event":"status_damage","pokemon":"Gyarados","status":"PSN","damage":23}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":118,"hp_b":173,"turn":13}
+{"event":"turn_start","turn":14}
+{"event":"move","pokemon":"Gyarados","move":"Thunder Wave"}
+{"event":"miss","pokemon":"Gyarados"}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"event":"status_damage","pokemon":"Gyarados","status":"PSN","damage":23}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":95,"hp_b":173,"turn":14}
+{"event":"turn_start","turn":15}
+{"event":"move","pokemon":"Gyarados","move":"Thunder Wave"}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"event":"status_damage","pokemon":"Gyarados","status":"PSN","damage":23}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":72,"hp_b":173,"turn":15}
+{"event":"turn_start","turn":16}
+{"event":"move","pokemon":"Gyarados","move":"Thunder Wave"}
+{"event":"miss","pokemon":"Gyarados"}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"event":"status_damage","pokemon":"Gyarados","status":"PSN","damage":23}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":49,"hp_b":173,"turn":16}
+{"event":"turn_start","turn":17}
+{"event":"move","pokemon":"Gyarados","move":"Thunder Wave"}
+{"event":"paralysis_skip","pokemon":"Dragonite"}
+{"event":"status_damage","pokemon":"Gyarados","status":"PSN","damage":23}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":26,"hp_b":173,"turn":17}
+{"event":"turn_start","turn":18}
+{"event":"move","pokemon":"Gyarados","move":"Thunder Wave"}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"event":"status_damage","pokemon":"Gyarados","status":"PSN","damage":23}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":3,"hp_b":173,"turn":18}
+{"event":"turn_start","turn":19}
+{"event":"move","pokemon":"Gyarados","move":"Thunder Wave"}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"event":"status_damage","pokemon":"Gyarados","status":"PSN","damage":23}
+{"event":"force_switch","side":"A","out":"Gyarados","in":"Gengar"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":173,"turn":19}
+{"event":"turn_start","turn":20}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":12,"hp_remaining":161}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"event":"status_inflicted","pokemon":"Gengar","status":"PAR"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":161,"turn":20}
+{"event":"turn_start","turn":21}
+{"event":"paralysis_skip","pokemon":"Gengar"}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":161,"turn":21}
+{"event":"turn_start","turn":22}
+{"event":"paralysis_skip","pokemon":"Gengar"}
+{"event":"paralysis_skip","pokemon":"Dragonite"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":161,"turn":22}
+{"event":"turn_start","turn":23}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":13,"hp_remaining":148}
+{"event":"paralysis_skip","pokemon":"Dragonite"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":148,"turn":23}
+{"event":"turn_start","turn":24}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":12,"hp_remaining":136}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":136,"turn":24}
+{"event":"turn_start","turn":25}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":12,"hp_remaining":124}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"event":"miss","pokemon":"Dragonite"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":124,"turn":25}
+{"event":"turn_start","turn":26}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":13,"hp_remaining":111}
+{"event":"paralysis_skip","pokemon":"Dragonite"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":111,"turn":26}
+{"event":"turn_start","turn":27}
+{"event":"paralysis_skip","pokemon":"Gengar"}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":111,"turn":27}
+{"event":"turn_start","turn":28}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":14,"hp_remaining":97}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":97,"turn":28}
+{"event":"turn_start","turn":29}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":12,"hp_remaining":85}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":85,"turn":29}
+{"event":"turn_start","turn":30}
+{"event":"paralysis_skip","pokemon":"Gengar"}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":85,"turn":30}
+{"event":"turn_start","turn":31}
+{"event":"paralysis_skip","pokemon":"Gengar"}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":85,"turn":31}
+{"event":"turn_start","turn":32}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":13,"hp_remaining":72}
+{"event":"paralysis_skip","pokemon":"Dragonite"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":72,"turn":32}
+{"event":"turn_start","turn":33}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":13,"hp_remaining":59}
+{"event":"paralysis_skip","pokemon":"Dragonite"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":59,"turn":33}
+{"event":"turn_start","turn":34}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":12,"hp_remaining":47}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":47,"turn":34}
+{"event":"turn_start","turn":35}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":13,"hp_remaining":34}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":34,"turn":35}
+{"event":"turn_start","turn":36}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":13,"hp_remaining":21}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":21,"turn":36}
+{"event":"turn_start","turn":37}
+{"event":"paralysis_skip","pokemon":"Gengar"}
+{"event":"paralysis_skip","pokemon":"Dragonite"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":21,"turn":37}
+{"event":"turn_start","turn":38}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":13,"hp_remaining":8}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":8,"turn":38}
+{"event":"turn_start","turn":39}
+{"event":"paralysis_skip","pokemon":"Gengar"}
+{"event":"move","pokemon":"Dragonite","move":"Thunder Wave"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":8,"turn":39}
+{"event":"turn_start","turn":40}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Dragonite","damage":12,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Dragonite","in":"Exeggutor"}
+{"event":"no_pp","pokemon":"Exeggutor"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":170,"turn":40}
+{"event":"turn_start","turn":41}
+{"event":"switch","side":"B","out":"Exeggutor","in":"Tyranitar"}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Tyranitar","damage":5,"hp_remaining":170}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":170,"turn":41}
+{"event":"turn_start","turn":42}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Tyranitar","damage":5,"hp_remaining":165}
+{"event":"move","pokemon":"Tyranitar","move":"Ice Beam"}
+{"event":"damage","target":"Gengar","damage":41,"hp_remaining":100}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":100,"hp_b":165,"turn":42}
+{"event":"turn_start","turn":43}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Tyranitar","damage":5,"hp_remaining":160}
+{"event":"move","pokemon":"Tyranitar","move":"Ice Beam"}
+{"event":"damage","target":"Gengar","damage":46,"hp_remaining":54}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":54,"hp_b":160,"turn":43}
+{"event":"turn_start","turn":44}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Tyranitar","damage":5,"hp_remaining":155}
+{"event":"move","pokemon":"Tyranitar","move":"Ice Beam"}
+{"event":"damage","target":"Gengar","damage":40,"hp_remaining":14}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":14,"hp_b":155,"turn":44}
+{"event":"turn_start","turn":45}
+{"event":"move","pokemon":"Gengar","move":"Quick Attack"}
+{"event":"damage","target":"Tyranitar","damage":5,"hp_remaining":150}
+{"event":"move","pokemon":"Tyranitar","move":"Ice Beam"}
+{"event":"damage","target":"Gengar","damage":45,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Gengar","in":"Alakazam"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":134,"hp_b":150,"turn":45}
+{"event":"turn_start","turn":46}
+{"event":"move","pokemon":"Alakazam","move":"Quick Attack"}
+{"event":"damage","target":"Tyranitar","damage":4,"hp_remaining":146}
+{"event":"move","pokemon":"Tyranitar","move":"Ice Beam"}
+{"event":"damage","target":"Alakazam","damage":34,"hp_remaining":100}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":100,"hp_b":146,"turn":46}
+{"event":"turn_start","turn":47}
+{"event":"move","pokemon":"Alakazam","move":"Quick Attack"}
+{"event":"damage","target":"Tyranitar","damage":6,"hp_remaining":140}
+{"event":"move","pokemon":"Tyranitar","move":"Ice Beam"}
+{"event":"damage","target":"Alakazam","damage":37,"hp_remaining":63}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":63,"hp_b":140,"turn":47}
+{"event":"turn_start","turn":48}
+{"event":"move","pokemon":"Alakazam","move":"Quick Attack"}
+{"event":"damage","target":"Tyranitar","damage":4,"hp_remaining":136}
+{"event":"move","pokemon":"Tyranitar","move":"Ice Beam"}
+{"event":"damage","target":"Alakazam","damage":37,"hp_remaining":26}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":26,"hp_b":136,"turn":48}
+{"event":"turn_start","turn":49}
+{"event":"move","pokemon":"Alakazam","move":"Quick Attack"}
+{"event":"damage","target":"Tyranitar","damage":4,"hp_remaining":132}
+{"event":"move","pokemon":"Tyranitar","move":"Ice Beam"}
+{"event":"damage","target":"Alakazam","damage":35,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Alakazam","in":"Dragonite"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":190,"hp_b":132,"turn":49}
+{"event":"turn_start","turn":50}
+{"event":"move","pokemon":"Dragonite","move":"Quick Attack"}
+{"event":"damage","target":"Tyranitar","damage":9,"hp_remaining":123}
+{"event":"move","pokemon":"Tyranitar","move":"Ice Beam"}
+{"event":"damage","target":"Dragonite","damage":131,"hp_remaining":59}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":59,"hp_b":123,"turn":50}
+{"event":"turn_start","turn":51}
+{"event":"move","pokemon":"Dragonite","move":"Quick Attack"}
+{"event":"damage","target":"Tyranitar","damage":8,"hp_remaining":115}
+{"event":"move","pokemon":"Tyranitar","move":"Ice Beam"}
+{"event":"damage","target":"Dragonite","damage":128,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Dragonite","in":"Jolteon"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":115,"turn":51}
+{"event":"turn_start","turn":52}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"status_inflicted","pokemon":"Tyranitar","status":"BRN"}
+{"event":"move","pokemon":"Tyranitar","move":"Thunder Wave"}
+{"event":"miss","pokemon":"Tyranitar"}
+{"event":"status_damage","pokemon":"Tyranitar","status":"BRN","damage":21}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":94,"turn":52}
+{"event":"turn_start","turn":53}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"miss","pokemon":"Jolteon"}
+{"event":"move","pokemon":"Tyranitar","move":"Thunder Wave"}
+{"event":"status_inflicted","pokemon":"Jolteon","status":"PAR"}
+{"event":"status_damage","pokemon":"Tyranitar","status":"BRN","damage":21}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":73,"turn":53}
+{"event":"turn_start","turn":54}
+{"event":"move","pokemon":"Tyranitar","move":"Thunder Wave"}
+{"event":"paralysis_skip","pokemon":"Jolteon"}
+{"event":"status_damage","pokemon":"Tyranitar","status":"BRN","damage":21}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":52,"turn":54}
+{"event":"turn_start","turn":55}
+{"event":"move","pokemon":"Tyranitar","move":"Thunder Wave"}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"status_damage","pokemon":"Tyranitar","status":"BRN","damage":21}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":31,"turn":55}
+{"event":"turn_start","turn":56}
+{"event":"move","pokemon":"Tyranitar","move":"Thunder Wave"}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"status_damage","pokemon":"Tyranitar","status":"BRN","damage":21}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":10,"turn":56}
+{"event":"turn_start","turn":57}
+{"event":"move","pokemon":"Tyranitar","move":"Thunder Wave"}
+{"event":"paralysis_skip","pokemon":"Jolteon"}
+{"event":"status_damage","pokemon":"Tyranitar","status":"BRN","damage":21}
+{"event":"force_switch","side":"B","out":"Tyranitar","in":"Exeggutor"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":170,"turn":57}
+{"event":"turn_start","turn":58}
+{"event":"switch","side":"B","out":"Exeggutor","in":"Arcanine"}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"status_inflicted","pokemon":"Arcanine","status":"BRN"}
+{"event":"status_damage","pokemon":"Arcanine","status":"BRN","damage":22}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":157,"turn":58}
+{"event":"turn_start","turn":59}
+{"event":"move","pokemon":"Arcanine","move":"Protect"}
+{"event":"protect","pokemon":"Arcanine"}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"status_damage","pokemon":"Arcanine","status":"BRN","damage":22}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":135,"turn":59}
+{"event":"turn_start","turn":60}
+{"event":"move","pokemon":"Arcanine","move":"Protect"}
+{"event":"protect","pokemon":"Arcanine"}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"status_damage","pokemon":"Arcanine","status":"BRN","damage":22}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":113,"turn":60}
+{"event":"turn_start","turn":61}
+{"event":"move","pokemon":"Arcanine","move":"Protect"}
+{"event":"protect","pokemon":"Arcanine"}
+{"event":"paralysis_skip","pokemon":"Jolteon"}
+{"event":"status_damage","pokemon":"Arcanine","status":"BRN","damage":22}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":91,"turn":61}
+{"event":"turn_start","turn":62}
+{"event":"move","pokemon":"Arcanine","move":"Protect"}
+{"event":"protect","pokemon":"Arcanine"}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"status_damage","pokemon":"Arcanine","status":"BRN","damage":22}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":69,"turn":62}
+{"event":"turn_start","turn":63}
+{"event":"move","pokemon":"Arcanine","move":"Protect"}
+{"event":"protect","pokemon":"Arcanine"}
+{"event":"paralysis_skip","pokemon":"Jolteon"}
+{"event":"status_damage","pokemon":"Arcanine","status":"BRN","damage":22}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":47,"turn":63}
+{"event":"turn_start","turn":64}
+{"event":"move","pokemon":"Arcanine","move":"Protect"}
+{"event":"protect","pokemon":"Arcanine"}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"status_damage","pokemon":"Arcanine","status":"BRN","damage":22}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":25,"turn":64}
+{"event":"turn_start","turn":65}
+{"event":"move","pokemon":"Arcanine","move":"Protect"}
+{"event":"protect","pokemon":"Arcanine"}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"status_damage","pokemon":"Arcanine","status":"BRN","damage":22}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":3,"turn":65}
+{"event":"turn_start","turn":66}
+{"event":"move","pokemon":"Arcanine","move":"Protect"}
+{"event":"protect","pokemon":"Arcanine"}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"status_damage","pokemon":"Arcanine","status":"BRN","damage":22}
+{"event":"force_switch","side":"B","out":"Arcanine","in":"Exeggutor"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":170,"turn":66}
+{"event":"turn_start","turn":67}
+{"event":"switch","side":"B","out":"Exeggutor","in":"Snorlax"}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"status_inflicted","pokemon":"Snorlax","status":"BRN"}
+{"event":"status_damage","pokemon":"Snorlax","status":"BRN","damage":29}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":144,"hp_b":209,"turn":67}
+{"event":"turn_start","turn":68}
+{"event":"paralysis_skip","pokemon":"Jolteon"}
+{"event":"move","pokemon":"Snorlax","move":"Thunderbolt"}
+{"event":"damage","target":"Jolteon","damage":18,"hp_remaining":126}
+{"event":"status_damage","pokemon":"Snorlax","status":"BRN","damage":29}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":126,"hp_b":180,"turn":68}
+{"event":"turn_start","turn":69}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"miss","pokemon":"Jolteon"}
+{"event":"move","pokemon":"Snorlax","move":"Thunderbolt"}
+{"event":"damage","target":"Jolteon","damage":19,"hp_remaining":107}
+{"event":"status_damage","pokemon":"Snorlax","status":"BRN","damage":29}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":107,"hp_b":151,"turn":69}
+{"event":"turn_start","turn":70}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"move","pokemon":"Snorlax","move":"Thunderbolt"}
+{"event":"damage","target":"Jolteon","damage":17,"hp_remaining":90}
+{"event":"status_damage","pokemon":"Snorlax","status":"BRN","damage":29}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":90,"hp_b":122,"turn":70}
+{"event":"turn_start","turn":71}
+{"event":"paralysis_skip","pokemon":"Jolteon"}
+{"event":"move","pokemon":"Snorlax","move":"Thunderbolt"}
+{"event":"damage","target":"Jolteon","damage":20,"hp_remaining":70}
+{"event":"status_damage","pokemon":"Snorlax","status":"BRN","damage":29}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":70,"hp_b":93,"turn":71}
+{"event":"turn_start","turn":72}
+{"event":"move","pokemon":"Jolteon","move":"Will-O-Wisp"}
+{"event":"miss","pokemon":"Jolteon"}
+{"event":"move","pokemon":"Snorlax","move":"Thunderbolt"}
+{"event":"damage","target":"Jolteon","damage":18,"hp_remaining":52}
+{"event":"status_damage","pokemon":"Snorlax","status":"BRN","damage":29}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":52,"hp_b":64,"turn":72}
+{"event":"turn_start","turn":73}
+{"event":"move","pokemon":"Jolteon","move":"Tackle"}
+{"event":"damage","target":"Snorlax","damage":15,"hp_remaining":49}
+{"event":"move","pokemon":"Snorlax","move":"Thunderbolt"}
+{"event":"damage","target":"Jolteon","damage":18,"hp_remaining":34}
+{"event":"status_damage","pokemon":"Snorlax","status":"BRN","damage":29}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":34,"hp_b":20,"turn":73}
+{"event":"turn_start","turn":74}
+{"event":"move","pokemon":"Jolteon","move":"Tackle"}
+{"event":"damage","target":"Snorlax","damage":15,"hp_remaining":5}
+{"event":"move","pokemon":"Snorlax","move":"Thunderbolt"}
+{"event":"damage","target":"Jolteon","damage":17,"hp_remaining":17}
+{"event":"status_damage","pokemon":"Snorlax","status":"BRN","damage":29}
+{"event":"force_switch","side":"B","out":"Snorlax","in":"Exeggutor"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":17,"hp_b":170,"turn":74}
+{"event":"turn_start","turn":75}
+{"event":"switch","side":"B","out":"Exeggutor","in":"Alakazam"}
+{"event":"move","pokemon":"Jolteon","move":"Tackle"}
+{"event":"damage","target":"Alakazam","damage":22,"hp_remaining":111}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":17,"hp_b":111,"turn":75}
+{"event":"turn_start","turn":76}
+{"event":"move","pokemon":"Alakazam","move":"Ice Beam"}
+{"event":"damage","target":"Jolteon","damage":43,"hp_remaining":0}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":0,"hp_b":111,"turn":76}
+{"event":"battle_end","winner":"B","team":"Exeggutor side"}

@@ -1,0 +1,41 @@
+# C++ build artifacts
+build/
+*.o
+*.a
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+
+# Runtime / sockets
+*.sock
+
+# SQLite temporary files (WAL, journal, shared memory)
+# Base .db files may be tracked by DB agent
+*.db-journal
+*.db-wal
+*.db-shm

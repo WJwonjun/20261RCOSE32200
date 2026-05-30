@@ -1,0 +1,173 @@
+{
+  "name": "cross_1_1",
+  "members": [
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 197,
+        "atk": 0,
+        "def": 25,
+        "spa": 16,
+        "spd": 171,
+        "spe": 86
+      },
+      "nature": "calm",
+      "moves": [
+        "toxic",
+        "tackle",
+        "will_o_wisp",
+        "quick_attack"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 2,
+        "atk": 0,
+        "def": 158,
+        "spa": 7,
+        "spd": 110,
+        "spe": 205
+      },
+      "nature": "calm",
+      "moves": [
+        "surf",
+        "tackle",
+        "dragon_claw",
+        "will_o_wisp"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 15,
+        "atk": 188,
+        "def": 6,
+        "spa": 220,
+        "spd": 0,
+        "spe": 46
+      },
+      "nature": "calm",
+      "moves": [
+        "flamethrower",
+        "surf",
+        "ice_beam",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "machamp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 37,
+        "atk": 20,
+        "def": 18,
+        "spa": 74,
+        "spd": 121,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "will_o_wisp",
+        "body_slam",
+        "flamethrower",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 182,
+        "atk": 0,
+        "def": 17,
+        "spa": 118,
+        "spd": 123,
+        "spe": 56
+      },
+      "nature": "timid",
+      "moves": [
+        "protect",
+        "toxic",
+        "flamethrower",
+        "will_o_wisp"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 132,
+        "atk": 127,
+        "def": 79,
+        "spa": 18,
+        "spd": 26,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "surf",
+        "dragon_claw",
+        "tackle",
+        "ice_beam"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

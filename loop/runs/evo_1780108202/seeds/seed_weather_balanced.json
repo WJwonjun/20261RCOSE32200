@@ -1,0 +1,173 @@
+{
+  "name": "seed_weather_balanced",
+  "members": [
+    {
+      "species": "politoed",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "nature": "modest",
+      "moves": [
+        "hydro_pump",
+        "ice_beam",
+        "rain_dance",
+        "protect"
+      ],
+      "item": "choice_specs"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "timid",
+      "moves": [
+        "surf",
+        "ice_beam",
+        "psychic",
+        "rapid_spin"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "greninja",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "timid",
+      "moves": [
+        "waterfall",
+        "ice_beam",
+        "dark_pulse",
+        "u_turn"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "adamant",
+      "moves": [
+        "waterfall",
+        "dragon_dance",
+        "crunch",
+        "earthquake"
+      ],
+      "item": "lum_berry"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "adamant",
+      "moves": [
+        "stone_edge",
+        "crunch",
+        "earthquake",
+        "ice_punch"
+      ],
+      "item": "choice_band"
+    },
+    {
+      "species": "skarmory",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "nature": "impish",
+      "moves": [
+        "stealth_rock",
+        "spikes",
+        "roost",
+        "brave_bird"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

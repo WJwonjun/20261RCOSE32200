@@ -1,0 +1,173 @@
+{
+  "name": "gen7_fresh_1",
+  "members": [
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 1,
+        "atk": 186,
+        "def": 202,
+        "spa": 49,
+        "spd": 38,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "body_slam",
+        "toxic",
+        "rest",
+        "flamethrower"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 54,
+        "atk": 96,
+        "def": 32,
+        "spa": 0,
+        "spd": 30,
+        "spe": 214
+      },
+      "nature": "modest",
+      "moves": [
+        "body_slam",
+        "thunder_wave",
+        "crunch",
+        "dragon_claw"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 86,
+        "def": 141,
+        "spa": 37,
+        "spd": 4,
+        "spe": 227
+      },
+      "nature": "jolly",
+      "moves": [
+        "crunch",
+        "body_slam",
+        "ice_beam",
+        "thunder_wave"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 111,
+        "atk": 16,
+        "def": 78,
+        "spa": 136,
+        "spd": 0,
+        "spe": 166
+      },
+      "nature": "adamant",
+      "moves": [
+        "flamethrower",
+        "protect",
+        "dragon_claw",
+        "earthquake"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 25,
+        "atk": 102,
+        "def": 37,
+        "spa": 144,
+        "spd": 168,
+        "spe": 0
+      },
+      "nature": "modest",
+      "moves": [
+        "rest",
+        "thunderbolt",
+        "earthquake",
+        "flamethrower"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 207,
+        "def": 41,
+        "spa": 9,
+        "spd": 211,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "rest",
+        "dragon_claw",
+        "ice_beam",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "name": "cross_1_1",
+  "members": [
+    {
+      "species": "mega_drampa",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 51,
+        "atk": 1,
+        "def": 204,
+        "spa": 0,
+        "spd": 3,
+        "spe": 249
+      },
+      "nature": "mild",
+      "moves": [
+        "safeguard",
+        "grass_knot",
+        "hyper_beam",
+        "earth_power"
+      ],
+      "item": "whipped_dream"
+    },
+    {
+      "species": "espeon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 0,
+        "def": 105,
+        "spa": 90,
+        "spd": 119,
+        "spe": 108
+      },
+      "nature": "quiet",
+      "moves": [
+        "hyper_beam",
+        "endure",
+        "trailblaze",
+        "light_screen"
+      ],
+      "item": "soft_sand"
+    },
+    {
+      "species": "leafeon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 118,
+        "def": 35,
+        "spa": 108,
+        "spd": 71,
+        "spe": 46
+      },
+      "nature": "modest",
+      "moves": [
+        "sleep_talk",
+        "seed_bomb",
+        "bullet_seed",
+        "baton_pass"
+      ],
+      "item": "protector"
+    },
+    {
+      "species": "vanilluxe",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 55,
+        "def": 0,
+        "spa": 111,
+        "spd": 152,
+        "spe": 80
+      },
+      "nature": "adamant",
+      "moves": [
+        "self_destruct",
+        "light_screen",
+        "sleep_talk",
+        "icicle_spear"
+      ],
+      "item": "eevium_z"
+    },
+    {
+      "species": "slurpuff",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 42,
+        "atk": 93,
+        "def": 0,
+        "spa": 242,
+        "spd": 17,
+        "spe": 110
+      },
+      "nature": "calm",
+      "moves": [
+        "thunder",
+        "flamethrower",
+        "cotton_spore",
+        "psychic"
+      ],
+      "item": "solganium_z"
+    },
+    {
+      "species": "hisuian_arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 104,
+        "def": 103,
+        "spa": 83,
+        "spd": 170,
+        "spe": 0
+      },
+      "nature": "lonely",
+      "moves": [
+        "pound"
+      ],
+      "item": "pikanium_z"
+    }
+  ]
+}

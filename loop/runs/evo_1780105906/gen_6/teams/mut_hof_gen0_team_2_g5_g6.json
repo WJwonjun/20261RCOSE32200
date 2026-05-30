@@ -1,0 +1,173 @@
+{
+  "name": "mut_hof_gen0_team_2_g5_g6",
+  "members": [
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 197,
+        "atk": 0,
+        "def": 25,
+        "spa": 16,
+        "spd": 171,
+        "spe": 86
+      },
+      "nature": "calm",
+      "moves": [
+        "crunch",
+        "tackle",
+        "will_o_wisp",
+        "quick_attack"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 2,
+        "atk": 0,
+        "def": 158,
+        "spa": 7,
+        "spd": 110,
+        "spe": 205
+      },
+      "nature": "timid",
+      "moves": [
+        "surf",
+        "toxic",
+        "dragon_claw",
+        "will_o_wisp"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 15,
+        "atk": 188,
+        "def": 6,
+        "spa": 220,
+        "spd": 0,
+        "spe": 46
+      },
+      "nature": "calm",
+      "moves": [
+        "flamethrower",
+        "surf",
+        "rest",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 109,
+        "atk": 0,
+        "def": 136,
+        "spa": 186,
+        "spd": 35,
+        "spe": 14
+      },
+      "nature": "adamant",
+      "moves": [
+        "thunder_wave",
+        "surf",
+        "will_o_wisp",
+        "crunch"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 182,
+        "atk": 0,
+        "def": 17,
+        "spa": 118,
+        "spd": 123,
+        "spe": 56
+      },
+      "nature": "timid",
+      "moves": [
+        "protect",
+        "toxic",
+        "dragon_claw",
+        "will_o_wisp"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 132,
+        "atk": 127,
+        "def": 79,
+        "spa": 18,
+        "spd": 26,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "surf",
+        "dragon_claw",
+        "tackle",
+        "thunderbolt"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

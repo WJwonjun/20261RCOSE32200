@@ -1,0 +1,173 @@
+{
+  "name": "gen1_fresh_0",
+  "members": [
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 6,
+        "def": 64,
+        "spa": 154,
+        "spd": 58,
+        "spe": 23
+      },
+      "nature": "timid",
+      "moves": [
+        "will_o_wisp",
+        "ice_beam",
+        "protect",
+        "dragon_claw"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 35,
+        "atk": 166,
+        "def": 0,
+        "spa": 113,
+        "spd": 11,
+        "spe": 132
+      },
+      "nature": "adamant",
+      "moves": [
+        "body_slam",
+        "crunch",
+        "quick_attack",
+        "dragon_claw"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 41,
+        "atk": 84,
+        "def": 0,
+        "spa": 44,
+        "spd": 219,
+        "spe": 105
+      },
+      "nature": "adamant",
+      "moves": [
+        "quick_attack",
+        "will_o_wisp",
+        "body_slam",
+        "thunder_wave"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "salamence",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 248,
+        "def": 29,
+        "spa": 32,
+        "spd": 82,
+        "spe": 103
+      },
+      "nature": "hardy",
+      "moves": [
+        "thunder_wave",
+        "ice_beam",
+        "body_slam",
+        "will_o_wisp"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 13,
+        "def": 3,
+        "spa": 194,
+        "spd": 113,
+        "spe": 160
+      },
+      "nature": "timid",
+      "moves": [
+        "crunch",
+        "tackle",
+        "body_slam",
+        "protect"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 1,
+        "atk": 181,
+        "def": 79,
+        "spa": 0,
+        "spd": 141,
+        "spe": 40
+      },
+      "nature": "timid",
+      "moves": [
+        "ice_beam",
+        "protect",
+        "surf",
+        "rest"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

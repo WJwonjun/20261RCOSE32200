@@ -1,0 +1,65 @@
+{
+  "name": "Quick_Attack_Spam",
+  "members": [
+    {
+      "species": "Ambipom",
+      "moves": [
+        "Fake Out",
+        "Quick Attack",
+        "Return",
+        "Low Kick"
+      ],
+      "held_item": "Choice Band"
+    },
+    {
+      "species": "Weavile",
+      "moves": [
+        "Ice Shard",
+        "Quick Attack",
+        "Night Slash",
+        "Ice Punch"
+      ],
+      "held_item": "Life Orb"
+    },
+    {
+      "species": "Talonflame",
+      "moves": [
+        "Brave Bird",
+        "Flare Blitz",
+        "Quick Attack",
+        "U-turn"
+      ],
+      "held_item": "Choice Band"
+    },
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Extreme Speed",
+        "Flare Blitz",
+        "Wild Charge",
+        "Close Combat"
+      ],
+      "held_item": "Life Orb"
+    },
+    {
+      "species": "Togekiss",
+      "moves": [
+        "Extreme Speed",
+        "Air Slash",
+        "Dazzling Gleam",
+        "Roost"
+      ],
+      "held_item": "Leftovers"
+    },
+    {
+      "species": "Lucario",
+      "moves": [
+        "Extreme Speed",
+        "Bullet Punch",
+        "Close Combat",
+        "Iron Tail"
+      ],
+      "held_item": "Choice Band"
+    }
+  ]
+}

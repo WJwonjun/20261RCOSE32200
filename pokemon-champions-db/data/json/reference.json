@@ -1,0 +1,54 @@
+{
+ "level": {
+  "value_en": "All Pokémon fixed at Level 50",
+  "value_ko": "모든 포켓몬 레벨 50 고정"
+ },
+ "ivs": {
+  "value_en": "All IVs fixed at 31",
+  "value_ko": "모든 개체값(IV) 31 고정"
+ },
+ "sp_total": {
+  "value_en": "66 Stat Points total",
+  "value_ko": "스탯 포인트(SP) 총 66"
+ },
+ "sp_per_stat_max": {
+  "value_en": "Max 32 SP per stat",
+  "value_ko": "스탯당 최대 32 SP"
+ },
+ "sp_ratio": {
+  "value_en": "1 SP = +1 actual stat at Lv50",
+  "value_ko": "1 SP = 실수치 +1 (Lv50)"
+ },
+ "vp_move": {
+  "value_en": "250 VP per move change",
+  "value_ko": "기술 변경 250 VP (개당)"
+ },
+ "vp_ability": {
+  "value_en": "500 VP per ability change (incl. Hidden)",
+  "value_ko": "특성 변경 500 VP (숨겨진 특성 포함)"
+ },
+ "vp_nature": {
+  "value_en": "500 VP per nature (Stat Alignment) change",
+  "value_ko": "성격(스탯 얼라인먼트) 변경 500 VP"
+ },
+ "vp_sp": {
+  "value_en": "5 VP per Stat Point",
+  "value_ko": "스탯 포인트당 5 VP"
+ },
+ "format_single": {
+  "value_en": "Single Battle: bring 6, select 3",
+  "value_ko": "싱글 배틀: 6마리 중 3마리 선출"
+ },
+ "format_double": {
+  "value_en": "Double Battle: bring 6, select 4",
+  "value_ko": "더블 배틀: 6마리 중 4마리 선출"
+ },
+ "gimmick": {
+  "value_en": "Mega Evolution active; Terastallization planned",
+  "value_ko": "메가진화 활성, 테라스탈 예정"
+ },
+ "regulation": {
+  "value_en": "Regulation M-A (as of data snapshot)",
+  "value_ko": "레귤레이션 M-A 기준"
+ }
+}

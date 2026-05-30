@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_5",
+  "members": [
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 240,
+        "atk": 7,
+        "def": 0,
+        "spa": 224,
+        "spd": 4,
+        "spe": 29
+      },
+      "nature": "hardy",
+      "moves": [
+        "will_o_wisp",
+        "toxic",
+        "ice_beam",
+        "thunderbolt"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 230,
+        "atk": 147,
+        "def": 8,
+        "spa": 0,
+        "spd": 12,
+        "spe": 98
+      },
+      "nature": "adamant",
+      "moves": [
+        "surf",
+        "quick_attack",
+        "ice_beam",
+        "tackle"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "rhydon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 170,
+        "atk": 10,
+        "def": 39,
+        "spa": 242,
+        "spd": 42,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "tackle",
+        "flamethrower",
+        "will_o_wisp",
+        "rest"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 141,
+        "atk": 49,
+        "def": 0,
+        "spa": 170,
+        "spd": 32,
+        "spe": 107
+      },
+      "nature": "jolly",
+      "moves": [
+        "body_slam",
+        "crunch",
+        "thunderbolt",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 82,
+        "atk": 201,
+        "def": 0,
+        "spa": 29,
+        "spd": 53,
+        "spe": 110
+      },
+      "nature": "bold",
+      "moves": [
+        "will_o_wisp",
+        "body_slam",
+        "flamethrower",
+        "surf"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 15,
+        "atk": 9,
+        "def": 209,
+        "spa": 23,
+        "spd": 243,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "thunder_wave",
+        "rest",
+        "body_slam",
+        "earthquake"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

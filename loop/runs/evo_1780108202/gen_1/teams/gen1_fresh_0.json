@@ -1,0 +1,170 @@
+{
+  "name": "gen1_fresh_0",
+  "members": [
+    {
+      "species": "hisuian_samurott",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 109,
+        "atk": 0,
+        "def": 197,
+        "spa": 0,
+        "spd": 0,
+        "spe": 202
+      },
+      "nature": "relaxed",
+      "moves": [
+        "pound"
+      ],
+      "item": "flame_plate"
+    },
+    {
+      "species": "mudsdale",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 123,
+        "def": 70,
+        "spa": 85,
+        "spd": 137,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "payback",
+        "low_kick",
+        "round",
+        "hyper_beam"
+      ],
+      "item": "mint_berry"
+    },
+    {
+      "species": "espathra",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 190,
+        "atk": 90,
+        "def": 11,
+        "spa": 121,
+        "spd": 81,
+        "spe": 0
+      },
+      "nature": "lonely",
+      "moves": [
+        "stored_power",
+        "psych_up",
+        "hypnosis",
+        "mud_slap"
+      ],
+      "item": "groundium_z"
+    },
+    {
+      "species": "garganacl",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 1,
+        "atk": 28,
+        "def": 223,
+        "spa": 0,
+        "spd": 222,
+        "spe": 25
+      },
+      "nature": "timid",
+      "moves": [
+        "thunder_punch",
+        "hard_press",
+        "salt_cure",
+        "sunny_day"
+      ],
+      "item": "focus_band"
+    },
+    {
+      "species": "weavile",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 218,
+        "def": 42,
+        "spa": 54,
+        "spd": 20,
+        "spe": 166
+      },
+      "nature": "naive",
+      "moves": [
+        "trailblaze",
+        "snowscape",
+        "agility",
+        "fake_tears"
+      ],
+      "item": "fossilized_dino"
+    },
+    {
+      "species": "wyrdeer",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 125,
+        "atk": 191,
+        "def": 58,
+        "spa": 23,
+        "spd": 0,
+        "spe": 111
+      },
+      "nature": "lonely",
+      "moves": [
+        "sleep_talk",
+        "thunderbolt",
+        "psyshock",
+        "hypnosis"
+      ],
+      "item": "tr58"
+    }
+  ]
+}

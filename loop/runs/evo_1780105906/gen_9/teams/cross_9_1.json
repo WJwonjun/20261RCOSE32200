@@ -1,0 +1,173 @@
+{
+  "name": "cross_9_1",
+  "members": [
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 203,
+        "atk": 4,
+        "def": 0,
+        "spa": 8,
+        "spd": 218,
+        "spe": 33
+      },
+      "nature": "modest",
+      "moves": [
+        "ice_beam",
+        "dragon_claw",
+        "thunderbolt",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 140,
+        "atk": 0,
+        "def": 157,
+        "spa": 58,
+        "spd": 91,
+        "spe": 62
+      },
+      "nature": "modest",
+      "moves": [
+        "dragon_claw",
+        "rest",
+        "quick_attack",
+        "toxic"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 15,
+        "atk": 188,
+        "def": 6,
+        "spa": 220,
+        "spd": 0,
+        "spe": 46
+      },
+      "nature": "calm",
+      "moves": [
+        "protect",
+        "surf",
+        "rest",
+        "quick_attack"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 109,
+        "atk": 0,
+        "def": 136,
+        "spa": 186,
+        "spd": 35,
+        "spe": 14
+      },
+      "nature": "adamant",
+      "moves": [
+        "thunder_wave",
+        "surf",
+        "will_o_wisp",
+        "crunch"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 182,
+        "atk": 0,
+        "def": 17,
+        "spa": 118,
+        "spd": 123,
+        "spe": 56
+      },
+      "nature": "timid",
+      "moves": [
+        "ice_beam",
+        "tackle",
+        "dragon_claw",
+        "will_o_wisp"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 132,
+        "atk": 127,
+        "def": 79,
+        "spa": 18,
+        "spd": 26,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "surf",
+        "dragon_claw",
+        "tackle",
+        "thunderbolt"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "gen8_fresh_1",
+  "members": [
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 144,
+        "atk": 73,
+        "def": 0,
+        "spa": 123,
+        "spd": 105,
+        "spe": 55
+      },
+      "nature": "hardy",
+      "moves": [
+        "thunderbolt",
+        "tackle",
+        "toxic",
+        "dragon_claw"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "machamp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 37,
+        "atk": 171,
+        "def": 205,
+        "spa": 0,
+        "spd": 76,
+        "spe": 8
+      },
+      "nature": "calm",
+      "moves": [
+        "surf",
+        "protect",
+        "will_o_wisp",
+        "ice_beam"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 85,
+        "atk": 65,
+        "def": 128,
+        "spa": 172,
+        "spd": 2,
+        "spe": 0
+      },
+      "nature": "modest",
+      "moves": [
+        "rest",
+        "quick_attack",
+        "thunderbolt",
+        "surf"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 184,
+        "def": 163,
+        "spa": 114,
+        "spd": 3,
+        "spe": 0
+      },
+      "nature": "timid",
+      "moves": [
+        "toxic",
+        "flamethrower",
+        "thunder_wave",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 162,
+        "atk": 181,
+        "def": 89,
+        "spa": 0,
+        "spd": 66,
+        "spe": 0
+      },
+      "nature": "hardy",
+      "moves": [
+        "protect",
+        "body_slam",
+        "flamethrower",
+        "earthquake"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 134,
+        "atk": 56,
+        "def": 5,
+        "spa": 97,
+        "spd": 0,
+        "spe": 204
+      },
+      "nature": "modest",
+      "moves": [
+        "crunch",
+        "body_slam",
+        "quick_attack",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

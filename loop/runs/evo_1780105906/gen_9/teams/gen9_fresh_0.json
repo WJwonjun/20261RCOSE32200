@@ -1,0 +1,173 @@
+{
+  "name": "gen9_fresh_0",
+  "members": [
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 212,
+        "def": 12,
+        "spa": 54,
+        "spd": 0,
+        "spe": 225
+      },
+      "nature": "jolly",
+      "moves": [
+        "rest",
+        "surf",
+        "tackle",
+        "dragon_claw"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 66,
+        "atk": 49,
+        "def": 104,
+        "spa": 0,
+        "spd": 157,
+        "spe": 9
+      },
+      "nature": "modest",
+      "moves": [
+        "will_o_wisp",
+        "toxic",
+        "tackle",
+        "flamethrower"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 148,
+        "atk": 28,
+        "def": 18,
+        "spa": 0,
+        "spd": 155,
+        "spe": 25
+      },
+      "nature": "modest",
+      "moves": [
+        "will_o_wisp",
+        "rest",
+        "ice_beam",
+        "tackle"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 67,
+        "atk": 0,
+        "def": 60,
+        "spa": 143,
+        "spd": 167,
+        "spe": 5
+      },
+      "nature": "modest",
+      "moves": [
+        "tackle",
+        "dragon_claw",
+        "protect",
+        "crunch"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 41,
+        "def": 197,
+        "spa": 14,
+        "spd": 113,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "will_o_wisp",
+        "crunch",
+        "rest",
+        "surf"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 23,
+        "atk": 59,
+        "def": 166,
+        "spa": 0,
+        "spd": 11,
+        "spe": 246
+      },
+      "nature": "hardy",
+      "moves": [
+        "thunderbolt",
+        "thunder_wave",
+        "body_slam",
+        "ice_beam"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

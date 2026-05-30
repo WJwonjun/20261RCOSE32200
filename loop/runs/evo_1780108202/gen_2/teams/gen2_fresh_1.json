@@ -1,0 +1,173 @@
+{
+  "name": "gen2_fresh_1",
+  "members": [
+    {
+      "species": "mega_chandelure",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 102,
+        "atk": 150,
+        "def": 67,
+        "spa": 111,
+        "spd": 62,
+        "spe": 0
+      },
+      "nature": "serious",
+      "moves": [
+        "minimize",
+        "burning_jealousy",
+        "hyper_beam",
+        "facade"
+      ],
+      "item": "tr30"
+    },
+    {
+      "species": "drampa",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 11,
+        "atk": 0,
+        "def": 44,
+        "spa": 198,
+        "spd": 22,
+        "spe": 231
+      },
+      "nature": "impish",
+      "moves": [
+        "dragon_dance",
+        "snarl",
+        "protect",
+        "roost"
+      ],
+      "item": "power_weight"
+    },
+    {
+      "species": "toucannon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 194,
+        "atk": 11,
+        "def": 0,
+        "spa": 194,
+        "spd": 4,
+        "spe": 83
+      },
+      "nature": "calm",
+      "moves": [
+        "uproar",
+        "smack_down",
+        "bullet_seed",
+        "facade"
+      ],
+      "item": "float_stone"
+    },
+    {
+      "species": "araquanid",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 38,
+        "atk": 112,
+        "def": 120,
+        "spa": 17,
+        "spd": 113,
+        "spe": 0
+      },
+      "nature": "sassy",
+      "moves": [
+        "wonder_room",
+        "spit_up",
+        "rain_dance",
+        "power_split"
+      ],
+      "item": "tr18"
+    },
+    {
+      "species": "mega_audino",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 73,
+        "atk": 94,
+        "def": 0,
+        "spa": 82,
+        "spd": 19,
+        "spe": 212
+      },
+      "nature": "rash",
+      "moves": [
+        "misty_terrain",
+        "light_screen",
+        "calm_mind",
+        "round"
+      ],
+      "item": "clover_sweet"
+    },
+    {
+      "species": "mega_ampharos",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 82,
+        "def": 121,
+        "spa": 128,
+        "spd": 154,
+        "spe": 0
+      },
+      "nature": "sassy",
+      "moves": [
+        "cotton_spore",
+        "volt_switch",
+        "roar",
+        "thunder"
+      ],
+      "item": "waterium_z"
+    }
+  ]
+}

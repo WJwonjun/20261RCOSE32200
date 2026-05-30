@@ -1,0 +1,170 @@
+{
+  "name": "cross_3_0",
+  "members": [
+    {
+      "species": "kleavor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 39,
+        "atk": 0,
+        "def": 28,
+        "spa": 160,
+        "spd": 10,
+        "spe": 220
+      },
+      "nature": "mild",
+      "moves": [
+        "substitute",
+        "helping_hand",
+        "night_slash",
+        "light_screen"
+      ],
+      "item": "kebia_berry"
+    },
+    {
+      "species": "mega_skarmory",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 141,
+        "def": 110,
+        "spa": 0,
+        "spd": 1,
+        "spe": 0
+      },
+      "nature": "brave",
+      "moves": [
+        "x_scissor",
+        "substitute",
+        "rest",
+        "snore"
+      ],
+      "item": "scolipite"
+    },
+    {
+      "species": "hisuian_arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 240,
+        "def": 16,
+        "spa": 8,
+        "spd": 3,
+        "spe": 224
+      },
+      "nature": "careful",
+      "moves": [
+        "pound"
+      ],
+      "item": "tamato_berry"
+    },
+    {
+      "species": "vanilluxe",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 55,
+        "def": 0,
+        "spa": 111,
+        "spd": 152,
+        "spe": 80
+      },
+      "nature": "adamant",
+      "moves": [
+        "self_destruct",
+        "light_screen",
+        "ally_switch",
+        "iron_defense"
+      ],
+      "item": "eevium_z"
+    },
+    {
+      "species": "salazzle",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 33,
+        "atk": 85,
+        "def": 163,
+        "spa": 8,
+        "spd": 197,
+        "spe": 0
+      },
+      "nature": "rash",
+      "moves": [
+        "body_slam",
+        "hyper_beam",
+        "toxic",
+        "heat_wave"
+      ],
+      "item": "leaf_stone"
+    },
+    {
+      "species": "rotom",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 102,
+        "atk": 182,
+        "def": 79,
+        "spa": 95,
+        "spd": 0,
+        "spe": 28
+      },
+      "nature": "impish",
+      "moves": [
+        "electro_ball",
+        "overheat",
+        "spite",
+        "thunder"
+      ],
+      "item": "tr06"
+    }
+  ]
+}

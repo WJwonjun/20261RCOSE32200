@@ -1,0 +1,173 @@
+{
+  "name": "gen8_fresh_0",
+  "members": [
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 151,
+        "atk": 0,
+        "def": 34,
+        "spa": 5,
+        "spd": 198,
+        "spe": 115
+      },
+      "nature": "jolly",
+      "moves": [
+        "thunder_wave",
+        "toxic",
+        "ice_beam",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "rhydon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 115,
+        "atk": 0,
+        "def": 28,
+        "spa": 159,
+        "spd": 28,
+        "spe": 102
+      },
+      "nature": "hardy",
+      "moves": [
+        "earthquake",
+        "tackle",
+        "will_o_wisp",
+        "protect"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 235,
+        "def": 5,
+        "spa": 198,
+        "spd": 53,
+        "spe": 17
+      },
+      "nature": "adamant",
+      "moves": [
+        "surf",
+        "quick_attack",
+        "thunder_wave",
+        "earthquake"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 58,
+        "atk": 69,
+        "def": 112,
+        "spa": 37,
+        "spd": 0,
+        "spe": 162
+      },
+      "nature": "jolly",
+      "moves": [
+        "tackle",
+        "dragon_claw",
+        "flamethrower",
+        "protect"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 26,
+        "atk": 102,
+        "def": 97,
+        "spa": 0,
+        "spd": 116,
+        "spe": 121
+      },
+      "nature": "bold",
+      "moves": [
+        "toxic",
+        "thunder_wave",
+        "dragon_claw",
+        "crunch"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 238,
+        "atk": 48,
+        "def": 65,
+        "spa": 0,
+        "spd": 8,
+        "spe": 67
+      },
+      "nature": "modest",
+      "moves": [
+        "tackle",
+        "surf",
+        "thunder_wave",
+        "dragon_claw"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

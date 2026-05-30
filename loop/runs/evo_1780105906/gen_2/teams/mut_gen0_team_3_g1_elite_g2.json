@@ -1,0 +1,173 @@
+{
+  "name": "mut_gen0_team_3_g1_elite_g2",
+  "members": [
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 203,
+        "atk": 4,
+        "def": 0,
+        "spa": 8,
+        "spd": 218,
+        "spe": 33
+      },
+      "nature": "timid",
+      "moves": [
+        "ice_beam",
+        "toxic",
+        "thunderbolt",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 243,
+        "atk": 6,
+        "def": 113,
+        "spa": 1,
+        "spd": 0,
+        "spe": 125
+      },
+      "nature": "jolly",
+      "moves": [
+        "flamethrower",
+        "body_slam",
+        "crunch",
+        "earthquake"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 112,
+        "atk": 111,
+        "def": 24,
+        "spa": 72,
+        "spd": 56,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "thunderbolt",
+        "will_o_wisp",
+        "earthquake",
+        "rest"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 243,
+        "def": 5,
+        "spa": 191,
+        "spd": 0,
+        "spe": 35
+      },
+      "nature": "hardy",
+      "moves": [
+        "flamethrower",
+        "body_slam",
+        "crunch",
+        "quick_attack"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 241,
+        "atk": 0,
+        "def": 28,
+        "spa": 33,
+        "spd": 111,
+        "spe": 94
+      },
+      "nature": "adamant",
+      "moves": [
+        "ice_beam",
+        "toxic",
+        "flamethrower",
+        "body_slam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 188,
+        "atk": 7,
+        "def": 154,
+        "spa": 0,
+        "spd": 9,
+        "spe": 130
+      },
+      "nature": "jolly",
+      "moves": [
+        "ice_beam",
+        "flamethrower",
+        "dragon_claw",
+        "surf"
+      ],
+      "item": "none"
+    }
+  ]
+}

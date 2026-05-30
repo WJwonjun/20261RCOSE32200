@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_0",
+  "members": [
+    {
+      "species": "ampharos",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 13,
+        "atk": 0,
+        "def": 139,
+        "spa": 166,
+        "spd": 183,
+        "spe": 3
+      },
+      "nature": "adamant",
+      "moves": [
+        "dig",
+        "cotton_spore",
+        "snore",
+        "brick_break"
+      ],
+      "item": "delphoxite"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 245,
+        "atk": 195,
+        "def": 5,
+        "spa": 1,
+        "spd": 55,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "knock_off",
+        "reflect",
+        "endure",
+        "thunderbolt"
+      ],
+      "item": "full_incense"
+    },
+    {
+      "species": "watchog",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 212,
+        "def": 141,
+        "spa": 0,
+        "spd": 75,
+        "spe": 80
+      },
+      "nature": "mild",
+      "moves": [
+        "bullet_seed",
+        "ice_punch",
+        "confuse_ray",
+        "hyper_beam"
+      ],
+      "item": "master_ball"
+    },
+    {
+      "species": "rhyperior",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 97,
+        "atk": 58,
+        "def": 71,
+        "spa": 25,
+        "spd": 221,
+        "spe": 0
+      },
+      "nature": "brave",
+      "moves": [
+        "sunny_day",
+        "iron_tail",
+        "smart_strike",
+        "fire_punch"
+      ],
+      "item": "bottle_cap"
+    },
+    {
+      "species": "mega_lopunny",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 163,
+        "atk": 69,
+        "def": 97,
+        "spa": 41,
+        "spd": 118,
+        "spe": 0
+      },
+      "nature": "hasty",
+      "moves": [
+        "mach_punch",
+        "draining_kiss",
+        "mega_kick",
+        "low_sweep"
+      ],
+      "item": "meadow_plate"
+    },
+    {
+      "species": "mega_heracross",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 101,
+        "atk": 167,
+        "def": 56,
+        "spa": 0,
+        "spd": 54,
+        "spe": 127
+      },
+      "nature": "bold",
+      "moves": [
+        "helping_hand",
+        "rest",
+        "bulk_up",
+        "high_horsepower"
+      ],
+      "item": "pinap_berry"
+    }
+  ]
+}

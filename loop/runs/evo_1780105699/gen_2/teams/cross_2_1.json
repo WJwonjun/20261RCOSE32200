@@ -1,0 +1,173 @@
+{
+  "name": "cross_2_1",
+  "members": [
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 158,
+        "atk": 120,
+        "def": 143,
+        "spa": 41,
+        "spd": 0,
+        "spe": 6
+      },
+      "nature": "calm",
+      "moves": [
+        "thunder_wave",
+        "toxic",
+        "body_slam",
+        "flamethrower"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 171,
+        "atk": 1,
+        "def": 243,
+        "spa": 4,
+        "spd": 0,
+        "spe": 89
+      },
+      "nature": "adamant",
+      "moves": [
+        "tackle",
+        "ice_beam",
+        "thunder_wave",
+        "thunderbolt"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 88,
+        "def": 216,
+        "spa": 16,
+        "spd": 154,
+        "spe": 2
+      },
+      "nature": "modest",
+      "moves": [
+        "will_o_wisp",
+        "toxic",
+        "ice_beam",
+        "surf"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 40,
+        "def": 184,
+        "spa": 111,
+        "spd": 0,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "crunch",
+        "tackle",
+        "body_slam",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 138,
+        "atk": 39,
+        "def": 41,
+        "spa": 195,
+        "spd": 0,
+        "spe": 95
+      },
+      "nature": "hardy",
+      "moves": [
+        "rest",
+        "flamethrower",
+        "ice_beam",
+        "protect"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 236,
+        "atk": 22,
+        "def": 97,
+        "spa": 69,
+        "spd": 81,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "earthquake",
+        "flamethrower",
+        "body_slam",
+        "dragon_claw"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

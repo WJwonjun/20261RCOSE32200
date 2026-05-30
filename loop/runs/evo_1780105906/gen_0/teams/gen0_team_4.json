@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_4",
+  "members": [
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 22,
+        "def": 0,
+        "spa": 142,
+        "spd": 75,
+        "spe": 71
+      },
+      "nature": "hardy",
+      "moves": [
+        "ice_beam",
+        "body_slam",
+        "quick_attack",
+        "thunder_wave"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 53,
+        "def": 51,
+        "spa": 171,
+        "spd": 23,
+        "spe": 129
+      },
+      "nature": "calm",
+      "moves": [
+        "protect",
+        "rest",
+        "surf",
+        "quick_attack"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 237,
+        "atk": 6,
+        "def": 195,
+        "spa": 0,
+        "spd": 44,
+        "spe": 1
+      },
+      "nature": "calm",
+      "moves": [
+        "surf",
+        "dragon_claw",
+        "body_slam",
+        "rest"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 101,
+        "atk": 0,
+        "def": 222,
+        "spa": 3,
+        "spd": 152,
+        "spe": 26
+      },
+      "nature": "calm",
+      "moves": [
+        "thunder_wave",
+        "will_o_wisp",
+        "toxic",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 3,
+        "atk": 181,
+        "def": 215,
+        "spa": 0,
+        "spd": 39,
+        "spe": 20
+      },
+      "nature": "bold",
+      "moves": [
+        "crunch",
+        "thunderbolt",
+        "body_slam",
+        "protect"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "machamp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 143,
+        "atk": 0,
+        "def": 171,
+        "spa": 71,
+        "spd": 8,
+        "spe": 44
+      },
+      "nature": "jolly",
+      "moves": [
+        "will_o_wisp",
+        "protect",
+        "body_slam",
+        "flamethrower"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

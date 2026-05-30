@@ -1,0 +1,173 @@
+{
+  "name": "gen4_fresh_0",
+  "members": [
+    {
+      "species": "houndoom",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 150,
+        "atk": 157,
+        "def": 0,
+        "spa": 189,
+        "spd": 3,
+        "spe": 3
+      },
+      "nature": "hasty",
+      "moves": [
+        "swagger",
+        "nasty_plot",
+        "thunder_fang",
+        "inferno"
+      ],
+      "item": "toxic_orb"
+    },
+    {
+      "species": "mega_audino",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 140,
+        "atk": 1,
+        "def": 1,
+        "spa": 0,
+        "spd": 246,
+        "spe": 118
+      },
+      "nature": "bold",
+      "moves": [
+        "body_slam",
+        "yawn",
+        "hyper_voice",
+        "ice_beam"
+      ],
+      "item": "dragalgite"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 165,
+        "atk": 83,
+        "def": 11,
+        "spa": 15,
+        "spd": 232,
+        "spe": 0
+      },
+      "nature": "quiet",
+      "moves": [
+        "light_screen",
+        "round",
+        "zen_headbutt",
+        "trick"
+      ],
+      "item": "tr47"
+    },
+    {
+      "species": "audino",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 9,
+        "def": 224,
+        "spa": 145,
+        "spd": 76,
+        "spe": 2
+      },
+      "nature": "naive",
+      "moves": [
+        "ice_beam",
+        "zen_headbutt",
+        "baby_doll_eyes",
+        "giga_impact"
+      ],
+      "item": "golurkite"
+    },
+    {
+      "species": "mega_gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 69,
+        "atk": 28,
+        "def": 207,
+        "spa": 84,
+        "spd": 0,
+        "spe": 49
+      },
+      "nature": "timid",
+      "moves": [
+        "dragon_cheer",
+        "rest",
+        "muddy_water",
+        "temper_flare"
+      ],
+      "item": "ultranecrozium_z"
+    },
+    {
+      "species": "floette",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 131,
+        "atk": 20,
+        "def": 0,
+        "spa": 109,
+        "spd": 5,
+        "spe": 211
+      },
+      "nature": "adamant",
+      "moves": [
+        "energy_ball",
+        "seed_bomb",
+        "hyper_beam",
+        "facade"
+      ],
+      "item": "prism_scale"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Trick_Room_Slow",
+  "members": [
+    {
+      "species": "Reuniclus",
+      "moves": [
+        "Psychic",
+        "Shadow Ball",
+        "Focus Blast",
+        "Recover"
+      ],
+      "held_item": "Life Orb"
+    },
+    {
+      "species": "Snorlax",
+      "moves": [
+        "Body Slam",
+        "Earthquake",
+        "Crunch",
+        "Self-Destruct"
+      ],
+      "held_item": "Leftovers"
+    },
+    {
+      "species": "Rhyperior",
+      "moves": [
+        "Earthquake",
+        "Stone Edge",
+        "Rock Blast",
+        "Megahorn"
+      ],
+      "held_item": "Assault Vest"
+    },
+    {
+      "species": "Conkeldurr",
+      "moves": [
+        "Drain Punch",
+        "Mach Punch",
+        "Ice Punch",
+        "Stone Edge"
+      ],
+      "held_item": "Life Orb"
+    },
+    {
+      "species": "Escavalier",
+      "moves": [
+        "Megahorn",
+        "Iron Head",
+        "Return",
+        "Knock Off"
+      ],
+      "held_item": "Choice Band"
+    },
+    {
+      "species": "Slowbro",
+      "moves": [
+        "Scald",
+        "Psychic",
+        "Fire Blast",
+        "Slack Off"
+      ],
+      "held_item": "Leftovers"
+    }
+  ]
+}

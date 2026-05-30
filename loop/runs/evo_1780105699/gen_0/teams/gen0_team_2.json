@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_2",
+  "members": [
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 102,
+        "atk": 182,
+        "def": 0,
+        "spa": 95,
+        "spd": 28,
+        "spe": 79
+      },
+      "nature": "bold",
+      "moves": [
+        "surf",
+        "rest",
+        "body_slam",
+        "thunder_wave"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 150,
+        "def": 181,
+        "spa": 56,
+        "spd": 1,
+        "spe": 18
+      },
+      "nature": "modest",
+      "moves": [
+        "rest",
+        "protect",
+        "thunder_wave",
+        "thunderbolt"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 185,
+        "def": 138,
+        "spa": 33,
+        "spd": 73,
+        "spe": 54
+      },
+      "nature": "adamant",
+      "moves": [
+        "body_slam",
+        "tackle",
+        "earthquake",
+        "thunderbolt"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 0,
+        "def": 105,
+        "spa": 90,
+        "spd": 119,
+        "spe": 108
+      },
+      "nature": "hardy",
+      "moves": [
+        "quick_attack",
+        "thunder_wave",
+        "earthquake",
+        "crunch"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 35,
+        "atk": 48,
+        "def": 108,
+        "spa": 114,
+        "spd": 137,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "body_slam",
+        "rest",
+        "crunch",
+        "thunderbolt"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 248,
+        "def": 23,
+        "spa": 0,
+        "spd": 0,
+        "spe": 237
+      },
+      "nature": "hardy",
+      "moves": [
+        "surf",
+        "ice_beam",
+        "thunder_wave",
+        "earthquake"
+      ],
+      "item": "none"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "name": "gen1_fresh_1",
+  "members": [
+    {
+      "species": "meganium",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 46,
+        "atk": 43,
+        "def": 0,
+        "spa": 22,
+        "spd": 174,
+        "spe": 144
+      },
+      "nature": "lax",
+      "moves": [
+        "body_slam",
+        "frenzy_plant",
+        "solar_beam",
+        "bulldoze"
+      ],
+      "item": "red_card"
+    },
+    {
+      "species": "mega_meganium",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 117,
+        "atk": 65,
+        "def": 163,
+        "spa": 0,
+        "spd": 85,
+        "spe": 65
+      },
+      "nature": "serious",
+      "moves": [
+        "charm",
+        "petal_dance",
+        "sweet_scent",
+        "grassy_glide"
+      ],
+      "item": "love_sweet"
+    },
+    {
+      "species": "hatterene",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 1,
+        "atk": 0,
+        "def": 246,
+        "spa": 44,
+        "spd": 163,
+        "spe": 54
+      },
+      "nature": "lax",
+      "moves": [
+        "after_you",
+        "trick_room",
+        "snore",
+        "mystical_fire"
+      ],
+      "item": "utility_umbrella"
+    },
+    {
+      "species": "medicham",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 179,
+        "atk": 0,
+        "def": 212,
+        "spa": 25,
+        "spd": 5,
+        "spe": 75
+      },
+      "nature": "quiet",
+      "moves": [
+        "rock_slide",
+        "low_kick",
+        "fling",
+        "psychic_terrain"
+      ],
+      "item": "drampanite"
+    },
+    {
+      "species": "garbodor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 173,
+        "atk": 4,
+        "def": 0,
+        "spa": 64,
+        "spd": 158,
+        "spe": 96
+      },
+      "nature": "bold",
+      "moves": [
+        "focus_blast",
+        "acid_spray",
+        "self_destruct",
+        "stockpile"
+      ],
+      "item": "tr67"
+    },
+    {
+      "species": "alolan_raichu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 11,
+        "atk": 187,
+        "def": 16,
+        "spa": 148,
+        "spd": 93,
+        "spe": 0
+      },
+      "nature": "timid",
+      "moves": [
+        "pound"
+      ],
+      "item": "dome_fossil"
+    }
+  ]
+}

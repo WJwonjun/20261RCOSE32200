@@ -1,0 +1,65 @@
+{
+  "name": "Hyper_Offense",
+  "members": [
+    {
+      "species": "Garchomp",
+      "moves": [
+        "Earthquake",
+        "Dragon Claw",
+        "Stone Edge",
+        "Fire Fang"
+      ],
+      "held_item": "Choice Band"
+    },
+    {
+      "species": "Lucario",
+      "moves": [
+        "Close Combat",
+        "Iron Tail",
+        "Extreme Speed",
+        "Crunch"
+      ],
+      "held_item": "Life Orb"
+    },
+    {
+      "species": "Gyarados",
+      "moves": [
+        "Waterfall",
+        "Earthquake",
+        "Ice Fang",
+        "Dragon Dance"
+      ],
+      "held_item": "Lum Berry"
+    },
+    {
+      "species": "Weavile",
+      "moves": [
+        "Ice Punch",
+        "Night Slash",
+        "Low Kick",
+        "Pursuit"
+      ],
+      "held_item": "Choice Band"
+    },
+    {
+      "species": "Salamence",
+      "moves": [
+        "Outrage",
+        "Earthquake",
+        "Fire Blast",
+        "Dragon Dance"
+      ],
+      "held_item": "Life Orb"
+    },
+    {
+      "species": "Machamp",
+      "moves": [
+        "Dynamic Punch",
+        "Payback",
+        "Stone Edge",
+        "Ice Punch"
+      ],
+      "held_item": "Choice Band"
+    }
+  ]
+}

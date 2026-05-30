@@ -1,0 +1,97 @@
+# mode: sidecar (socket=/tmp/pokemon_sidecar_evo_1780108202.sock) rulebook=rulebook/rulebook.md
+{"event":"battle_start","team_a":"Kleavor lead","team_b":"Garchomp lead"}
+{"event":"turn_start","turn":1}
+{"event":"move","pokemon":"Garchomp","move":"earthquake"}
+{"event":"damage","target":"Kleavor","damage":165,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Kleavor","in":"Mega Skarmory"}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Garchomp","damage":59,"hp_remaining":124}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":171,"hp_b":124,"turn":1}
+{"event":"turn_start","turn":2}
+{"event":"move","pokemon":"Garchomp","move":"earthquake"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":171}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Garchomp","damage":61,"hp_remaining":63}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":171,"hp_b":63,"turn":2}
+{"event":"turn_start","turn":3}
+{"event":"move","pokemon":"Garchomp","move":"earthquake"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":171}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Garchomp","damage":51,"hp_remaining":12}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":171,"hp_b":12,"turn":3}
+{"event":"turn_start","turn":4}
+{"event":"move","pokemon":"Garchomp","move":"earthquake"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":171}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Garchomp","damage":57,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Garchomp","in":"Talonflame"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":171,"hp_b":153,"turn":4}
+{"event":"turn_start","turn":5}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Mega Skarmory","damage":35,"hp_remaining":136}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Talonflame","damage":16,"hp_remaining":137}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":136,"hp_b":137,"turn":5}
+{"event":"turn_start","turn":6}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Mega Skarmory","damage":38,"hp_remaining":98}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Talonflame","damage":18,"hp_remaining":119}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":98,"hp_b":119,"turn":6}
+{"event":"turn_start","turn":7}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Mega Skarmory","damage":40,"hp_remaining":58}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Talonflame","damage":17,"hp_remaining":102}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":58,"hp_b":102,"turn":7}
+{"event":"turn_start","turn":8}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Mega Skarmory","damage":37,"hp_remaining":21}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Talonflame","damage":18,"hp_remaining":84}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":21,"hp_b":84,"turn":8}
+{"event":"turn_start","turn":9}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Mega Skarmory","damage":59,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Mega Skarmory","in":"Serperior"}
+{"event":"move","pokemon":"Serperior","move":"snore"}
+{"event":"damage","target":"Talonflame","damage":22,"hp_remaining":62}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":62,"turn":9}
+{"event":"turn_start","turn":10}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Serperior","damage":186,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Serperior","in":"Mega Heracross"}
+{"event":"move","pokemon":"Mega Heracross","move":"feint"}
+{"event":"damage","target":"Talonflame","damage":26,"hp_remaining":36}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":186,"hp_b":36,"turn":10}
+{"event":"turn_start","turn":11}
+{"event":"move","pokemon":"Mega Heracross","move":"feint"}
+{"event":"damage","target":"Talonflame","damage":27,"hp_remaining":9}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Mega Heracross","damage":290,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Mega Heracross","in":"Leafeon"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":142,"hp_b":9,"turn":11}
+{"event":"turn_start","turn":12}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Leafeon","damage":156,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Leafeon","in":"Rotom"}
+{"event":"move","pokemon":"Rotom","move":"electro_ball"}
+{"event":"damage","target":"Talonflame","damage":0,"hp_remaining":9}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":138,"hp_b":9,"turn":12}
+{"event":"turn_start","turn":13}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Rotom","damage":54,"hp_remaining":84}
+{"event":"move","pokemon":"Rotom","move":"electro_ball"}
+{"event":"damage","target":"Talonflame","damage":0,"hp_remaining":9}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":84,"hp_b":9,"turn":13}
+{"event":"turn_start","turn":14}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Rotom","damage":57,"hp_remaining":27}
+{"event":"move","pokemon":"Rotom","move":"electro_ball"}
+{"event":"damage","target":"Talonflame","damage":0,"hp_remaining":9}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":27,"hp_b":9,"turn":14}
+{"event":"turn_start","turn":15}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Rotom","damage":58,"hp_remaining":0}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":0,"hp_b":9,"turn":15}
+{"event":"battle_end","winner":"B","team":"Garchomp side"}

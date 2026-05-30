@@ -1,0 +1,173 @@
+{
+  "name": "hof_hof_gen0_team_1_g1_g2",
+  "members": [
+    {
+      "species": "kleavor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 39,
+        "atk": 0,
+        "def": 28,
+        "spa": 160,
+        "spd": 10,
+        "spe": 220
+      },
+      "nature": "mild",
+      "moves": [
+        "substitute",
+        "rock_tomb",
+        "night_slash",
+        "light_screen"
+      ],
+      "item": "kebia_berry"
+    },
+    {
+      "species": "mega_skarmory",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 141,
+        "def": 110,
+        "spa": 0,
+        "spd": 1,
+        "spe": 0
+      },
+      "nature": "brave",
+      "moves": [
+        "x_scissor",
+        "substitute",
+        "rest",
+        "snore"
+      ],
+      "item": "scolipite"
+    },
+    {
+      "species": "serperior",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 244,
+        "def": 32,
+        "spa": 33,
+        "spd": 0,
+        "spe": 184
+      },
+      "nature": "timid",
+      "moves": [
+        "snore",
+        "petal_blizzard",
+        "swords_dance",
+        "giga_impact"
+      ],
+      "item": "psychic_gem"
+    },
+    {
+      "species": "mega_heracross",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 244,
+        "atk": 0,
+        "def": 138,
+        "spa": 99,
+        "spd": 0,
+        "spe": 16
+      },
+      "nature": "timid",
+      "moves": [
+        "feint",
+        "upper_hand",
+        "counter",
+        "pounce"
+      ],
+      "item": "tr78"
+    },
+    {
+      "species": "leafeon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 17,
+        "atk": 136,
+        "def": 0,
+        "spa": 124,
+        "spd": 21,
+        "spe": 187
+      },
+      "nature": "calm",
+      "moves": [
+        "rest",
+        "focus_energy",
+        "leaf_storm",
+        "alluring_voice"
+      ],
+      "item": "rindo_berry"
+    },
+    {
+      "species": "rotom",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 102,
+        "atk": 182,
+        "def": 79,
+        "spa": 95,
+        "spd": 0,
+        "spe": 28
+      },
+      "nature": "gentle",
+      "moves": [
+        "electro_ball",
+        "overheat",
+        "spite",
+        "thunder"
+      ],
+      "item": "masterpiece_teacup"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "gen2_fresh_1",
+  "members": [
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 95,
+        "def": 190,
+        "spa": 189,
+        "spd": 8,
+        "spe": 17
+      },
+      "nature": "timid",
+      "moves": [
+        "ice_beam",
+        "toxic",
+        "surf",
+        "body_slam"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 234,
+        "def": 0,
+        "spa": 2,
+        "spd": 46,
+        "spe": 222
+      },
+      "nature": "jolly",
+      "moves": [
+        "tackle",
+        "quick_attack",
+        "protect",
+        "dragon_claw"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 142,
+        "atk": 0,
+        "def": 216,
+        "spa": 23,
+        "spd": 89,
+        "spe": 7
+      },
+      "nature": "bold",
+      "moves": [
+        "quick_attack",
+        "ice_beam",
+        "toxic",
+        "thunderbolt"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 179,
+        "atk": 46,
+        "def": 69,
+        "spa": 7,
+        "spd": 0,
+        "spe": 195
+      },
+      "nature": "hardy",
+      "moves": [
+        "dragon_claw",
+        "ice_beam",
+        "quick_attack",
+        "earthquake"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "machamp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 55,
+        "atk": 23,
+        "def": 191,
+        "spa": 48,
+        "spd": 0,
+        "spe": 135
+      },
+      "nature": "modest",
+      "moves": [
+        "ice_beam",
+        "toxic",
+        "crunch",
+        "tackle"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 40,
+        "def": 86,
+        "spa": 158,
+        "spd": 193,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "will_o_wisp",
+        "thunder_wave",
+        "toxic",
+        "surf"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

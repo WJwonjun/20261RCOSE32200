@@ -1,0 +1,358 @@
+# mode: sidecar (socket=/tmp/pokemon_sidecar_evo_1780108202.sock) rulebook=rulebook/rulebook.md
+{"event":"battle_start","team_a":"Kleavor lead","team_b":"Alcremie lead"}
+{"event":"turn_start","turn":1}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":1}
+{"event":"turn_start","turn":2}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":2}
+{"event":"turn_start","turn":3}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":3}
+{"event":"turn_start","turn":4}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":4}
+{"event":"turn_start","turn":5}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":5}
+{"event":"turn_start","turn":6}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":6}
+{"event":"turn_start","turn":7}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":7}
+{"event":"turn_start","turn":8}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":8}
+{"event":"turn_start","turn":9}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":9}
+{"event":"turn_start","turn":10}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":10}
+{"event":"turn_start","turn":11}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":11}
+{"event":"turn_start","turn":12}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Alcremie","move":"psych_up"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":140,"turn":12}
+{"event":"turn_start","turn":13}
+{"event":"move","pokemon":"Kleavor","move":"rock_tomb"}
+{"event":"damage","target":"Alcremie","damage":54,"hp_remaining":86}
+{"event":"move","pokemon":"Alcremie","move":"imprison"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":86,"turn":13}
+{"event":"turn_start","turn":14}
+{"event":"move","pokemon":"Kleavor","move":"rock_tomb"}
+{"event":"damage","target":"Alcremie","damage":50,"hp_remaining":36}
+{"event":"move","pokemon":"Alcremie","move":"imprison"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":36,"turn":14}
+{"event":"turn_start","turn":15}
+{"event":"move","pokemon":"Kleavor","move":"rock_tomb"}
+{"event":"damage","target":"Alcremie","damage":52,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Alcremie","in":"Tyrantrum"}
+{"event":"move","pokemon":"Tyrantrum","move":"stone_edge"}
+{"event":"damage","target":"Kleavor","damage":149,"hp_remaining":1}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":1,"hp_b":157,"turn":15}
+{"event":"turn_start","turn":16}
+{"event":"move","pokemon":"Kleavor","move":"rock_tomb"}
+{"event":"damage","target":"Tyrantrum","damage":32,"hp_remaining":125}
+{"event":"move","pokemon":"Tyrantrum","move":"iron_defense"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":1,"hp_b":125,"turn":16}
+{"event":"turn_start","turn":17}
+{"event":"move","pokemon":"Kleavor","move":"rock_tomb"}
+{"event":"miss","pokemon":"Kleavor"}
+{"event":"move","pokemon":"Tyrantrum","move":"iron_defense"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":1,"hp_b":125,"turn":17}
+{"event":"turn_start","turn":18}
+{"event":"move","pokemon":"Kleavor","move":"rock_tomb"}
+{"event":"damage","target":"Tyrantrum","damage":34,"hp_remaining":91}
+{"event":"move","pokemon":"Tyrantrum","move":"iron_defense"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":1,"hp_b":91,"turn":18}
+{"event":"turn_start","turn":19}
+{"event":"move","pokemon":"Kleavor","move":"rock_tomb"}
+{"event":"miss","pokemon":"Kleavor"}
+{"event":"move","pokemon":"Tyrantrum","move":"iron_defense"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":1,"hp_b":91,"turn":19}
+{"event":"turn_start","turn":20}
+{"event":"move","pokemon":"Kleavor","move":"rock_tomb"}
+{"event":"damage","target":"Tyrantrum","damage":32,"hp_remaining":59}
+{"event":"move","pokemon":"Tyrantrum","move":"iron_defense"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":1,"hp_b":59,"turn":20}
+{"event":"turn_start","turn":21}
+{"event":"move","pokemon":"Kleavor","move":"rock_tomb"}
+{"event":"damage","target":"Tyrantrum","damage":34,"hp_remaining":25}
+{"event":"move","pokemon":"Tyrantrum","move":"iron_defense"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":1,"hp_b":25,"turn":21}
+{"event":"turn_start","turn":22}
+{"event":"move","pokemon":"Kleavor","move":"rock_tomb"}
+{"event":"damage","target":"Tyrantrum","damage":29,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Tyrantrum","in":"Aurorus"}
+{"event":"move","pokemon":"Aurorus","move":"round"}
+{"event":"damage","target":"Kleavor","damage":20,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Kleavor","in":"Mega Skarmory"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":171,"hp_b":210,"turn":22}
+{"event":"turn_start","turn":23}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Aurorus","damage":69,"hp_remaining":141}
+{"event":"move","pokemon":"Aurorus","move":"round"}
+{"event":"damage","target":"Mega Skarmory","damage":15,"hp_remaining":156}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":156,"hp_b":141,"turn":23}
+{"event":"turn_start","turn":24}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Aurorus","damage":66,"hp_remaining":75}
+{"event":"move","pokemon":"Aurorus","move":"round"}
+{"event":"damage","target":"Mega Skarmory","damage":14,"hp_remaining":142}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":142,"hp_b":75,"turn":24}
+{"event":"turn_start","turn":25}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Aurorus","damage":66,"hp_remaining":9}
+{"event":"move","pokemon":"Aurorus","move":"round"}
+{"event":"damage","target":"Mega Skarmory","damage":14,"hp_remaining":128}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":128,"hp_b":9,"turn":25}
+{"event":"turn_start","turn":26}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Aurorus","damage":95,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Aurorus","in":"Hatterene"}
+{"event":"move","pokemon":"Hatterene","move":"facade"}
+{"event":"damage","target":"Mega Skarmory","damage":11,"hp_remaining":117}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":117,"hp_b":160,"turn":26}
+{"event":"turn_start","turn":27}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Hatterene","damage":61,"hp_remaining":99}
+{"event":"move","pokemon":"Hatterene","move":"facade"}
+{"event":"damage","target":"Mega Skarmory","damage":10,"hp_remaining":107}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":107,"hp_b":99,"turn":27}
+{"event":"turn_start","turn":28}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Hatterene","damage":61,"hp_remaining":38}
+{"event":"move","pokemon":"Hatterene","move":"facade"}
+{"event":"damage","target":"Mega Skarmory","damage":10,"hp_remaining":97}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":97,"hp_b":38,"turn":28}
+{"event":"turn_start","turn":29}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Hatterene","damage":54,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Hatterene","in":"Gyarados"}
+{"event":"move","pokemon":"Gyarados","move":"snore"}
+{"event":"damage","target":"Mega Skarmory","damage":6,"hp_remaining":91}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":91,"hp_b":171,"turn":29}
+{"event":"turn_start","turn":30}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Gyarados","damage":24,"hp_remaining":147}
+{"event":"move","pokemon":"Gyarados","move":"snore"}
+{"event":"damage","target":"Mega Skarmory","damage":6,"hp_remaining":85}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":85,"hp_b":147,"turn":30}
+{"event":"turn_start","turn":31}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Gyarados","damage":26,"hp_remaining":121}
+{"event":"move","pokemon":"Gyarados","move":"snore"}
+{"event":"damage","target":"Mega Skarmory","damage":6,"hp_remaining":79}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":79,"hp_b":121,"turn":31}
+{"event":"turn_start","turn":32}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Gyarados","damage":27,"hp_remaining":94}
+{"event":"move","pokemon":"Gyarados","move":"snore"}
+{"event":"damage","target":"Mega Skarmory","damage":6,"hp_remaining":73}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":73,"hp_b":94,"turn":32}
+{"event":"turn_start","turn":33}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Gyarados","damage":26,"hp_remaining":68}
+{"event":"move","pokemon":"Gyarados","move":"snore"}
+{"event":"damage","target":"Mega Skarmory","damage":6,"hp_remaining":67}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":67,"hp_b":68,"turn":33}
+{"event":"turn_start","turn":34}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Gyarados","damage":26,"hp_remaining":42}
+{"event":"move","pokemon":"Gyarados","move":"snore"}
+{"event":"damage","target":"Mega Skarmory","damage":6,"hp_remaining":61}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":61,"hp_b":42,"turn":34}
+{"event":"turn_start","turn":35}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Gyarados","damage":27,"hp_remaining":15}
+{"event":"move","pokemon":"Gyarados","move":"snore"}
+{"event":"damage","target":"Mega Skarmory","damage":6,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":15,"turn":35}
+{"event":"turn_start","turn":36}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Gyarados","damage":24,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Gyarados","in":"Heracross"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":178,"turn":36}
+{"event":"turn_start","turn":37}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Heracross","damage":28,"hp_remaining":150}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":150,"turn":37}
+{"event":"turn_start","turn":38}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Heracross","damage":32,"hp_remaining":118}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":38}
+{"event":"turn_start","turn":39}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":39}
+{"event":"turn_start","turn":40}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":40}
+{"event":"turn_start","turn":41}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":41}
+{"event":"turn_start","turn":42}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":42}
+{"event":"turn_start","turn":43}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":43}
+{"event":"turn_start","turn":44}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":44}
+{"event":"turn_start","turn":45}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":45}
+{"event":"turn_start","turn":46}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":46}
+{"event":"turn_start","turn":47}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":47}
+{"event":"turn_start","turn":48}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":48}
+{"event":"turn_start","turn":49}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":49}
+{"event":"turn_start","turn":50}
+{"event":"move","pokemon":"Mega Skarmory","move":"substitute"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":50}
+{"event":"turn_start","turn":51}
+{"event":"move","pokemon":"Mega Skarmory","move":"rest"}
+{"event":"move","pokemon":"Heracross","move":"flail"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":51}
+{"event":"turn_start","turn":52}
+{"event":"move","pokemon":"Mega Skarmory","move":"rest"}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":52}
+{"event":"turn_start","turn":53}
+{"event":"move","pokemon":"Mega Skarmory","move":"rest"}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":53}
+{"event":"turn_start","turn":54}
+{"event":"move","pokemon":"Mega Skarmory","move":"rest"}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":54}
+{"event":"turn_start","turn":55}
+{"event":"move","pokemon":"Mega Skarmory","move":"rest"}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":55}
+{"event":"turn_start","turn":56}
+{"event":"move","pokemon":"Mega Skarmory","move":"rest"}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":56}
+{"event":"turn_start","turn":57}
+{"event":"move","pokemon":"Mega Skarmory","move":"rest"}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":57}
+{"event":"turn_start","turn":58}
+{"event":"move","pokemon":"Mega Skarmory","move":"rest"}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":118,"turn":58}
+{"event":"turn_start","turn":59}
+{"event":"move","pokemon":"Mega Skarmory","move":"snore"}
+{"event":"damage","target":"Heracross","damage":12,"hp_remaining":106}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":106,"turn":59}
+{"event":"turn_start","turn":60}
+{"event":"move","pokemon":"Mega Skarmory","move":"snore"}
+{"event":"damage","target":"Heracross","damage":18,"hp_remaining":88}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":88,"turn":60}
+{"event":"turn_start","turn":61}
+{"event":"move","pokemon":"Mega Skarmory","move":"snore"}
+{"event":"damage","target":"Heracross","damage":16,"hp_remaining":72}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":72,"turn":61}
+{"event":"turn_start","turn":62}
+{"event":"move","pokemon":"Mega Skarmory","move":"snore"}
+{"event":"damage","target":"Heracross","damage":11,"hp_remaining":61}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":61,"turn":62}
+{"event":"turn_start","turn":63}
+{"event":"move","pokemon":"Mega Skarmory","move":"snore"}
+{"event":"damage","target":"Heracross","damage":12,"hp_remaining":49}
+{"event":"move","pokemon":"Heracross","move":"dig"}
+{"event":"damage","target":"Mega Skarmory","damage":0,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":49,"turn":63}
+{"event":"turn_start","turn":64}
+{"event":"move","pokemon":"Mega Skarmory","move":"snore"}
+{"event":"damage","target":"Heracross","damage":12,"hp_remaining":37}
+{"event":"move","pokemon":"Heracross","move":"stone_edge"}
+{"event":"damage","target":"Mega Skarmory","damage":37,"hp_remaining":18}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":18,"hp_b":37,"turn":64}
+{"event":"turn_start","turn":65}
+{"event":"move","pokemon":"Mega Skarmory","move":"snore"}
+{"event":"damage","target":"Heracross","damage":12,"hp_remaining":25}
+{"event":"move","pokemon":"Heracross","move":"stone_edge"}
+{"event":"damage","target":"Mega Skarmory","damage":35,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Mega Skarmory","in":"Serperior"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":25,"turn":65}
+{"event":"turn_start","turn":66}
+{"event":"move","pokemon":"Serperior","move":"snore"}
+{"event":"damage","target":"Heracross","damage":19,"hp_remaining":6}
+{"event":"move","pokemon":"Heracross","move":"stone_edge"}
+{"event":"damage","target":"Serperior","damage":67,"hp_remaining":83}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":83,"hp_b":6,"turn":66}
+{"event":"turn_start","turn":67}
+{"event":"move","pokemon":"Serperior","move":"snore"}
+{"event":"damage","target":"Heracross","damage":17,"hp_remaining":0}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":83,"hp_b":0,"turn":67}
+{"event":"battle_end","winner":"A","team":"Kleavor side"}

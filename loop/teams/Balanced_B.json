@@ -1,0 +1,65 @@
+{
+  "name": "Balanced_B",
+  "members": [
+    {
+      "species": "Gengar",
+      "moves": [
+        "Shadow Ball",
+        "Sludge Bomb",
+        "Focus Blast",
+        "Thunderbolt"
+      ],
+      "held_item": "Life Orb"
+    },
+    {
+      "species": "Dragonite",
+      "moves": [
+        "Dragon Claw",
+        "Extreme Speed",
+        "Fire Punch",
+        "Earthquake"
+      ],
+      "held_item": "Lum Berry"
+    },
+    {
+      "species": "Vaporeon",
+      "moves": [
+        "Surf",
+        "Ice Beam",
+        "Wish",
+        "Protect"
+      ],
+      "held_item": "Leftovers"
+    },
+    {
+      "species": "Heracross",
+      "moves": [
+        "Close Combat",
+        "Megahorn",
+        "Stone Edge",
+        "Knock Off"
+      ],
+      "held_item": "Choice Scarf"
+    },
+    {
+      "species": "Magnezone",
+      "moves": [
+        "Thunderbolt",
+        "Flash Cannon",
+        "Volt Switch",
+        "Hidden Power Fire"
+      ],
+      "held_item": "Choice Specs"
+    },
+    {
+      "species": "Mamoswine",
+      "moves": [
+        "Earthquake",
+        "Icicle Crash",
+        "Stone Edge",
+        "Ice Shard"
+      ],
+      "held_item": "Life Orb"
+    }
+  ]
+}

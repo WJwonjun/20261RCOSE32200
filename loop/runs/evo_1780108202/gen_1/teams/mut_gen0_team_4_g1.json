@@ -1,0 +1,170 @@
+{
+  "name": "mut_gen0_team_4_g1",
+  "members": [
+    {
+      "species": "mega_drampa",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 51,
+        "atk": 1,
+        "def": 204,
+        "spa": 0,
+        "spd": 3,
+        "spe": 249
+      },
+      "nature": "mild",
+      "moves": [
+        "safeguard",
+        "grass_knot",
+        "hyper_beam",
+        "earth_power"
+      ],
+      "item": "whipped_dream"
+    },
+    {
+      "species": "forretress",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 0,
+        "def": 56,
+        "spa": 117,
+        "spd": 209,
+        "spe": 51
+      },
+      "nature": "impish",
+      "moves": [
+        "bug_buzz",
+        "heavy_slam",
+        "rest",
+        "sleep_talk"
+      ],
+      "item": "meadow_plate"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 11,
+        "def": 17,
+        "spa": 8,
+        "spd": 247,
+        "spe": 221
+      },
+      "nature": "impish",
+      "moves": [
+        "grass_knot",
+        "thief",
+        "sunny_day",
+        "tri_attack"
+      ],
+      "item": "kommonium_z"
+    },
+    {
+      "species": "polteageist",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 122,
+        "atk": 64,
+        "def": 14,
+        "spa": 0,
+        "spd": 240,
+        "spe": 8
+      },
+      "nature": "lax",
+      "moves": [
+        "shell_smash",
+        "dark_pulse",
+        "ally_switch",
+        "stored_power"
+      ],
+      "item": "tr39"
+    },
+    {
+      "species": "trevenant",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 245,
+        "atk": 94,
+        "def": 0,
+        "spa": 1,
+        "spd": 12,
+        "spe": 156
+      },
+      "nature": "naughty",
+      "moves": [
+        "shadow_claw",
+        "hyper_beam",
+        "toxic",
+        "round"
+      ],
+      "item": "tr12"
+    },
+    {
+      "species": "hisuian_arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 104,
+        "def": 103,
+        "spa": 83,
+        "spd": 170,
+        "spe": 0
+      },
+      "nature": "lonely",
+      "moves": [
+        "pound"
+      ],
+      "item": "pikanium_z"
+    }
+  ]
+}

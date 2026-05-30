@@ -1,0 +1,173 @@
+{
+  "name": "cross_4_1",
+  "members": [
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 203,
+        "atk": 4,
+        "def": 0,
+        "spa": 8,
+        "spd": 218,
+        "spe": 33
+      },
+      "nature": "timid",
+      "moves": [
+        "ice_beam",
+        "toxic",
+        "thunderbolt",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 243,
+        "atk": 6,
+        "def": 113,
+        "spa": 1,
+        "spd": 0,
+        "spe": 125
+      },
+      "nature": "jolly",
+      "moves": [
+        "flamethrower",
+        "body_slam",
+        "crunch",
+        "earthquake"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 15,
+        "atk": 188,
+        "def": 6,
+        "spa": 220,
+        "spd": 0,
+        "spe": 46
+      },
+      "nature": "calm",
+      "moves": [
+        "flamethrower",
+        "surf",
+        "thunder_wave",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 243,
+        "def": 5,
+        "spa": 191,
+        "spd": 0,
+        "spe": 35
+      },
+      "nature": "hardy",
+      "moves": [
+        "flamethrower",
+        "body_slam",
+        "crunch",
+        "quick_attack"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 81,
+        "atk": 120,
+        "def": 30,
+        "spa": 12,
+        "spd": 210,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "will_o_wisp",
+        "crunch",
+        "body_slam",
+        "earthquake"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 66,
+        "def": 0,
+        "spa": 163,
+        "spd": 191,
+        "spe": 85
+      },
+      "nature": "calm",
+      "moves": [
+        "surf",
+        "will_o_wisp",
+        "thunderbolt",
+        "crunch"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

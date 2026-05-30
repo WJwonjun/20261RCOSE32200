@@ -1,0 +1,162 @@
+# mode: sidecar (socket=/tmp/pokemon_sidecar_evo_1780108202.sock) rulebook=rulebook/rulebook.md
+{"event":"battle_start","team_a":"Kleavor lead","team_b":"Politoed lead"}
+{"event":"turn_start","turn":1}
+{"event":"move","pokemon":"Kleavor","move":"substitute"}
+{"event":"move","pokemon":"Politoed","move":"hydro_pump"}
+{"event":"damage","target":"Kleavor","damage":214,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Kleavor","in":"Mega Skarmory"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":171,"hp_b":197,"turn":1}
+{"event":"turn_start","turn":2}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Politoed","damage":74,"hp_remaining":123}
+{"event":"move","pokemon":"Politoed","move":"hydro_pump"}
+{"event":"damage","target":"Mega Skarmory","damage":91,"hp_remaining":80}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":80,"hp_b":123,"turn":2}
+{"event":"turn_start","turn":3}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Politoed","damage":71,"hp_remaining":52}
+{"event":"move","pokemon":"Politoed","move":"hydro_pump"}
+{"event":"miss","pokemon":"Politoed"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":80,"hp_b":52,"turn":3}
+{"event":"turn_start","turn":4}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Politoed","damage":65,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Politoed","in":"Starmie"}
+{"event":"move","pokemon":"Starmie","move":"surf"}
+{"event":"damage","target":"Mega Skarmory","damage":75,"hp_remaining":5}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":5,"hp_b":136,"turn":4}
+{"event":"turn_start","turn":5}
+{"event":"move","pokemon":"Starmie","move":"surf"}
+{"event":"damage","target":"Mega Skarmory","damage":74,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Mega Skarmory","in":"Serperior"}
+{"event":"move","pokemon":"Serperior","move":"snore"}
+{"event":"damage","target":"Starmie","damage":22,"hp_remaining":114}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":114,"turn":5}
+{"event":"turn_start","turn":6}
+{"event":"move","pokemon":"Starmie","move":"surf"}
+{"event":"damage","target":"Serperior","damage":34,"hp_remaining":116}
+{"event":"move","pokemon":"Serperior","move":"snore"}
+{"event":"damage","target":"Starmie","damage":18,"hp_remaining":96}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":116,"hp_b":96,"turn":6}
+{"event":"turn_start","turn":7}
+{"event":"move","pokemon":"Starmie","move":"surf"}
+{"event":"damage","target":"Serperior","damage":37,"hp_remaining":79}
+{"event":"move","pokemon":"Serperior","move":"snore"}
+{"event":"damage","target":"Starmie","damage":19,"hp_remaining":77}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":79,"hp_b":77,"turn":7}
+{"event":"turn_start","turn":8}
+{"event":"move","pokemon":"Starmie","move":"surf"}
+{"event":"damage","target":"Serperior","damage":34,"hp_remaining":45}
+{"event":"move","pokemon":"Serperior","move":"snore"}
+{"event":"damage","target":"Starmie","damage":19,"hp_remaining":58}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":45,"hp_b":58,"turn":8}
+{"event":"turn_start","turn":9}
+{"event":"move","pokemon":"Starmie","move":"surf"}
+{"event":"damage","target":"Serperior","damage":38,"hp_remaining":7}
+{"event":"move","pokemon":"Serperior","move":"snore"}
+{"event":"damage","target":"Starmie","damage":19,"hp_remaining":39}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":7,"hp_b":39,"turn":9}
+{"event":"turn_start","turn":10}
+{"event":"move","pokemon":"Starmie","move":"surf"}
+{"event":"damage","target":"Serperior","damage":34,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Serperior","in":"Mega Heracross"}
+{"event":"move","pokemon":"Mega Heracross","move":"feint"}
+{"event":"damage","target":"Starmie","damage":21,"hp_remaining":18}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":186,"hp_b":18,"turn":10}
+{"event":"turn_start","turn":11}
+{"event":"move","pokemon":"Mega Heracross","move":"feint"}
+{"event":"damage","target":"Starmie","damage":22,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Starmie","in":"Greninja"}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Mega Heracross","damage":37,"hp_remaining":149}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":149,"hp_b":148,"turn":11}
+{"event":"turn_start","turn":12}
+{"event":"move","pokemon":"Mega Heracross","move":"feint"}
+{"event":"damage","target":"Greninja","damage":26,"hp_remaining":122}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Mega Heracross","damage":32,"hp_remaining":117}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":117,"hp_b":122,"turn":12}
+{"event":"turn_start","turn":13}
+{"event":"move","pokemon":"Mega Heracross","move":"feint"}
+{"event":"damage","target":"Greninja","damage":25,"hp_remaining":97}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Mega Heracross","damage":34,"hp_remaining":83}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":83,"hp_b":97,"turn":13}
+{"event":"turn_start","turn":14}
+{"event":"move","pokemon":"Mega Heracross","move":"feint"}
+{"event":"damage","target":"Greninja","damage":28,"hp_remaining":69}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Mega Heracross","damage":35,"hp_remaining":48}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":48,"hp_b":69,"turn":14}
+{"event":"turn_start","turn":15}
+{"event":"move","pokemon":"Mega Heracross","move":"feint"}
+{"event":"damage","target":"Greninja","damage":26,"hp_remaining":43}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Mega Heracross","damage":32,"hp_remaining":16}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":16,"hp_b":43,"turn":15}
+{"event":"turn_start","turn":16}
+{"event":"move","pokemon":"Mega Heracross","move":"feint"}
+{"event":"damage","target":"Greninja","damage":27,"hp_remaining":16}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Mega Heracross","damage":34,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Mega Heracross","in":"Leafeon"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":142,"hp_b":16,"turn":16}
+{"event":"turn_start","turn":17}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Leafeon","damage":16,"hp_remaining":126}
+{"event":"move","pokemon":"Leafeon","move":"rest"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":126,"hp_b":16,"turn":17}
+{"event":"turn_start","turn":18}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Leafeon","damage":16,"hp_remaining":110}
+{"event":"move","pokemon":"Leafeon","move":"rest"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":110,"hp_b":16,"turn":18}
+{"event":"turn_start","turn":19}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Leafeon","damage":16,"hp_remaining":94}
+{"event":"move","pokemon":"Leafeon","move":"rest"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":94,"hp_b":16,"turn":19}
+{"event":"turn_start","turn":20}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Leafeon","damage":18,"hp_remaining":76}
+{"event":"move","pokemon":"Leafeon","move":"rest"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":76,"hp_b":16,"turn":20}
+{"event":"turn_start","turn":21}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Leafeon","damage":16,"hp_remaining":60}
+{"event":"move","pokemon":"Leafeon","move":"rest"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":60,"hp_b":16,"turn":21}
+{"event":"turn_start","turn":22}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Leafeon","damage":16,"hp_remaining":44}
+{"event":"move","pokemon":"Leafeon","move":"rest"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":44,"hp_b":16,"turn":22}
+{"event":"turn_start","turn":23}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Leafeon","damage":16,"hp_remaining":28}
+{"event":"move","pokemon":"Leafeon","move":"rest"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":28,"hp_b":16,"turn":23}
+{"event":"turn_start","turn":24}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Leafeon","damage":17,"hp_remaining":11}
+{"event":"move","pokemon":"Leafeon","move":"rest"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":11,"hp_b":16,"turn":24}
+{"event":"turn_start","turn":25}
+{"event":"move","pokemon":"Greninja","move":"waterfall"}
+{"event":"damage","target":"Leafeon","damage":17,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Leafeon","in":"Rotom"}
+{"event":"move","pokemon":"Rotom","move":"overheat"}
+{"event":"damage","target":"Greninja","damage":53,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Greninja","in":"Gyarados"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":138,"hp_b":171,"turn":25}
+{"event":"turn_start","turn":26}
+{"event":"move","pokemon":"Gyarados","move":"waterfall"}
+{"event":"damage","target":"Rotom","damage":92,"hp_remaining":46}
+{"event":"move","pokemon":"Rotom","move":"electro_ball"}
+{"event":"damage","target":"Gyarados","damage":0,"hp_remaining":171}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":46,"hp_b":171,"turn":26}
+{"event":"turn_start","turn":27}
+{"event":"move","pokemon":"Gyarados","move":"waterfall"}
+{"event":"damage","target":"Rotom","damage":109,"hp_remaining":0}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":0,"hp_b":171,"turn":27}
+{"event":"battle_end","winner":"B","team":"Politoed side"}

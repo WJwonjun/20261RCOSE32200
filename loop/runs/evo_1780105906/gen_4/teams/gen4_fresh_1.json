@@ -1,0 +1,173 @@
+{
+  "name": "gen4_fresh_1",
+  "members": [
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 80,
+        "atk": 9,
+        "def": 224,
+        "spa": 0,
+        "spd": 4,
+        "spe": 87
+      },
+      "nature": "adamant",
+      "moves": [
+        "tackle",
+        "thunderbolt",
+        "thunder_wave",
+        "ice_beam"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 68,
+        "def": 116,
+        "spa": 78,
+        "spd": 193,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "tackle",
+        "crunch",
+        "quick_attack",
+        "thunder_wave"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 74,
+        "atk": 183,
+        "def": 0,
+        "spa": 130,
+        "spd": 98,
+        "spe": 3
+      },
+      "nature": "hardy",
+      "moves": [
+        "dragon_claw",
+        "earthquake",
+        "protect",
+        "toxic"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 83,
+        "atk": 4,
+        "def": 0,
+        "spa": 216,
+        "spd": 108,
+        "spe": 46
+      },
+      "nature": "adamant",
+      "moves": [
+        "thunder_wave",
+        "flamethrower",
+        "body_slam",
+        "quick_attack"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 174,
+        "atk": 156,
+        "def": 0,
+        "spa": 37,
+        "spd": 21,
+        "spe": 61
+      },
+      "nature": "modest",
+      "moves": [
+        "quick_attack",
+        "protect",
+        "rest",
+        "crunch"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 91,
+        "def": 87,
+        "spa": 43,
+        "spd": 21,
+        "spe": 185
+      },
+      "nature": "hardy",
+      "moves": [
+        "body_slam",
+        "tackle",
+        "quick_attack",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

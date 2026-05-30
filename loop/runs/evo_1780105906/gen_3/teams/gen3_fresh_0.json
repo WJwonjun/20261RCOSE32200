@@ -1,0 +1,173 @@
+{
+  "name": "gen3_fresh_0",
+  "members": [
+    {
+      "species": "rhydon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 206,
+        "def": 35,
+        "spa": 60,
+        "spd": 2,
+        "spe": 10
+      },
+      "nature": "adamant",
+      "moves": [
+        "will_o_wisp",
+        "thunderbolt",
+        "surf",
+        "flamethrower"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 90,
+        "def": 237,
+        "spa": 20,
+        "spd": 121,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "will_o_wisp",
+        "flamethrower",
+        "tackle",
+        "toxic"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 114,
+        "atk": 102,
+        "def": 46,
+        "spa": 122,
+        "spd": 0,
+        "spe": 69
+      },
+      "nature": "calm",
+      "moves": [
+        "toxic",
+        "thunderbolt",
+        "crunch",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 0,
+        "def": 153,
+        "spa": 24,
+        "spd": 229,
+        "spe": 95
+      },
+      "nature": "adamant",
+      "moves": [
+        "rest",
+        "crunch",
+        "flamethrower",
+        "tackle"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 40,
+        "atk": 10,
+        "def": 0,
+        "spa": 97,
+        "spd": 196,
+        "spe": 161
+      },
+      "nature": "jolly",
+      "moves": [
+        "flamethrower",
+        "rest",
+        "quick_attack",
+        "ice_beam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 234,
+        "atk": 127,
+        "def": 46,
+        "spa": 68,
+        "spd": 0,
+        "spe": 16
+      },
+      "nature": "modest",
+      "moves": [
+        "dragon_claw",
+        "rest",
+        "thunder_wave",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

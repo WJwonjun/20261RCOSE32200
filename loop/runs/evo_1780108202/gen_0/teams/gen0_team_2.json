@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_2",
+  "members": [
+    {
+      "species": "morpeko",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 62,
+        "atk": 0,
+        "def": 131,
+        "spa": 60,
+        "spd": 171,
+        "spe": 71
+      },
+      "nature": "brave",
+      "moves": [
+        "aura_wheel",
+        "outrage",
+        "nasty_plot",
+        "agility"
+      ],
+      "item": "cheri_berry"
+    },
+    {
+      "species": "espeon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 0,
+        "def": 105,
+        "spa": 90,
+        "spd": 119,
+        "spe": 108
+      },
+      "nature": "quiet",
+      "moves": [
+        "hyper_beam",
+        "endure",
+        "trailblaze",
+        "light_screen"
+      ],
+      "item": "soft_sand"
+    },
+    {
+      "species": "leafeon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 118,
+        "def": 35,
+        "spa": 108,
+        "spd": 71,
+        "spe": 46
+      },
+      "nature": "modest",
+      "moves": [
+        "sleep_talk",
+        "seed_bomb",
+        "bullet_seed",
+        "baton_pass"
+      ],
+      "item": "protector"
+    },
+    {
+      "species": "spiritomb",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 42,
+        "def": 104,
+        "spa": 124,
+        "spd": 27,
+        "spe": 123
+      },
+      "nature": "relaxed",
+      "moves": [
+        "hyper_beam",
+        "confuse_ray",
+        "psychic",
+        "uproar"
+      ],
+      "item": "douse_drive"
+    },
+    {
+      "species": "mega_kangaskhan",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 39,
+        "atk": 75,
+        "def": 0,
+        "spa": 247,
+        "spd": 48,
+        "spe": 55
+      },
+      "nature": "adamant",
+      "moves": [
+        "shadow_ball",
+        "brick_break",
+        "facade",
+        "round"
+      ],
+      "item": "sharp_beak"
+    },
+    {
+      "species": "mega_greninja",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 51,
+        "atk": 0,
+        "def": 17,
+        "spa": 172,
+        "spd": 60,
+        "spe": 152
+      },
+      "nature": "rash",
+      "moves": [
+        "counter",
+        "role_play",
+        "chilling_water",
+        "water_shuriken"
+      ],
+      "item": "tapunium_z"
+    }
+  ]
+}

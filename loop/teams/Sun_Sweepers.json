@@ -1,0 +1,65 @@
+{
+  "name": "Sun_Sweepers",
+  "members": [
+    {
+      "species": "Ninetales",
+      "moves": [
+        "Flamethrower",
+        "SolarBeam",
+        "Energy Ball",
+        "Sunny Day"
+      ],
+      "held_item": "Heat Rock"
+    },
+    {
+      "species": "Venusaur",
+      "moves": [
+        "SolarBeam",
+        "Sludge Bomb",
+        "Sleep Powder",
+        "Growth"
+      ],
+      "held_item": "Life Orb"
+    },
+    {
+      "species": "Charizard",
+      "moves": [
+        "Fire Blast",
+        "SolarBeam",
+        "Air Slash",
+        "Roost"
+      ],
+      "held_item": "Choice Specs"
+    },
+    {
+      "species": "Arcanine",
+      "moves": [
+        "Flare Blitz",
+        "Extreme Speed",
+        "Close Combat",
+        "Wild Charge"
+      ],
+      "held_item": "Choice Band"
+    },
+    {
+      "species": "Tangrowth",
+      "moves": [
+        "SolarBeam",
+        "Earthquake",
+        "Rock Slide",
+        "Synthesis"
+      ],
+      "held_item": "Assault Vest"
+    },
+    {
+      "species": "Houndoom",
+      "moves": [
+        "Fire Blast",
+        "Dark Pulse",
+        "Nasty Plot",
+        "Sucker Punch"
+      ],
+      "held_item": "Life Orb"
+    }
+  ]
+}

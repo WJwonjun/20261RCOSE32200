@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_4",
+  "members": [
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 52,
+        "atk": 109,
+        "def": 0,
+        "spa": 175,
+        "spd": 4,
+        "spe": 162
+      },
+      "nature": "modest",
+      "moves": [
+        "thunderbolt",
+        "rest",
+        "flamethrower",
+        "protect"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 33,
+        "atk": 33,
+        "def": 20,
+        "spa": 0,
+        "spd": 197,
+        "spe": 163
+      },
+      "nature": "adamant",
+      "moves": [
+        "protect",
+        "thunder_wave",
+        "ice_beam",
+        "tackle"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 139,
+        "def": 213,
+        "spa": 9,
+        "spd": 94,
+        "spe": 37
+      },
+      "nature": "timid",
+      "moves": [
+        "flamethrower",
+        "thunder_wave",
+        "protect",
+        "rest"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 17,
+        "atk": 170,
+        "def": 0,
+        "spa": 26,
+        "spd": 90,
+        "spe": 199
+      },
+      "nature": "adamant",
+      "moves": [
+        "protect",
+        "surf",
+        "will_o_wisp",
+        "crunch"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 188,
+        "atk": 0,
+        "def": 45,
+        "spa": 236,
+        "spd": 21,
+        "spe": 13
+      },
+      "nature": "calm",
+      "moves": [
+        "rest",
+        "crunch",
+        "will_o_wisp",
+        "quick_attack"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 44,
+        "atk": 51,
+        "def": 56,
+        "spa": 117,
+        "spd": 209,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "dragon_claw",
+        "body_slam",
+        "flamethrower",
+        "earthquake"
+      ],
+      "item": "none"
+    }
+  ]
+}

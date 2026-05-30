@@ -1,0 +1,173 @@
+{
+  "name": "cross_5_1",
+  "members": [
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 5,
+        "atk": 0,
+        "def": 157,
+        "spa": 126,
+        "spd": 178,
+        "spe": 14
+      },
+      "nature": "adamant",
+      "moves": [
+        "body_slam",
+        "will_o_wisp",
+        "crunch",
+        "thunderbolt"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 2,
+        "atk": 0,
+        "def": 158,
+        "spa": 7,
+        "spd": 110,
+        "spe": 205
+      },
+      "nature": "calm",
+      "moves": [
+        "surf",
+        "tackle",
+        "dragon_claw",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 15,
+        "atk": 188,
+        "def": 6,
+        "spa": 220,
+        "spd": 0,
+        "spe": 46
+      },
+      "nature": "calm",
+      "moves": [
+        "body_slam",
+        "surf",
+        "rest",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 84,
+        "atk": 0,
+        "def": 11,
+        "spa": 25,
+        "spd": 220,
+        "spe": 38
+      },
+      "nature": "bold",
+      "moves": [
+        "ice_beam",
+        "will_o_wisp",
+        "thunder_wave",
+        "earthquake"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 192,
+        "def": 161,
+        "spa": 26,
+        "spd": 0,
+        "spe": 75
+      },
+      "nature": "calm",
+      "moves": [
+        "flamethrower",
+        "protect",
+        "thunder_wave",
+        "tackle"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 66,
+        "def": 0,
+        "spa": 163,
+        "spd": 191,
+        "spe": 85
+      },
+      "nature": "bold",
+      "moves": [
+        "surf",
+        "will_o_wisp",
+        "quick_attack",
+        "crunch"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

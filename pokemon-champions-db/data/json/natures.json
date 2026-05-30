@@ -1,0 +1,177 @@
+[
+ {
+  "name_en": "Adamant",
+  "name_ko": "고집",
+  "increased": "attack",
+  "decreased": "sp_attack",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Bashful",
+  "name_ko": "수줍음",
+  "increased": null,
+  "decreased": null,
+  "champions_legal": false
+ },
+ {
+  "name_en": "Bold",
+  "name_ko": "대담",
+  "increased": "defense",
+  "decreased": "attack",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Brave",
+  "name_ko": "용감",
+  "increased": "attack",
+  "decreased": "speed",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Calm",
+  "name_ko": "차분",
+  "increased": "sp_defense",
+  "decreased": "attack",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Careful",
+  "name_ko": "신중",
+  "increased": "sp_defense",
+  "decreased": "sp_attack",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Docile",
+  "name_ko": "온순",
+  "increased": null,
+  "decreased": null,
+  "champions_legal": false
+ },
+ {
+  "name_en": "Gentle",
+  "name_ko": "얌전",
+  "increased": "sp_defense",
+  "decreased": "defense",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Hardy",
+  "name_ko": "노력",
+  "increased": null,
+  "decreased": null,
+  "champions_legal": false
+ },
+ {
+  "name_en": "Hasty",
+  "name_ko": "성급",
+  "increased": "speed",
+  "decreased": "defense",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Impish",
+  "name_ko": "장난꾸러기",
+  "increased": "defense",
+  "decreased": "sp_attack",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Jolly",
+  "name_ko": "명랑",
+  "increased": "speed",
+  "decreased": "sp_attack",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lax",
+  "name_ko": "촐랑",
+  "increased": "defense",
+  "decreased": "sp_defense",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lonely",
+  "name_ko": "외로움",
+  "increased": "attack",
+  "decreased": "defense",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mild",
+  "name_ko": "의젓",
+  "increased": "sp_attack",
+  "decreased": "defense",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Modest",
+  "name_ko": "조심",
+  "increased": "sp_attack",
+  "decreased": "attack",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Naive",
+  "name_ko": "천진난만",
+  "increased": "speed",
+  "decreased": "sp_defense",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Naughty",
+  "name_ko": "개구쟁이",
+  "increased": "attack",
+  "decreased": "sp_defense",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Quiet",
+  "name_ko": "냉정",
+  "increased": "sp_attack",
+  "decreased": "speed",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Quirky",
+  "name_ko": "변덕",
+  "increased": null,
+  "decreased": null,
+  "champions_legal": false
+ },
+ {
+  "name_en": "Rash",
+  "name_ko": "덜렁",
+  "increased": "sp_attack",
+  "decreased": "sp_defense",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Relaxed",
+  "name_ko": "무사태평",
+  "increased": "defense",
+  "decreased": "speed",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sassy",
+  "name_ko": "건방",
+  "increased": "sp_defense",
+  "decreased": "speed",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Serious",
+  "name_ko": "성실",
+  "increased": null,
+  "decreased": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Timid",
+  "name_ko": "겁쟁이",
+  "increased": "speed",
+  "decreased": "attack",
+  "champions_legal": true
+ }
+]

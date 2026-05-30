@@ -1,0 +1,173 @@
+{
+  "name": "seed_weather_balanced",
+  "members": [
+    {
+      "species": "politoed",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "nature": "modest",
+      "moves": [
+        "surf",
+        "ice_beam",
+        "thunderbolt",
+        "protect"
+      ],
+      "item": "choice_specs"
+    },
+    {
+      "species": "kingdra",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "modest",
+      "moves": [
+        "surf",
+        "dragon_pulse",
+        "ice_beam",
+        "protect"
+      ],
+      "item": "lum_berry"
+    },
+    {
+      "species": "toxicroak",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "adamant",
+      "moves": [
+        "cross_chop",
+        "sucker_punch",
+        "bulk_up",
+        "protect"
+      ],
+      "item": "black_sludge"
+    },
+    {
+      "species": "metagross",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "jolly",
+      "moves": [
+        "meteor_mash",
+        "earthquake",
+        "ice_punch",
+        "bullet_punch"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "adamant",
+      "moves": [
+        "stone_edge",
+        "crunch",
+        "earthquake",
+        "ice_punch"
+      ],
+      "item": "choice_band"
+    },
+    {
+      "species": "togekiss",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "nature": "modest",
+      "moves": [
+        "air_slash",
+        "aura_sphere",
+        "roost",
+        "nasty_plot"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

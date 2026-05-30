@@ -1,0 +1,173 @@
+{
+  "name": "cross_2_0",
+  "members": [
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 1,
+        "def": 14,
+        "spa": 101,
+        "spd": 226,
+        "spe": 164
+      },
+      "nature": "timid",
+      "moves": [
+        "tackle",
+        "earthquake",
+        "rest",
+        "toxic"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 207,
+        "atk": 44,
+        "def": 0,
+        "spa": 0,
+        "spd": 222,
+        "spe": 20
+      },
+      "nature": "calm",
+      "moves": [
+        "protect",
+        "earthquake",
+        "flamethrower",
+        "quick_attack"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 0,
+        "def": 119,
+        "spa": 70,
+        "spd": 152,
+        "spe": 135
+      },
+      "nature": "modest",
+      "moves": [
+        "thunderbolt",
+        "dragon_claw",
+        "tackle",
+        "rest"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 40,
+        "def": 184,
+        "spa": 111,
+        "spd": 0,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "crunch",
+        "tackle",
+        "thunderbolt",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 138,
+        "atk": 39,
+        "def": 41,
+        "spa": 195,
+        "spd": 0,
+        "spe": 95
+      },
+      "nature": "hardy",
+      "moves": [
+        "rest",
+        "flamethrower",
+        "ice_beam",
+        "protect"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 224,
+        "def": 145,
+        "spa": 14,
+        "spd": 61,
+        "spe": 10
+      },
+      "nature": "jolly",
+      "moves": [
+        "dragon_claw",
+        "protect",
+        "tackle",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

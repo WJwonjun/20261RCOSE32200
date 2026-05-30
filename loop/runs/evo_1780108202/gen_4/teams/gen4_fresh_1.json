@@ -1,0 +1,173 @@
+{
+  "name": "gen4_fresh_1",
+  "members": [
+    {
+      "species": "incineroar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 167,
+        "atk": 66,
+        "def": 0,
+        "spa": 92,
+        "spd": 177,
+        "spe": 1
+      },
+      "nature": "impish",
+      "moves": [
+        "flamethrower",
+        "acrobatics",
+        "fling",
+        "overheat"
+      ],
+      "item": "tr16"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 234,
+        "atk": 163,
+        "def": 47,
+        "spa": 37,
+        "spd": 19,
+        "spe": 0
+      },
+      "nature": "gentle",
+      "moves": [
+        "body_press",
+        "draco_meteor",
+        "safeguard",
+        "hydro_pump"
+      ],
+      "item": "snowball"
+    },
+    {
+      "species": "altaria",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 63,
+        "atk": 195,
+        "def": 174,
+        "spa": 0,
+        "spd": 0,
+        "spe": 76
+      },
+      "nature": "naughty",
+      "moves": [
+        "giga_impact",
+        "dragon_rush",
+        "uproar",
+        "earthquake"
+      ],
+      "item": "rowap_berry"
+    },
+    {
+      "species": "mega_heracross",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 133,
+        "def": 218,
+        "spa": 42,
+        "spd": 28,
+        "spe": 83
+      },
+      "nature": "sassy",
+      "moves": [
+        "circle_throw",
+        "substitute",
+        "round",
+        "bullet_seed"
+      ],
+      "item": "dusk_ball"
+    },
+    {
+      "species": "bellibolt",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 59,
+        "atk": 144,
+        "def": 116,
+        "spa": 0,
+        "spd": 14,
+        "spe": 143
+      },
+      "nature": "brave",
+      "moves": [
+        "electric_terrain",
+        "hyper_beam",
+        "wild_charge",
+        "thunder_wave"
+      ],
+      "item": "tr81"
+    },
+    {
+      "species": "mega_golurk",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 17,
+        "atk": 138,
+        "def": 16,
+        "spa": 179,
+        "spd": 0,
+        "spe": 15
+      },
+      "nature": "adamant",
+      "moves": [
+        "iron_defense",
+        "brick_break",
+        "psych_up",
+        "hex"
+      ],
+      "item": "kasib_berry"
+    }
+  ]
+}

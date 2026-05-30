@@ -1,0 +1,173 @@
+{
+  "name": "gen7_fresh_0",
+  "members": [
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 131,
+        "atk": 40,
+        "def": 24,
+        "spa": 0,
+        "spd": 120,
+        "spe": 171
+      },
+      "nature": "jolly",
+      "moves": [
+        "thunder_wave",
+        "flamethrower",
+        "ice_beam",
+        "toxic"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 139,
+        "atk": 0,
+        "def": 59,
+        "spa": 160,
+        "spd": 29,
+        "spe": 121
+      },
+      "nature": "bold",
+      "moves": [
+        "body_slam",
+        "crunch",
+        "rest",
+        "thunder_wave"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 47,
+        "atk": 82,
+        "def": 64,
+        "spa": 229,
+        "spd": 0,
+        "spe": 80
+      },
+      "nature": "modest",
+      "moves": [
+        "quick_attack",
+        "surf",
+        "toxic",
+        "will_o_wisp"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 34,
+        "atk": 6,
+        "def": 97,
+        "spa": 158,
+        "spd": 0,
+        "spe": 205
+      },
+      "nature": "adamant",
+      "moves": [
+        "quick_attack",
+        "dragon_claw",
+        "toxic",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 188,
+        "atk": 21,
+        "def": 145,
+        "spa": 80,
+        "spd": 11,
+        "spe": 0
+      },
+      "nature": "hardy",
+      "moves": [
+        "quick_attack",
+        "thunderbolt",
+        "rest",
+        "earthquake"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 30,
+        "atk": 83,
+        "def": 0,
+        "spa": 150,
+        "spd": 12,
+        "spe": 93
+      },
+      "nature": "modest",
+      "moves": [
+        "will_o_wisp",
+        "tackle",
+        "rest",
+        "thunderbolt"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

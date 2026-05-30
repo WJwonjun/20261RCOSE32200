@@ -1,0 +1,7719 @@
+{
+ "species": {
+  "Bulbasaur": "이상해씨",
+  "Ivysaur": "이상해풀",
+  "Venusaur": "이상해꽃",
+  "Charmander": "파이리",
+  "Charmeleon": "리자드",
+  "Charizard": "리자몽",
+  "Squirtle": "꼬부기",
+  "Wartortle": "어니부기",
+  "Blastoise": "거북왕",
+  "Caterpie": "캐터피",
+  "Metapod": "단데기",
+  "Butterfree": "버터플",
+  "Weedle": "뿔충이",
+  "Kakuna": "딱충이",
+  "Beedrill": "독침붕",
+  "Pidgey": "구구",
+  "Pidgeotto": "피죤",
+  "Pidgeot": "피죤투",
+  "Rattata": "꼬렛",
+  "Raticate": "레트라",
+  "Spearow": "깨비참",
+  "Fearow": "깨비드릴조",
+  "Ekans": "아보",
+  "Arbok": "아보크",
+  "Pikachu": "피카츄",
+  "Raichu": "라이츄",
+  "Sandshrew": "모래두지",
+  "Sandslash": "고지",
+  "Nidoran♀": "니드런♀",
+  "Nidorina": "니드리나",
+  "Nidoqueen": "니드퀸",
+  "Nidoran♂": "니드런♂",
+  "Nidorino": "니드리노",
+  "Nidoking": "니드킹",
+  "Clefairy": "삐삐",
+  "Clefable": "픽시",
+  "Vulpix": "식스테일",
+  "Ninetales": "나인테일",
+  "Jigglypuff": "푸린",
+  "Wigglytuff": "푸크린",
+  "Zubat": "주뱃",
+  "Golbat": "골뱃",
+  "Oddish": "뚜벅쵸",
+  "Gloom": "냄새꼬",
+  "Vileplume": "라플레시아",
+  "Paras": "파라스",
+  "Parasect": "파라섹트",
+  "Venonat": "콘팡",
+  "Venomoth": "도나리",
+  "Diglett": "디그다",
+  "Dugtrio": "닥트리오",
+  "Meowth": "나옹",
+  "Persian": "페르시온",
+  "Psyduck": "고라파덕",
+  "Golduck": "골덕",
+  "Mankey": "망키",
+  "Primeape": "성원숭",
+  "Growlithe": "가디",
+  "Arcanine": "윈디",
+  "Poliwag": "발챙이",
+  "Poliwhirl": "슈륙챙이",
+  "Poliwrath": "강챙이",
+  "Abra": "캐이시",
+  "Kadabra": "윤겔라",
+  "Alakazam": "후딘",
+  "Machop": "알통몬",
+  "Machoke": "근육몬",
+  "Machamp": "괴력몬",
+  "Bellsprout": "모다피",
+  "Weepinbell": "우츠동",
+  "Victreebel": "우츠보트",
+  "Tentacool": "왕눈해",
+  "Tentacruel": "독파리",
+  "Geodude": "꼬마돌",
+  "Graveler": "데구리",
+  "Golem": "딱구리",
+  "Ponyta": "포니타",
+  "Rapidash": "날쌩마",
+  "Slowpoke": "야돈",
+  "Slowbro": "야도란",
+  "Magnemite": "코일",
+  "Magneton": "레어코일",
+  "Farfetch’d": "파오리",
+  "Doduo": "두두",
+  "Dodrio": "두트리오",
+  "Seel": "쥬쥬",
+  "Dewgong": "쥬레곤",
+  "Grimer": "질퍽이",
+  "Muk": "질뻐기",
+  "Shellder": "셀러",
+  "Cloyster": "파르셀",
+  "Gastly": "고오스",
+  "Haunter": "고우스트",
+  "Gengar": "팬텀",
+  "Onix": "롱스톤",
+  "Drowzee": "슬리프",
+  "Hypno": "슬리퍼",
+  "Krabby": "크랩",
+  "Kingler": "킹크랩",
+  "Voltorb": "찌리리공",
+  "Electrode": "붐볼",
+  "Exeggcute": "아라리",
+  "Exeggutor": "나시",
+  "Cubone": "탕구리",
+  "Marowak": "텅구리",
+  "Hitmonlee": "시라소몬",
+  "Hitmonchan": "홍수몬",
+  "Lickitung": "내루미",
+  "Koffing": "또가스",
+  "Weezing": "또도가스",
+  "Rhyhorn": "뿔카노",
+  "Rhydon": "코뿌리",
+  "Chansey": "럭키",
+  "Tangela": "덩쿠리",
+  "Kangaskhan": "캥카",
+  "Horsea": "쏘드라",
+  "Seadra": "시드라",
+  "Goldeen": "콘치",
+  "Seaking": "왕콘치",
+  "Staryu": "별가사리",
+  "Starmie": "아쿠스타",
+  "Mr. Mime": "마임맨",
+  "Scyther": "스라크",
+  "Jynx": "루주라",
+  "Electabuzz": "에레브",
+  "Magmar": "마그마",
+  "Pinsir": "쁘사이저",
+  "Tauros": "켄타로스",
+  "Magikarp": "잉어킹",
+  "Gyarados": "갸라도스",
+  "Lapras": "라프라스",
+  "Ditto": "메타몽",
+  "Eevee": "이브이",
+  "Vaporeon": "샤미드",
+  "Jolteon": "쥬피썬더",
+  "Flareon": "부스터",
+  "Porygon": "폴리곤",
+  "Omanyte": "암나이트",
+  "Omastar": "암스타",
+  "Kabuto": "투구",
+  "Kabutops": "투구푸스",
+  "Aerodactyl": "프테라",
+  "Snorlax": "잠만보",
+  "Articuno": "프리져",
+  "Zapdos": "썬더",
+  "Moltres": "파이어",
+  "Dratini": "미뇽",
+  "Dragonair": "신뇽",
+  "Dragonite": "망나뇽",
+  "Mewtwo": "뮤츠",
+  "Mew": "뮤",
+  "Chikorita": "치코리타",
+  "Bayleef": "베이리프",
+  "Meganium": "메가니움",
+  "Cyndaquil": "브케인",
+  "Quilava": "마그케인",
+  "Typhlosion": "블레이범",
+  "Totodile": "리아코",
+  "Croconaw": "엘리게이",
+  "Feraligatr": "장크로다일",
+  "Sentret": "꼬리선",
+  "Furret": "다꼬리",
+  "Hoothoot": "부우부",
+  "Noctowl": "야부엉",
+  "Ledyba": "레디바",
+  "Ledian": "레디안",
+  "Spinarak": "페이검",
+  "Ariados": "아리아도스",
+  "Crobat": "크로뱃",
+  "Chinchou": "초라기",
+  "Lanturn": "랜턴",
+  "Pichu": "피츄",
+  "Cleffa": "삐",
+  "Igglybuff": "푸푸린",
+  "Togepi": "토게피",
+  "Togetic": "토게틱",
+  "Natu": "네이티",
+  "Xatu": "네이티오",
+  "Mareep": "메리프",
+  "Flaaffy": "보송송",
+  "Ampharos": "전룡",
+  "Bellossom": "아르코",
+  "Marill": "마릴",
+  "Azumarill": "마릴리",
+  "Sudowoodo": "꼬지모",
+  "Politoed": "왕구리",
+  "Hoppip": "통통코",
+  "Skiploom": "두코",
+  "Jumpluff": "솜솜코",
+  "Aipom": "에이팜",
+  "Sunkern": "해너츠",
+  "Sunflora": "해루미",
+  "Yanma": "왕자리",
+  "Wooper": "우파",
+  "Quagsire": "누오",
+  "Espeon": "에브이",
+  "Umbreon": "블래키",
+  "Murkrow": "니로우",
+  "Slowking": "야도킹",
+  "Misdreavus": "무우마",
+  "Unown": "안농",
+  "Wobbuffet": "마자용",
+  "Girafarig": "키링키",
+  "Pineco": "피콘",
+  "Forretress": "쏘콘",
+  "Dunsparce": "노고치",
+  "Gligar": "글라이거",
+  "Steelix": "강철톤",
+  "Snubbull": "블루",
+  "Granbull": "그랑블루",
+  "Qwilfish": "침바루",
+  "Scizor": "핫삼",
+  "Shuckle": "단단지",
+  "Heracross": "헤라크로스",
+  "Sneasel": "포푸니",
+  "Teddiursa": "깜지곰",
+  "Ursaring": "링곰",
+  "Slugma": "마그마그",
+  "Magcargo": "마그카르고",
+  "Swinub": "꾸꾸리",
+  "Piloswine": "메꾸리",
+  "Corsola": "코산호",
+  "Remoraid": "총어",
+  "Octillery": "대포무노",
+  "Delibird": "딜리버드",
+  "Mantine": "만타인",
+  "Skarmory": "무장조",
+  "Houndour": "델빌",
+  "Houndoom": "헬가",
+  "Kingdra": "킹드라",
+  "Phanpy": "코코리",
+  "Donphan": "코리갑",
+  "Porygon2": "폴리곤2",
+  "Stantler": "노라키",
+  "Smeargle": "루브도",
+  "Tyrogue": "배루키",
+  "Hitmontop": "카포에라",
+  "Smoochum": "뽀뽀라",
+  "Elekid": "에레키드",
+  "Magby": "마그비",
+  "Miltank": "밀탱크",
+  "Blissey": "해피너스",
+  "Raikou": "라이코",
+  "Entei": "앤테이",
+  "Suicune": "스이쿤",
+  "Larvitar": "애버라스",
+  "Pupitar": "데기라스",
+  "Tyranitar": "마기라스",
+  "Lugia": "루기아",
+  "Ho-Oh": "칠색조",
+  "Celebi": "세레비",
+  "Treecko": "나무지기",
+  "Grovyle": "나무돌이",
+  "Sceptile": "나무킹",
+  "Torchic": "아차모",
+  "Combusken": "영치코",
+  "Blaziken": "번치코",
+  "Mudkip": "물짱이",
+  "Marshtomp": "늪짱이",
+  "Swampert": "대짱이",
+  "Poochyena": "포챠나",
+  "Mightyena": "그라에나",
+  "Zigzagoon": "지그제구리",
+  "Linoone": "직구리",
+  "Wurmple": "개무소",
+  "Silcoon": "실쿤",
+  "Beautifly": "뷰티플라이",
+  "Cascoon": "카스쿤",
+  "Dustox": "독케일",
+  "Lotad": "연꽃몬",
+  "Lombre": "로토스",
+  "Ludicolo": "로파파",
+  "Seedot": "도토링",
+  "Nuzleaf": "잎새코",
+  "Shiftry": "다탱구",
+  "Taillow": "테일로",
+  "Swellow": "스왈로",
+  "Wingull": "갈모매",
+  "Pelipper": "패리퍼",
+  "Ralts": "랄토스",
+  "Kirlia": "킬리아",
+  "Gardevoir": "가디안",
+  "Surskit": "비구술",
+  "Masquerain": "비나방",
+  "Shroomish": "버섯꼬",
+  "Breloom": "버섯모",
+  "Slakoth": "게을로",
+  "Vigoroth": "발바로",
+  "Slaking": "게을킹",
+  "Nincada": "토중몬",
+  "Ninjask": "아이스크",
+  "Shedinja": "껍질몬",
+  "Whismur": "소곤룡",
+  "Loudred": "노공룡",
+  "Exploud": "폭음룡",
+  "Makuhita": "마크탕",
+  "Hariyama": "하리뭉",
+  "Azurill": "루리리",
+  "Nosepass": "코코파스",
+  "Skitty": "에나비",
+  "Delcatty": "델케티",
+  "Sableye": "깜까미",
+  "Mawile": "입치트",
+  "Aron": "가보리",
+  "Lairon": "갱도라",
+  "Aggron": "보스로라",
+  "Meditite": "요가랑",
+  "Medicham": "요가램",
+  "Electrike": "썬더라이",
+  "Manectric": "썬더볼트",
+  "Plusle": "플러시",
+  "Minun": "마이농",
+  "Volbeat": "볼비트",
+  "Illumise": "네오비트",
+  "Roselia": "로젤리아",
+  "Gulpin": "꼴깍몬",
+  "Swalot": "꿀꺽몬",
+  "Carvanha": "샤프니아",
+  "Sharpedo": "샤크니아",
+  "Wailmer": "고래왕자",
+  "Wailord": "고래왕",
+  "Numel": "둔타",
+  "Camerupt": "폭타",
+  "Torkoal": "코터스",
+  "Spoink": "피그점프",
+  "Grumpig": "피그킹",
+  "Spinda": "얼루기",
+  "Trapinch": "톱치",
+  "Vibrava": "비브라바",
+  "Flygon": "플라이곤",
+  "Cacnea": "선인왕",
+  "Cacturne": "밤선인",
+  "Swablu": "파비코",
+  "Altaria": "파비코리",
+  "Zangoose": "쟝고",
+  "Seviper": "세비퍼",
+  "Lunatone": "루나톤",
+  "Solrock": "솔록",
+  "Barboach": "미꾸리",
+  "Whiscash": "메깅",
+  "Corphish": "가재군",
+  "Crawdaunt": "가재장군",
+  "Baltoy": "오뚝군",
+  "Claydol": "점토도리",
+  "Lileep": "릴링",
+  "Cradily": "릴리요",
+  "Anorith": "아노딥스",
+  "Armaldo": "아말도",
+  "Feebas": "빈티나",
+  "Milotic": "밀로틱",
+  "Castform": "캐스퐁",
+  "Kecleon": "켈리몬",
+  "Shuppet": "어둠대신",
+  "Banette": "다크펫",
+  "Duskull": "해골몽",
+  "Dusclops": "미라몽",
+  "Tropius": "트로피우스",
+  "Chimecho": "치렁",
+  "Absol": "앱솔",
+  "Wynaut": "마자",
+  "Snorunt": "눈꼬마",
+  "Glalie": "얼음귀신",
+  "Spheal": "대굴레오",
+  "Sealeo": "씨레오",
+  "Walrein": "씨카이저",
+  "Clamperl": "진주몽",
+  "Huntail": "헌테일",
+  "Gorebyss": "분홍장이",
+  "Relicanth": "시라칸",
+  "Luvdisc": "사랑동이",
+  "Bagon": "아공이",
+  "Shelgon": "쉘곤",
+  "Salamence": "보만다",
+  "Beldum": "메탕",
+  "Metang": "메탕구",
+  "Metagross": "메타그로스",
+  "Regirock": "레지락",
+  "Regice": "레지아이스",
+  "Registeel": "레지스틸",
+  "Latias": "라티아스",
+  "Latios": "라티오스",
+  "Kyogre": "가이오가",
+  "Groudon": "그란돈",
+  "Rayquaza": "레쿠쟈",
+  "Jirachi": "지라치",
+  "Deoxys": "테오키스",
+  "Turtwig": "모부기",
+  "Grotle": "수풀부기",
+  "Torterra": "토대부기",
+  "Chimchar": "불꽃숭이",
+  "Monferno": "파이숭이",
+  "Infernape": "초염몽",
+  "Piplup": "팽도리",
+  "Prinplup": "팽태자",
+  "Empoleon": "엠페르트",
+  "Starly": "찌르꼬",
+  "Staravia": "찌르버드",
+  "Staraptor": "찌르호크",
+  "Bidoof": "비버니",
+  "Bibarel": "비버통",
+  "Kricketot": "귀뚤뚜기",
+  "Kricketune": "귀뚤톡크",
+  "Shinx": "꼬링크",
+  "Luxio": "럭시오",
+  "Luxray": "렌트라",
+  "Budew": "꼬몽울",
+  "Roserade": "로즈레이드",
+  "Cranidos": "두개도스",
+  "Rampardos": "램펄드",
+  "Shieldon": "방패톱스",
+  "Bastiodon": "바리톱스",
+  "Burmy": "도롱충이",
+  "Wormadam": "도롱마담",
+  "Mothim": "나메일",
+  "Combee": "세꿀버리",
+  "Vespiquen": "비퀸",
+  "Pachirisu": "파치리스",
+  "Buizel": "브이젤",
+  "Floatzel": "플로젤",
+  "Cherubi": "체리버",
+  "Cherrim": "체리꼬",
+  "Shellos": "깝질무",
+  "Gastrodon": "트리토돈",
+  "Ambipom": "겟핸보숭",
+  "Drifloon": "흔들풍손",
+  "Drifblim": "둥실라이드",
+  "Buneary": "이어롤",
+  "Lopunny": "이어롭",
+  "Mismagius": "무우마직",
+  "Honchkrow": "돈크로우",
+  "Glameow": "나옹마",
+  "Purugly": "몬냥이",
+  "Chingling": "랑딸랑",
+  "Stunky": "스컹뿡",
+  "Skuntank": "스컹탱크",
+  "Bronzor": "동미러",
+  "Bronzong": "동탁군",
+  "Bonsly": "꼬지지",
+  "Mime Jr.": "흉내내",
+  "Happiny": "핑복",
+  "Chatot": "페라페",
+  "Spiritomb": "화강돌",
+  "Gible": "딥상어동",
+  "Gabite": "한바이트",
+  "Garchomp": "한카리아스",
+  "Munchlax": "먹고자",
+  "Riolu": "리오르",
+  "Lucario": "루카리오",
+  "Hippopotas": "히포포타스",
+  "Hippowdon": "하마돈",
+  "Skorupi": "스콜피",
+  "Drapion": "드래피온",
+  "Croagunk": "삐딱구리",
+  "Toxicroak": "독개굴",
+  "Carnivine": "무스틈니",
+  "Finneon": "형광어",
+  "Lumineon": "네오라이트",
+  "Mantyke": "타만타",
+  "Snover": "눈쓰개",
+  "Abomasnow": "눈설왕",
+  "Weavile": "포푸니라",
+  "Magnezone": "자포코일",
+  "Lickilicky": "내룸벨트",
+  "Rhyperior": "거대코뿌리",
+  "Tangrowth": "덩쿠림보",
+  "Electivire": "에레키블",
+  "Magmortar": "마그마번",
+  "Togekiss": "토게키스",
+  "Yanmega": "메가자리",
+  "Leafeon": "리피아",
+  "Glaceon": "글레이시아",
+  "Gliscor": "글라이온",
+  "Mamoswine": "맘모꾸리",
+  "Porygon-Z": "폴리곤Z",
+  "Gallade": "엘레이드",
+  "Probopass": "대코파스",
+  "Dusknoir": "야느와르몽",
+  "Froslass": "눈여아",
+  "Rotom": "로토무",
+  "Uxie": "유크시",
+  "Mesprit": "엠라이트",
+  "Azelf": "아그놈",
+  "Dialga": "디아루가",
+  "Palkia": "펄기아",
+  "Heatran": "히드런",
+  "Regigigas": "레지기가스",
+  "Giratina": "기라티나",
+  "Cresselia": "크레세리아",
+  "Phione": "피오네",
+  "Manaphy": "마나피",
+  "Darkrai": "다크라이",
+  "Shaymin": "쉐이미",
+  "Arceus": "아르세우스",
+  "Victini": "비크티니",
+  "Snivy": "주리비얀",
+  "Servine": "샤비",
+  "Serperior": "샤로다",
+  "Tepig": "뚜꾸리",
+  "Pignite": "차오꿀",
+  "Emboar": "염무왕",
+  "Oshawott": "수댕이",
+  "Dewott": "쌍검자비",
+  "Samurott": "대검귀",
+  "Patrat": "보르쥐",
+  "Watchog": "보르그",
+  "Lillipup": "요테리",
+  "Herdier": "하데리어",
+  "Stoutland": "바랜드",
+  "Purrloin": "쌔비냥",
+  "Liepard": "레파르다스",
+  "Pansage": "야나프",
+  "Simisage": "야나키",
+  "Pansear": "바오프",
+  "Simisear": "바오키",
+  "Panpour": "앗차프",
+  "Simipour": "앗차키",
+  "Munna": "몽나",
+  "Musharna": "몽얌나",
+  "Pidove": "콩둘기",
+  "Tranquill": "유토브",
+  "Unfezant": "켄호로우",
+  "Blitzle": "줄뮤마",
+  "Zebstrika": "제브라이카",
+  "Roggenrola": "단굴",
+  "Boldore": "암트르",
+  "Gigalith": "기가이어스",
+  "Woobat": "또르박쥐",
+  "Swoobat": "맘박쥐",
+  "Drilbur": "두더류",
+  "Excadrill": "몰드류",
+  "Audino": "다부니",
+  "Timburr": "으랏차",
+  "Gurdurr": "토쇠골",
+  "Conkeldurr": "노보청",
+  "Tympole": "동챙이",
+  "Palpitoad": "두까비",
+  "Seismitoad": "두빅굴",
+  "Throh": "던지미",
+  "Sawk": "타격귀",
+  "Sewaddle": "두르보",
+  "Swadloon": "두르쿤",
+  "Leavanny": "모아머",
+  "Venipede": "마디네",
+  "Whirlipede": "휠구",
+  "Scolipede": "펜드라",
+  "Cottonee": "소미안",
+  "Whimsicott": "엘풍",
+  "Petilil": "치릴리",
+  "Lilligant": "드레디어",
+  "Basculin": "배쓰나이",
+  "Sandile": "깜눈크",
+  "Krokorok": "악비르",
+  "Krookodile": "악비아르",
+  "Darumaka": "달막화",
+  "Darmanitan": "불비달마",
+  "Maractus": "마라카치",
+  "Dwebble": "돌살이",
+  "Crustle": "암팰리스",
+  "Scraggy": "곤율랭",
+  "Scrafty": "곤율거니",
+  "Sigilyph": "심보러",
+  "Yamask": "데스마스",
+  "Cofagrigus": "데스니칸",
+  "Tirtouga": "프로토가",
+  "Carracosta": "늑골라",
+  "Archen": "아켄",
+  "Archeops": "아케오스",
+  "Trubbish": "깨봉이",
+  "Garbodor": "더스트나",
+  "Zorua": "조로아",
+  "Zoroark": "조로아크",
+  "Minccino": "치라미",
+  "Cinccino": "치라치노",
+  "Gothita": "고디탱",
+  "Gothorita": "고디보미",
+  "Gothitelle": "고디모아젤",
+  "Solosis": "유니란",
+  "Duosion": "듀란",
+  "Reuniclus": "란쿨루스",
+  "Ducklett": "꼬지보리",
+  "Swanna": "스완나",
+  "Vanillite": "바닐프티",
+  "Vanillish": "바닐리치",
+  "Vanilluxe": "배바닐라",
+  "Deerling": "사철록",
+  "Sawsbuck": "바라철록",
+  "Emolga": "에몽가",
+  "Karrablast": "딱정곤",
+  "Escavalier": "슈바르고",
+  "Foongus": "깜놀버슬",
+  "Amoonguss": "뽀록나",
+  "Frillish": "탱그릴",
+  "Jellicent": "탱탱겔",
+  "Alomomola": "맘복치",
+  "Joltik": "파쪼옥",
+  "Galvantula": "전툴라",
+  "Ferroseed": "철시드",
+  "Ferrothorn": "너트령",
+  "Klink": "기어르",
+  "Klang": "기기어르",
+  "Klinklang": "기기기어르",
+  "Tynamo": "저리어",
+  "Eelektrik": "저리릴",
+  "Eelektross": "저리더프",
+  "Elgyem": "리그레",
+  "Beheeyem": "벰크",
+  "Litwick": "불켜미",
+  "Lampent": "램프라",
+  "Chandelure": "샹델라",
+  "Axew": "터검니",
+  "Fraxure": "액슨도",
+  "Haxorus": "액스라이즈",
+  "Cubchoo": "코고미",
+  "Beartic": "툰베어",
+  "Cryogonal": "프리지오",
+  "Shelmet": "쪼마리",
+  "Accelgor": "어지리더",
+  "Stunfisk": "메더",
+  "Mienfoo": "비조푸",
+  "Mienshao": "비조도",
+  "Druddigon": "크리만",
+  "Golett": "골비람",
+  "Golurk": "골루그",
+  "Pawniard": "자망칼",
+  "Bisharp": "절각참",
+  "Bouffalant": "버프론",
+  "Rufflet": "수리둥보",
+  "Braviary": "워글",
+  "Vullaby": "벌차이",
+  "Mandibuzz": "버랜지나",
+  "Heatmor": "앤티골",
+  "Durant": "아이앤트",
+  "Deino": "모노두",
+  "Zweilous": "디헤드",
+  "Hydreigon": "삼삼드래",
+  "Larvesta": "활화르바",
+  "Volcarona": "불카모스",
+  "Cobalion": "코바르온",
+  "Terrakion": "테라키온",
+  "Virizion": "비리디온",
+  "Tornadus": "토네로스",
+  "Thundurus": "볼트로스",
+  "Reshiram": "레시라무",
+  "Zekrom": "제크로무",
+  "Landorus": "랜드로스",
+  "Kyurem": "큐레무",
+  "Keldeo": "케르디오",
+  "Meloetta": "메로엣타",
+  "Genesect": "게노세크트",
+  "Chespin": "도치마론",
+  "Quilladin": "도치보구",
+  "Chesnaught": "브리가론",
+  "Fennekin": "푸호꼬",
+  "Braixen": "테르나",
+  "Delphox": "마폭시",
+  "Froakie": "개구마르",
+  "Frogadier": "개굴반장",
+  "Greninja": "개굴닌자",
+  "Bunnelby": "파르빗",
+  "Diggersby": "파르토",
+  "Fletchling": "화살꼬빈",
+  "Fletchinder": "불화살빈",
+  "Talonflame": "파이어로",
+  "Scatterbug": "분이벌레",
+  "Spewpa": "분떠도리",
+  "Vivillon": "비비용",
+  "Litleo": "레오꼬",
+  "Pyroar": "화염레오",
+  "Flabébé": "플라베베",
+  "Floette": "플라엣테",
+  "Florges": "플라제스",
+  "Skiddo": "메이클",
+  "Gogoat": "고고트",
+  "Pancham": "판짱",
+  "Pangoro": "부란다",
+  "Furfrou": "트리미앙",
+  "Espurr": "냐스퍼",
+  "Meowstic": "냐오닉스",
+  "Honedge": "단칼빙",
+  "Doublade": "쌍검킬",
+  "Aegislash": "킬가르도",
+  "Spritzee": "슈쁘",
+  "Aromatisse": "프레프티르",
+  "Swirlix": "나룸퍼프",
+  "Slurpuff": "나루림",
+  "Inkay": "오케이징",
+  "Malamar": "칼라마네로",
+  "Binacle": "거북손손",
+  "Barbaracle": "거북손데스",
+  "Skrelp": "수레기",
+  "Dragalge": "드래캄",
+  "Clauncher": "완철포",
+  "Clawitzer": "블로스터",
+  "Helioptile": "목도리키텔",
+  "Heliolisk": "일레도리자드",
+  "Tyrunt": "티고라스",
+  "Tyrantrum": "견고라스",
+  "Amaura": "아마루스",
+  "Aurorus": "아마루르가",
+  "Sylveon": "님피아",
+  "Hawlucha": "루차불",
+  "Dedenne": "데덴네",
+  "Carbink": "멜리시",
+  "Goomy": "미끄메라",
+  "Sliggoo": "미끄네일",
+  "Goodra": "미끄래곤",
+  "Klefki": "클레피",
+  "Phantump": "나목령",
+  "Trevenant": "대로트",
+  "Pumpkaboo": "호바귀",
+  "Gourgeist": "펌킨인",
+  "Bergmite": "꽁어름",
+  "Avalugg": "크레베이스",
+  "Noibat": "음뱃",
+  "Noivern": "음번",
+  "Xerneas": "제르네아스",
+  "Yveltal": "이벨타르",
+  "Zygarde": "지가르데",
+  "Diancie": "디안시",
+  "Hoopa": "후파",
+  "Volcanion": "볼케니온",
+  "Rowlet": "나몰빼미",
+  "Dartrix": "빼미스로우",
+  "Decidueye": "모크나이퍼",
+  "Litten": "냐오불",
+  "Torracat": "냐오히트",
+  "Incineroar": "어흥염",
+  "Popplio": "누리공",
+  "Brionne": "키요공",
+  "Primarina": "누리레느",
+  "Pikipek": "콕코구리",
+  "Trumbeak": "크라파",
+  "Toucannon": "왕큰부리",
+  "Yungoos": "영구스",
+  "Gumshoos": "형사구스",
+  "Grubbin": "턱지충이",
+  "Charjabug": "전지충이",
+  "Vikavolt": "투구뿌논",
+  "Crabrawler": "오기지게",
+  "Crabominable": "모단단게",
+  "Oricorio": "춤추새",
+  "Cutiefly": "에블리",
+  "Ribombee": "에리본",
+  "Rockruff": "암멍이",
+  "Lycanroc": "루가루암",
+  "Wishiwashi": "약어리",
+  "Mareanie": "시마사리",
+  "Toxapex": "더시마사리",
+  "Mudbray": "머드나기",
+  "Mudsdale": "만마드",
+  "Dewpider": "물거미",
+  "Araquanid": "깨비물거미",
+  "Fomantis": "짜랑랑",
+  "Lurantis": "라란티스",
+  "Morelull": "자마슈",
+  "Shiinotic": "마셰이드",
+  "Salandit": "야도뇽",
+  "Salazzle": "염뉴트",
+  "Stufful": "포곰곰",
+  "Bewear": "이븐곰",
+  "Bounsweet": "달콤아",
+  "Steenee": "달무리나",
+  "Tsareena": "달코퀸",
+  "Comfey": "큐아링",
+  "Oranguru": "하랑우탄",
+  "Passimian": "내던숭이",
+  "Wimpod": "꼬시레",
+  "Golisopod": "갑주무사",
+  "Sandygast": "모래꿍",
+  "Palossand": "모래성이당",
+  "Pyukumuku": "해무기",
+  "Type: Null": "타입:널",
+  "Silvally": "실버디",
+  "Minior": "메테노",
+  "Komala": "자말라",
+  "Turtonator": "폭거북스",
+  "Togedemaru": "토게데마루",
+  "Mimikyu": "따라큐",
+  "Bruxish": "치갈기",
+  "Drampa": "할비롱",
+  "Dhelmise": "타타륜",
+  "Jangmo-o": "짜랑꼬",
+  "Hakamo-o": "짜랑고우",
+  "Kommo-o": "짜랑고우거",
+  "Tapu Koko": "카푸꼬꼬꼭",
+  "Tapu Lele": "카푸나비나",
+  "Tapu Bulu": "카푸브루루",
+  "Tapu Fini": "카푸느지느",
+  "Cosmog": "코스모그",
+  "Cosmoem": "코스모움",
+  "Solgaleo": "솔가레오",
+  "Lunala": "루나아라",
+  "Nihilego": "텅비드",
+  "Buzzwole": "매시붕",
+  "Pheromosa": "페로코체",
+  "Xurkitree": "전수목",
+  "Celesteela": "철화구야",
+  "Kartana": "종이신도",
+  "Guzzlord": "악식킹",
+  "Necrozma": "네크로즈마",
+  "Magearna": "마기아나",
+  "Marshadow": "마샤도",
+  "Poipole": "베베놈",
+  "Naganadel": "아고용",
+  "Stakataka": "차곡차곡",
+  "Blacephalon": "두파팡",
+  "Zeraora": "제라오라",
+  "Meltan": "멜탄",
+  "Melmetal": "멜메탈",
+  "Grookey": "흥나숭",
+  "Thwackey": "채키몽",
+  "Rillaboom": "고릴타",
+  "Scorbunny": "염버니",
+  "Raboot": "래비풋",
+  "Cinderace": "에이스번",
+  "Sobble": "울머기",
+  "Drizzile": "누겔레온",
+  "Inteleon": "인텔리레온",
+  "Skwovet": "탐리스",
+  "Greedent": "요씽리스",
+  "Rookidee": "파라꼬",
+  "Corvisquire": "파크로우",
+  "Corviknight": "아머까오",
+  "Blipbug": "두루지벌레",
+  "Dottler": "레돔벌레",
+  "Orbeetle": "이올브",
+  "Nickit": "훔처우",
+  "Thievul": "폭슬라이",
+  "Gossifleur": "꼬모카",
+  "Eldegoss": "백솜모카",
+  "Wooloo": "우르",
+  "Dubwool": "배우르",
+  "Chewtle": "깨물부기",
+  "Drednaw": "갈가부기",
+  "Yamper": "멍파치",
+  "Boltund": "펄스멍",
+  "Rolycoly": "탄동",
+  "Carkol": "탄차곤",
+  "Coalossal": "석탄산",
+  "Applin": "과사삭벌레",
+  "Flapple": "애프룡",
+  "Appletun": "단지래플",
+  "Silicobra": "모래뱀",
+  "Sandaconda": "사다이사",
+  "Cramorant": "윽우지",
+  "Arrokuda": "찌로꼬치",
+  "Barraskewda": "꼬치조",
+  "Toxel": "일레즌",
+  "Toxtricity": "스트린더",
+  "Sizzlipede": "태우지네",
+  "Centiskorch": "다태우지네",
+  "Clobbopus": "때때무노",
+  "Grapploct": "케오퍼스",
+  "Sinistea": "데인차",
+  "Polteageist": "포트데스",
+  "Hatenna": "몸지브림",
+  "Hattrem": "손지브림",
+  "Hatterene": "브리무음",
+  "Impidimp": "메롱꿍",
+  "Morgrem": "쏘겨모",
+  "Grimmsnarl": "오롱털",
+  "Obstagoon": "가로막구리",
+  "Perrserker": "나이킹",
+  "Cursola": "산호르곤",
+  "Sirfetch’d": "창파나이트",
+  "Mr. Rime": "마임꽁꽁",
+  "Runerigus": "데스판",
+  "Milcery": "마빌크",
+  "Alcremie": "마휘핑",
+  "Falinks": "대여르",
+  "Pincurchin": "찌르성게",
+  "Snom": "누니머기",
+  "Frosmoth": "모스노우",
+  "Stonjourner": "돌헨진",
+  "Eiscue": "빙큐보",
+  "Indeedee": "에써르",
+  "Morpeko": "모르페코",
+  "Cufant": "끼리동",
+  "Copperajah": "대왕끼리동",
+  "Dracozolt": "파치래곤",
+  "Arctozolt": "파치르돈",
+  "Dracovish": "어래곤",
+  "Arctovish": "어치르돈",
+  "Duraludon": "두랄루돈",
+  "Dreepy": "드라꼰",
+  "Drakloak": "드래런치",
+  "Dragapult": "드래펄트",
+  "Zacian": "자시안",
+  "Zamazenta": "자마젠타",
+  "Eternatus": "무한다이노",
+  "Kubfu": "치고마",
+  "Urshifu": "우라오스",
+  "Zarude": "자루도",
+  "Regieleki": "레지에레키",
+  "Regidrago": "레지드래고",
+  "Glastrier": "블리자포스",
+  "Spectrier": "레이스포스",
+  "Calyrex": "버드렉스",
+  "Wyrdeer": "신비록",
+  "Kleavor": "사마자르",
+  "Ursaluna": "다투곰",
+  "Basculegion": "대쓰여너",
+  "Sneasler": "포푸니크",
+  "Overqwil": "장침바루",
+  "Enamorus": "러브로스",
+  "Sprigatito": "나오하",
+  "Floragato": "나로테",
+  "Meowscarada": "마스카나",
+  "Fuecoco": "뜨아거",
+  "Crocalor": "악뜨거",
+  "Skeledirge": "라우드본",
+  "Quaxly": "꾸왁스",
+  "Quaxwell": "아꾸왁",
+  "Quaquaval": "웨이니발",
+  "Lechonk": "맛보돈",
+  "Oinkologne": "퍼퓨돈",
+  "Tarountula": "타랜툴라",
+  "Spidops": "트래피더",
+  "Nymble": "콩알뚜기",
+  "Lokix": "엑스레그",
+  "Pawmi": "빠모",
+  "Pawmo": "빠모트",
+  "Pawmot": "빠르모트",
+  "Tandemaus": "두리쥐",
+  "Maushold": "파밀리쥐",
+  "Fidough": "쫀도기",
+  "Dachsbun": "바우첼",
+  "Smoliv": "미니브",
+  "Dolliv": "올리뇨",
+  "Arboliva": "올리르바",
+  "Squawkabilly": "시비꼬",
+  "Nacli": "베베솔트",
+  "Naclstack": "스태솔트",
+  "Garganacl": "콜로솔트",
+  "Charcadet": "카르본",
+  "Armarouge": "카디나르마",
+  "Ceruledge": "파라블레이즈",
+  "Tadbulb": "빈나두",
+  "Bellibolt": "찌리배리",
+  "Wattrel": "찌리비",
+  "Kilowattrel": "찌리비크",
+  "Maschiff": "오라티프",
+  "Mabosstiff": "마피티프",
+  "Shroodle": "땃쭈르",
+  "Grafaiai": "태깅구르",
+  "Bramblin": "그푸리",
+  "Brambleghast": "공푸리",
+  "Toedscool": "들눈해",
+  "Toedscruel": "육파리",
+  "Klawf": "절벼게",
+  "Capsakid": "캡싸이",
+  "Scovillain": "스코빌런",
+  "Rellor": "구르데",
+  "Rabsca": "베라카스",
+  "Flittle": "하느라기",
+  "Espathra": "클레스퍼트라",
+  "Tinkatink": "어리짱",
+  "Tinkatuff": "벼리짱",
+  "Tinkaton": "두드리짱",
+  "Wiglett": "바다그다",
+  "Wugtrio": "바닥트리오",
+  "Bombirdier": "떨구새",
+  "Finizen": "맨돌핀",
+  "Palafin": "돌핀맨",
+  "Varoom": "부르롱",
+  "Revavroom": "부르르룸",
+  "Cyclizar": "모토마",
+  "Orthworm": "꿈트렁",
+  "Glimmet": "초롱순",
+  "Glimmora": "킬라플로르",
+  "Greavard": "망망이",
+  "Houndstone": "묘두기",
+  "Flamigo": "꼬이밍고",
+  "Cetoddle": "터벅고래",
+  "Cetitan": "우락고래",
+  "Veluza": "가비루사",
+  "Dondozo": "어써러셔",
+  "Tatsugiri": "싸리용",
+  "Annihilape": "저승갓숭",
+  "Clodsire": "토오",
+  "Farigiraf": "키키링",
+  "Dudunsparce": "노고고치",
+  "Kingambit": "대도각참",
+  "Great Tusk": "위대한엄니",
+  "Scream Tail": "우렁찬꼬리",
+  "Brute Bonnet": "사나운버섯",
+  "Flutter Mane": "날개치는머리",
+  "Slither Wing": "땅을기는날개",
+  "Sandy Shocks": "모래털가죽",
+  "Iron Treads": "무쇠바퀴",
+  "Iron Bundle": "무쇠보따리",
+  "Iron Hands": "무쇠손",
+  "Iron Jugulis": "무쇠머리",
+  "Iron Moth": "무쇠독나방",
+  "Iron Thorns": "무쇠가시",
+  "Frigibax": "드니차",
+  "Arctibax": "드니꽁",
+  "Baxcalibur": "드닐레이브",
+  "Gimmighoul": "모으령",
+  "Gholdengo": "타부자고",
+  "Wo-Chien": "총지엔",
+  "Chien-Pao": "파오젠",
+  "Ting-Lu": "딩루",
+  "Chi-Yu": "위유이",
+  "Roaring Moon": "고동치는달",
+  "Iron Valiant": "무쇠무인",
+  "Koraidon": "코라이돈",
+  "Miraidon": "미라이돈",
+  "Walking Wake": "굽이치는물결",
+  "Iron Leaves": "무쇠잎새",
+  "Dipplin": "과미르",
+  "Poltchageist": "차데스",
+  "Sinistcha": "그우린차",
+  "Okidogi": "조타구",
+  "Munkidori": "이야후",
+  "Fezandipiti": "기로치",
+  "Ogerpon": "오거폰",
+  "Archaludon": "브리두라스",
+  "Hydrapple": "과미드라",
+  "Gouging Fire": "꿰뚫는화염",
+  "Raging Bolt": "날뛰는우레",
+  "Iron Boulder": "무쇠암석",
+  "Iron Crown": "무쇠감투",
+  "Terapagos": "테라파고스",
+  "Pecharunt": "복숭악동"
+ },
+ "move": {
+  "Pound": "막치기",
+  "Karate Chop": "태권당수",
+  "Double Slap": "연속뺨치기",
+  "Comet Punch": "연속펀치",
+  "Mega Punch": "메가톤펀치",
+  "Pay Day": "고양이돈받기",
+  "Fire Punch": "불꽃펀치",
+  "Ice Punch": "냉동펀치",
+  "Thunder Punch": "번개펀치",
+  "Scratch": "할퀴기",
+  "Vise Grip": "찝기",
+  "Guillotine": "가위자르기",
+  "Razor Wind": "칼바람",
+  "Swords Dance": "칼춤",
+  "Cut": "풀베기",
+  "Gust": "바람일으키기",
+  "Wing Attack": "날개치기",
+  "Whirlwind": "날려버리기",
+  "Fly": "공중날기",
+  "Bind": "조이기",
+  "Slam": "힘껏치기",
+  "Vine Whip": "덩굴채찍",
+  "Stomp": "짓밟기",
+  "Double Kick": "두번치기",
+  "Mega Kick": "메가톤킥",
+  "Jump Kick": "점프킥",
+  "Rolling Kick": "돌려차기",
+  "Sand Attack": "모래뿌리기",
+  "Headbutt": "박치기",
+  "Horn Attack": "뿔찌르기",
+  "Fury Attack": "마구찌르기",
+  "Horn Drill": "뿔드릴",
+  "Tackle": "몸통박치기",
+  "Body Slam": "누르기",
+  "Wrap": "김밥말이",
+  "Take Down": "돌진",
+  "Thrash": "난동부리기",
+  "Double-Edge": "이판사판태클",
+  "Tail Whip": "꼬리흔들기",
+  "Poison Sting": "독침",
+  "Twineedle": "더블니들",
+  "Pin Missile": "바늘미사일",
+  "Leer": "째려보기",
+  "Bite": "물기",
+  "Growl": "울음소리",
+  "Roar": "울부짖기",
+  "Sing": "노래하기",
+  "Supersonic": "초음파",
+  "Sonic Boom": "소닉붐",
+  "Disable": "사슬묶기",
+  "Acid": "용해액",
+  "Ember": "불꽃세례",
+  "Flamethrower": "화염방사",
+  "Mist": "흰안개",
+  "Water Gun": "물대포",
+  "Hydro Pump": "하이드로펌프",
+  "Surf": "파도타기",
+  "Ice Beam": "냉동빔",
+  "Blizzard": "눈보라",
+  "Psybeam": "환상빔",
+  "Bubble Beam": "거품광선",
+  "Aurora Beam": "오로라빔",
+  "Hyper Beam": "파괴광선",
+  "Peck": "쪼기",
+  "Drill Peck": "회전부리",
+  "Submission": "지옥의바퀴",
+  "Low Kick": "안다리걸기",
+  "Counter": "카운터",
+  "Seismic Toss": "지구던지기",
+  "Strength": "괴력",
+  "Absorb": "흡수",
+  "Mega Drain": "메가드레인",
+  "Leech Seed": "씨뿌리기",
+  "Growth": "성장",
+  "Razor Leaf": "잎날가르기",
+  "Solar Beam": "솔라빔",
+  "Poison Powder": "독가루",
+  "Stun Spore": "저리가루",
+  "Sleep Powder": "수면가루",
+  "Petal Dance": "꽃잎댄스",
+  "String Shot": "실뿜기",
+  "Dragon Rage": "용의분노",
+  "Fire Spin": "회오리불꽃",
+  "Thunder Shock": "전기쇼크",
+  "Thunderbolt": "10만볼트",
+  "Thunder Wave": "전기자석파",
+  "Thunder": "번개",
+  "Rock Throw": "돌떨구기",
+  "Earthquake": "지진",
+  "Fissure": "땅가르기",
+  "Dig": "구멍파기",
+  "Toxic": "맹독",
+  "Confusion": "염동력",
+  "Psychic": "사이코키네시스",
+  "Hypnosis": "최면술",
+  "Meditate": "요가포즈",
+  "Agility": "고속이동",
+  "Quick Attack": "전광석화",
+  "Rage": "분노",
+  "Teleport": "순간이동",
+  "Night Shade": "나이트헤드",
+  "Mimic": "흉내내기",
+  "Screech": "싫은소리",
+  "Double Team": "그림자분신",
+  "Recover": "HP회복",
+  "Harden": "단단해지기",
+  "Minimize": "작아지기",
+  "Smokescreen": "연막",
+  "Confuse Ray": "이상한빛",
+  "Withdraw": "껍질에숨기",
+  "Defense Curl": "웅크리기",
+  "Barrier": "배리어",
+  "Light Screen": "빛의장막",
+  "Haze": "흑안개",
+  "Reflect": "리플렉터",
+  "Focus Energy": "기충전",
+  "Bide": "참기",
+  "Metronome": "손가락흔들기",
+  "Mirror Move": "따라하기",
+  "Self-Destruct": "자폭",
+  "Egg Bomb": "알폭탄",
+  "Lick": "핥기",
+  "Smog": "스모그",
+  "Sludge": "오물공격",
+  "Bone Club": "뼈다귀치기",
+  "Fire Blast": "불대문자",
+  "Waterfall": "폭포오르기",
+  "Clamp": "껍질끼우기",
+  "Swift": "스피드스타",
+  "Skull Bash": "로케트박치기",
+  "Spike Cannon": "가시대포",
+  "Constrict": "휘감기",
+  "Amnesia": "망각술",
+  "Kinesis": "숟가락휘기",
+  "Soft-Boiled": "알낳기",
+  "High Jump Kick": "무릎차기",
+  "Glare": "뱀눈초리",
+  "Dream Eater": "꿈먹기",
+  "Poison Gas": "독가스",
+  "Barrage": "구슬던지기",
+  "Leech Life": "흡혈",
+  "Lovely Kiss": "악마의키스",
+  "Sky Attack": "불새",
+  "Transform": "변신",
+  "Bubble": "거품",
+  "Dizzy Punch": "잼잼펀치",
+  "Spore": "버섯포자",
+  "Flash": "플래시",
+  "Psywave": "사이코웨이브",
+  "Splash": "튀어오르기",
+  "Acid Armor": "녹기",
+  "Crabhammer": "찝게햄머",
+  "Explosion": "대폭발",
+  "Fury Swipes": "마구할퀴기",
+  "Bonemerang": "뼈다귀부메랑",
+  "Rest": "잠자기",
+  "Rock Slide": "스톤샤워",
+  "Hyper Fang": "필살앞니",
+  "Sharpen": "각지기",
+  "Conversion": "텍스처",
+  "Tri Attack": "트라이어택",
+  "Super Fang": "분노의앞니",
+  "Slash": "베어가르기",
+  "Substitute": "대타출동",
+  "Struggle": "발버둥",
+  "Sketch": "스케치",
+  "Triple Kick": "트리플킥",
+  "Thief": "도둑질",
+  "Spider Web": "거미집",
+  "Mind Reader": "마음의눈",
+  "Nightmare": "악몽",
+  "Flame Wheel": "화염자동차",
+  "Snore": "코골기",
+  "Curse": "저주",
+  "Flail": "바둥바둥",
+  "Conversion 2": "텍스처2",
+  "Aeroblast": "에어로블라스트",
+  "Cotton Spore": "목화포자",
+  "Reversal": "기사회생",
+  "Spite": "원한",
+  "Powder Snow": "눈싸라기",
+  "Protect": "방어",
+  "Mach Punch": "마하펀치",
+  "Scary Face": "겁나는얼굴",
+  "Feint Attack": "속여때리기",
+  "Sweet Kiss": "천사의키스",
+  "Belly Drum": "배북",
+  "Sludge Bomb": "오물폭탄",
+  "Mud-Slap": "진흙뿌리기",
+  "Octazooka": "대포무노포",
+  "Spikes": "압정뿌리기",
+  "Zap Cannon": "전자포",
+  "Foresight": "꿰뚫어보기",
+  "Destiny Bond": "길동무",
+  "Perish Song": "멸망의노래",
+  "Icy Wind": "얼다바람",
+  "Detect": "판별",
+  "Bone Rush": "본러쉬",
+  "Lock-On": "록온",
+  "Outrage": "역린",
+  "Sandstorm": "모래바람",
+  "Giga Drain": "기가드레인",
+  "Endure": "버티기",
+  "Charm": "애교부리기",
+  "Rollout": "구르기",
+  "False Swipe": "칼등치기",
+  "Swagger": "뽐내기",
+  "Milk Drink": "우유마시기",
+  "Spark": "스파크",
+  "Fury Cutter": "연속자르기",
+  "Steel Wing": "강철날개",
+  "Mean Look": "검은눈빛",
+  "Attract": "헤롱헤롱",
+  "Sleep Talk": "잠꼬대",
+  "Heal Bell": "치료방울",
+  "Return": "은혜갚기",
+  "Present": "프레젠트",
+  "Frustration": "화풀이",
+  "Safeguard": "신비의부적",
+  "Pain Split": "아픔나누기",
+  "Sacred Fire": "성스러운불꽃",
+  "Magnitude": "매그니튜드",
+  "Dynamic Punch": "폭발펀치",
+  "Megahorn": "메가폰",
+  "Dragon Breath": "용의숨결",
+  "Baton Pass": "바톤터치",
+  "Encore": "앵콜",
+  "Pursuit": "따라가때리기",
+  "Rapid Spin": "고속스핀",
+  "Sweet Scent": "달콤한향기",
+  "Iron Tail": "아이언테일",
+  "Metal Claw": "메탈크로우",
+  "Vital Throw": "받아던지기",
+  "Morning Sun": "아침햇살",
+  "Synthesis": "광합성",
+  "Moonlight": "달의불빛",
+  "Hidden Power": "잠재파워",
+  "Cross Chop": "크로스촙",
+  "Twister": "회오리",
+  "Rain Dance": "비바라기",
+  "Sunny Day": "쾌청",
+  "Crunch": "깨물어부수기",
+  "Mirror Coat": "미러코트",
+  "Psych Up": "자기암시",
+  "Extreme Speed": "신속",
+  "Ancient Power": "원시의힘",
+  "Shadow Ball": "섀도볼",
+  "Future Sight": "미래예지",
+  "Rock Smash": "바위깨기",
+  "Whirlpool": "바다회오리",
+  "Beat Up": "집단구타",
+  "Fake Out": "속이다",
+  "Uproar": "소란피기",
+  "Stockpile": "비축하기",
+  "Spit Up": "토해내기",
+  "Swallow": "꿀꺽",
+  "Heat Wave": "열풍",
+  "Hail": "싸라기눈",
+  "Torment": "트집",
+  "Flatter": "부추기기",
+  "Will-O-Wisp": "도깨비불",
+  "Memento": "추억의선물",
+  "Facade": "객기",
+  "Focus Punch": "힘껏펀치",
+  "Smelling Salts": "정신차리기",
+  "Follow Me": "날따름",
+  "Nature Power": "자연의힘",
+  "Charge": "충전",
+  "Taunt": "도발",
+  "Helping Hand": "도우미",
+  "Trick": "트릭",
+  "Role Play": "역할",
+  "Wish": "희망사항",
+  "Assist": "조수",
+  "Ingrain": "뿌리박기",
+  "Superpower": "엄청난힘",
+  "Magic Coat": "매직코트",
+  "Recycle": "리사이클",
+  "Revenge": "리벤지",
+  "Brick Break": "깨트리다",
+  "Yawn": "하품",
+  "Knock Off": "탁쳐서떨구기",
+  "Endeavor": "죽기살기",
+  "Eruption": "분화",
+  "Skill Swap": "스킬스웹",
+  "Imprison": "봉인",
+  "Refresh": "리프레쉬",
+  "Grudge": "원념",
+  "Snatch": "가로챔",
+  "Secret Power": "비밀의힘",
+  "Dive": "다이빙",
+  "Arm Thrust": "손바닥치기",
+  "Camouflage": "보호색",
+  "Tail Glow": "반딧불",
+  "Luster Purge": "라스트버지",
+  "Mist Ball": "미스트볼",
+  "Feather Dance": "깃털댄스",
+  "Teeter Dance": "흔들흔들댄스",
+  "Blaze Kick": "브레이즈킥",
+  "Mud Sport": "흙놀이",
+  "Ice Ball": "아이스볼",
+  "Needle Arm": "바늘팔",
+  "Slack Off": "태만함",
+  "Hyper Voice": "하이퍼보이스",
+  "Poison Fang": "독엄니",
+  "Crush Claw": "브레이크크루",
+  "Blast Burn": "블러스트번",
+  "Hydro Cannon": "하이드로캐논",
+  "Meteor Mash": "코멧펀치",
+  "Astonish": "놀래키기",
+  "Weather Ball": "웨더볼",
+  "Aromatherapy": "아로마테라피",
+  "Fake Tears": "거짓울음",
+  "Air Cutter": "에어컷터",
+  "Overheat": "오버히트",
+  "Odor Sleuth": "냄새구별",
+  "Rock Tomb": "암석봉인",
+  "Silver Wind": "은빛바람",
+  "Metal Sound": "금속음",
+  "Grass Whistle": "풀피리",
+  "Tickle": "간지르기",
+  "Cosmic Power": "코스믹파워",
+  "Water Spout": "해수스파우팅",
+  "Signal Beam": "시그널빔",
+  "Shadow Punch": "섀도펀치",
+  "Extrasensory": "신통력",
+  "Sky Uppercut": "스카이업퍼",
+  "Sand Tomb": "모래지옥",
+  "Sheer Cold": "절대영도",
+  "Muddy Water": "탁류",
+  "Bullet Seed": "기관총",
+  "Aerial Ace": "제비반환",
+  "Icicle Spear": "고드름침",
+  "Iron Defense": "철벽",
+  "Block": "블록",
+  "Howl": "멀리짖음",
+  "Dragon Claw": "드래곤크루",
+  "Frenzy Plant": "하드플랜트",
+  "Bulk Up": "벌크업",
+  "Bounce": "뛰어오르다",
+  "Mud Shot": "머드숏",
+  "Poison Tail": "포이즌테일",
+  "Covet": "탐내다",
+  "Volt Tackle": "볼트태클",
+  "Magical Leaf": "메지컬리프",
+  "Water Sport": "물놀이",
+  "Calm Mind": "명상",
+  "Leaf Blade": "리프블레이드",
+  "Dragon Dance": "용의춤",
+  "Rock Blast": "락블레스트",
+  "Shock Wave": "전격파",
+  "Water Pulse": "물의파동",
+  "Doom Desire": "파멸의소원",
+  "Psycho Boost": "사이코부스트",
+  "Roost": "날개쉬기",
+  "Gravity": "중력",
+  "Miracle Eye": "미라클아이",
+  "Wake-Up Slap": "잠깨움뺨치기",
+  "Hammer Arm": "암해머",
+  "Gyro Ball": "자이로볼",
+  "Healing Wish": "치유소원",
+  "Brine": "소금물",
+  "Natural Gift": "자연의은혜",
+  "Feint": "페인트",
+  "Pluck": "쪼아대기",
+  "Tailwind": "순풍",
+  "Acupressure": "경혈찌르기",
+  "Metal Burst": "메탈버스트",
+  "U-turn": "유턴",
+  "Close Combat": "인파이트",
+  "Payback": "보복",
+  "Assurance": "승부굳히기",
+  "Embargo": "금제",
+  "Fling": "내던지기",
+  "Psycho Shift": "사이코시프트",
+  "Trump Card": "마지막수단",
+  "Heal Block": "회복봉인",
+  "Wring Out": "쥐어짜기",
+  "Power Trick": "파워트릭",
+  "Gastro Acid": "위액",
+  "Lucky Chant": "주술",
+  "Me First": "선취",
+  "Copycat": "흉내쟁이",
+  "Power Swap": "파워스웹",
+  "Guard Swap": "가드스웹",
+  "Punishment": "혼내기",
+  "Last Resort": "뒀다쓰기",
+  "Worry Seed": "고민씨",
+  "Sucker Punch": "기습",
+  "Toxic Spikes": "독압정",
+  "Heart Swap": "하트스웹",
+  "Aqua Ring": "아쿠아링",
+  "Magnet Rise": "전자부유",
+  "Flare Blitz": "플레어드라이브",
+  "Force Palm": "발경",
+  "Aura Sphere": "파동탄",
+  "Rock Polish": "록커트",
+  "Poison Jab": "독찌르기",
+  "Dark Pulse": "악의파동",
+  "Night Slash": "깜짝베기",
+  "Aqua Tail": "아쿠아테일",
+  "Seed Bomb": "씨폭탄",
+  "Air Slash": "에어슬래시",
+  "X-Scissor": "시저크로스",
+  "Bug Buzz": "벌레의야단법석",
+  "Dragon Pulse": "용의파동",
+  "Dragon Rush": "드래곤다이브",
+  "Power Gem": "파워젬",
+  "Drain Punch": "드레인펀치",
+  "Vacuum Wave": "진공파",
+  "Focus Blast": "기합구슬",
+  "Energy Ball": "에너지볼",
+  "Brave Bird": "브레이브버드",
+  "Earth Power": "대지의힘",
+  "Switcheroo": "바꿔치기",
+  "Giga Impact": "기가임팩트",
+  "Nasty Plot": "나쁜음모",
+  "Bullet Punch": "불릿펀치",
+  "Avalanche": "눈사태",
+  "Ice Shard": "얼음뭉치",
+  "Shadow Claw": "섀도크루",
+  "Thunder Fang": "번개엄니",
+  "Ice Fang": "얼음엄니",
+  "Fire Fang": "불꽃엄니",
+  "Shadow Sneak": "야습",
+  "Mud Bomb": "진흙폭탄",
+  "Psycho Cut": "사이코커터",
+  "Zen Headbutt": "사념의박치기",
+  "Mirror Shot": "미러숏",
+  "Flash Cannon": "러스터캐논",
+  "Rock Climb": "락클라임",
+  "Defog": "안개제거",
+  "Trick Room": "트릭룸",
+  "Draco Meteor": "용성군",
+  "Discharge": "방전",
+  "Lava Plume": "분연",
+  "Leaf Storm": "리프스톰",
+  "Power Whip": "파워휩",
+  "Rock Wrecker": "암석포",
+  "Cross Poison": "크로스포이즌",
+  "Gunk Shot": "더스트슈트",
+  "Iron Head": "아이언헤드",
+  "Magnet Bomb": "마그넷봄",
+  "Stone Edge": "스톤에지",
+  "Captivate": "유혹",
+  "Stealth Rock": "스텔스록",
+  "Grass Knot": "풀묶기",
+  "Chatter": "수다",
+  "Judgment": "심판의뭉치",
+  "Bug Bite": "벌레먹음",
+  "Charge Beam": "차지빔",
+  "Wood Hammer": "우드해머",
+  "Aqua Jet": "아쿠아제트",
+  "Attack Order": "공격지령",
+  "Defend Order": "방어지령",
+  "Heal Order": "회복지령",
+  "Head Smash": "양날박치기",
+  "Double Hit": "더블어택",
+  "Roar of Time": "시간의포효",
+  "Spacial Rend": "공간절단",
+  "Lunar Dance": "초승달춤",
+  "Crush Grip": "묵사발",
+  "Magma Storm": "마그마스톰",
+  "Dark Void": "다크홀",
+  "Seed Flare": "시드플레어",
+  "Ominous Wind": "괴상한바람",
+  "Shadow Force": "섀도다이브",
+  "Hone Claws": "손톱갈기",
+  "Wide Guard": "와이드가드",
+  "Guard Split": "가드셰어",
+  "Power Split": "파워셰어",
+  "Wonder Room": "원더룸",
+  "Psyshock": "사이코쇼크",
+  "Venoshock": "베놈쇼크",
+  "Autotomize": "바디퍼지",
+  "Rage Powder": "분노가루",
+  "Telekinesis": "텔레키네시스",
+  "Magic Room": "매직룸",
+  "Smack Down": "떨어뜨리기",
+  "Storm Throw": "업어후리기",
+  "Flame Burst": "불꽃튀기기",
+  "Sludge Wave": "오물웨이브",
+  "Quiver Dance": "나비춤",
+  "Heavy Slam": "헤비봄버",
+  "Synchronoise": "싱크로노이즈",
+  "Electro Ball": "일렉트릭볼",
+  "Soak": "물붓기",
+  "Flame Charge": "니트로차지",
+  "Coil": "똬리틀기",
+  "Low Sweep": "로킥",
+  "Acid Spray": "애시드봄",
+  "Foul Play": "속임수",
+  "Simple Beam": "심플빔",
+  "Entrainment": "동료만들기",
+  "After You": "당신먼저",
+  "Round": "돌림노래",
+  "Echoed Voice": "에코보이스",
+  "Chip Away": "야금야금",
+  "Clear Smog": "클리어스모그",
+  "Stored Power": "어시스트파워",
+  "Quick Guard": "퍼스트가드",
+  "Ally Switch": "사이드체인지",
+  "Scald": "열탕",
+  "Shell Smash": "껍질깨기",
+  "Heal Pulse": "치유파동",
+  "Hex": "병상첨병",
+  "Sky Drop": "프리폴",
+  "Shift Gear": "기어체인지",
+  "Circle Throw": "배대뒤치기",
+  "Incinerate": "불태우기",
+  "Quash": "순서미루기",
+  "Acrobatics": "애크러뱃",
+  "Reflect Type": "미러타입",
+  "Retaliate": "원수갚기",
+  "Final Gambit": "목숨걸기",
+  "Bestow": "기프트패스",
+  "Inferno": "연옥",
+  "Water Pledge": "물의맹세",
+  "Fire Pledge": "불꽃의맹세",
+  "Grass Pledge": "풀의맹세",
+  "Volt Switch": "볼트체인지",
+  "Struggle Bug": "벌레의저항",
+  "Bulldoze": "땅고르기",
+  "Frost Breath": "얼음숨결",
+  "Dragon Tail": "드래곤테일",
+  "Work Up": "분발",
+  "Electroweb": "일렉트릭네트",
+  "Wild Charge": "와일드볼트",
+  "Drill Run": "드릴라이너",
+  "Dual Chop": "더블촙",
+  "Heart Stamp": "하트스탬프",
+  "Horn Leech": "우드호른",
+  "Sacred Sword": "성스러운칼",
+  "Razor Shell": "셸블레이드",
+  "Heat Crash": "히트스탬프",
+  "Leaf Tornado": "그래스믹서",
+  "Steamroller": "하드롤러",
+  "Cotton Guard": "코튼가드",
+  "Night Daze": "나이트버스트",
+  "Psystrike": "사이코브레이크",
+  "Tail Slap": "스위프뺨치기",
+  "Hurricane": "폭풍",
+  "Head Charge": "아프로브레이크",
+  "Gear Grind": "기어소서",
+  "Searing Shot": "화염탄",
+  "Techno Blast": "테크노버스터",
+  "Relic Song": "옛노래",
+  "Secret Sword": "신비의칼",
+  "Glaciate": "얼다세계",
+  "Bolt Strike": "뇌격",
+  "Blue Flare": "푸른불꽃",
+  "Fiery Dance": "불꽃춤",
+  "Freeze Shock": "프리즈볼트",
+  "Ice Burn": "콜드플레어",
+  "Snarl": "바크아웃",
+  "Icicle Crash": "고드름떨구기",
+  "V-create": "V제너레이트",
+  "Fusion Flare": "크로스플레임",
+  "Fusion Bolt": "크로스썬더",
+  "Flying Press": "플라잉프레스",
+  "Mat Block": "마룻바닥세워막기",
+  "Belch": "트림",
+  "Rototiller": "일구기",
+  "Sticky Web": "끈적끈적네트",
+  "Fell Stinger": "마지막일침",
+  "Phantom Force": "고스트다이브",
+  "Trick-or-Treat": "핼러윈",
+  "Noble Roar": "부르짖기",
+  "Ion Deluge": "플라스마샤워",
+  "Parabolic Charge": "파라볼라차지",
+  "Forest’s Curse": "숲의저주",
+  "Petal Blizzard": "꽃보라",
+  "Freeze-Dry": "프리즈드라이",
+  "Disarming Voice": "차밍보이스",
+  "Parting Shot": "막말내뱉기",
+  "Topsy-Turvy": "뒤집어엎기",
+  "Draining Kiss": "드레인키스",
+  "Crafty Shield": "트릭가드",
+  "Flower Shield": "플라워가드",
+  "Grassy Terrain": "그래스필드",
+  "Misty Terrain": "미스트필드",
+  "Electrify": "송전",
+  "Play Rough": "치근거리기",
+  "Fairy Wind": "요정의바람",
+  "Moonblast": "문포스",
+  "Boomburst": "폭음파",
+  "Fairy Lock": "페어리록",
+  "King’s Shield": "킹실드",
+  "Play Nice": "친해지기",
+  "Confide": "비밀이야기",
+  "Diamond Storm": "다이아스톰",
+  "Steam Eruption": "스팀버스트",
+  "Hyperspace Hole": "다른차원홀",
+  "Water Shuriken": "물수리검",
+  "Mystical Fire": "매지컬플레임",
+  "Spiky Shield": "니들가드",
+  "Aromatic Mist": "아로마미스트",
+  "Eerie Impulse": "괴전파",
+  "Venom Drench": "베놈트랩",
+  "Powder": "분진",
+  "Geomancy": "지오컨트롤",
+  "Magnetic Flux": "자기장조작",
+  "Happy Hour": "해피타임",
+  "Electric Terrain": "일렉트릭필드",
+  "Dazzling Gleam": "매지컬샤인",
+  "Celebrate": "축하",
+  "Hold Hands": "손에손잡기",
+  "Baby-Doll Eyes": "초롱초롱눈동자",
+  "Nuzzle": "볼부비부비",
+  "Hold Back": "적당히손봐주기",
+  "Infestation": "엉겨붙기",
+  "Power-Up Punch": "그로우펀치",
+  "Oblivion Wing": "데스윙",
+  "Thousand Arrows": "사우전드애로",
+  "Thousand Waves": "사우전드웨이브",
+  "Land’s Wrath": "그라운드포스",
+  "Light of Ruin": "파멸의빛",
+  "Origin Pulse": "근원의파동",
+  "Precipice Blades": "단애의칼",
+  "Dragon Ascent": "화룡점정",
+  "Hyperspace Fury": "다른차원러시",
+  "Breakneck Blitz": "울트라대시어택",
+  "All-Out Pummeling": "전력무쌍격렬권",
+  "Supersonic Skystrike": "파이널다이브클래시",
+  "Acid Downpour": "애시드포이즌딜리트",
+  "Tectonic Rage": "라이징랜드오버",
+  "Continental Crush": "월즈엔드폴",
+  "Savage Spin-Out": "절대포식회전참",
+  "Never-Ending Nightmare": "무한암야로의유인",
+  "Corkscrew Crash": "초월나선연격",
+  "Inferno Overdrive": "다이내믹풀플레임",
+  "Hydro Vortex": "슈퍼아쿠아토네이도",
+  "Bloom Doom": "블룸샤인엑스트라",
+  "Gigavolt Havoc": "스파킹기가볼트",
+  "Shattered Psyche": "맥시멈사이브레이커",
+  "Subzero Slammer": "레이징지오프리즈",
+  "Devastating Drake": "얼티메이트드래곤번",
+  "Black Hole Eclipse": "블랙홀이클립스",
+  "Twinkle Tackle": "러블리스타임팩트",
+  "Catastropika": "필살피카슛",
+  "Shore Up": "모래모으기",
+  "First Impression": "만나자마자",
+  "Baneful Bunker": "토치카",
+  "Spirit Shackle": "그림자꿰매기",
+  "Darkest Lariat": "DD래리어트",
+  "Sparkling Aria": "물거품아리아",
+  "Ice Hammer": "아이스해머",
+  "Floral Healing": "플라워힐",
+  "High Horsepower": "10만마력",
+  "Strength Sap": "힘흡수",
+  "Solar Blade": "솔라블레이드",
+  "Leafage": "나뭇잎",
+  "Spotlight": "스포트라이트",
+  "Toxic Thread": "독실",
+  "Laser Focus": "예민해지기",
+  "Gear Up": "어시스트기어",
+  "Throat Chop": "지옥찌르기",
+  "Pollen Puff": "꽃가루경단",
+  "Anchor Shot": "앵커숏",
+  "Psychic Terrain": "사이코필드",
+  "Lunge": "덤벼들기",
+  "Fire Lash": "불꽃채찍",
+  "Power Trip": "기어오르기",
+  "Burn Up": "불사르기",
+  "Speed Swap": "스피드스웹",
+  "Smart Strike": "스마트호른",
+  "Purify": "정화",
+  "Revelation Dance": "잠재댄스",
+  "Core Enforcer": "코어퍼니셔",
+  "Trop Kick": "트로피컬킥",
+  "Instruct": "지휘",
+  "Beak Blast": "부리캐논",
+  "Clanging Scales": "스케일노이즈",
+  "Dragon Hammer": "드래곤해머",
+  "Brutal Swing": "세차게휘두르기",
+  "Aurora Veil": "오로라베일",
+  "Sinister Arrow Raid": "섀도애로우즈스트라이크",
+  "Malicious Moonsault": "하이퍼다크크러셔",
+  "Oceanic Operetta": "바다의심포니",
+  "Guardian of Alola": "알로라의수호자",
+  "Soul-Stealing 7-Star Strike": "칠성탈혼퇴",
+  "Stoked Sparksurfer": "라이트닝서프라이드",
+  "Pulverizing Pancake": "진심의공격",
+  "Extreme Evoboost": "나인이볼부스트",
+  "Genesis Supernova": "오리진즈슈퍼노바",
+  "Shell Trap": "트랩셸",
+  "Fleur Cannon": "플뢰르캐논",
+  "Psychic Fangs": "사이코팽",
+  "Stomping Tantrum": "분함의발구르기",
+  "Shadow Bone": "섀도본",
+  "Accelerock": "액셀록",
+  "Liquidation": "아쿠아브레이크",
+  "Prismatic Laser": "프리즘레이저",
+  "Spectral Thief": "섀도스틸",
+  "Sunsteel Strike": "메테오드라이브",
+  "Moongeist Beam": "섀도레이",
+  "Tearful Look": "눈물그렁그렁",
+  "Zing Zap": "찌리리따끔따끔",
+  "Nature’s Madness": "자연의분노",
+  "Multi-Attack": "멀티어택",
+  "10,000,000 Volt Thunderbolt": "1000만볼트",
+  "Mind Blown": "깜짝헤드",
+  "Plasma Fists": "플라스마피스트",
+  "Photon Geyser": "포톤가이저",
+  "Light That Burns the Sky": "하늘을태우는멸망의빛",
+  "Searing Sunraze Smash": "선샤인스매셔",
+  "Menacing Moonraze Maelstrom": "문라이트블래스터",
+  "Let’s Snuggle Forever": "투닥투닥프렌드타임",
+  "Splintered Stormshards": "레이디얼에지스톰",
+  "Clangorous Soulblaze": "브레이징소울비트",
+  "Zippy Zap": "파찌파찌액셀",
+  "Splishy Splash": "참방참방서핑",
+  "Floaty Fall": "둥실둥실폴",
+  "Pika Papow": "피카피카썬더",
+  "Bouncy Bubble": "생생버블",
+  "Buzzy Buzz": "찌릿찌릿일렉",
+  "Sizzly Slide": "이글이글번",
+  "Glitzy Glow": "콸콸오라",
+  "Baddy Bad": "아그아그존",
+  "Sappy Seed": "쑥쑥봄버",
+  "Freezy Frost": "꽁꽁프로스트",
+  "Sparkly Swirl": "반짝반짝스톰",
+  "Veevee Volley": "브이브이브레이크",
+  "Double Iron Bash": "더블펀처",
+  "Max Guard": "다이월",
+  "Dynamax Cannon": "다이맥스포",
+  "Snipe Shot": "노려맞히기",
+  "Jaw Lock": "물고버티기",
+  "Stuff Cheeks": "볼가득넣기",
+  "No Retreat": "배수의진",
+  "Tar Shot": "타르숏",
+  "Magic Powder": "마법가루",
+  "Dragon Darts": "드래곤애로",
+  "Teatime": "다과회",
+  "Octolock": "문어굳히기",
+  "Bolt Beak": "전격부리",
+  "Fishious Rend": "아가미물기",
+  "Court Change": "코트체인지",
+  "Max Flare": "다이번",
+  "Max Flutterby": "다이웜",
+  "Max Lightning": "다이썬더",
+  "Max Strike": "다이어택",
+  "Max Knuckle": "다이너클",
+  "Max Phantasm": "다이할로우",
+  "Max Hailstorm": "다이아이스",
+  "Max Ooze": "다이애시드",
+  "Max Geyser": "다이스트림",
+  "Max Airstream": "다이제트",
+  "Max Starfall": "다이페어리",
+  "Max Wyrmwind": "다이드라군",
+  "Max Mindstorm": "다이사이코",
+  "Max Rockfall": "다이록",
+  "Max Quake": "다이어스",
+  "Max Darkness": "다이아크",
+  "Max Overgrowth": "다이그래스",
+  "Max Steelspike": "다이스틸",
+  "Clangorous Soul": "소울비트",
+  "Body Press": "바디프레스",
+  "Decorate": "데코레이션",
+  "Drum Beating": "드럼어택",
+  "Snap Trap": "집게덫",
+  "Pyro Ball": "화염볼",
+  "Behemoth Blade": "거수참",
+  "Behemoth Bash": "거수탄",
+  "Aura Wheel": "오라휠",
+  "Breaking Swipe": "와이드브레이커",
+  "Branch Poke": "가지찌르기",
+  "Overdrive": "오버드라이브",
+  "Apple Acid": "사과산",
+  "Grav Apple": "G의힘",
+  "Spirit Break": "소울크래시",
+  "Strange Steam": "원더스팀",
+  "Life Dew": "생명의물방울",
+  "Obstruct": "블로킹",
+  "False Surrender": "사죄의찌르기",
+  "Meteor Assault": "스타어설트",
+  "Eternabeam": "무한다이빔",
+  "Steel Beam": "철제광선",
+  "Expanding Force": "와이드포스",
+  "Steel Roller": "아이언롤러",
+  "Scale Shot": "스케일샷",
+  "Meteor Beam": "메테오빔",
+  "Shell Side Arm": "셸암즈",
+  "Misty Explosion": "미스트버스트",
+  "Grassy Glide": "그래스슬라이더",
+  "Rising Voltage": "라이징볼트",
+  "Terrain Pulse": "대지의파동",
+  "Skitter Smack": "엄습하는일격",
+  "Burning Jealousy": "질투의불꽃",
+  "Lash Out": "분풀이",
+  "Poltergeist": "폴터가이스트",
+  "Corrosive Gas": "부식가스",
+  "Coaching": "코칭",
+  "Flip Turn": "퀵턴",
+  "Triple Axel": "트리플악셀",
+  "Dual Wingbeat": "더블윙",
+  "Scorching Sands": "열사의대지",
+  "Jungle Healing": "정글힐",
+  "Wicked Blow": "암흑강타",
+  "Surging Strikes": "수류연타",
+  "Thunder Cage": "썬더프리즌",
+  "Dragon Energy": "드래곤에너지",
+  "Freezing Glare": "얼어붙는시선",
+  "Fiery Wrath": "타오르는분노",
+  "Thunderous Kick": "천둥차기",
+  "Glacial Lance": "블리자드랜스",
+  "Astral Barrage": "아스트랄비트",
+  "Eerie Spell": "섬뜩한주문",
+  "Psyblade": "사이코블레이드",
+  "Hydro Steam": "하이드로스팀",
+  "Electro Shot": "일렉트로빔",
+  "Tera Starstorm": "테라클러스터",
+  "Fickle Beam": "변덕레이저",
+  "Burning Bulwark": "화염의수호",
+  "Thunderclap": "질풍신뢰",
+  "Mighty Cleave": "파워풀에지",
+  "Tachyon Cutter": "타키온커터",
+  "Hard Press": "하드프레스",
+  "Dragon Cheer": "드래곤옐",
+  "Alluring Voice": "매혹의보이스",
+  "Temper Flare": "열불내기",
+  "Supercell Slam": "썬더다이브",
+  "Psychic Noise": "사이코노이즈",
+  "Upper Hand": "기선제압",
+  "Malignant Chain": "악독사슬"
+ },
+ "ability": {
+  "Stench": "악취",
+  "Drizzle": "잔비",
+  "Speed Boost": "가속",
+  "Battle Armor": "전투무장",
+  "Sturdy": "옹골참",
+  "Damp": "습기",
+  "Limber": "유연",
+  "Sand Veil": "모래숨기",
+  "Static": "정전기",
+  "Volt Absorb": "축전",
+  "Water Absorb": "저수",
+  "Oblivious": "둔감",
+  "Cloud Nine": "날씨부정",
+  "Compound Eyes": "복안",
+  "Insomnia": "불면",
+  "Color Change": "변색",
+  "Immunity": "면역",
+  "Flash Fire": "타오르는불꽃",
+  "Shield Dust": "인분",
+  "Own Tempo": "마이페이스",
+  "Suction Cups": "흡반",
+  "Intimidate": "위협",
+  "Shadow Tag": "그림자밟기",
+  "Rough Skin": "까칠한피부",
+  "Wonder Guard": "불가사의부적",
+  "Levitate": "부유",
+  "Effect Spore": "포자",
+  "Synchronize": "싱크로",
+  "Clear Body": "클리어바디",
+  "Natural Cure": "자연회복",
+  "Lightning Rod": "피뢰침",
+  "Serene Grace": "하늘의은총",
+  "Swift Swim": "쓱쓱",
+  "Chlorophyll": "엽록소",
+  "Illuminate": "발광",
+  "Trace": "트레이스",
+  "Huge Power": "천하장사",
+  "Poison Point": "독가시",
+  "Inner Focus": "정신력",
+  "Magma Armor": "마그마의무장",
+  "Water Veil": "수의베일",
+  "Magnet Pull": "자력",
+  "Soundproof": "방음",
+  "Rain Dish": "젖은접시",
+  "Sand Stream": "모래날림",
+  "Pressure": "프레셔",
+  "Thick Fat": "두꺼운지방",
+  "Early Bird": "일찍기상",
+  "Flame Body": "불꽃몸",
+  "Run Away": "도주",
+  "Keen Eye": "날카로운눈",
+  "Hyper Cutter": "괴력집게",
+  "Pickup": "픽업",
+  "Truant": "게으름",
+  "Hustle": "의욕",
+  "Cute Charm": "헤롱헤롱바디",
+  "Plus": "플러스",
+  "Minus": "마이너스",
+  "Forecast": "기분파",
+  "Sticky Hold": "점착",
+  "Shed Skin": "탈피",
+  "Guts": "근성",
+  "Marvel Scale": "이상한비늘",
+  "Liquid Ooze": "해감액",
+  "Overgrow": "심록",
+  "Blaze": "맹화",
+  "Torrent": "급류",
+  "Swarm": "벌레의알림",
+  "Rock Head": "돌머리",
+  "Drought": "가뭄",
+  "Arena Trap": "개미지옥",
+  "Vital Spirit": "의기양양",
+  "White Smoke": "하얀연기",
+  "Pure Power": "순수한힘",
+  "Shell Armor": "조가비갑옷",
+  "Air Lock": "에어록",
+  "Tangled Feet": "갈지자걸음",
+  "Motor Drive": "전기엔진",
+  "Rivalry": "투쟁심",
+  "Steadfast": "불굴의마음",
+  "Snow Cloak": "눈숨기",
+  "Gluttony": "먹보",
+  "Anger Point": "분노의경혈",
+  "Unburden": "곡예",
+  "Heatproof": "내열",
+  "Simple": "단순",
+  "Dry Skin": "건조피부",
+  "Download": "다운로드",
+  "Iron Fist": "철주먹",
+  "Poison Heal": "포이즌힐",
+  "Adaptability": "적응력",
+  "Skill Link": "스킬링크",
+  "Hydration": "촉촉바디",
+  "Solar Power": "선파워",
+  "Quick Feet": "속보",
+  "Normalize": "노말스킨",
+  "Sniper": "스나이퍼",
+  "Magic Guard": "매직가드",
+  "No Guard": "노가드",
+  "Stall": "시간벌기",
+  "Technician": "테크니션",
+  "Leaf Guard": "리프가드",
+  "Klutz": "서투름",
+  "Mold Breaker": "틀깨기",
+  "Super Luck": "대운",
+  "Aftermath": "유폭",
+  "Anticipation": "위험예지",
+  "Forewarn": "예지몽",
+  "Unaware": "천진",
+  "Tinted Lens": "색안경",
+  "Filter": "필터",
+  "Slow Start": "슬로스타트",
+  "Scrappy": "배짱",
+  "Storm Drain": "마중물",
+  "Ice Body": "아이스바디",
+  "Solid Rock": "하드록",
+  "Snow Warning": "눈퍼뜨리기",
+  "Honey Gather": "꿀모으기",
+  "Frisk": "통찰",
+  "Reckless": "이판사판",
+  "Multitype": "멀티타입",
+  "Flower Gift": "플라워기프트",
+  "Bad Dreams": "나이트메어",
+  "Pickpocket": "나쁜손버릇",
+  "Sheer Force": "우격다짐",
+  "Contrary": "심술꾸러기",
+  "Unnerve": "긴장감",
+  "Defiant": "오기",
+  "Defeatist": "무기력",
+  "Cursed Body": "저주받은바디",
+  "Healer": "치유의마음",
+  "Friend Guard": "프렌드가드",
+  "Weak Armor": "깨어진갑옷",
+  "Heavy Metal": "헤비메탈",
+  "Light Metal": "라이트메탈",
+  "Multiscale": "멀티스케일",
+  "Toxic Boost": "독폭주",
+  "Flare Boost": "열폭주",
+  "Harvest": "수확",
+  "Telepathy": "텔레파시",
+  "Moody": "변덕쟁이",
+  "Overcoat": "방진",
+  "Poison Touch": "독수",
+  "Regenerator": "재생력",
+  "Big Pecks": "부풀린가슴",
+  "Sand Rush": "모래헤치기",
+  "Wonder Skin": "미라클스킨",
+  "Analytic": "애널라이즈",
+  "Illusion": "일루전",
+  "Imposter": "괴짜",
+  "Infiltrator": "틈새포착",
+  "Mummy": "미라",
+  "Moxie": "자기과신",
+  "Justified": "정의의마음",
+  "Rattled": "주눅",
+  "Magic Bounce": "매직미러",
+  "Sap Sipper": "초식",
+  "Prankster": "짓궂은마음",
+  "Sand Force": "모래의힘",
+  "Iron Barbs": "철가시",
+  "Zen Mode": "달마모드",
+  "Victory Star": "승리의별",
+  "Turboblaze": "터보블레이즈",
+  "Teravolt": "테라볼티지",
+  "Aroma Veil": "아로마베일",
+  "Flower Veil": "플라워베일",
+  "Cheek Pouch": "볼주머니",
+  "Protean": "변환자재",
+  "Fur Coat": "퍼코트",
+  "Magician": "매지션",
+  "Bulletproof": "방탄",
+  "Competitive": "승기",
+  "Strong Jaw": "옹골찬턱",
+  "Refrigerate": "프리즈스킨",
+  "Sweet Veil": "스위트베일",
+  "Stance Change": "배틀스위치",
+  "Gale Wings": "질풍날개",
+  "Mega Launcher": "메가런처",
+  "Grass Pelt": "풀모피",
+  "Symbiosis": "공생",
+  "Tough Claws": "단단한발톱",
+  "Pixilate": "페어리스킨",
+  "Gooey": "미끈미끈",
+  "Aerilate": "스카이스킨",
+  "Parental Bond": "부자유친",
+  "Dark Aura": "다크오라",
+  "Fairy Aura": "페어리오라",
+  "Aura Break": "오라브레이크",
+  "Primordial Sea": "시작의바다",
+  "Desolate Land": "끝의대지",
+  "Delta Stream": "델타스트림",
+  "Stamina": "지구력",
+  "Wimp Out": "도망태세",
+  "Emergency Exit": "위기회피",
+  "Water Compaction": "꾸덕꾸덕굳기",
+  "Merciless": "무도한행동",
+  "Shields Down": "리밋실드",
+  "Stakeout": "잠복",
+  "Water Bubble": "수포",
+  "Steelworker": "강철술사",
+  "Berserk": "발끈",
+  "Slush Rush": "눈치우기",
+  "Long Reach": "원격",
+  "Liquid Voice": "촉촉보이스",
+  "Triage": "힐링시프트",
+  "Galvanize": "일렉트릭스킨",
+  "Surge Surfer": "서핑테일",
+  "Schooling": "어군",
+  "Disguise": "탈",
+  "Battle Bond": "유대변화",
+  "Power Construct": "스웜체인지",
+  "Corrosion": "부식",
+  "Comatose": "절대안깸",
+  "Queenly Majesty": "여왕의위엄",
+  "Innards Out": "내용물분출",
+  "Dancer": "무희",
+  "Battery": "배터리",
+  "Fluffy": "복슬복슬",
+  "Dazzling": "비비드바디",
+  "Soul-Heart": "소울하트",
+  "Tangling Hair": "컬리헤어",
+  "Receiver": "리시버",
+  "Power of Alchemy": "과학의힘",
+  "Beast Boost": "비스트부스트",
+  "RKS System": "AR시스템",
+  "Electric Surge": "일렉트릭메이커",
+  "Psychic Surge": "사이코메이커",
+  "Misty Surge": "미스트메이커",
+  "Grassy Surge": "그래스메이커",
+  "Full Metal Body": "메탈프로텍트",
+  "Shadow Shield": "스펙터가드",
+  "Prism Armor": "프리즘아머",
+  "Neuroforce": "브레인포스",
+  "Intrepid Sword": "불요의검",
+  "Dauntless Shield": "불굴의방패",
+  "Libero": "리베로",
+  "Ball Fetch": "볼줍기",
+  "Cotton Down": "솜털",
+  "Propeller Tail": "스크루지느러미",
+  "Mirror Armor": "미러아머",
+  "Gulp Missile": "그대로꿀꺽미사일",
+  "Stalwart": "굳건한신념",
+  "Steam Engine": "증기기관",
+  "Punk Rock": "펑크록",
+  "Sand Spit": "모래뿜기",
+  "Ice Scales": "얼음인분",
+  "Ripen": "숙성",
+  "Ice Face": "아이스페이스",
+  "Power Spot": "파워스폿",
+  "Mimicry": "의태",
+  "Screen Cleaner": "배리어프리",
+  "Steely Spirit": "강철정신",
+  "Perish Body": "멸망의바디",
+  "Wandering Spirit": "떠도는영혼",
+  "Gorilla Tactics": "무아지경",
+  "Neutralizing Gas": "화학변화가스",
+  "Pastel Veil": "파스텔베일",
+  "Hunger Switch": "꼬르륵스위치",
+  "Quick Draw": "퀵드로",
+  "Unseen Fist": "보이지않는주먹",
+  "Curious Medicine": "기묘한약",
+  "Transistor": "트랜지스터",
+  "Dragon’s Maw": "용의턱",
+  "Chilling Neigh": "백의울음",
+  "Grim Neigh": "흑의울음",
+  "As One": "혼연일체",
+  "Mind’s Eye": "심안",
+  "Supersweet Syrup": "감미로운꿀",
+  "Hospitality": "대접",
+  "Toxic Chain": "독사슬",
+  "Embody Aspect": "초상투영",
+  "Tera Shift": "테라체인지",
+  "Tera Shell": "테라셸",
+  "Teraform Zero": "제로포밍",
+  "Poison Puppeteer": "독조종"
+ },
+ "item": {
+  "Master Ball": "마스터볼",
+  "Ultra Ball": "하이퍼볼",
+  "Great Ball": "수퍼볼",
+  "Poké Ball": "몬스터볼",
+  "Safari Ball": "사파리볼",
+  "Net Ball": "넷트볼",
+  "Dive Ball": "다이브볼",
+  "Nest Ball": "네스트볼",
+  "Repeat Ball": "리피드볼",
+  "Timer Ball": "타이마볼",
+  "Luxury Ball": "럭셔리볼",
+  "Premier Ball": "프레미어볼",
+  "Dusk Ball": "다크볼",
+  "Heal Ball": "힐볼",
+  "Quick Ball": "퀵볼",
+  "Cherish Ball": "프레셔스볼",
+  "Potion": "상처약",
+  "Antidote": "해독제",
+  "Burn Heal": "화상치료제",
+  "Ice Heal": "얼음상태치료제",
+  "Awakening": "잠깨는약",
+  "Paralyze Heal": "마비치료제",
+  "Full Restore": "회복약",
+  "Max Potion": "풀회복약",
+  "Hyper Potion": "고급상처약",
+  "Super Potion": "좋은상처약",
+  "Full Heal": "만병통치제",
+  "Revive": "기력의조각",
+  "Max Revive": "기력의덩어리",
+  "Fresh Water": "맛있는물",
+  "Soda Pop": "미네랄사이다",
+  "Lemonade": "후르츠밀크",
+  "Moomoo Milk": "튼튼밀크",
+  "Energy Powder": "힘의가루",
+  "Energy Root": "힘의뿌리",
+  "Heal Powder": "만능가루",
+  "Revival Herb": "부활초",
+  "Ether": "PP에이드",
+  "Max Ether": "PP회복",
+  "Elixir": "PP에이더",
+  "Max Elixir": "PP맥스",
+  "Lava Cookie": "용암전병",
+  "Berry Juice": "나무열매쥬스",
+  "Sacred Ash": "성스러운분말",
+  "HP Up": "맥스업",
+  "Protein": "타우린",
+  "Iron": "사포닌",
+  "Carbos": "알칼로이드",
+  "Calcium": "리보플라빈",
+  "Rare Candy": "이상한사탕",
+  "PP Up": "포인트업",
+  "Zinc": "키토산",
+  "PP Max": "포인트맥스",
+  "Old Gateau": "숲의양갱",
+  "Guard Spec.": "이펙트가드",
+  "Dire Hit": "크리티컬커터",
+  "X Attack": "플러스파워",
+  "X Defense": "디펜드업",
+  "X Speed": "스피드업",
+  "X Accuracy": "잘-맞히기",
+  "X Sp. Atk": "스페셜업",
+  "X Sp. Def": "스페셜가드",
+  "Poké Doll": "삐삐인형",
+  "Fluffy Tail": "에나비꼬리",
+  "Blue Flute": "파랑비드로",
+  "Yellow Flute": "노랑비드로",
+  "Red Flute": "빨강비드로",
+  "Black Flute": "검정비드로",
+  "White Flute": "하양비드로",
+  "Shoal Salt": "여울소금",
+  "Shoal Shell": "여울조개껍질",
+  "Red Shard": "빨강조각",
+  "Blue Shard": "파랑조각",
+  "Yellow Shard": "노랑조각",
+  "Green Shard": "초록조각",
+  "Super Repel": "실버스프레이",
+  "Max Repel": "골드스프레이",
+  "Escape Rope": "동굴탈출로프",
+  "Repel": "벌레회피스프레이",
+  "Sun Stone": "태양의돌",
+  "Moon Stone": "달의돌",
+  "Fire Stone": "불꽃의돌",
+  "Thunder Stone": "천둥의돌",
+  "Water Stone": "물의돌",
+  "Leaf Stone": "리프의돌",
+  "Tiny Mushroom": "작은버섯",
+  "Big Mushroom": "큰버섯",
+  "Pearl": "진주",
+  "Big Pearl": "큰진주",
+  "Stardust": "별의모래",
+  "Star Piece": "별의조각",
+  "Nugget": "금구슬",
+  "Heart Scale": "하트비늘",
+  "Honey": "달콤한꿀",
+  "Growth Mulch": "무럭무럭비료",
+  "Damp Mulch": "축축이비료",
+  "Stable Mulch": "오래오래비료",
+  "Gooey Mulch": "끈적끈적비료",
+  "Root Fossil": "뿌리화석",
+  "Claw Fossil": "발톱화석",
+  "Helix Fossil": "조개화석",
+  "Dome Fossil": "껍질화석",
+  "Old Amber": "비밀의호박",
+  "Armor Fossil": "방패의화석",
+  "Skull Fossil": "두개의화석",
+  "Rare Bone": "귀중한뼈",
+  "Shiny Stone": "빛의돌",
+  "Dusk Stone": "어둠의돌",
+  "Dawn Stone": "각성의돌",
+  "Oval Stone": "동글동글돌",
+  "Odd Keystone": "쐐기돌",
+  "Adamant Orb": "금강옥",
+  "Lustrous Orb": "백옥",
+  "Cheri Berry": "버치열매",
+  "Chesto Berry": "유루열매",
+  "Pecha Berry": "복슝열매",
+  "Rawst Berry": "복분열매",
+  "Aspear Berry": "배리열매",
+  "Leppa Berry": "과사열매",
+  "Oran Berry": "오랭열매",
+  "Persim Berry": "시몬열매",
+  "Lum Berry": "리샘열매",
+  "Sitrus Berry": "자뭉열매",
+  "Figy Berry": "무화열매",
+  "Wiki Berry": "위키열매",
+  "Mago Berry": "마고열매",
+  "Aguav Berry": "아바열매",
+  "Iapapa Berry": "파야열매",
+  "Razz Berry": "라즈열매",
+  "Bluk Berry": "블리열매",
+  "Nanab Berry": "나나열매",
+  "Wepear Berry": "서배열매",
+  "Pinap Berry": "파인열매",
+  "Pomeg Berry": "유석열매",
+  "Kelpsy Berry": "시마열매",
+  "Qualot Berry": "파비열매",
+  "Hondew Berry": "로매열매",
+  "Grepa Berry": "또뽀열매",
+  "Tamato Berry": "토망열매",
+  "Cornn Berry": "수숙열매",
+  "Magost Berry": "고스티열매",
+  "Rabuta Berry": "라부탐열매",
+  "Nomel Berry": "노멜열매",
+  "Spelon Berry": "메호키열매",
+  "Pamtre Berry": "자야열매",
+  "Watmel Berry": "슈박열매",
+  "Durin Berry": "두리열매",
+  "Belue Berry": "루베열매",
+  "Occa Berry": "오카열매",
+  "Passho Berry": "꼬시개열매",
+  "Wacan Berry": "초나열매",
+  "Rindo Berry": "린드열매",
+  "Yache Berry": "플카열매",
+  "Chople Berry": "로플열매",
+  "Kebia Berry": "으름열매",
+  "Shuca Berry": "슈캐열매",
+  "Coba Berry": "바코열매",
+  "Payapa Berry": "야파열매",
+  "Tanga Berry": "리체열매",
+  "Charti Berry": "루미열매",
+  "Kasib Berry": "수불열매",
+  "Haban Berry": "하반열매",
+  "Colbur Berry": "마코열매",
+  "Babiri Berry": "바리비열매",
+  "Chilan Berry": "카리열매",
+  "Liechi Berry": "치리열매",
+  "Ganlon Berry": "용아열매",
+  "Salac Berry": "캄라열매",
+  "Petaya Berry": "야타비열매",
+  "Apicot Berry": "규살열매",
+  "Lansat Berry": "랑사열매",
+  "Starf Berry": "스타열매",
+  "Enigma Berry": "의문열매",
+  "Micle Berry": "미클열매",
+  "Custap Berry": "애슈열매",
+  "Jaboca Berry": "자보열매",
+  "Rowap Berry": "애터열매",
+  "Bright Powder": "반짝가루",
+  "White Herb": "하양허브",
+  "Macho Brace": "교정깁스",
+  "Exp. Share": "학습장치",
+  "Quick Claw": "선제공격손톱",
+  "Soothe Bell": "평온의방울",
+  "Mental Herb": "멘탈허브",
+  "Choice Band": "구애머리띠",
+  "King’s Rock": "왕의징표석",
+  "Silver Powder": "은빛가루",
+  "Amulet Coin": "부적금화",
+  "Cleanse Tag": "순결의부적",
+  "Soul Dew": "마음의물방울",
+  "Deep Sea Tooth": "심해의이빨",
+  "Deep Sea Scale": "심해의비늘",
+  "Smoke Ball": "연막탄",
+  "Everstone": "변함없는돌",
+  "Focus Band": "기합의머리띠",
+  "Lucky Egg": "행복의알",
+  "Scope Lens": "초점렌즈",
+  "Metal Coat": "금속코트",
+  "Leftovers": "먹다남은음식",
+  "Dragon Scale": "용의비늘",
+  "Light Ball": "전기구슬",
+  "Soft Sand": "부드러운모래",
+  "Hard Stone": "딱딱한돌",
+  "Miracle Seed": "기적의씨",
+  "Black Glasses": "검은안경",
+  "Black Belt": "검은띠",
+  "Magnet": "자석",
+  "Mystic Water": "신비의물방울",
+  "Sharp Beak": "예리한부리",
+  "Poison Barb": "독바늘",
+  "Never-Melt Ice": "녹지않는얼음",
+  "Spell Tag": "저주의부적",
+  "Twisted Spoon": "휘어진스푼",
+  "Charcoal": "목탄",
+  "Dragon Fang": "용의이빨",
+  "Silk Scarf": "실크스카프",
+  "Upgrade": "업그레이드",
+  "Shell Bell": "조개껍질방울",
+  "Sea Incense": "바닷물향로",
+  "Lax Incense": "무사태평향로",
+  "Lucky Punch": "럭키펀치",
+  "Metal Powder": "금속파우더",
+  "Thick Club": "굵은뼈",
+  "Leek": "대파",
+  "Red Scarf": "빨강밴드",
+  "Blue Scarf": "파랑밴드",
+  "Pink Scarf": "분홍밴드",
+  "Green Scarf": "초록밴드",
+  "Yellow Scarf": "노랑밴드",
+  "Wide Lens": "광각렌즈",
+  "Muscle Band": "힘의머리띠",
+  "Wise Glasses": "박식안경",
+  "Expert Belt": "달인의띠",
+  "Light Clay": "빛의점토",
+  "Life Orb": "생명의구슬",
+  "Power Herb": "파워풀허브",
+  "Toxic Orb": "맹독구슬",
+  "Flame Orb": "화염구슬",
+  "Quick Powder": "스피드파우더",
+  "Focus Sash": "기합의띠",
+  "Zoom Lens": "포커스렌즈",
+  "Metronome": "메트로놈",
+  "Iron Ball": "검은철구",
+  "Lagging Tail": "느림보꼬리",
+  "Destiny Knot": "빨간실",
+  "Black Sludge": "검은진흙",
+  "Icy Rock": "차가운바위",
+  "Smooth Rock": "보송보송바위",
+  "Heat Rock": "뜨거운바위",
+  "Damp Rock": "축축한바위",
+  "Grip Claw": "끈기갈고리손톱",
+  "Choice Scarf": "구애스카프",
+  "Sticky Barb": "끈적끈적바늘",
+  "Power Bracer": "파워리스트",
+  "Power Belt": "파워벨트",
+  "Power Lens": "파워렌즈",
+  "Power Band": "파워밴드",
+  "Power Anklet": "파워앵클릿",
+  "Power Weight": "파워웨이트",
+  "Shed Shell": "아름다운허물",
+  "Big Root": "큰뿌리",
+  "Choice Specs": "구애안경",
+  "Flame Plate": "불구슬플레이트",
+  "Splash Plate": "물방울플레이트",
+  "Zap Plate": "우뢰플레이트",
+  "Meadow Plate": "초록플레이트",
+  "Icicle Plate": "고드름플레이트",
+  "Fist Plate": "주먹플레이트",
+  "Toxic Plate": "맹독플레이트",
+  "Earth Plate": "대지플레이트",
+  "Sky Plate": "푸른하늘플레이트",
+  "Mind Plate": "이상한플레이트",
+  "Insect Plate": "비단벌레플레이트",
+  "Stone Plate": "암석플레이트",
+  "Spooky Plate": "원령플레이트",
+  "Draco Plate": "용의플레이트",
+  "Dread Plate": "공포플레이트",
+  "Iron Plate": "강철플레이트",
+  "Odd Incense": "괴상한향로",
+  "Rock Incense": "암석향로",
+  "Full Incense": "만복향로",
+  "Wave Incense": "잔물결향로",
+  "Rose Incense": "꽃향로",
+  "Luck Incense": "행운의향로",
+  "Pure Incense": "순결의향로",
+  "Protector": "프로텍터",
+  "Electirizer": "에레키부스터",
+  "Magmarizer": "마그마부스터",
+  "Dubious Disc": "괴상한패치",
+  "Reaper Cloth": "영계의천",
+  "Razor Claw": "예리한손톱",
+  "Razor Fang": "예리한이빨",
+  "TM01": "기술머신01",
+  "TM02": "기술머신02",
+  "TM03": "기술머신03",
+  "TM04": "기술머신04",
+  "TM05": "기술머신05",
+  "TM06": "기술머신06",
+  "TM07": "기술머신07",
+  "TM08": "기술머신08",
+  "TM09": "기술머신09",
+  "TM10": "기술머신10",
+  "TM11": "기술머신11",
+  "TM12": "기술머신12",
+  "TM13": "기술머신13",
+  "TM14": "기술머신14",
+  "TM15": "기술머신15",
+  "TM16": "기술머신16",
+  "TM17": "기술머신17",
+  "TM18": "기술머신18",
+  "TM19": "기술머신19",
+  "TM20": "기술머신20",
+  "TM21": "기술머신21",
+  "TM22": "기술머신22",
+  "TM23": "기술머신23",
+  "TM24": "기술머신24",
+  "TM25": "기술머신25",
+  "TM26": "기술머신26",
+  "TM27": "기술머신27",
+  "TM28": "기술머신28",
+  "TM29": "기술머신29",
+  "TM30": "기술머신30",
+  "TM31": "기술머신31",
+  "TM32": "기술머신32",
+  "TM33": "기술머신33",
+  "TM34": "기술머신34",
+  "TM35": "기술머신35",
+  "TM36": "기술머신36",
+  "TM37": "기술머신37",
+  "TM38": "기술머신38",
+  "TM39": "기술머신39",
+  "TM40": "기술머신40",
+  "TM41": "기술머신41",
+  "TM42": "기술머신42",
+  "TM43": "기술머신43",
+  "TM44": "기술머신44",
+  "TM45": "기술머신45",
+  "TM46": "기술머신46",
+  "TM47": "기술머신47",
+  "TM48": "기술머신48",
+  "TM49": "기술머신49",
+  "TM50": "기술머신50",
+  "TM51": "기술머신51",
+  "TM52": "기술머신52",
+  "TM53": "기술머신53",
+  "TM54": "기술머신54",
+  "TM55": "기술머신55",
+  "TM56": "기술머신56",
+  "TM57": "기술머신57",
+  "TM58": "기술머신58",
+  "TM59": "기술머신59",
+  "TM60": "기술머신60",
+  "TM61": "기술머신61",
+  "TM62": "기술머신62",
+  "TM63": "기술머신63",
+  "TM64": "기술머신64",
+  "TM65": "기술머신65",
+  "TM66": "기술머신66",
+  "TM67": "기술머신67",
+  "TM68": "기술머신68",
+  "TM69": "기술머신69",
+  "TM70": "기술머신70",
+  "TM71": "기술머신71",
+  "TM72": "기술머신72",
+  "TM73": "기술머신73",
+  "TM74": "기술머신74",
+  "TM75": "기술머신75",
+  "TM76": "기술머신76",
+  "TM77": "기술머신77",
+  "TM78": "기술머신78",
+  "TM79": "기술머신79",
+  "TM80": "기술머신80",
+  "TM81": "기술머신81",
+  "TM82": "기술머신82",
+  "TM83": "기술머신83",
+  "TM84": "기술머신84",
+  "TM85": "기술머신85",
+  "TM86": "기술머신86",
+  "TM87": "기술머신87",
+  "TM88": "기술머신88",
+  "TM89": "기술머신89",
+  "TM90": "기술머신90",
+  "TM91": "기술머신91",
+  "TM92": "기술머신92",
+  "HM01": "비전머신01",
+  "HM02": "비전머신02",
+  "HM03": "비전머신03",
+  "HM04": "비전머신04",
+  "HM05": "비전머신05",
+  "HM06": "비전머신06",
+  "HM07": "비전머신07",
+  "Explorer Kit": "탐험세트",
+  "Loot Sack": "보물주머니",
+  "Rule Book": "룰북",
+  "Poké Radar": "포켓트레",
+  "Point Card": "포인트카드",
+  "Journal": "모험노트",
+  "Seal Case": "실상자",
+  "Fashion Case": "액세서리상자",
+  "Seal Bag": "실주머니",
+  "Pal Pad": "친구수첩",
+  "Works Key": "발전소키",
+  "Old Charm": "고대의부적",
+  "Galactic Key": "갤럭시단의열쇠",
+  "Red Chain": "빨강쇠사슬",
+  "Town Map": "타운맵",
+  "Vs. Seeker": "배틀서처",
+  "Coin Case": "동전케이스",
+  "Old Rod": "낡은낚싯대",
+  "Good Rod": "좋은낚싯대",
+  "Super Rod": "대단한낚싯대",
+  "Sprayduck": "고라파덕물뿌리개",
+  "Poffin Case": "포핀케이스",
+  "Bicycle": "자전거",
+  "Suite Key": "룸키",
+  "Oak’s Letter": "오박사의편지",
+  "Lunar Wing": "초승달날개",
+  "Member Card": "멤버스카드",
+  "Azure Flute": "천계의피리",
+  "S.S. Ticket": "승선티켓",
+  "Contest Pass": "콘테스트패스",
+  "Magma Stone": "화산의돌",
+  "Parcel": "전해줄물건",
+  "Coupon 1": "교환권1",
+  "Coupon 2": "교환권2",
+  "Coupon 3": "교환권3",
+  "Storage Key": "창고열쇠",
+  "Secret Potion": "비전신약",
+  "Griseous Orb": "백금옥",
+  "Vs. Recorder": "배틀레코더",
+  "Gracidea": "그라시데아꽃",
+  "Secret Key": "비밀의열쇠",
+  "Apricorn Box": "규토리케이스",
+  "Berry Pots": "나무열매플랜터",
+  "Squirt Bottle": "꼬부기물뿌리개",
+  "Lure Ball": "루어볼",
+  "Level Ball": "레벨볼",
+  "Moon Ball": "문볼",
+  "Heavy Ball": "헤비볼",
+  "Fast Ball": "스피드볼",
+  "Friend Ball": "프렌드볼",
+  "Love Ball": "러브러브볼",
+  "Park Ball": "파크볼",
+  "Sport Ball": "콤페볼",
+  "Red Apricorn": "빨간규토리",
+  "Blue Apricorn": "파란규토리",
+  "Yellow Apricorn": "노랑규토리",
+  "Green Apricorn": "초록규토리",
+  "Pink Apricorn": "담홍규토리",
+  "White Apricorn": "하얀규토리",
+  "Black Apricorn": "검은규토리",
+  "Dowsing Machine": "다우징머신",
+  "Rage Candy Bar": "분노의호두과자",
+  "Red Orb": "주홍구슬",
+  "Blue Orb": "쪽빛구슬",
+  "Jade Orb": "연둣빛구슬",
+  "Enigma Stone": "수수께끼의수정",
+  "Unown Report": "안농노트",
+  "Blue Card": "블루카드",
+  "Slowpoke Tail": "맛있는꼬리",
+  "Clear Bell": "크리스탈방울",
+  "Card Key": "카드키",
+  "Basement Key": "지하열쇠",
+  "Red Scale": "빨간비늘",
+  "Lost Item": "분실물",
+  "Pass": "리니어패스",
+  "Machine Part": "기계부품",
+  "Silver Wing": "은빛날개",
+  "Rainbow Wing": "무지갯빛날개",
+  "Mystery Egg": "이상한알",
+  "GB Sounds": "GB플레이어",
+  "Tidal Bell": "해명의방울",
+  "Data Card 01": "데이터카드01",
+  "Data Card 02": "데이터카드02",
+  "Data Card 03": "데이터카드03",
+  "Data Card 04": "데이터카드04",
+  "Data Card 05": "데이터카드05",
+  "Data Card 06": "데이터카드06",
+  "Data Card 07": "데이터카드07",
+  "Data Card 08": "데이터카드08",
+  "Data Card 09": "데이터카드09",
+  "Data Card 10": "데이터카드10",
+  "Data Card 11": "데이터카드11",
+  "Data Card 12": "데이터카드12",
+  "Data Card 13": "데이터카드13",
+  "Data Card 14": "데이터카드14",
+  "Data Card 15": "데이터카드15",
+  "Data Card 16": "데이터카드16",
+  "Data Card 17": "데이터카드17",
+  "Data Card 18": "데이터카드18",
+  "Data Card 19": "데이터카드19",
+  "Data Card 20": "데이터카드20",
+  "Data Card 21": "데이터카드21",
+  "Data Card 22": "데이터카드22",
+  "Data Card 23": "데이터카드23",
+  "Data Card 24": "데이터카드24",
+  "Data Card 25": "데이터카드25",
+  "Data Card 26": "데이터카드26",
+  "Data Card 27": "데이터카드27",
+  "Lock Capsule": "록캡슐",
+  "Photo Album": "포토앨범",
+  "Mach Bike": "마하자전거",
+  "Acro Bike": "더트자전거",
+  "Wailmer Pail": "고래왕자물뿌리개",
+  "Soot Sack": "재주머니",
+  "Letter": "성호에게줄편지",
+  "Eon Ticket": "무한티켓",
+  "Scanner": "탐지기",
+  "Go-Goggles": "고고고글",
+  "Meteorite": "운석",
+  "Devon Scope": "데봉스코프",
+  "Poké Flute": "포켓몬피리",
+  "Gold Teeth": "금틀니",
+  "Lift Key": "엘리베이터열쇠",
+  "Silph Scope": "실프스코프",
+  "TM Case": "기술머신케이스",
+  "Tea": "차",
+  "Douse Drive": "아쿠아카세트",
+  "Shock Drive": "번개카세트",
+  "Burn Drive": "블레이즈카세트",
+  "Chill Drive": "프리즈카세트",
+  "Sweet Heart": "하트스위트",
+  "Greet Mail": "첫메일",
+  "Favored Mail": "애호메일",
+  "RSVP Mail": "권유메일",
+  "Thanks Mail": "감사메일",
+  "Inquiry Mail": "질문메일",
+  "Like Mail": "추천메일",
+  "Reply Mail": "답장메일",
+  "Bridge Mail S": "브리지메일S",
+  "Bridge Mail D": "브리지메일M",
+  "Bridge Mail T": "브리지메일C",
+  "Bridge Mail V": "브리지메일V",
+  "Bridge Mail M": "브리지메일W",
+  "Prism Scale": "고운비늘",
+  "Eviolite": "진화의휘석",
+  "Float Stone": "가벼운돌",
+  "Rocky Helmet": "울퉁불퉁멧",
+  "Air Balloon": "풍선",
+  "Red Card": "레드카드",
+  "Ring Target": "겨냥표적",
+  "Binding Band": "조임밴드",
+  "Absorb Bulb": "구근",
+  "Cell Battery": "충전지",
+  "Eject Button": "탈출버튼",
+  "Fire Gem": "불꽃주얼",
+  "Water Gem": "물주얼",
+  "Electric Gem": "전기주얼",
+  "Grass Gem": "풀주얼",
+  "Ice Gem": "얼음주얼",
+  "Fighting Gem": "격투주얼",
+  "Poison Gem": "독주얼",
+  "Ground Gem": "땅주얼",
+  "Flying Gem": "비행주얼",
+  "Psychic Gem": "에스퍼주얼",
+  "Bug Gem": "벌레주얼",
+  "Rock Gem": "바위주얼",
+  "Ghost Gem": "고스트주얼",
+  "Dark Gem": "악주얼",
+  "Steel Gem": "강철주얼",
+  "Health Feather": "체력날개",
+  "Muscle Feather": "근력날개",
+  "Resist Feather": "저항력날개",
+  "Genius Feather": "지력날개",
+  "Clever Feather": "정신력날개",
+  "Swift Feather": "순발력날개",
+  "Pretty Feather": "고운날개",
+  "Cover Fossil": "덮개화석",
+  "Plume Fossil": "날개화석",
+  "Liberty Pass": "리버티티켓",
+  "Pass Orb": "딜구슬",
+  "Dream Ball": "드림볼",
+  "Poké Toy": "포켓풀",
+  "Prop Case": "굿즈케이스",
+  "Dragon Skull": "드래곤의뼈",
+  "Balm Mushroom": "향기버섯",
+  "Big Nugget": "큰금구슬",
+  "Pearl String": "경단진주",
+  "Comet Shard": "혜성조각",
+  "Relic Copper": "고대의동화",
+  "Relic Silver": "고대의은화",
+  "Relic Gold": "고대의금화",
+  "Relic Vase": "고대의항아리",
+  "Relic Band": "고대의팔찌",
+  "Relic Statue": "고대의석상",
+  "Relic Crown": "고대의왕관",
+  "Casteliacone": "구름아이스",
+  "Dire Hit 2": "크리티컬커터2",
+  "X Speed 2": "스피드업2",
+  "X Sp. Atk 2": "스페셜업2",
+  "X Sp. Def 2": "스페셜가드2",
+  "X Defense 2": "디펜드업2",
+  "X Attack 2": "플러스파워2",
+  "X Accuracy 2": "잘-맞히기2",
+  "X Speed 3": "스피드업3",
+  "X Sp. Atk 3": "스페셜업3",
+  "X Sp. Def 3": "스페셜가드3",
+  "X Defense 3": "디펜드업3",
+  "X Attack 3": "플러스파워3",
+  "X Accuracy 3": "잘-맞히기3",
+  "X Speed 6": "스피드업6",
+  "X Sp. Atk 6": "스페셜업6",
+  "X Sp. Def 6": "스페셜가드6",
+  "X Defense 6": "디펜드업6",
+  "X Attack 6": "플러스파워6",
+  "X Accuracy 6": "잘-맞히기6",
+  "Ability Urge": "스킬콜",
+  "Item Drop": "아이템드롭",
+  "Item Urge": "아이템콜",
+  "Reset Urge": "플랫콜",
+  "Dire Hit 3": "크리티컬커터3",
+  "Light Stone": "라이트스톤",
+  "Dark Stone": "다크스톤",
+  "TM93": "기술머신93",
+  "TM94": "기술머신94",
+  "TM95": "기술머신95",
+  "Xtransceiver": "라이브캐스터",
+  "Gram 1": "배달물1",
+  "Gram 2": "배달물2",
+  "Gram 3": "배달물3",
+  "Dragon Gem": "드래곤주얼",
+  "Normal Gem": "노말주얼",
+  "Medal Box": "메달박스",
+  "DNA Splicers": "유전자쐐기",
+  "Permit": "허가증",
+  "Oval Charm": "둥근부적",
+  "Shiny Charm": "빛나는부적",
+  "Plasma Card": "플라스마카드",
+  "Grubby Hanky": "더러운손수건",
+  "Colress Machine": "아크로마머신",
+  "Dropped Item": "잊은물건",
+  "Reveal Glass": "비추는거울",
+  "Weakness Policy": "약점보험",
+  "Assault Vest": "돌격조끼",
+  "Pixie Plate": "정령플레이트",
+  "Ability Capsule": "특성캡슐",
+  "Whipped Dream": "휘핑팝",
+  "Sachet": "향기주머니",
+  "Luminous Moss": "빛이끼",
+  "Snowball": "눈덩이",
+  "Safety Goggles": "방진고글",
+  "Rich Mulch": "주렁주렁비료",
+  "Surprise Mulch": "깜놀비료",
+  "Boost Mulch": "부쩍부쩍비료",
+  "Amaze Mulch": "기절초풍비료",
+  "Gengarite": "팬텀나이트",
+  "Gardevoirite": "가디안나이트",
+  "Ampharosite": "전룡나이트",
+  "Venusaurite": "이상해꽃나이트",
+  "Charizardite X": "리자몽나이트X",
+  "Blastoisinite": "거북왕나이트",
+  "Mewtwonite X": "뮤츠나이트X",
+  "Mewtwonite Y": "뮤츠나이트Y",
+  "Blazikenite": "번치코나이트",
+  "Medichamite": "요가램나이트",
+  "Houndoominite": "헬가나이트",
+  "Aggronite": "보스로라나이트",
+  "Banettite": "다크펫나이트",
+  "Tyranitarite": "마기라스나이트",
+  "Scizorite": "핫삼나이트",
+  "Pinsirite": "쁘사이저나이트",
+  "Aerodactylite": "프테라나이트",
+  "Lucarionite": "루카리오나이트",
+  "Abomasite": "눈설왕나이트",
+  "Kangaskhanite": "캥카나이트",
+  "Gyaradosite": "갸라도스나이트",
+  "Absolite": "앱솔나이트",
+  "Charizardite Y": "리자몽나이트Y",
+  "Alakazite": "후디나이트",
+  "Heracronite": "헤라크로스나이트",
+  "Mawilite": "입치트나이트",
+  "Manectite": "썬더볼트나이트",
+  "Garchompite": "한카리아스나이트",
+  "Roseli Berry": "로셀열매",
+  "Kee Berry": "악키열매",
+  "Maranga Berry": "타라프열매",
+  "Discount Coupon": "바겐세일티켓",
+  "Strange Souvenir": "이상한장식품",
+  "Lumiose Galette": "미르갈레트",
+  "Jaw Fossil": "턱화석",
+  "Sail Fossil": "지느러미화석",
+  "Fairy Gem": "페어리주얼",
+  "Adventure Guide": "탐험수칙",
+  "Elevator Key": "엘리베이터키",
+  "Holo Caster": "홀로캐스터",
+  "Honor of Kalos": "칼로스엠블럼",
+  "Intriguing Stone": "대단할듯한돌",
+  "Lens Case": "렌즈케이스",
+  "Looker Ticket": "핸섬티켓",
+  "Mega Ring": "메가링",
+  "Power Plant Pass": "발전소패스",
+  "Prof’s Letter": "박사의편지",
+  "Roller Skates": "롤러스케이트",
+  "Sprinklotad": "연꽃몬물뿌리개",
+  "TMV Pass": "TMV패스",
+  "TM96": "기술머신96",
+  "TM97": "기술머신97",
+  "TM98": "기술머신98",
+  "TM99": "기술머신99",
+  "TM100": "기술머신100",
+  "Latiasite": "라티아스나이트",
+  "Latiosite": "라티오스나이트",
+  "Common Stone": "흔해빠진돌",
+  "Makeup Bag": "코스메틱파우치",
+  "Travel Trunk": "의상트렁크",
+  "Shalour Sable": "사라사블레",
+  "Mega Charm": "메가참",
+  "Mega Glove": "메가글러브",
+  "Devon Parts": "데봉화물",
+  "Pokéblock Kit": "포켓몬스넥키트",
+  "Key to Room 1": "1호실열쇠",
+  "Key to Room 2": "2호실열쇠",
+  "Key to Room 4": "4호실열쇠",
+  "Key to Room 6": "6호실열쇠",
+  "Devon Scuba Gear": "데봉봄베",
+  "Contest Costume": "라이브드레스",
+  "Magma Suit": "마그마슈트",
+  "Aqua Suit": "아쿠아슈트",
+  "Pair of Tickets": "페어티켓",
+  "Mega Bracelet": "메가뱅글",
+  "Mega Pendant": "메가펜던트",
+  "Mega Glasses": "메가글라스",
+  "Mega Anchor": "메가앵커",
+  "Mega Stickpin": "메가라펠핀",
+  "Mega Tiara": "메가티아러",
+  "Mega Anklet": "메가앵클릿",
+  "Swampertite": "대짱이나이트",
+  "Sceptilite": "나무킹나이트",
+  "Sablenite": "깜까미나이트",
+  "Altarianite": "파비코리나이트",
+  "Galladite": "엘레이드나이트",
+  "Audinite": "다부니나이트",
+  "Metagrossite": "메타그로스나이트",
+  "Sharpedonite": "샤크니아나이트",
+  "Slowbronite": "야도란나이트",
+  "Steelixite": "강철톤나이트",
+  "Pidgeotite": "피죤투나이트",
+  "Glalitite": "얼음귀신나이트",
+  "Diancite": "디안시나이트",
+  "Prison Bottle": "굴레의항아리",
+  "Mega Cuff": "메가블레스",
+  "Cameruptite": "폭타나이트",
+  "Lopunnite": "이어롭나이트",
+  "Salamencite": "보만다나이트",
+  "Beedrillite": "독침붕나이트",
+  "Key Stone": "키스톤",
+  "Meteorite Shard": "운석조각",
+  "Eon Flute": "무한의피리",
+  "Normalium Z": "노말Z",
+  "Firium Z": "불꽃Z",
+  "Waterium Z": "물Z",
+  "Electrium Z": "전기Z",
+  "Grassium Z": "풀Z",
+  "Icium Z": "얼음Z",
+  "Fightinium Z": "격투Z",
+  "Poisonium Z": "독Z",
+  "Groundium Z": "땅Z",
+  "Flyinium Z": "비행Z",
+  "Psychium Z": "에스퍼Z",
+  "Buginium Z": "벌레Z",
+  "Rockium Z": "바위Z",
+  "Ghostium Z": "고스트Z",
+  "Dragonium Z": "드래곤Z",
+  "Darkinium Z": "악Z",
+  "Steelium Z": "강철Z",
+  "Fairium Z": "페어리Z",
+  "Pikanium Z": "피카츄Z",
+  "Bottle Cap": "은왕관",
+  "Gold Bottle Cap": "금왕관",
+  "Z-Ring": "Z링",
+  "Decidium Z": "모크나이퍼Z",
+  "Incinium Z": "어흥염Z",
+  "Primarium Z": "누리레느Z",
+  "Tapunium Z": "카푸Z",
+  "Marshadium Z": "마샤도Z",
+  "Aloraichium Z": "알로라이Z",
+  "Snorlium Z": "잠만보Z",
+  "Eevium Z": "이브이Z",
+  "Mewnium Z": "뮤Z",
+  "Pikashunium Z": "지우피카Z",
+  "Forage Bag": "재료주머니",
+  "Fishing Rod": "낚싯대",
+  "Professor’s Mask": "박사의복면",
+  "Festival Ticket": "페스티켓",
+  "Sparkling Stone": "빛나는돌",
+  "Adrenaline Orb": "주눅구슬",
+  "Zygarde Cube": "지가르데큐브",
+  "Ice Stone": "얼음의돌",
+  "Ride Pager": "라이드기어",
+  "Beast Ball": "울트라볼",
+  "Big Malasada": "큰 말라사다",
+  "Red Nectar": "다홍꿀",
+  "Yellow Nectar": "진노랑꿀",
+  "Pink Nectar": "연분홍꿀",
+  "Purple Nectar": "보라꿀",
+  "Sun Flute": "태양의피리",
+  "Moon Flute": "달의피리",
+  "Enigmatic Card": "괴상한카드",
+  "Terrain Extender": "그라운드코트",
+  "Protective Pads": "방호패드",
+  "Electric Seed": "일렉트릭시드",
+  "Psychic Seed": "사이코시드",
+  "Misty Seed": "미스트시드",
+  "Grassy Seed": "그래스시드",
+  "Fighting Memory": "파이팅메모리",
+  "Flying Memory": "플라잉메모리",
+  "Poison Memory": "포이즌메모리",
+  "Ground Memory": "그라운드메모리",
+  "Rock Memory": "락메모리",
+  "Bug Memory": "버그메모리",
+  "Ghost Memory": "고스트메모리",
+  "Steel Memory": "스틸메모리",
+  "Fire Memory": "파이어메모리",
+  "Water Memory": "워터메모리",
+  "Grass Memory": "그래스메모리",
+  "Electric Memory": "일렉트릭메모리",
+  "Psychic Memory": "사이킥메모리",
+  "Ice Memory": "아이스메모리",
+  "Dragon Memory": "드래곤메모리",
+  "Dark Memory": "다크메모리",
+  "Fairy Memory": "페어리메모리",
+  "Bike": "자전거",
+  "Solganium Z": "솔가레오Z",
+  "Lunalium Z": "루나아라Z",
+  "Ultranecrozium Z": "울트라네크로Z",
+  "Mimikium Z": "따라큐Z",
+  "Lycanium Z": "루가루암Z",
+  "Kommonium Z": "짜랑고우거Z",
+  "Z-Power Ring": "Z파워링",
+  "Pink Petal": "담홍꽃잎",
+  "Orange Petal": "주황꽃잎",
+  "Blue Petal": "파랑꽃잎",
+  "Red Petal": "빨강꽃잎",
+  "Green Petal": "초록꽃잎",
+  "Yellow Petal": "노랑꽃잎",
+  "Purple Petal": "보라꽃잎",
+  "Rainbow Flower": "무지개꽃",
+  "Surge Badge": "주황배지",
+  "N-Solarizer": "네크로플러스솔",
+  "N-Lunarizer": "네크로플러스루나",
+  "Ilima Normalium Z": "일리마의 노말Z",
+  "Left Poké Ball": "남겨진 볼",
+  "Roto Hatch": "알부화캡슐토이",
+  "Roto Bargain": "할인캡슐토이",
+  "Roto Prize Money": "용돈캡슐토이",
+  "Roto Exp. Points": "경험캡슐토이",
+  "Roto Friendship": "친밀도캡슐토이",
+  "Roto Encounter": "발견캡슐토이",
+  "Roto Stealth": "숨기캡슐토이",
+  "Roto HP Restore": "HP회복캡슐토이",
+  "Roto PP Restore": "PP회복캡슐토이",
+  "Roto Boost": "응원캡슐토이",
+  "Roto Catch": "잡기캡슐토이",
+  "Autograph": "마티스의사인",
+  "Pokémon Box Link": "포켓몬 박스",
+  "Medicine Pocket": "회복포켓",
+  "Candy Jar": "사탕보틀",
+  "Power-Up Pocket": "강화포켓",
+  "Clothing Trunk": "옷갈아입기트렁크",
+  "Catching Pocket": "포획포켓",
+  "Battle Pocket": "배틀포켓",
+  "Silver Razz Berry": "은 라즈열매",
+  "Golden Razz Berry": "황금 라즈열매",
+  "Silver Nanab Berry": "은 나나열매",
+  "Golden Nanab Berry": "황금 나나열매",
+  "Silver Pinap Berry": "은 파인열매",
+  "Golden Pinap Berry": "황금 파인열매",
+  "Stretchy Spring": "늘어난용수철",
+  "Chalky Stone": "초크돌",
+  "Marble": "유리구슬",
+  "Lone Earring": "한쪽귀고리",
+  "Beach Glass": "바닷가유리",
+  "Gold Leaf": "금빛잎사귀",
+  "Silver Leaf": "은빛잎사귀",
+  "Polished Mud Ball": "반짝반짝경단",
+  "Tropical Shell": "트로피컬조개껍질",
+  "Leaf Letter": "나뭇잎편지",
+  "Small Bouquet": "작은꽃다발",
+  "Lure": "벌레유인코롱",
+  "Super Lure": "실버코롱",
+  "Max Lure": "골드코롱",
+  "Pewter Crunchies": "회색강정",
+  "Health Candy": "기력의사탕",
+  "Mighty Candy": "힘의사탕",
+  "Tough Candy": "수비의사탕",
+  "Smart Candy": "지식의사탕",
+  "Courage Candy": "마음의사탕",
+  "Quick Candy": "속도의사탕",
+  "Health Candy L": "기력의사탕L",
+  "Mighty Candy L": "힘의사탕L",
+  "Tough Candy L": "수비의사탕L",
+  "Smart Candy L": "지식의사탕L",
+  "Courage Candy L": "마음의사탕L",
+  "Quick Candy L": "속도의사탕L",
+  "Health Candy XL": "기력의사탕XL",
+  "Mighty Candy XL": "힘의사탕XL",
+  "Tough Candy XL": "수비의사탕XL",
+  "Smart Candy XL": "지식의사탕XL",
+  "Courage Candy XL": "마음의사탕XL",
+  "Quick Candy XL": "속도의사탕XL",
+  "Bulbasaur Candy": "이상해씨의사탕",
+  "Charmander Candy": "파이리의사탕",
+  "Squirtle Candy": "꼬부기의사탕",
+  "Caterpie Candy": "캐터피의사탕",
+  "Weedle Candy": "뿔충이의사탕",
+  "Pidgey Candy": "구구의사탕",
+  "Rattata Candy": "꼬렛의사탕",
+  "Spearow Candy": "깨비참의사탕",
+  "Ekans Candy": "아보의사탕",
+  "Pikachu Candy": "피카츄의사탕",
+  "Sandshrew Candy": "모래두지의사탕",
+  "Nidoran♀ Candy": "니드런♀의사탕",
+  "Nidoran♂ Candy": "니드런♂의사탕",
+  "Clefairy Candy": "삐삐의사탕",
+  "Vulpix Candy": "식스테일의사탕",
+  "Jigglypuff Candy": "푸린의사탕",
+  "Zubat Candy": "주뱃의사탕",
+  "Oddish Candy": "뚜벅쵸의사탕",
+  "Paras Candy": "파라스의사탕",
+  "Venonat Candy": "콘팡의사탕",
+  "Diglett Candy": "디그다의사탕",
+  "Meowth Candy": "나옹의사탕",
+  "Psyduck Candy": "고라파덕의사탕",
+  "Mankey Candy": "망키의사탕",
+  "Growlithe Candy": "가디의사탕",
+  "Poliwag Candy": "발챙이의사탕",
+  "Abra Candy": "캐이시의사탕",
+  "Machop Candy": "알통몬의사탕",
+  "Bellsprout Candy": "모다피의사탕",
+  "Tentacool Candy": "왕눈해의사탕",
+  "Geodude Candy": "꼬마돌의사탕",
+  "Ponyta Candy": "포니타의사탕",
+  "Slowpoke Candy": "야돈의사탕",
+  "Magnemite Candy": "코일의사탕",
+  "Farfetch’d Candy": "파오리의사탕",
+  "Doduo Candy": "두두의사탕",
+  "Seel Candy": "쥬쥬의사탕",
+  "Grimer Candy": "질퍽이의사탕",
+  "Shellder Candy": "셀러의사탕",
+  "Gastly Candy": "고오스의사탕",
+  "Onix Candy": "롱스톤의사탕",
+  "Drowzee Candy": "슬리프의사탕",
+  "Krabby Candy": "크랩의사탕",
+  "Voltorb Candy": "찌리리공의사탕",
+  "Exeggcute Candy": "아라리의사탕",
+  "Cubone Candy": "탕구리의사탕",
+  "Hitmonlee Candy": "시라소몬의사탕",
+  "Hitmonchan Candy": "홍수몬의사탕",
+  "Lickitung Candy": "내루미의사탕",
+  "Koffing Candy": "또가스의사탕",
+  "Rhyhorn Candy": "뿔카노의사탕",
+  "Chansey Candy": "럭키의사탕",
+  "Tangela Candy": "덩쿠리의사탕",
+  "Kangaskhan Candy": "캥카의사탕",
+  "Horsea Candy": "쏘드라의사탕",
+  "Goldeen Candy": "콘치의사탕",
+  "Staryu Candy": "별가사리의사탕",
+  "Mr. Mime Candy": "마임맨의사탕",
+  "Scyther Candy": "스라크의사탕",
+  "Jynx Candy": "루주라의사탕",
+  "Electabuzz Candy": "에레브의사탕",
+  "Pinsir Candy": "쁘사이저의사탕",
+  "Tauros Candy": "켄타로스의사탕",
+  "Magikarp Candy": "잉어킹의사탕",
+  "Lapras Candy": "라프라스의사탕",
+  "Ditto Candy": "메타몽의사탕",
+  "Eevee Candy": "이브이의사탕",
+  "Porygon Candy": "폴리곤의사탕",
+  "Omanyte Candy": "암나이트의사탕",
+  "Kabuto Candy": "투구의사탕",
+  "Aerodactyl Candy": "프테라의사탕",
+  "Snorlax Candy": "잠만보의사탕",
+  "Articuno Candy": "프리져의사탕",
+  "Zapdos Candy": "썬더의사탕",
+  "Moltres Candy": "파이어의사탕",
+  "Dratini Candy": "미뇽의사탕",
+  "Mewtwo Candy": "뮤츠의사탕",
+  "Mew Candy": "뮤의사탕",
+  "Meltan Candy": "멜탄의사탕",
+  "Magmar Candy": "마그마의사탕",
+  "Endorsement": "추천장",
+  "Wishing Star": "소원의별",
+  "Dynamax Band": "다이맥스 밴드",
+  "Rotom Bike": "로토무자전거",
+  "Sausages": "탱글탱글부어스트",
+  "Bob’s Food Tin": "밥의통조림",
+  "Bach’s Food Tin": "바크의통조림",
+  "Tin of Beans": "콩통조림",
+  "Bread": "식빵",
+  "Pasta": "파스타",
+  "Mixed Mushrooms": "버섯팩",
+  "Smoke-Poke Tail": "꼬리훈제",
+  "Large Leek": "굵은대파",
+  "Fancy Apple": "특선사과",
+  "Brittle Bones": "가느다란뼈",
+  "Pack of Potatoes": "포테이토팩",
+  "Pungent Root": "물가허브팩",
+  "Salad Mix": "채소팩",
+  "Fried Food": "모둠튀김",
+  "Boiled Egg": "삶은알",
+  "Camping Gear": "캠프세트",
+  "Rusted Sword": "녹슨검",
+  "Rusted Shield": "녹슨방패",
+  "Fossilized Bird": "화석새",
+  "Fossilized Fish": "화석물고기",
+  "Fossilized Drake": "화석용",
+  "Fossilized Dino": "화석긴목",
+  "Strawberry Sweet": "딸기사탕공예",
+  "Love Sweet": "하트사탕공예",
+  "Berry Sweet": "베리사탕공예",
+  "Clover Sweet": "네잎사탕공예",
+  "Flower Sweet": "꽃사탕공예",
+  "Star Sweet": "스타사탕공예",
+  "Ribbon Sweet": "리본사탕공예",
+  "Sweet Apple": "달콤한사과",
+  "Tart Apple": "새콤한사과",
+  "Throat Spray": "목스프레이",
+  "Eject Pack": "탈출팩",
+  "Heavy-Duty Boots": "통굽부츠",
+  "Blunder Policy": "허탕보험",
+  "Room Service": "룸서비스",
+  "Utility Umbrella": "만능우산",
+  "Exp. Candy XS": "경험사탕XS",
+  "Exp. Candy S": "경험사탕S",
+  "Exp. Candy M": "경험사탕M",
+  "Exp. Candy L": "경험사탕L",
+  "Exp. Candy XL": "경험사탕XL",
+  "Dynamax Candy": "다이맥스사탕",
+  "TR00": "기술레코드00",
+  "TR01": "기술레코드01",
+  "TR02": "기술레코드02",
+  "TR03": "기술레코드03",
+  "TR04": "기술레코드04",
+  "TR05": "기술레코드05",
+  "TR06": "기술레코드06",
+  "TR07": "기술레코드07",
+  "TR08": "기술레코드08",
+  "TR09": "기술레코드09",
+  "TR10": "기술레코드10",
+  "TR11": "기술레코드11",
+  "TR12": "기술레코드12",
+  "TR13": "기술레코드13",
+  "TR14": "기술레코드14",
+  "TR15": "기술레코드15",
+  "TR16": "기술레코드16",
+  "TR17": "기술레코드17",
+  "TR18": "기술레코드18",
+  "TR19": "기술레코드19",
+  "TR20": "기술레코드20",
+  "TR21": "기술레코드21",
+  "TR22": "기술레코드22",
+  "TR23": "기술레코드23",
+  "TR24": "기술레코드24",
+  "TR25": "기술레코드25",
+  "TR26": "기술레코드26",
+  "TR27": "기술레코드27",
+  "TR28": "기술레코드28",
+  "TR29": "기술레코드29",
+  "TR30": "기술레코드30",
+  "TR31": "기술레코드31",
+  "TR32": "기술레코드32",
+  "TR33": "기술레코드33",
+  "TR34": "기술레코드34",
+  "TR35": "기술레코드35",
+  "TR36": "기술레코드36",
+  "TR37": "기술레코드37",
+  "TR38": "기술레코드38",
+  "TR39": "기술레코드39",
+  "TR40": "기술레코드40",
+  "TR41": "기술레코드41",
+  "TR42": "기술레코드42",
+  "TR43": "기술레코드43",
+  "TR44": "기술레코드44",
+  "TR45": "기술레코드45",
+  "TR46": "기술레코드46",
+  "TR47": "기술레코드47",
+  "TR48": "기술레코드48",
+  "TR49": "기술레코드49",
+  "TR50": "기술레코드50",
+  "TR51": "기술레코드51",
+  "TR52": "기술레코드52",
+  "TR53": "기술레코드53",
+  "TR54": "기술레코드54",
+  "TR55": "기술레코드55",
+  "TR56": "기술레코드56",
+  "TR57": "기술레코드57",
+  "TR58": "기술레코드58",
+  "TR59": "기술레코드59",
+  "TR60": "기술레코드60",
+  "TR61": "기술레코드61",
+  "TR62": "기술레코드62",
+  "TR63": "기술레코드63",
+  "TR64": "기술레코드64",
+  "TR65": "기술레코드65",
+  "TR66": "기술레코드66",
+  "TR67": "기술레코드67",
+  "TR68": "기술레코드68",
+  "TR69": "기술레코드69",
+  "TR70": "기술레코드70",
+  "TR71": "기술레코드71",
+  "TR72": "기술레코드72",
+  "TR73": "기술레코드73",
+  "TR74": "기술레코드74",
+  "TR75": "기술레코드75",
+  "TR76": "기술레코드76",
+  "TR77": "기술레코드77",
+  "TR78": "기술레코드78",
+  "TR79": "기술레코드79",
+  "TR80": "기술레코드80",
+  "TR81": "기술레코드81",
+  "TR82": "기술레코드82",
+  "TR83": "기술레코드83",
+  "TR84": "기술레코드84",
+  "TR85": "기술레코드85",
+  "TR86": "기술레코드86",
+  "TR87": "기술레코드87",
+  "TR88": "기술레코드88",
+  "TR89": "기술레코드89",
+  "TR90": "기술레코드90",
+  "TR91": "기술레코드91",
+  "TR92": "기술레코드92",
+  "TR93": "기술레코드93",
+  "TR94": "기술레코드94",
+  "TR95": "기술레코드95",
+  "TR96": "기술레코드96",
+  "TR97": "기술레코드97",
+  "TR98": "기술레코드98",
+  "TR99": "기술레코드99",
+  "TM00": "기술머신00",
+  "Lonely Mint": "외로움민트",
+  "Adamant Mint": "고집민트",
+  "Naughty Mint": "개구쟁이민트",
+  "Brave Mint": "용감민트",
+  "Bold Mint": "대담민트",
+  "Impish Mint": "장난꾸러기민트",
+  "Lax Mint": "촐랑민트",
+  "Relaxed Mint": "무사태평민트",
+  "Modest Mint": "조심민트",
+  "Mild Mint": "의젓민트",
+  "Rash Mint": "덜렁민트",
+  "Quiet Mint": "냉정민트",
+  "Calm Mint": "차분민트",
+  "Gentle Mint": "얌전민트",
+  "Careful Mint": "신중민트",
+  "Sassy Mint": "건방민트",
+  "Timid Mint": "겁쟁이민트",
+  "Hasty Mint": "성급민트",
+  "Jolly Mint": "명랑민트",
+  "Naive Mint": "천진난만민트",
+  "Serious Mint": "성실민트",
+  "Wishing Piece": "소원의덩어리",
+  "Cracked Pot": "깨진포트",
+  "Chipped Pot": "이빠진포트",
+  "Hi-tech Earbuds": "대단한귀마개",
+  "Fruit Bunch": "송이팩",
+  "Moomoo Cheese": "튼튼치즈",
+  "Spice Mix": "스파이스세트",
+  "Fresh Cream": "신선한크림",
+  "Packaged Curry": "레토르트카레",
+  "Coconut Milk": "야자밀크",
+  "Instant Noodles": "레토르트면",
+  "Precooked Burger": "레토르트햄버그",
+  "Gigantamix": "거대파우더",
+  "Wishing Chip": "소원의조각",
+  "Catching Charm": "흔들림없는부적",
+  "Old Letter": "낡은편지",
+  "Band Autograph": "밴드의사인",
+  "Sonia’s Book": "소니아의책",
+  "Rotom Catalog": "로토무카탈로그",
+  "★And458": "★And458",
+  "★And15": "★And15",
+  "★And337": "★And337",
+  "★And603": "★And603",
+  "★And390": "★And390",
+  "★Sgr6879": "★Sgr6879",
+  "★Sgr6859": "★Sgr6859",
+  "★Sgr6913": "★Sgr6913",
+  "★Sgr7348": "★Sgr7348",
+  "★Sgr7121": "★Sgr7121",
+  "★Sgr6746": "★Sgr6746",
+  "★Sgr7194": "★Sgr7194",
+  "★Sgr7337": "★Sgr7337",
+  "★Sgr7343": "★Sgr7343",
+  "★Sgr6812": "★Sgr6812",
+  "★Sgr7116": "★Sgr7116",
+  "★Sgr7264": "★Sgr7264",
+  "★Sgr7597": "★Sgr7597",
+  "★Del7882": "★Del7882",
+  "★Del7906": "★Del7906",
+  "★Del7852": "★Del7852",
+  "★Psc596": "★Psc596",
+  "★Psc361": "★Psc361",
+  "★Psc510": "★Psc510",
+  "★Psc437": "★Psc437",
+  "★Psc8773": "★Psc8773",
+  "★Lep1865": "★Lep1865",
+  "★Lep1829": "★Lep1829",
+  "★Boo5340": "★Boo5340",
+  "★Boo5506": "★Boo5506",
+  "★Boo5435": "★Boo5435",
+  "★Boo5602": "★Boo5602",
+  "★Boo5733": "★Boo5733",
+  "★Boo5235": "★Boo5235",
+  "★Boo5351": "★Boo5351",
+  "★Hya3748": "★Hya3748",
+  "★Hya3903": "★Hya3903",
+  "★Hya3418": "★Hya3418",
+  "★Hya3482": "★Hya3482",
+  "★Hya3845": "★Hya3845",
+  "★Eri1084": "★Eri1084",
+  "★Eri472": "★Eri472",
+  "★Eri1666": "★Eri1666",
+  "★Eri897": "★Eri897",
+  "★Eri1231": "★Eri1231",
+  "★Eri874": "★Eri874",
+  "★Eri1298": "★Eri1298",
+  "★Eri1325": "★Eri1325",
+  "★Eri984": "★Eri984",
+  "★Eri1464": "★Eri1464",
+  "★Eri1393": "★Eri1393",
+  "★Eri850": "★Eri850",
+  "★Tau1409": "★Tau1409",
+  "★Tau1457": "★Tau1457",
+  "★Tau1165": "★Tau1165",
+  "★Tau1791": "★Tau1791",
+  "★Tau1910": "★Tau1910",
+  "★Tau1346": "★Tau1346",
+  "★Tau1373": "★Tau1373",
+  "★Tau1412": "★Tau1412",
+  "★CMa2491": "★CMa2491",
+  "★CMa2693": "★CMa2693",
+  "★CMa2294": "★CMa2294",
+  "★CMa2827": "★CMa2827",
+  "★CMa2282": "★CMa2282",
+  "★CMa2618": "★CMa2618",
+  "★CMa2657": "★CMa2657",
+  "★CMa2646": "★CMa2646",
+  "★UMa4905": "★UMa4905",
+  "★UMa4301": "★UMa4301",
+  "★UMa5191": "★UMa5191",
+  "★UMa5054": "★UMa5054",
+  "★UMa4295": "★UMa4295",
+  "★UMa4660": "★UMa4660",
+  "★UMa4554": "★UMa4554",
+  "★UMa4069": "★UMa4069",
+  "★UMa3569": "★UMa3569",
+  "★UMa3323": "★UMa3323",
+  "★UMa4033": "★UMa4033",
+  "★UMa4377": "★UMa4377",
+  "★UMa4375": "★UMa4375",
+  "★UMa4518": "★UMa4518",
+  "★UMa3594": "★UMa3594",
+  "★Vir5056": "★Vir5056",
+  "★Vir4825": "★Vir4825",
+  "★Vir4932": "★Vir4932",
+  "★Vir4540": "★Vir4540",
+  "★Vir4689": "★Vir4689",
+  "★Vir5338": "★Vir5338",
+  "★Vir4910": "★Vir4910",
+  "★Vir5315": "★Vir5315",
+  "★Vir5359": "★Vir5359",
+  "★Vir5409": "★Vir5409",
+  "★Vir5107": "★Vir5107",
+  "★Ari617": "★Ari617",
+  "★Ari553": "★Ari553",
+  "★Ari546": "★Ari546",
+  "★Ari951": "★Ari951",
+  "★Ori1713": "★Ori1713",
+  "★Ori2061": "★Ori2061",
+  "★Ori1790": "★Ori1790",
+  "★Ori1903": "★Ori1903",
+  "★Ori1948": "★Ori1948",
+  "★Ori2004": "★Ori2004",
+  "★Ori1852": "★Ori1852",
+  "★Ori1879": "★Ori1879",
+  "★Ori1899": "★Ori1899",
+  "★Ori1543": "★Ori1543",
+  "★Cas21": "★Cas21",
+  "★Cas168": "★Cas168",
+  "★Cas403": "★Cas403",
+  "★Cas153": "★Cas153",
+  "★Cas542": "★Cas542",
+  "★Cas219": "★Cas219",
+  "★Cas265": "★Cas265",
+  "★Cnc3572": "★Cnc3572",
+  "★Cnc3208": "★Cnc3208",
+  "★Cnc3461": "★Cnc3461",
+  "★Cnc3449": "★Cnc3449",
+  "★Cnc3429": "★Cnc3429",
+  "★Cnc3627": "★Cnc3627",
+  "★Cnc3268": "★Cnc3268",
+  "★Cnc3249": "★Cnc3249",
+  "★Com4968": "★Com4968",
+  "★Crv4757": "★Crv4757",
+  "★Crv4623": "★Crv4623",
+  "★Crv4662": "★Crv4662",
+  "★Crv4786": "★Crv4786",
+  "★Aur1708": "★Aur1708",
+  "★Aur2088": "★Aur2088",
+  "★Aur1605": "★Aur1605",
+  "★Aur2095": "★Aur2095",
+  "★Aur1577": "★Aur1577",
+  "★Aur1641": "★Aur1641",
+  "★Aur1612": "★Aur1612",
+  "★Pav7790": "★Pav7790",
+  "★Cet911": "★Cet911",
+  "★Cet681": "★Cet681",
+  "★Cet188": "★Cet188",
+  "★Cet539": "★Cet539",
+  "★Cet804": "★Cet804",
+  "★Cep8974": "★Cep8974",
+  "★Cep8162": "★Cep8162",
+  "★Cep8238": "★Cep8238",
+  "★Cep8417": "★Cep8417",
+  "★Cen5267": "★Cen5267",
+  "★Cen5288": "★Cen5288",
+  "★Cen551": "★Cen551",
+  "★Cen5459": "★Cen5459",
+  "★Cen5460": "★Cen5460",
+  "★CMi2943": "★CMi2943",
+  "★CMi2845": "★CMi2845",
+  "★Equ8131": "★Equ8131",
+  "★Vul7405": "★Vul7405",
+  "★UMi424": "★UMi424",
+  "★UMi5563": "★UMi5563",
+  "★UMi5735": "★UMi5735",
+  "★UMi6789": "★UMi6789",
+  "★Crt4287": "★Crt4287",
+  "★Lyr7001": "★Lyr7001",
+  "★Lyr7178": "★Lyr7178",
+  "★Lyr7106": "★Lyr7106",
+  "★Lyr7298": "★Lyr7298",
+  "★Ara6585": "★Ara6585",
+  "★Sco6134": "★Sco6134",
+  "★Sco6527": "★Sco6527",
+  "★Sco6553": "★Sco6553",
+  "★Sco5953": "★Sco5953",
+  "★Sco5984": "★Sco5984",
+  "★Sco6508": "★Sco6508",
+  "★Sco6084": "★Sco6084",
+  "★Sco5944": "★Sco5944",
+  "★Sco6630": "★Sco6630",
+  "★Sco6027": "★Sco6027",
+  "★Sco6247": "★Sco6247",
+  "★Sco6252": "★Sco6252",
+  "★Sco5928": "★Sco5928",
+  "★Sco6241": "★Sco6241",
+  "★Sco6165": "★Sco6165",
+  "★Tri544": "★Tri544",
+  "★Leo3982": "★Leo3982",
+  "★Leo4534": "★Leo4534",
+  "★Leo4357": "★Leo4357",
+  "★Leo4057": "★Leo4057",
+  "★Leo4359": "★Leo4359",
+  "★Leo4031": "★Leo4031",
+  "★Leo3852": "★Leo3852",
+  "★Leo3905": "★Leo3905",
+  "★Leo3773": "★Leo3773",
+  "★Gru8425": "★Gru8425",
+  "★Gru8636": "★Gru8636",
+  "★Gru8353": "★Gru8353",
+  "★Lib5685": "★Lib5685",
+  "★Lib5531": "★Lib5531",
+  "★Lib5787": "★Lib5787",
+  "★Lib5603": "★Lib5603",
+  "★Pup3165": "★Pup3165",
+  "★Pup3185": "★Pup3185",
+  "★Pup3045": "★Pup3045",
+  "★Cyg7924": "★Cyg7924",
+  "★Cyg7417": "★Cyg7417",
+  "★Cyg7796": "★Cyg7796",
+  "★Cyg8301": "★Cyg8301",
+  "★Cyg7949": "★Cyg7949",
+  "★Cyg7528": "★Cyg7528",
+  "★Oct7228": "★Oct7228",
+  "★Col1956": "★Col1956",
+  "★Col2040": "★Col2040",
+  "★Col2177": "★Col2177",
+  "★Gem2990": "★Gem2990",
+  "★Gem2891": "★Gem2891",
+  "★Gem2421": "★Gem2421",
+  "★Gem2473": "★Gem2473",
+  "★Gem2216": "★Gem2216",
+  "★Gem2777": "★Gem2777",
+  "★Gem2650": "★Gem2650",
+  "★Gem2286": "★Gem2286",
+  "★Gem2484": "★Gem2484",
+  "★Gem2930": "★Gem2930",
+  "★Peg8775": "★Peg8775",
+  "★Peg8781": "★Peg8781",
+  "★Peg39": "★Peg39",
+  "★Peg8308": "★Peg8308",
+  "★Peg8650": "★Peg8650",
+  "★Peg8634": "★Peg8634",
+  "★Peg8684": "★Peg8684",
+  "★Peg8450": "★Peg8450",
+  "★Peg8880": "★Peg8880",
+  "★Peg8905": "★Peg8905",
+  "★Oph6556": "★Oph6556",
+  "★Oph6378": "★Oph6378",
+  "★Oph6603": "★Oph6603",
+  "★Oph6149": "★Oph6149",
+  "★Oph6056": "★Oph6056",
+  "★Oph6075": "★Oph6075",
+  "★Ser5854": "★Ser5854",
+  "★Ser7141": "★Ser7141",
+  "★Ser5879": "★Ser5879",
+  "★Her6406": "★Her6406",
+  "★Her6148": "★Her6148",
+  "★Her6410": "★Her6410",
+  "★Her6526": "★Her6526",
+  "★Her6117": "★Her6117",
+  "★Her6008": "★Her6008",
+  "★Per936": "★Per936",
+  "★Per1017": "★Per1017",
+  "★Per1131": "★Per1131",
+  "★Per1228": "★Per1228",
+  "★Per834": "★Per834",
+  "★Per941": "★Per941",
+  "★Phe99": "★Phe99",
+  "★Phe338": "★Phe338",
+  "★Vel3634": "★Vel3634",
+  "★Vel3485": "★Vel3485",
+  "★Vel3734": "★Vel3734",
+  "★Aqr8232": "★Aqr8232",
+  "★Aqr8414": "★Aqr8414",
+  "★Aqr8709": "★Aqr8709",
+  "★Aqr8518": "★Aqr8518",
+  "★Aqr7950": "★Aqr7950",
+  "★Aqr8499": "★Aqr8499",
+  "★Aqr8610": "★Aqr8610",
+  "★Aqr8264": "★Aqr8264",
+  "★Cru4853": "★Cru4853",
+  "★Cru4730": "★Cru4730",
+  "★Cru4763": "★Cru4763",
+  "★Cru4700": "★Cru4700",
+  "★Cru4656": "★Cru4656",
+  "★PsA8728": "★PsA8728",
+  "★TrA6217": "★TrA6217",
+  "★Cap7776": "★Cap7776",
+  "★Cap7754": "★Cap7754",
+  "★Cap8278": "★Cap8278",
+  "★Cap8322": "★Cap8322",
+  "★Cap7773": "★Cap7773",
+  "★Sge7479": "★Sge7479",
+  "★Car2326": "★Car2326",
+  "★Car3685": "★Car3685",
+  "★Car3307": "★Car3307",
+  "★Car3699": "★Car3699",
+  "★Dra5744": "★Dra5744",
+  "★Dra5291": "★Dra5291",
+  "★Dra6705": "★Dra6705",
+  "★Dra6536": "★Dra6536",
+  "★Dra7310": "★Dra7310",
+  "★Dra6688": "★Dra6688",
+  "★Dra4434": "★Dra4434",
+  "★Dra6370": "★Dra6370",
+  "★Dra7462": "★Dra7462",
+  "★Dra6396": "★Dra6396",
+  "★Dra6132": "★Dra6132",
+  "★Dra6636": "★Dra6636",
+  "★CVn4915": "★CVn4915",
+  "★CVn4785": "★CVn4785",
+  "★CVn4846": "★CVn4846",
+  "★Aql7595": "★Aql7595",
+  "★Aql7557": "★Aql7557",
+  "★Aql7525": "★Aql7525",
+  "★Aql7602": "★Aql7602",
+  "★Aql7235": "★Aql7235",
+  "Max Honey": "다이꿀",
+  "Max Mushrooms": "다이버섯",
+  "Galarica Twig": "가라두구가지",
+  "Galarica Cuff": "가라두구팔찌",
+  "Style Card": "멋쟁이카드",
+  "Armor Pass": "갑옷패스",
+  "Exp. Charm": "경험부적",
+  "Armorite Ore": "갑옷광석",
+  "Mark Charm": "증표의부적",
+  "Reins of Unity": "유대의고삐",
+  "Galarica Wreath": "가라두구머리장식",
+  "Legendary Clue 1": "전설의메모1",
+  "Legendary Clue 2": "전설의메모2",
+  "Legendary Clue 3": "전설의메모3",
+  "Legendary Clue?": "전설의메모?",
+  "Crown Pass": "왕관패스",
+  "Wooden Crown": "목각왕관",
+  "Radiant Petal": "빛나는꽃잎",
+  "White Mane Hair": "하얀갈기",
+  "Black Mane Hair": "검은갈기",
+  "Iceroot Carrot": "차가운당근",
+  "Shaderoot Carrot": "검은당근",
+  "Dynite Ore": "맥스광석",
+  "Carrot Seeds": "당근씨",
+  "Ability Patch": "특성패치"
+ },
+ "nature": {
+  "Hardy": "노력",
+  "Bold": "대담",
+  "Modest": "조심",
+  "Calm": "차분",
+  "Timid": "겁쟁이",
+  "Lonely": "외로움",
+  "Docile": "온순",
+  "Mild": "의젓",
+  "Gentle": "얌전",
+  "Hasty": "성급",
+  "Adamant": "고집",
+  "Impish": "장난꾸러기",
+  "Bashful": "수줍음",
+  "Careful": "신중",
+  "Rash": "덜렁",
+  "Jolly": "명랑",
+  "Naughty": "개구쟁이",
+  "Lax": "촐랑",
+  "Quirky": "변덕",
+  "Naive": "천진난만",
+  "Brave": "용감",
+  "Relaxed": "무사태평",
+  "Quiet": "냉정",
+  "Sassy": "건방",
+  "Serious": "성실"
+ },
+ "type": {
+  "Normal": "노말",
+  "Fighting": "격투",
+  "Flying": "비행",
+  "Poison": "독",
+  "Ground": "땅",
+  "Rock": "바위",
+  "Bug": "벌레",
+  "Ghost": "고스트",
+  "Steel": "강철",
+  "Fire": "불꽃",
+  "Water": "물",
+  "Grass": "풀",
+  "Electric": "전기",
+  "Psychic": "에스퍼",
+  "Ice": "얼음",
+  "Dragon": "드래곤",
+  "Dark": "악",
+  "Fairy": "페어리",
+  "Stellar": " 스텔라",
+  "???": "???",
+  "Shadow": "다크"
+ },
+ "move_type": {
+  "Pound": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Karate Chop": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Double Slap": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Comet Punch": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Mega Punch": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Pay Day": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Fire Punch": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Ice Punch": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Thunder Punch": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Scratch": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Vise Grip": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Guillotine": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Razor Wind": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Swords Dance": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Cut": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Gust": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Wing Attack": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Whirlwind": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Fly": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Bind": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Slam": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Vine Whip": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Stomp": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Double Kick": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Mega Kick": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Jump Kick": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Rolling Kick": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Sand Attack": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Headbutt": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Horn Attack": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Fury Attack": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Horn Drill": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Tackle": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Body Slam": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Wrap": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Take Down": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Thrash": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Double-Edge": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Tail Whip": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Poison Sting": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Twineedle": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Pin Missile": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Leer": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Bite": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Growl": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Roar": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Sing": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Supersonic": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Sonic Boom": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Disable": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Acid": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Ember": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Flamethrower": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Mist": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Water Gun": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Hydro Pump": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Surf": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Ice Beam": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Blizzard": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Psybeam": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Bubble Beam": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Aurora Beam": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Hyper Beam": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Peck": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Drill Peck": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Submission": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Low Kick": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Counter": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Seismic Toss": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Strength": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Absorb": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Mega Drain": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Leech Seed": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Growth": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Razor Leaf": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Solar Beam": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Poison Powder": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Stun Spore": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Sleep Powder": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Petal Dance": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "String Shot": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Dragon Rage": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Fire Spin": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Thunder Shock": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Thunderbolt": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Thunder Wave": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Thunder": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Rock Throw": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Earthquake": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Fissure": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Dig": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Toxic": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Confusion": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Psychic": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Hypnosis": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Meditate": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Agility": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Quick Attack": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Rage": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Teleport": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Night Shade": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Mimic": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Screech": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Double Team": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Recover": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Harden": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Minimize": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Smokescreen": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Confuse Ray": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Withdraw": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Defense Curl": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Barrier": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Light Screen": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Haze": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Reflect": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Focus Energy": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Bide": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Metronome": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Mirror Move": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Self-Destruct": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Egg Bomb": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Lick": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Smog": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Sludge": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Bone Club": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Fire Blast": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Waterfall": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Clamp": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Swift": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Skull Bash": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Spike Cannon": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Constrict": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Amnesia": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Kinesis": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Soft-Boiled": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "High Jump Kick": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Glare": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Dream Eater": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Poison Gas": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Barrage": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Leech Life": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Lovely Kiss": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Sky Attack": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Transform": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Bubble": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Dizzy Punch": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Spore": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Flash": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Psywave": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Splash": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Acid Armor": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Crabhammer": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Explosion": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Fury Swipes": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Bonemerang": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Rest": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Rock Slide": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Hyper Fang": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Sharpen": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Conversion": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Tri Attack": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Super Fang": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Slash": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Substitute": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Struggle": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Sketch": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Triple Kick": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Thief": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Spider Web": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Mind Reader": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Nightmare": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Flame Wheel": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Snore": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Curse": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Flail": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Conversion 2": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Aeroblast": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Cotton Spore": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Reversal": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Spite": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Powder Snow": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Protect": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Mach Punch": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Scary Face": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Feint Attack": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Sweet Kiss": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Belly Drum": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Sludge Bomb": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Mud-Slap": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Octazooka": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Spikes": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Zap Cannon": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Foresight": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Destiny Bond": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Perish Song": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Icy Wind": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Detect": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Bone Rush": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Lock-On": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Outrage": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Sandstorm": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Giga Drain": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Endure": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Charm": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Rollout": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "False Swipe": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Swagger": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Milk Drink": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Spark": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Fury Cutter": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Steel Wing": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Mean Look": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Attract": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Sleep Talk": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Heal Bell": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Return": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Present": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Frustration": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Safeguard": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Pain Split": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Sacred Fire": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Magnitude": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Dynamic Punch": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Megahorn": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Dragon Breath": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Baton Pass": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Encore": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Pursuit": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Rapid Spin": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Sweet Scent": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Iron Tail": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Metal Claw": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Vital Throw": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Morning Sun": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Synthesis": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Moonlight": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Hidden Power": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Cross Chop": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Twister": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Rain Dance": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Sunny Day": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Crunch": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Mirror Coat": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Psych Up": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Extreme Speed": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Ancient Power": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Shadow Ball": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Future Sight": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Rock Smash": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Whirlpool": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Beat Up": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Fake Out": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Uproar": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Stockpile": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Spit Up": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Swallow": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Heat Wave": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Hail": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Torment": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Flatter": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Will-O-Wisp": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Memento": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Facade": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Focus Punch": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Smelling Salts": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Follow Me": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Nature Power": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Charge": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Taunt": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Helping Hand": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Trick": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Role Play": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Wish": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Assist": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Ingrain": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Superpower": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Magic Coat": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Recycle": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Revenge": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Brick Break": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Yawn": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Knock Off": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Endeavor": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Eruption": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Skill Swap": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Imprison": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Refresh": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Grudge": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Snatch": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Secret Power": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Dive": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Arm Thrust": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Camouflage": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Tail Glow": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Luster Purge": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Mist Ball": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Feather Dance": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Teeter Dance": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Blaze Kick": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Mud Sport": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Ice Ball": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Needle Arm": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Slack Off": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Hyper Voice": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Poison Fang": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Crush Claw": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Blast Burn": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Hydro Cannon": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Meteor Mash": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Astonish": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Weather Ball": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Aromatherapy": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Fake Tears": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Air Cutter": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Overheat": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Odor Sleuth": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Rock Tomb": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Silver Wind": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Metal Sound": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Grass Whistle": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Tickle": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Cosmic Power": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Water Spout": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Signal Beam": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Shadow Punch": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Extrasensory": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Sky Uppercut": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Sand Tomb": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Sheer Cold": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Muddy Water": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Bullet Seed": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Aerial Ace": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Icicle Spear": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Iron Defense": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Block": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Howl": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Dragon Claw": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Frenzy Plant": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Bulk Up": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Bounce": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Mud Shot": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Poison Tail": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Covet": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Volt Tackle": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Magical Leaf": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Water Sport": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Calm Mind": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Leaf Blade": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Dragon Dance": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Rock Blast": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Shock Wave": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Water Pulse": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Doom Desire": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Psycho Boost": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Roost": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Gravity": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Miracle Eye": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Wake-Up Slap": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Hammer Arm": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Gyro Ball": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Healing Wish": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Brine": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Natural Gift": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Feint": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Pluck": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Tailwind": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Acupressure": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Metal Burst": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "U-turn": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Close Combat": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Payback": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Assurance": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Embargo": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Fling": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Psycho Shift": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Trump Card": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Heal Block": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Wring Out": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Power Trick": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Gastro Acid": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Lucky Chant": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Me First": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Copycat": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Power Swap": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Guard Swap": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Punishment": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Last Resort": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Worry Seed": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Sucker Punch": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Toxic Spikes": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Heart Swap": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Aqua Ring": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Magnet Rise": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Flare Blitz": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Force Palm": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Aura Sphere": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Rock Polish": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Poison Jab": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Dark Pulse": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Night Slash": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Aqua Tail": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Seed Bomb": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Air Slash": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "X-Scissor": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Bug Buzz": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Dragon Pulse": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Dragon Rush": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Power Gem": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Drain Punch": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Vacuum Wave": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Focus Blast": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Energy Ball": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Brave Bird": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Earth Power": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Switcheroo": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Giga Impact": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Nasty Plot": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Bullet Punch": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Avalanche": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Ice Shard": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Shadow Claw": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Thunder Fang": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Ice Fang": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Fire Fang": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Shadow Sneak": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Mud Bomb": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Psycho Cut": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Zen Headbutt": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Mirror Shot": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Flash Cannon": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Rock Climb": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Defog": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Trick Room": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Draco Meteor": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Discharge": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Lava Plume": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Leaf Storm": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Power Whip": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Rock Wrecker": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Cross Poison": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Gunk Shot": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Iron Head": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Magnet Bomb": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Stone Edge": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Captivate": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Stealth Rock": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Grass Knot": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Chatter": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Judgment": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Bug Bite": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Charge Beam": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Wood Hammer": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Aqua Jet": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Attack Order": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Defend Order": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Heal Order": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Head Smash": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Double Hit": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Roar of Time": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Spacial Rend": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Lunar Dance": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Crush Grip": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Magma Storm": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Dark Void": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Seed Flare": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Ominous Wind": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Shadow Force": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Hone Claws": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Wide Guard": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Guard Split": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Power Split": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Wonder Room": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Psyshock": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Venoshock": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Autotomize": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Rage Powder": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Telekinesis": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Magic Room": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Smack Down": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Storm Throw": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Flame Burst": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Sludge Wave": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Quiver Dance": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Heavy Slam": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Synchronoise": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Electro Ball": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Soak": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Flame Charge": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Coil": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Low Sweep": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Acid Spray": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Foul Play": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Simple Beam": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Entrainment": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "After You": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Round": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Echoed Voice": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Chip Away": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Clear Smog": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Stored Power": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Quick Guard": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Ally Switch": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Scald": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Shell Smash": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Heal Pulse": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Hex": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Sky Drop": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Shift Gear": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Circle Throw": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Incinerate": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Quash": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Acrobatics": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Reflect Type": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Retaliate": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Final Gambit": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Bestow": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Inferno": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Water Pledge": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Fire Pledge": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Grass Pledge": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Volt Switch": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Struggle Bug": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Bulldoze": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Frost Breath": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Dragon Tail": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Work Up": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Electroweb": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Wild Charge": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Drill Run": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Dual Chop": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Heart Stamp": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Horn Leech": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Sacred Sword": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Razor Shell": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Heat Crash": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Leaf Tornado": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Steamroller": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Cotton Guard": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Night Daze": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Psystrike": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Tail Slap": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Hurricane": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Head Charge": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Gear Grind": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Searing Shot": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Techno Blast": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Relic Song": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Secret Sword": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Glaciate": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Bolt Strike": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Blue Flare": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Fiery Dance": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Freeze Shock": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Ice Burn": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Snarl": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Icicle Crash": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "V-create": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Fusion Flare": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Fusion Bolt": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Flying Press": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Mat Block": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Belch": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Rototiller": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Sticky Web": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Fell Stinger": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Phantom Force": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Trick-or-Treat": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Noble Roar": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Ion Deluge": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Parabolic Charge": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Forest’s Curse": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Petal Blizzard": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Freeze-Dry": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Disarming Voice": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Parting Shot": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Topsy-Turvy": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Draining Kiss": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Crafty Shield": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Flower Shield": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Grassy Terrain": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Misty Terrain": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Electrify": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Play Rough": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Fairy Wind": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Moonblast": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Boomburst": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Fairy Lock": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "King’s Shield": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Play Nice": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Confide": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Diamond Storm": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Steam Eruption": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Hyperspace Hole": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Water Shuriken": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Mystical Fire": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Spiky Shield": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Aromatic Mist": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Eerie Impulse": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Venom Drench": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Powder": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Geomancy": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Magnetic Flux": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Happy Hour": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Electric Terrain": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Dazzling Gleam": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Celebrate": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Hold Hands": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Baby-Doll Eyes": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Nuzzle": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Hold Back": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Infestation": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Power-Up Punch": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Oblivion Wing": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Thousand Arrows": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Thousand Waves": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Land’s Wrath": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Light of Ruin": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Origin Pulse": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Precipice Blades": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Dragon Ascent": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Hyperspace Fury": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Breakneck Blitz": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "All-Out Pummeling": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Supersonic Skystrike": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Acid Downpour": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Tectonic Rage": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Continental Crush": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Savage Spin-Out": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Never-Ending Nightmare": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Corkscrew Crash": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Inferno Overdrive": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Hydro Vortex": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Bloom Doom": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Gigavolt Havoc": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Shattered Psyche": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Subzero Slammer": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Devastating Drake": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Black Hole Eclipse": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Twinkle Tackle": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Catastropika": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Shore Up": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "First Impression": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Baneful Bunker": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Spirit Shackle": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Darkest Lariat": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Sparkling Aria": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Ice Hammer": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Floral Healing": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "High Horsepower": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Strength Sap": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Solar Blade": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Leafage": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Spotlight": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Toxic Thread": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Laser Focus": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Gear Up": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Throat Chop": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Pollen Puff": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Anchor Shot": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Psychic Terrain": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Lunge": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Fire Lash": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Power Trip": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Burn Up": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Speed Swap": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Smart Strike": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Purify": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Revelation Dance": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Core Enforcer": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Trop Kick": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Instruct": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Beak Blast": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Clanging Scales": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Dragon Hammer": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Brutal Swing": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Aurora Veil": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Sinister Arrow Raid": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Malicious Moonsault": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Oceanic Operetta": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Guardian of Alola": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Soul-Stealing 7-Star Strike": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Stoked Sparksurfer": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Pulverizing Pancake": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Extreme Evoboost": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Genesis Supernova": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Shell Trap": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Fleur Cannon": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Psychic Fangs": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Stomping Tantrum": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Shadow Bone": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Accelerock": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Liquidation": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Prismatic Laser": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Spectral Thief": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Sunsteel Strike": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Moongeist Beam": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Tearful Look": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Zing Zap": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Nature’s Madness": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Multi-Attack": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "10,000,000 Volt Thunderbolt": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Mind Blown": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Plasma Fists": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Photon Geyser": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Light That Burns the Sky": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Searing Sunraze Smash": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Menacing Moonraze Maelstrom": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Let’s Snuggle Forever": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Splintered Stormshards": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Clangorous Soulblaze": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Zippy Zap": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Splishy Splash": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Floaty Fall": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Pika Papow": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Bouncy Bubble": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Buzzy Buzz": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Sizzly Slide": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Glitzy Glow": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Baddy Bad": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Sappy Seed": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Freezy Frost": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Sparkly Swirl": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Veevee Volley": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Double Iron Bash": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Max Guard": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Dynamax Cannon": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Snipe Shot": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Jaw Lock": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Stuff Cheeks": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "No Retreat": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Tar Shot": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Magic Powder": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Dragon Darts": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Teatime": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Octolock": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Bolt Beak": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Fishious Rend": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Court Change": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Max Flare": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Max Flutterby": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Max Lightning": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Max Strike": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Max Knuckle": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Max Phantasm": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Max Hailstorm": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Max Ooze": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Max Geyser": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Max Airstream": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Max Starfall": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Max Wyrmwind": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Max Mindstorm": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Max Rockfall": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Max Quake": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Max Darkness": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Max Overgrowth": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Max Steelspike": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Clangorous Soul": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Body Press": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Decorate": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Drum Beating": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Snap Trap": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Pyro Ball": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Behemoth Blade": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Behemoth Bash": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Aura Wheel": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Breaking Swipe": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Branch Poke": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Overdrive": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Apple Acid": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Grav Apple": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Spirit Break": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Strange Steam": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Life Dew": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Obstruct": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "False Surrender": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Meteor Assault": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Eternabeam": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Steel Beam": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Expanding Force": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Steel Roller": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Scale Shot": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Meteor Beam": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Shell Side Arm": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Misty Explosion": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Grassy Glide": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Rising Voltage": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Terrain Pulse": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Skitter Smack": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Burning Jealousy": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Lash Out": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Poltergeist": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Corrosive Gas": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Coaching": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Flip Turn": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Triple Axel": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Dual Wingbeat": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Scorching Sands": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Jungle Healing": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Wicked Blow": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Surging Strikes": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Thunder Cage": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Dragon Energy": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Freezing Glare": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Fiery Wrath": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Thunderous Kick": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Glacial Lance": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Astral Barrage": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Eerie Spell": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Dire Claw": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Psyshield Bash": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Power Shift": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Stone Axe": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Springtide Storm": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Mystical Power": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Raging Fury": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Wave Crash": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Chloroblast": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Mountain Gale": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Victory Dance": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Headlong Rush": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Barb Barrage": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Esper Wing": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Bitter Malice": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Shelter": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Triple Arrows": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Infernal Parade": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Ceaseless Edge": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Bleakwind Storm": {
+   "type_en": "Flying",
+   "type_ko": "비행"
+  },
+  "Wildbolt Storm": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Sandsear Storm": {
+   "type_en": "Ground",
+   "type_ko": "땅"
+  },
+  "Lunar Blessing": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Take Heart": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Tera Blast": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Silk Trap": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Axe Kick": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Last Respects": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Lumina Crash": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Order Up": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Jet Punch": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Spicy Extract": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Spin Out": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Population Bomb": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Ice Spinner": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Glaive Rush": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Revival Blessing": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Salt Cure": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Triple Dive": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Mortal Spin": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Doodle": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Fillet Away": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Kowtow Cleave": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Flower Trick": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Torch Song": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Aqua Step": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Raging Bull": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Make It Rain": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Psyblade": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Hydro Steam": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Ruination": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Collision Course": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Electro Drift": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Shed Tail": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Chilly Reception": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Tidy Up": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Snowscape": {
+   "type_en": "Ice",
+   "type_ko": "얼음"
+  },
+  "Pounce": {
+   "type_en": "Bug",
+   "type_ko": "벌레"
+  },
+  "Trailblaze": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Chilling Water": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Hyper Drill": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Twin Beam": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Rage Fist": {
+   "type_en": "Ghost",
+   "type_ko": "고스트"
+  },
+  "Armor Cannon": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Bitter Blade": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Double Shock": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Gigaton Hammer": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Comeuppance": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Aqua Cutter": {
+   "type_en": "Water",
+   "type_ko": "물"
+  },
+  "Blazing Torque": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Wicked Torque": {
+   "type_en": "Dark",
+   "type_ko": "악"
+  },
+  "Noxious Torque": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Combat Torque": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Magical Torque": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Blood Moon": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Matcha Gotcha": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Syrup Bomb": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Ivy Cudgel": {
+   "type_en": "Grass",
+   "type_ko": "풀"
+  },
+  "Electro Shot": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Tera Starstorm": {
+   "type_en": "Normal",
+   "type_ko": "노말"
+  },
+  "Fickle Beam": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Burning Bulwark": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Thunderclap": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Mighty Cleave": {
+   "type_en": "Rock",
+   "type_ko": "바위"
+  },
+  "Tachyon Cutter": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Hard Press": {
+   "type_en": "Steel",
+   "type_ko": "강철"
+  },
+  "Dragon Cheer": {
+   "type_en": "Dragon",
+   "type_ko": "드래곤"
+  },
+  "Alluring Voice": {
+   "type_en": "Fairy",
+   "type_ko": "페어리"
+  },
+  "Temper Flare": {
+   "type_en": "Fire",
+   "type_ko": "불꽃"
+  },
+  "Supercell Slam": {
+   "type_en": "Electric",
+   "type_ko": "전기"
+  },
+  "Psychic Noise": {
+   "type_en": "Psychic",
+   "type_ko": "에스퍼"
+  },
+  "Upper Hand": {
+   "type_en": "Fighting",
+   "type_ko": "격투"
+  },
+  "Malignant Chain": {
+   "type_en": "Poison",
+   "type_ko": "독"
+  },
+  "Shadow Rush": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Blast": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Blitz": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Bolt": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Break": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Chill": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow End": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Fire": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Rave": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Storm": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Wave": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Down": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Half": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Hold": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Mist": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Panic": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Shed": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  },
+  "Shadow Sky": {
+   "type_en": "Shadow",
+   "type_ko": "다크"
+  }
+ },
+ "type_chart": {
+  "Normal": {
+   "Normal": 1.0,
+   "Fighting": 1.0,
+   "Flying": 1.0,
+   "Poison": 1.0,
+   "Ground": 1.0,
+   "Rock": 0.5,
+   "Bug": 1.0,
+   "Ghost": 0.0,
+   "Steel": 0.5,
+   "Fire": 1.0,
+   "Water": 1.0,
+   "Grass": 1.0,
+   "Electric": 1.0,
+   "Psychic": 1.0,
+   "Ice": 1.0,
+   "Dragon": 1.0,
+   "Dark": 1.0,
+   "Fairy": 1.0
+  },
+  "Fighting": {
+   "Normal": 2.0,
+   "Fighting": 1.0,
+   "Flying": 0.5,
+   "Poison": 0.5,
+   "Ground": 1.0,
+   "Rock": 2.0,
+   "Bug": 0.5,
+   "Ghost": 0.0,
+   "Steel": 2.0,
+   "Fire": 1.0,
+   "Water": 1.0,
+   "Grass": 1.0,
+   "Electric": 1.0,
+   "Psychic": 0.5,
+   "Ice": 2.0,
+   "Dragon": 1.0,
+   "Dark": 2.0,
+   "Fairy": 0.5
+  },
+  "Flying": {
+   "Normal": 1.0,
+   "Fighting": 2.0,
+   "Flying": 1.0,
+   "Poison": 1.0,
+   "Ground": 1.0,
+   "Rock": 0.5,
+   "Bug": 2.0,
+   "Ghost": 1.0,
+   "Steel": 0.5,
+   "Fire": 1.0,
+   "Water": 1.0,
+   "Grass": 2.0,
+   "Electric": 0.5,
+   "Psychic": 1.0,
+   "Ice": 1.0,
+   "Dragon": 1.0,
+   "Dark": 1.0,
+   "Fairy": 1.0
+  },
+  "Poison": {
+   "Normal": 1.0,
+   "Fighting": 1.0,
+   "Flying": 1.0,
+   "Poison": 0.5,
+   "Ground": 0.5,
+   "Rock": 0.5,
+   "Bug": 1.0,
+   "Ghost": 0.5,
+   "Steel": 0.0,
+   "Fire": 1.0,
+   "Water": 1.0,
+   "Grass": 2.0,
+   "Electric": 1.0,
+   "Psychic": 1.0,
+   "Ice": 1.0,
+   "Dragon": 1.0,
+   "Dark": 1.0,
+   "Fairy": 2.0
+  },
+  "Ground": {
+   "Normal": 1.0,
+   "Fighting": 1.0,
+   "Flying": 0.0,
+   "Poison": 2.0,
+   "Ground": 1.0,
+   "Rock": 2.0,
+   "Bug": 0.5,
+   "Ghost": 1.0,
+   "Steel": 2.0,
+   "Fire": 2.0,
+   "Water": 1.0,
+   "Grass": 0.5,
+   "Electric": 2.0,
+   "Psychic": 1.0,
+   "Ice": 1.0,
+   "Dragon": 1.0,
+   "Dark": 1.0,
+   "Fairy": 1.0
+  },
+  "Rock": {
+   "Normal": 1.0,
+   "Fighting": 0.5,
+   "Flying": 2.0,
+   "Poison": 1.0,
+   "Ground": 0.5,
+   "Rock": 1.0,
+   "Bug": 2.0,
+   "Ghost": 1.0,
+   "Steel": 0.5,
+   "Fire": 2.0,
+   "Water": 1.0,
+   "Grass": 1.0,
+   "Electric": 1.0,
+   "Psychic": 1.0,
+   "Ice": 2.0,
+   "Dragon": 1.0,
+   "Dark": 1.0,
+   "Fairy": 1.0
+  },
+  "Bug": {
+   "Normal": 1.0,
+   "Fighting": 0.5,
+   "Flying": 0.5,
+   "Poison": 0.5,
+   "Ground": 1.0,
+   "Rock": 1.0,
+   "Bug": 1.0,
+   "Ghost": 0.5,
+   "Steel": 0.5,
+   "Fire": 0.5,
+   "Water": 1.0,
+   "Grass": 2.0,
+   "Electric": 1.0,
+   "Psychic": 2.0,
+   "Ice": 1.0,
+   "Dragon": 1.0,
+   "Dark": 2.0,
+   "Fairy": 0.5
+  },
+  "Ghost": {
+   "Normal": 0.0,
+   "Fighting": 1.0,
+   "Flying": 1.0,
+   "Poison": 1.0,
+   "Ground": 1.0,
+   "Rock": 1.0,
+   "Bug": 1.0,
+   "Ghost": 2.0,
+   "Steel": 1.0,
+   "Fire": 1.0,
+   "Water": 1.0,
+   "Grass": 1.0,
+   "Electric": 1.0,
+   "Psychic": 2.0,
+   "Ice": 1.0,
+   "Dragon": 1.0,
+   "Dark": 0.5,
+   "Fairy": 1.0
+  },
+  "Steel": {
+   "Normal": 1.0,
+   "Fighting": 1.0,
+   "Flying": 1.0,
+   "Poison": 1.0,
+   "Ground": 1.0,
+   "Rock": 2.0,
+   "Bug": 1.0,
+   "Ghost": 1.0,
+   "Steel": 0.5,
+   "Fire": 0.5,
+   "Water": 0.5,
+   "Grass": 1.0,
+   "Electric": 0.5,
+   "Psychic": 1.0,
+   "Ice": 2.0,
+   "Dragon": 1.0,
+   "Dark": 1.0,
+   "Fairy": 2.0
+  },
+  "Fire": {
+   "Normal": 1.0,
+   "Fighting": 1.0,
+   "Flying": 1.0,
+   "Poison": 1.0,
+   "Ground": 1.0,
+   "Rock": 0.5,
+   "Bug": 2.0,
+   "Ghost": 1.0,
+   "Steel": 2.0,
+   "Fire": 0.5,
+   "Water": 0.5,
+   "Grass": 2.0,
+   "Electric": 1.0,
+   "Psychic": 1.0,
+   "Ice": 2.0,
+   "Dragon": 0.5,
+   "Dark": 1.0,
+   "Fairy": 1.0
+  },
+  "Water": {
+   "Normal": 1.0,
+   "Fighting": 1.0,
+   "Flying": 1.0,
+   "Poison": 1.0,
+   "Ground": 2.0,
+   "Rock": 2.0,
+   "Bug": 1.0,
+   "Ghost": 1.0,
+   "Steel": 1.0,
+   "Fire": 2.0,
+   "Water": 0.5,
+   "Grass": 0.5,
+   "Electric": 1.0,
+   "Psychic": 1.0,
+   "Ice": 1.0,
+   "Dragon": 0.5,
+   "Dark": 1.0,
+   "Fairy": 1.0
+  },
+  "Grass": {
+   "Normal": 1.0,
+   "Fighting": 1.0,
+   "Flying": 0.5,
+   "Poison": 0.5,
+   "Ground": 2.0,
+   "Rock": 2.0,
+   "Bug": 0.5,
+   "Ghost": 1.0,
+   "Steel": 0.5,
+   "Fire": 0.5,
+   "Water": 2.0,
+   "Grass": 0.5,
+   "Electric": 1.0,
+   "Psychic": 1.0,
+   "Ice": 1.0,
+   "Dragon": 0.5,
+   "Dark": 1.0,
+   "Fairy": 1.0
+  },
+  "Electric": {
+   "Normal": 1.0,
+   "Fighting": 1.0,
+   "Flying": 2.0,
+   "Poison": 1.0,
+   "Ground": 0.0,
+   "Rock": 1.0,
+   "Bug": 1.0,
+   "Ghost": 1.0,
+   "Steel": 1.0,
+   "Fire": 1.0,
+   "Water": 2.0,
+   "Grass": 0.5,
+   "Electric": 0.5,
+   "Psychic": 1.0,
+   "Ice": 1.0,
+   "Dragon": 0.5,
+   "Dark": 1.0,
+   "Fairy": 1.0
+  },
+  "Psychic": {
+   "Normal": 1.0,
+   "Fighting": 2.0,
+   "Flying": 1.0,
+   "Poison": 2.0,
+   "Ground": 1.0,
+   "Rock": 1.0,
+   "Bug": 1.0,
+   "Ghost": 1.0,
+   "Steel": 0.5,
+   "Fire": 1.0,
+   "Water": 1.0,
+   "Grass": 1.0,
+   "Electric": 1.0,
+   "Psychic": 0.5,
+   "Ice": 1.0,
+   "Dragon": 1.0,
+   "Dark": 0.0,
+   "Fairy": 1.0
+  },
+  "Ice": {
+   "Normal": 1.0,
+   "Fighting": 1.0,
+   "Flying": 2.0,
+   "Poison": 1.0,
+   "Ground": 2.0,
+   "Rock": 1.0,
+   "Bug": 1.0,
+   "Ghost": 1.0,
+   "Steel": 0.5,
+   "Fire": 0.5,
+   "Water": 0.5,
+   "Grass": 2.0,
+   "Electric": 1.0,
+   "Psychic": 1.0,
+   "Ice": 0.5,
+   "Dragon": 2.0,
+   "Dark": 1.0,
+   "Fairy": 1.0
+  },
+  "Dragon": {
+   "Normal": 1.0,
+   "Fighting": 1.0,
+   "Flying": 1.0,
+   "Poison": 1.0,
+   "Ground": 1.0,
+   "Rock": 1.0,
+   "Bug": 1.0,
+   "Ghost": 1.0,
+   "Steel": 0.5,
+   "Fire": 1.0,
+   "Water": 1.0,
+   "Grass": 1.0,
+   "Electric": 1.0,
+   "Psychic": 1.0,
+   "Ice": 1.0,
+   "Dragon": 2.0,
+   "Dark": 1.0,
+   "Fairy": 0.0
+  },
+  "Dark": {
+   "Normal": 1.0,
+   "Fighting": 0.5,
+   "Flying": 1.0,
+   "Poison": 1.0,
+   "Ground": 1.0,
+   "Rock": 1.0,
+   "Bug": 1.0,
+   "Ghost": 2.0,
+   "Steel": 1.0,
+   "Fire": 1.0,
+   "Water": 1.0,
+   "Grass": 1.0,
+   "Electric": 1.0,
+   "Psychic": 2.0,
+   "Ice": 1.0,
+   "Dragon": 1.0,
+   "Dark": 0.5,
+   "Fairy": 0.5
+  },
+  "Fairy": {
+   "Normal": 1.0,
+   "Fighting": 2.0,
+   "Flying": 1.0,
+   "Poison": 0.5,
+   "Ground": 1.0,
+   "Rock": 1.0,
+   "Bug": 1.0,
+   "Ghost": 1.0,
+   "Steel": 0.5,
+   "Fire": 0.5,
+   "Water": 1.0,
+   "Grass": 1.0,
+   "Electric": 1.0,
+   "Psychic": 1.0,
+   "Ice": 1.0,
+   "Dragon": 2.0,
+   "Dark": 2.0,
+   "Fairy": 1.0
+  }
+ }
+}

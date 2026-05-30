@@ -1,0 +1,1148 @@
+[
+ {
+  "name_en": "Adaptability",
+  "name_ko": "적응력",
+  "desc_en": "This Pokemon's moves that match one of its types have a same-type attack bonus (STAB) of 2 instead of 1.5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Aerilate",
+  "name_ko": "스카이스킨",
+  "desc_en": "This Pokemon's Normal-type moves become Flying-type moves and have their power multiplied by 1.2. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Aftermath",
+  "name_ko": "유폭",
+  "desc_en": "If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. This effect is prevented if the move's user has the Magic Guard Ability or if any active Pokemon has the Damp Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Analytic",
+  "name_ko": "애널라이즈",
+  "desc_en": "The power of this Pokemon's move is multiplied by 1.3 if it is the last to move in a turn. Does not affect Doom Desire and Future Sight.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Anger Point",
+  "name_ko": "분노의경혈",
+  "desc_en": "If this Pokemon, but not its substitute, is struck by a critical hit, its Attack is raised by 12 stages.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Anticipation",
+  "name_ko": "위험예지",
+  "desc_en": "On switch-in, this Pokemon is alerted if any opposing Pokemon has an attacking move with a type that is super effective against this Pokemon, or any OHKO move. This effect considers Hidden Power to be its determined type, and every other move to be its original type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Armor Tail",
+  "name_ko": null,
+  "desc_en": "Priority moves used by opposing Pokemon targeting this Pokemon or its allies are prevented from having an effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Aroma Veil",
+  "name_ko": "아로마베일",
+  "desc_en": "This Pokemon and its allies cannot become affected by Attract, Disable, Encore, Heal Block, Taunt, or Torment.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Battle Bond",
+  "name_ko": "유대변화",
+  "desc_en": "If this Pokemon is a Greninja, its Attack, Special Attack, and Speed are raised by 1 stage if it attacks and knocks out another Pokemon. This effect can only happen once per battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Berserk",
+  "name_ko": "발끈",
+  "desc_en": "When this Pokemon has more than 1/2 its maximum HP and takes damage from an attack bringing it to 1/2 or less of its maximum HP, its Special Attack is raised by 1 stage. This effect applies after all hits from a multi-hit move. This effect is prevented if the move had a secondary effect removed by the Sheer Force Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Big Pecks",
+  "name_ko": "부풀린가슴",
+  "desc_en": "Prevents other Pokemon from lowering this Pokemon's Defense stat stage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Blaze",
+  "name_ko": "맹화",
+  "desc_en": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Fire-type attack.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Bulletproof",
+  "name_ko": "방탄",
+  "desc_en": "This Pokemon is immune to bullet moves.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cheek Pouch",
+  "name_ko": "볼주머니",
+  "desc_en": "If this Pokemon eats a held Berry, it restores 1/3 of its maximum HP, rounded down, in addition to the Berry's effect. This effect can also activate after the effects of Bug Bite, Fling, Pluck, Stuff Cheeks, and Teatime if the eaten Berry had an effect on this Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Chlorophyll",
+  "name_ko": "엽록소",
+  "desc_en": "If Sunny Day is active, this Pokemon's Speed is doubled. This effect is prevented if this Pokemon is holding a Utility Umbrella.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Clear Body",
+  "name_ko": "클리어바디",
+  "desc_en": "Prevents other Pokemon from lowering this Pokemon's stat stages.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cloud Nine",
+  "name_ko": "날씨부정",
+  "desc_en": "While this Pokemon is active, the effects of weather conditions are disabled.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Competitive",
+  "name_ko": "승기",
+  "desc_en": "This Pokemon's Special Attack is raised by 2 stages for each of its stat stages that is lowered by an opposing Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Compound Eyes",
+  "name_ko": "복안",
+  "desc_en": "This Pokemon's moves have their accuracy multiplied by 1.3.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Contrary",
+  "name_ko": "심술꾸러기",
+  "desc_en": "If this Pokemon has a stat stage raised it is lowered instead, and vice versa.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Corrosion",
+  "name_ko": "부식",
+  "desc_en": "This Pokemon can poison or badly poison a Pokemon regardless of its typing.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cud Chew",
+  "name_ko": null,
+  "desc_en": "If this Pokemon eats a Berry, it will eat that Berry again at the end of the next turn.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Curious Medicine",
+  "name_ko": "기묘한약",
+  "desc_en": "On switch-in, this Pokemon's allies have their stat stages reset to 0.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cursed Body",
+  "name_ko": "저주받은바디",
+  "desc_en": "If this Pokemon is hit by an attack, there is a 30% chance that move gets disabled unless one of the attacker's moves is already disabled.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cute Charm",
+  "name_ko": "헤롱헤롱바디",
+  "desc_en": "There is a 30% chance a Pokemon making contact with this Pokemon will become infatuated if it is of the opposite gender.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Damp",
+  "name_ko": "습기",
+  "desc_en": "While this Pokemon is active, Explosion, Mind Blown, Misty Explosion, Self-Destruct, and the Aftermath Ability are prevented from having an effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Defiant",
+  "name_ko": "오기",
+  "desc_en": "This Pokemon's Attack is raised by 2 stages for each of its stat stages that is lowered by an opposing Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Disguise",
+  "name_ko": "탈",
+  "desc_en": "If this Pokemon is a Mimikyu, the first hit it takes in battle deals 0 neutral damage. Its disguise is then broken, it changes to Busted Form, and it loses 1/8 of its max HP. Confusion damage also breaks the disguise.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dragonize",
+  "name_ko": null,
+  "desc_en": "This Pokemon's Normal-type moves become Dragon-type moves and have their power multiplied by 1.2. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Drizzle",
+  "name_ko": "잔비",
+  "desc_en": "On switch-in, this Pokemon summons Rain Dance.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Drought",
+  "name_ko": "가뭄",
+  "desc_en": "On switch-in, this Pokemon summons Sunny Day.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dry Skin",
+  "name_ko": "건조피부",
+  "desc_en": "This Pokemon is immune to Water-type moves and restores 1/4 of its maximum HP, rounded down, when hit by a Water-type move. The power of Fire-type moves is multiplied by 1.25 when used on this Pokemon. At the end of each turn, this Pokemon restores 1/8 of its maximum HP, rounded down, if the weather is Rain Dance, and loses 1/8 of its maximum HP, rounded down, if the weather is Sunny Day. The weather effects are prevented if this Pokemon is holding a Utility Umbrella.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Early Bird",
+  "name_ko": "일찍기상",
+  "desc_en": "This Pokemon's sleep counter drops by 2 instead of 1.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Earth Eater",
+  "name_ko": null,
+  "desc_en": "This Pokemon is immune to Ground-type moves and restores 1/4 of its maximum HP, rounded down, when hit by a Ground-type move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Electromorphosis",
+  "name_ko": null,
+  "desc_en": "This Pokemon gains the Charge effect when it takes a hit from an attack.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fairy Aura",
+  "name_ko": "페어리오라",
+  "desc_en": "While this Pokemon is active, the power of Fairy-type moves used by active Pokemon is multiplied by 1.33.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Filter",
+  "name_ko": "필터",
+  "desc_en": "This Pokemon receives 3/4 damage from supereffective attacks.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Flame Body",
+  "name_ko": "불꽃몸",
+  "desc_en": "30% chance a Pokemon making contact with this Pokemon will be burned.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Flash Fire",
+  "name_ko": "타오르는불꽃",
+  "desc_en": "This Pokemon is immune to Fire-type moves. The first time it is hit by a Fire-type move, its offensive stat is multiplied by 1.5 while using a Fire-type attack as long as it remains active and has this Ability. If this Pokemon is frozen, it cannot be defrosted by Fire-type attacks.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Flower Veil",
+  "name_ko": "플라워베일",
+  "desc_en": "Grass-type Pokemon on this Pokemon's side cannot have their stat stages lowered by other Pokemon or have a non-volatile status condition inflicted on them by other Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Forecast",
+  "name_ko": "기분파",
+  "desc_en": "If this Pokemon is a Castform, its type changes to the current weather condition's type, except Sandstorm. This effect is prevented if this Pokemon is holding a Utility Umbrella and the weather is Rain Dance or Sunny Day.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Friend Guard",
+  "name_ko": "프렌드가드",
+  "desc_en": "This Pokemon's allies receive 3/4 damage from other Pokemon's attacks.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Frisk",
+  "name_ko": "통찰",
+  "desc_en": "On switch-in, this Pokemon identifies the held items of all opposing Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fur Coat",
+  "name_ko": "퍼코트",
+  "desc_en": "This Pokemon's Defense is doubled.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Gale Wings",
+  "name_ko": "질풍날개",
+  "desc_en": "If this Pokemon is at full HP, its Flying-type moves have their priority increased by 1.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Gluttony",
+  "name_ko": "먹보",
+  "desc_en": "When this Pokemon is holding a Berry that usually activates with 1/4 or less of its maximum HP, it is eaten at 1/2 or less of its maximum HP instead.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Gooey",
+  "name_ko": "미끈미끈",
+  "desc_en": "Pokemon making contact with this Pokemon have their Speed lowered by 1 stage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Guts",
+  "name_ko": "근성",
+  "desc_en": "If this Pokemon has a non-volatile status condition, its Attack is multiplied by 1.5. This Pokemon's physical attacks ignore the burn effect of halving damage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Harvest",
+  "name_ko": "수확",
+  "desc_en": "If the last item this Pokemon used is a Berry, there is a 50% chance it gets restored at the end of each turn. If Sunny Day is active, this chance is 100%.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Healer",
+  "name_ko": "치유의마음",
+  "desc_en": "30% chance this Pokemon's ally has its non-volatile status condition cured at the end of each turn.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Heatproof",
+  "name_ko": "내열",
+  "desc_en": "If a Pokemon uses a Fire-type attack against this Pokemon, that Pokemon's offensive stat is halved when calculating the damage to this Pokemon. This Pokemon takes half of the usual burn damage, rounded down.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Heavy Metal",
+  "name_ko": "헤비메탈",
+  "desc_en": "This Pokemon's weight is doubled. This effect is calculated after the effect of Autotomize, and before the effect of Float Stone.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Hospitality",
+  "name_ko": "대접",
+  "desc_en": "On switch-in, this Pokemon restores 1/4 of its ally's maximum HP, rounded down.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Huge Power",
+  "name_ko": "천하장사",
+  "desc_en": "This Pokemon's Attack is doubled.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Hunger Switch",
+  "name_ko": "꼬르륵스위치",
+  "desc_en": "If this Pokemon is a Morpeko, it changes formes between its Full Belly Mode and Hangry Mode at the end of each turn.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Hustle",
+  "name_ko": "의욕",
+  "desc_en": "This Pokemon's Attack is multiplied by 1.5 and the accuracy of its physical attacks is multiplied by 0.8.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Hydration",
+  "name_ko": "촉촉바디",
+  "desc_en": "This Pokemon has its non-volatile status condition cured at the end of each turn if Rain Dance is active. This effect is prevented if this Pokemon is holding a Utility Umbrella.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Hyper Cutter",
+  "name_ko": "괴력집게",
+  "desc_en": "Prevents other Pokemon from lowering this Pokemon's Attack stat stage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ice Body",
+  "name_ko": "아이스바디",
+  "desc_en": "If Snow is active, this Pokemon restores 1/16 of its maximum HP, rounded down, at the end of each turn.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Illuminate",
+  "name_ko": "발광",
+  "desc_en": "Prevents other Pokemon from lowering this Pokemon's accuracy stat stage. This Pokemon ignores a target's evasiveness stat stage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Illusion",
+  "name_ko": "일루전",
+  "desc_en": "When this Pokemon switches in, it appears as the last unfainted Pokemon in its party until it takes direct damage from another Pokemon's attack. This Pokemon's actual level and HP are displayed instead of those of the mimicked Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Immunity",
+  "name_ko": "면역",
+  "desc_en": "This Pokemon cannot be poisoned. Gaining this Ability while poisoned cures it.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Imposter",
+  "name_ko": "괴짜",
+  "desc_en": "On switch-in, this Pokemon Transforms into the opposing Pokemon that is facing it. If there is no Pokemon at that position, this Pokemon does not Transform.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Infiltrator",
+  "name_ko": "틈새포착",
+  "desc_en": "This Pokemon's moves ignore substitutes and the opposing side's Reflect, Light Screen, Safeguard, Mist, and Aurora Veil.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Innards Out",
+  "name_ko": "내용물분출",
+  "desc_en": "If this Pokemon is knocked out with a move, that move's user loses HP equal to the amount of damage inflicted on this Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Inner Focus",
+  "name_ko": "정신력",
+  "desc_en": "This Pokemon cannot be made to flinch. This Pokemon is immune to the effect of the Intimidate Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Insomnia",
+  "name_ko": "불면",
+  "desc_en": "This Pokemon cannot fall asleep. Gaining this Ability while asleep cures it.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Intimidate",
+  "name_ko": "위협",
+  "desc_en": "On switch-in, this Pokemon lowers the Attack of opposing Pokemon by 1 stage. Pokemon with the Inner Focus, Oblivious, Own Tempo, or Scrappy Abilities and Pokemon behind a substitute are immune.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Iron Fist",
+  "name_ko": "철주먹",
+  "desc_en": "This Pokemon's punch-based attacks have their power multiplied by 1.2.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Justified",
+  "name_ko": "정의의마음",
+  "desc_en": "This Pokemon's Attack is raised by 1 stage after it is damaged by a Dark-type move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Keen Eye",
+  "name_ko": "날카로운눈",
+  "desc_en": "Prevents other Pokemon from lowering this Pokemon's accuracy stat stage. This Pokemon ignores a target's evasiveness stat stage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Klutz",
+  "name_ko": "서투름",
+  "desc_en": "This Pokemon's held item has no effect. This Pokemon cannot use Fling successfully. Macho Brace, Power Anklet, Power Band, Power Belt, Power Bracer, Power Lens, and Power Weight still have their effects.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Leaf Guard",
+  "name_ko": "리프가드",
+  "desc_en": "If Sunny Day is active, this Pokemon cannot become affected by a non-volatile status condition or Yawn, and Rest will fail for it. This effect is prevented if this Pokemon is holding a Utility Umbrella.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Levitate",
+  "name_ko": "부유",
+  "desc_en": "This Pokemon is immune to Ground-type attacks and the effects of Spikes, Toxic Spikes, Sticky Web, and the Arena Trap Ability. The effects of Gravity, Ingrain, Smack Down, Thousand Arrows, and Iron Ball nullify the immunity. Thousand Arrows can hit this Pokemon as if it did not have this Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Light Metal",
+  "name_ko": "라이트메탈",
+  "desc_en": "This Pokemon's weight is halved, rounded down to a tenth of a kilogram. This effect is calculated after the effect of Autotomize, and before the effect of Float Stone. A Pokemon's weight will not drop below 0.1 kg.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lightning Rod",
+  "name_ko": "피뢰침",
+  "desc_en": "This Pokemon is immune to Electric-type moves and raises its Special Attack by 1 stage when hit by an Electric-type move. If this Pokemon is not the target of a single-target Electric-type move used by another Pokemon, this Pokemon redirects that move to itself if it is within the range of that move. If multiple Pokemon could redirect with this Ability, it goes to the one with the highest Speed, or in the case of a tie to the one that has had this Ability active longer.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Limber",
+  "name_ko": "유연",
+  "desc_en": "This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Liquid Voice",
+  "name_ko": "촉촉보이스",
+  "desc_en": "This Pokemon's sound-based moves become Water-type moves. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Long Reach",
+  "name_ko": "원격",
+  "desc_en": "This Pokemon's attacks do not make contact with the target.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Magic Bounce",
+  "name_ko": "매직미러",
+  "desc_en": "This Pokemon is unaffected by certain non-damaging moves directed at it and will instead use such moves against the original user. Moves reflected in this way are unable to be reflected again by this or Magic Coat's effect. Spikes, Stealth Rock, Sticky Web, and Toxic Spikes can only be reflected once per side, by the leftmost Pokemon under this or Magic Coat's effect. The Lightning Rod and Storm Drain Abilities redirect their respective moves before this Ability takes effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Magic Guard",
+  "name_ko": "매직가드",
+  "desc_en": "This Pokemon can only be damaged by direct attacks. Curse and Substitute on use, Belly Drum, Pain Split, Struggle recoil, and confusion damage are considered direct damage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Magician",
+  "name_ko": "매지션",
+  "desc_en": "If this Pokemon has no item, it steals the item off a Pokemon it hits with an attack. Does not affect Doom Desire and Future Sight. If multiple targets are hit by an attack the item is stolen from the fastest Pokemon, while considering the effect of Trick Room and prioritizing opposing Pokemon before allies.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Magma Armor",
+  "name_ko": "마그마의무장",
+  "desc_en": "This Pokemon cannot be frozen. Gaining this Ability while frozen cures it.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Marvel Scale",
+  "name_ko": "이상한비늘",
+  "desc_en": "If this Pokemon has a non-volatile status condition, its Defense is multiplied by 1.5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mega Launcher",
+  "name_ko": "메가런처",
+  "desc_en": "This Pokemon's pulse moves have their power multiplied by 1.5. Heal Pulse restores 3/4 of a target's maximum HP, rounded half down.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mega Sol",
+  "name_ko": null,
+  "desc_en": "This Pokemon's moves are used as if the effects of Sunny Day were active.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Merciless",
+  "name_ko": "무도한행동",
+  "desc_en": "This Pokemon's attacks are critical hits if the target is poisoned.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mimicry",
+  "name_ko": "의태",
+  "desc_en": "This Pokemon's types change to match the active Terrain when this Pokemon acquires this Ability, or whenever a Terrain begins. Electric type during Electric Terrain, Grass type during Grassy Terrain, Fairy type during Misty Terrain, and Psychic type during Psychic Terrain. If this Ability is acquired without an active Terrain, or a Terrain ends, this Pokemon's types become the original types for its species.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Minus",
+  "name_ko": "마이너스",
+  "desc_en": "If an active ally has this Ability or the Plus Ability, this Pokemon's Special Attack is multiplied by 1.5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mirror Armor",
+  "name_ko": "미러아머",
+  "desc_en": "When one of this Pokemon's stat stages would be lowered by another Pokemon, that Pokemon's stat stage is lowered instead. This effect does not happen if this Pokemon's stat stage was already -6. If the other Pokemon has a substitute, neither Pokemon has its stat stage lowered.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mold Breaker",
+  "name_ko": "틀깨기",
+  "desc_en": "This Pokemon's moves and their effects ignore certain Abilities of other Pokemon. The Abilities that can be negated are Armor Tail, Aroma Veil, Aura Break, Battle Armor, Big Pecks, Bulletproof, Clear Body, Contrary, Damp, Dazzling, Disguise, Dry Skin, Earth Eater, Filter, Flash Fire, Flower Gift, Flower Veil, Fluffy, Friend Guard, Fur Coat, Good as Gold, Grass Pelt, Guard Dog, Heatproof, Heavy Metal, Hyper Cutter, Ice Face, Ice Scales, Illuminate, Immunity, Inner Focus, Insomnia, Keen Eye, Leaf Guard, Levitate, Light Metal, Lightning Rod, Limber, Magic Bounce, Magma Armor, Marvel Scale, Mind's Eye, Mirror Armor, Motor Drive, Multiscale, Oblivious, Overcoat, Own Tempo, Pastel Veil, Punk Rock, Purifying Salt, Queenly Majesty, Sand Veil, Sap Sipper, Shell Armor, Shield Dust, Simple, Snow Cloak, Solid Rock, Soundproof, Sticky Hold, Storm Drain, Sturdy, Suction Cups, Sweet Veil, Tangled Feet, Telepathy, Tera Shell, Thermal Exchange, Thick Fat, Unaware, Vital Spirit, Volt Absorb, Water Absorb, Water Bubble, Water Veil, Well-Baked Body, White Smoke, Wind Rider, Wonder Guard, and Wonder Skin. This affects every other Pokemon on the field, whether or not it is a target of this Pokemon's move, and whether or not their Ability is beneficial to this Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Moody",
+  "name_ko": "변덕쟁이",
+  "desc_en": "This Pokemon has a random stat, other than accuracy or evasiveness, raised by 2 stages and another stat lowered by 1 stage at the end of each turn.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Motor Drive",
+  "name_ko": "전기엔진",
+  "desc_en": "This Pokemon is immune to Electric-type moves and raises its Speed by 1 stage when hit by an Electric-type move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Moxie",
+  "name_ko": "자기과신",
+  "desc_en": "This Pokemon's Attack is raised by 1 stage if it attacks and knocks out another Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Multiscale",
+  "name_ko": "멀티스케일",
+  "desc_en": "If this Pokemon is at full HP, damage taken from attacks is halved.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mummy",
+  "name_ko": "미라",
+  "desc_en": "Pokemon making contact with this Pokemon have their Ability changed to Mummy. Does not affect Pokemon with the As One, Battle Bond, Comatose, Disguise, Gulp Missile, Ice Face, Multitype, Mummy, Power Construct, RKS System, Schooling, Shields Down, Stance Change, Tera Shift, Zen Mode, or Zero to Hero Abilities.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Natural Cure",
+  "name_ko": "자연회복",
+  "desc_en": "This Pokemon has its non-volatile status condition cured when it switches out.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "No Guard",
+  "name_ko": "노가드",
+  "desc_en": "Every move used by or against this Pokemon will always hit.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Oblivious",
+  "name_ko": "둔감",
+  "desc_en": "This Pokemon cannot be infatuated or taunted. Gaining this Ability while infatuated or taunted cures it. This Pokemon is immune to the effect of the Intimidate Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Opportunist",
+  "name_ko": null,
+  "desc_en": "When an opposing Pokemon has a stat stage raised, this Pokemon copies the effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Overcoat",
+  "name_ko": "방진",
+  "desc_en": "This Pokemon is immune to powder moves, damage from Sandstorm, and the effects of Rage Powder and the Effect Spore Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Overgrow",
+  "name_ko": "심록",
+  "desc_en": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Grass-type attack.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Own Tempo",
+  "name_ko": "마이페이스",
+  "desc_en": "This Pokemon cannot be confused. Gaining this Ability while confused cures it. This Pokemon is immune to the effect of the Intimidate Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Parental Bond",
+  "name_ko": "부자유친",
+  "desc_en": "This Pokemon's damaging moves become multi-hit moves that hit twice. The second hit has its damage quartered. Does not affect Doom Desire, Dragon Darts, Dynamax Cannon, Endeavor, Explosion, Final Gambit, Fling, Future Sight, Ice Ball, Rollout, Self-Destruct, any multi-hit move, any move that has multiple targets, or any two-turn move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pickpocket",
+  "name_ko": "나쁜손버릇",
+  "desc_en": "If this Pokemon has no item and is hit by a contact move, it steals the attacker's item. This effect applies after all hits from a multi-hit move. This effect is prevented if the move had a secondary effect removed by the Sheer Force Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pickup",
+  "name_ko": "픽업",
+  "desc_en": "At the end of each turn, if this Pokemon is not holding an item and at least one adjacent Pokemon used an item during this turn, one of those Pokemon is selected at random and this Pokemon obtains that Pokemon's last used item. An item is not considered the last used if it was a popped Air Balloon, if the item was picked up by another Pokemon with this Ability, or if the item was lost to Bug Bite, Corrosive Gas, Covet, Incinerate, Knock Off, Pluck, or Thief. Items thrown with Fling can be picked up.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Piercing Drill",
+  "name_ko": null,
+  "desc_en": "This Pokemon's contact moves ignore a target's protection and deal 1/4 the usual damage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pixilate",
+  "name_ko": "페어리스킨",
+  "desc_en": "This Pokemon's Normal-type moves become Fairy-type moves and have their power multiplied by 1.2. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Plus",
+  "name_ko": "플러스",
+  "desc_en": "If an active ally has this Ability or the Minus Ability, this Pokemon's Special Attack is multiplied by 1.5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Poison Heal",
+  "name_ko": "포이즌힐",
+  "desc_en": "If this Pokemon is poisoned, it restores 1/8 of its maximum HP, rounded down, at the end of each turn instead of losing HP.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Poison Point",
+  "name_ko": "독가시",
+  "desc_en": "30% chance a Pokemon making contact with this Pokemon will be poisoned.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Poison Touch",
+  "name_ko": "독수",
+  "desc_en": "This Pokemon's contact moves have a 30% chance of poisoning. This effect comes after a move's inherent secondary effect chance.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Prankster",
+  "name_ko": "짓궂은마음",
+  "desc_en": "This Pokemon's non-damaging moves have their priority increased by 1. Opposing Dark-type Pokemon are immune to these moves, and any move called by these moves, if the resulting user of the move has this Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pressure",
+  "name_ko": "프레셔",
+  "desc_en": "If this Pokemon is the target of an opposing Pokemon's move, that move loses one additional PP. Imprison, Snatch, and Tera Blast also lose one additional PP when used by an opposing Pokemon, but Sticky Web does not.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Protean",
+  "name_ko": "변환자재",
+  "desc_en": "This Pokemon's type changes to match the type of the move it is about to use. This effect comes after all effects that change a move's type. This effect can only happen once per switch-in, and only if this Pokemon is not Terastallized.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pure Power",
+  "name_ko": "순수한힘",
+  "desc_en": "This Pokemon's Attack is doubled.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Purifying Salt",
+  "name_ko": null,
+  "desc_en": "This Pokemon cannot become affected by a non-volatile status condition or Yawn. If a Pokemon uses a Ghost-type attack against this Pokemon, that Pokemon's offensive stat is halved when calculating the damage to this Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Queenly Majesty",
+  "name_ko": "여왕의위엄",
+  "desc_en": "Priority moves used by opposing Pokemon targeting this Pokemon or its allies are prevented from having an effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Quick Draw",
+  "name_ko": "퀵드로",
+  "desc_en": "This Pokemon has a 30% chance to move first in its priority bracket with attacking moves.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Quick Feet",
+  "name_ko": "속보",
+  "desc_en": "If this Pokemon has a non-volatile status condition, its Speed is multiplied by 1.5. This Pokemon ignores the paralysis effect of halving Speed.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rain Dish",
+  "name_ko": "젖은접시",
+  "desc_en": "If Rain Dance is active, this Pokemon restores 1/16 of its maximum HP, rounded down, at the end of each turn. This effect is prevented if this Pokemon is holding a Utility Umbrella.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Receiver",
+  "name_ko": "리시버",
+  "desc_en": "This Pokemon copies the Ability of an ally that faints. Abilities that cannot be copied are As One, Battle Bond, Comatose, Commander, Disguise, Embody Aspect, Flower Gift, Forecast, Hunger Switch, Ice Face, Illusion, Imposter, Multitype, Neutralizing Gas, Poison Puppeteer, Power Construct, Power of Alchemy, Protosynthesis, Quark Drive, Receiver, RKS System, Schooling, Shields Down, Stance Change, Tera Shell, Tera Shift, Teraform Zero, Trace, Wonder Guard, Zen Mode, and Zero to Hero.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Reckless",
+  "name_ko": "이판사판",
+  "desc_en": "This Pokemon's attacks with recoil or crash damage have their power multiplied by 1.2. Does not affect Struggle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Refrigerate",
+  "name_ko": "프리즈스킨",
+  "desc_en": "This Pokemon's Normal-type moves become Ice-type moves and have their power multiplied by 1.2. This effect comes after other effects that change a move's type, but before Ion Deluge and Electrify's effects.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Regenerator",
+  "name_ko": "재생력",
+  "desc_en": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ripen",
+  "name_ko": "숙성",
+  "desc_en": "When this Pokemon eats certain Berries, the effects are doubled. Berries that restore HP or PP have the amount doubled, Berries that raise stat stages have the amount doubled, Berries that halve damage taken quarter it instead, and a Jaboca Berry or Rowap Berry has the attacker lose 1/4 of its maximum HP, rounded down.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rivalry",
+  "name_ko": "투쟁심",
+  "desc_en": "This Pokemon's attacks have their power multiplied by 1.25 against targets of the same gender or multiplied by 0.75 against targets of the opposite gender. There is no modifier if either this Pokemon or the target is genderless.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rock Head",
+  "name_ko": "돌머리",
+  "desc_en": "This Pokemon does not take recoil damage, except Struggle. Does not affect Life Orb damage or crash damage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rough Skin",
+  "name_ko": "까칠한피부",
+  "desc_en": "Pokemon making contact with this Pokemon lose 1/8 of their maximum HP, rounded down.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sand Force",
+  "name_ko": "모래의힘",
+  "desc_en": "If Sandstorm is active, this Pokemon's Ground-, Rock-, and Steel-type attacks have their power multiplied by 1.3. This Pokemon takes no damage from Sandstorm.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sand Rush",
+  "name_ko": "모래헤치기",
+  "desc_en": "If Sandstorm is active, this Pokemon's Speed is doubled. This Pokemon takes no damage from Sandstorm.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sand Spit",
+  "name_ko": "모래뿜기",
+  "desc_en": "When this Pokemon is hit by an attack, the effect of Sandstorm begins.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sand Stream",
+  "name_ko": "모래날림",
+  "desc_en": "On switch-in, this Pokemon summons Sandstorm.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sand Veil",
+  "name_ko": "모래숨기",
+  "desc_en": "If Sandstorm is active, the accuracy of moves used against this Pokemon is multiplied by 0.8. This Pokemon takes no damage from Sandstorm.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sap Sipper",
+  "name_ko": "초식",
+  "desc_en": "This Pokemon is immune to Grass-type moves and raises its Attack by 1 stage when hit by a Grass-type move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Scrappy",
+  "name_ko": "배짱",
+  "desc_en": "This Pokemon can hit Ghost types with Normal- and Fighting-type moves. This Pokemon is immune to the effect of the Intimidate Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Screen Cleaner",
+  "name_ko": "배리어프리",
+  "desc_en": "On switch-in, the effects of Aurora Veil, Light Screen, and Reflect end for both sides.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Shadow Tag",
+  "name_ko": "그림자밟기",
+  "desc_en": "Prevents opposing Pokemon from choosing to switch out, unless they are holding a Shed Shell, are a Ghost type, or also have this Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sharpness",
+  "name_ko": null,
+  "desc_en": "This Pokemon's slicing moves have their power multiplied by 1.5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Shed Skin",
+  "name_ko": "탈피",
+  "desc_en": "This Pokemon has a 33% chance to have its non-volatile status condition cured at the end of each turn.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sheer Force",
+  "name_ko": "우격다짐",
+  "desc_en": "This Pokemon's attacks with secondary effects have their power multiplied by 1.3, but the secondary effects are removed. If a secondary effect was removed, it also removes the user's Life Orb recoil and Shell Bell recovery, and prevents the target's Anger Shell, Berserk, Color Change, Emergency Exit, Pickpocket, Wimp Out, Red Card, Eject Button, Kee Berry, and Maranga Berry from activating.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Shell Armor",
+  "name_ko": "조가비갑옷",
+  "desc_en": "This Pokemon cannot be struck by a critical hit.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Shield Dust",
+  "name_ko": "인분",
+  "desc_en": "This Pokemon is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause this Pokemon to flinch, cause this Pokemon's stat stages to be lowered, as well as Anchor Shot, Eerie Spell, Fling, Psychic Noise, Salt Cure, Spirit Shackle, Syrup Bomb, and Throat Chop. The effect of Sparkling Aria is prevented if this Pokemon is the only target. Secondary effects added by King's Rock, Razor Fang, and the Poison Touch, Stench, and Toxic Chain Abilities are also prevented against this Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Skill Link",
+  "name_ko": "스킬링크",
+  "desc_en": "This Pokemon's multi-hit attacks always hit the maximum number of times. Triple Kick and Triple Axel do not check accuracy for the second and third hits.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Slush Rush",
+  "name_ko": "눈치우기",
+  "desc_en": "If Snow is active, this Pokemon's Speed is doubled.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sniper",
+  "name_ko": "스나이퍼",
+  "desc_en": "If this Pokemon strikes with a critical hit, the damage is multiplied by 1.5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Snow Cloak",
+  "name_ko": "눈숨기",
+  "desc_en": "If Snow is active, the accuracy of moves used against this Pokemon is multiplied by 0.8.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Snow Warning",
+  "name_ko": "눈퍼뜨리기",
+  "desc_en": "On switch-in, this Pokemon summons Snow.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Solar Power",
+  "name_ko": "선파워",
+  "desc_en": "If Sunny Day is active, this Pokemon's Special Attack is multiplied by 1.5 and it loses 1/8 of its maximum HP, rounded down, at the end of each turn. These effects are prevented if the Pokemon is holding a Utility Umbrella.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Solid Rock",
+  "name_ko": "하드록",
+  "desc_en": "This Pokemon receives 3/4 damage from supereffective attacks.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Soundproof",
+  "name_ko": "방음",
+  "desc_en": "This Pokemon is immune to sound-based moves, unless it used the move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Speed Boost",
+  "name_ko": "가속",
+  "desc_en": "This Pokemon's Speed is raised by 1 stage at the end of each full turn it has been on the field.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Spicy Spray",
+  "name_ko": null,
+  "desc_en": "If this Pokemon is hit by an attack, the attacker becomes burned.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Stall",
+  "name_ko": "시간벌기",
+  "desc_en": "This Pokemon moves last among Pokemon using the same or greater priority moves.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Stalwart",
+  "name_ko": "굳건한신념",
+  "desc_en": "This Pokemon's moves cannot be redirected to a different target by any effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Stamina",
+  "name_ko": "지구력",
+  "desc_en": "This Pokemon's Defense is raised by 1 stage after it is damaged by a move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Stance Change",
+  "name_ko": "배틀스위치",
+  "desc_en": "If this Pokemon is an Aegislash, it changes to Blade Forme before using an attacking move, and changes to Shield Forme before using King's Shield.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Static",
+  "name_ko": "정전기",
+  "desc_en": "30% chance a Pokemon making contact with this Pokemon will be paralyzed.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Steadfast",
+  "name_ko": "불굴의마음",
+  "desc_en": "If this Pokemon flinches, its Speed is raised by 1 stage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Stench",
+  "name_ko": "악취",
+  "desc_en": "This Pokemon's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sticky Hold",
+  "name_ko": "점착",
+  "desc_en": "This Pokemon cannot lose its held item due to another Pokemon's Ability or attack, unless the attack knocks out this Pokemon. A Sticky Barb will be transferred to other Pokemon regardless of this Ability.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Strong Jaw",
+  "name_ko": "옹골찬턱",
+  "desc_en": "This Pokemon's bite-based attacks have their power multiplied by 1.5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sturdy",
+  "name_ko": "옹골참",
+  "desc_en": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. OHKO moves fail when used against this Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Super Luck",
+  "name_ko": "대운",
+  "desc_en": "This Pokemon's critical hit ratio is raised by 1 stage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Supersweet Syrup",
+  "name_ko": "감미로운꿀",
+  "desc_en": "On switch-in, this Pokemon lowers the evasiveness of opponents 1 stage. Once per battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Supreme Overlord",
+  "name_ko": null,
+  "desc_en": "This Pokemon's moves have their power multiplied by 1+(X*0.1), where X is the total number of times any Pokemon has fainted on the user's side when this Ability became active, and X cannot be greater than 5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Surge Surfer",
+  "name_ko": "서핑테일",
+  "desc_en": "If Electric Terrain is active, this Pokemon's Speed is doubled.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Swarm",
+  "name_ko": "벌레의알림",
+  "desc_en": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Bug-type attack.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sweet Veil",
+  "name_ko": "스위트베일",
+  "desc_en": "This Pokemon and its allies cannot fall asleep, but those already asleep do not wake up immediately. This Pokemon and its allies cannot use Rest successfully or become affected by Yawn, and those previously affected will not fall asleep.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Swift Swim",
+  "name_ko": "쓱쓱",
+  "desc_en": "If Rain Dance is active, this Pokemon's Speed is doubled. This effect is prevented if this Pokemon is holding a Utility Umbrella.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Symbiosis",
+  "name_ko": "공생",
+  "desc_en": "If an ally uses its item, this Pokemon gives its item to that ally immediately. Does not activate if the ally's item was stolen or knocked off, or if the ally used an Eject Button or Eject Pack.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Synchronize",
+  "name_ko": "싱크로",
+  "desc_en": "If another Pokemon burns, paralyzes, poisons, or badly poisons this Pokemon, that Pokemon receives the same non-volatile status condition.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Tangled Feet",
+  "name_ko": "갈지자걸음",
+  "desc_en": "This Pokemon's evasiveness is doubled as long as it is confused.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Technician",
+  "name_ko": "테크니션",
+  "desc_en": "This Pokemon's moves of 60 power or less have their power multiplied by 1.5, including Struggle. This effect comes after a move's effect changes its own power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Telepathy",
+  "name_ko": "텔레파시",
+  "desc_en": "This Pokemon does not take damage from attacks made by its allies.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Thick Fat",
+  "name_ko": "두꺼운지방",
+  "desc_en": "If a Pokemon uses a Fire- or Ice-type attack against this Pokemon, that Pokemon's offensive stat is halved when calculating the damage to this Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Torrent",
+  "name_ko": "급류",
+  "desc_en": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its offensive stat is multiplied by 1.5 while using a Water-type attack.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Tough Claws",
+  "name_ko": "단단한발톱",
+  "desc_en": "This Pokemon's contact moves have their power multiplied by 1.3.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Toxic Debris",
+  "name_ko": null,
+  "desc_en": "If this Pokemon is hit by a physical attack, Toxic Spikes are set on the opposing side.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Trace",
+  "name_ko": "트레이스",
+  "desc_en": "On switch-in, this Pokemon copies a random opposing Pokemon's Ability. Abilities that cannot be copied are As One, Battle Bond, Comatose, Commander, Disguise, Embody Aspect, Flower Gift, Forecast, Hunger Switch, Ice Face, Illusion, Imposter, Multitype, Neutralizing Gas, Poison Puppeteer, Power Construct, Power of Alchemy, Protosynthesis, Quark Drive, Receiver, RKS System, Schooling, Shields Down, Stance Change, Teraform Zero, Tera Shell, Tera Shift, Trace, Zen Mode, and Zero to Hero. If no opposing Pokemon has an Ability that can be copied, this Ability will activate as soon as one does.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Unaware",
+  "name_ko": "천진",
+  "desc_en": "This Pokemon ignores other Pokemon's Attack, Special Attack, and accuracy stat stages when taking damage, and ignores other Pokemon's Defense, Special Defense, and evasiveness stat stages when dealing damage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Unburden",
+  "name_ko": "곡예",
+  "desc_en": "If this Pokemon loses its held item for any reason, its Speed is doubled as long as it remains active, has this Ability, and is not holding an item.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Unnerve",
+  "name_ko": "긴장감",
+  "desc_en": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries. This Ability activates before hazards and other Abilities take effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Unseen Fist",
+  "name_ko": "보이지않는주먹",
+  "desc_en": "This Pokemon's contact moves ignore the target's protection, except Max Guard.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Volt Absorb",
+  "name_ko": "축전",
+  "desc_en": "This Pokemon is immune to Electric-type moves and restores 1/4 of its maximum HP, rounded down, when hit by an Electric-type move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Wandering Spirit",
+  "name_ko": "떠도는영혼",
+  "desc_en": "Pokemon making contact with this Pokemon have their Ability swapped with this one. Does not affect Pokemon with the Abilities As One, Battle Bond, Comatose, Commander, Disguise, Embody Aspect, Hunger Switch, Ice Face, Illusion, Multitype, Neutralizing Gas, Poison Puppeteer, Power Construct, Protosynthesis, Quark Drive, RKS System, Schooling, Shields Down, Stance Change, Tera Shell, Tera Shift, Teraform Zero, Wonder Guard, Zen Mode, or Zero to Hero.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Water Absorb",
+  "name_ko": "저수",
+  "desc_en": "This Pokemon is immune to Water-type moves and restores 1/4 of its maximum HP, rounded down, when hit by a Water-type move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Water Bubble",
+  "name_ko": "수포",
+  "desc_en": "This Pokemon's offensive stat is doubled while using a Water-type attack. If a Pokemon uses a Fire-type attack against this Pokemon, that Pokemon's offensive stat is halved when calculating the damage to this Pokemon. This Pokemon cannot be burned. Gaining this Ability while burned cures it.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Weak Armor",
+  "name_ko": "깨어진갑옷",
+  "desc_en": "If a physical attack hits this Pokemon, its Defense is lowered by 1 stage and its Speed is raised by 2 stages.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "White Smoke",
+  "name_ko": "하얀연기",
+  "desc_en": "Prevents other Pokemon from lowering this Pokemon's stat stages.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Zero to Hero",
+  "name_ko": null,
+  "desc_en": "If this Pokemon is a Palafin in Zero Form, switching out has it change to Hero Form.",
+  "champions_legal": true
+ }
+]

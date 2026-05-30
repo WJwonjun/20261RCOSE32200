@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_7",
+  "members": [
+    {
+      "species": "mega_ampharos",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 169,
+        "atk": 88,
+        "def": 109,
+        "spa": 136,
+        "spd": 2,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "round",
+        "facade",
+        "confuse_ray",
+        "giga_impact"
+      ],
+      "item": "old_amber"
+    },
+    {
+      "species": "aggron",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 69,
+        "atk": 111,
+        "def": 39,
+        "spa": 0,
+        "spd": 181,
+        "spe": 45
+      },
+      "nature": "adamant",
+      "moves": [
+        "bulldoze",
+        "snore",
+        "whirlpool",
+        "metal_sound"
+      ],
+      "item": "steelium_z"
+    },
+    {
+      "species": "chandelure",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 239,
+        "atk": 5,
+        "def": 17,
+        "spa": 0,
+        "spd": 28,
+        "spe": 212
+      },
+      "nature": "quiet",
+      "moves": [
+        "shadow_ball",
+        "trick",
+        "psych_up",
+        "thief"
+      ],
+      "item": "tr35"
+    },
+    {
+      "species": "mega_feraligatr",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 90,
+        "def": 66,
+        "spa": 43,
+        "spd": 54,
+        "spe": 204
+      },
+      "nature": "modest",
+      "moves": [
+        "flatter",
+        "rock_slide",
+        "superpower",
+        "uproar"
+      ],
+      "item": "primarium_z"
+    },
+    {
+      "species": "raichu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 121,
+        "atk": 0,
+        "def": 165,
+        "spa": 1,
+        "spd": 45,
+        "spe": 176
+      },
+      "nature": "hasty",
+      "moves": [
+        "light_screen",
+        "psychic_terrain",
+        "alluring_voice",
+        "calm_mind"
+      ],
+      "item": "dark_gem"
+    },
+    {
+      "species": "hawlucha",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 121,
+        "atk": 54,
+        "def": 44,
+        "spa": 135,
+        "spd": 141,
+        "spe": 0
+      },
+      "nature": "impish",
+      "moves": [
+        "snore",
+        "agility",
+        "bulk_up",
+        "hyper_beam"
+      ],
+      "item": "snorlium_z"
+    }
+  ]
+}

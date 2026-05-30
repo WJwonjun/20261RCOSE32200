@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_5",
+  "members": [
+    {
+      "species": "krookodile",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 119,
+        "atk": 54,
+        "def": 0,
+        "spa": 113,
+        "spd": 113,
+        "spe": 65
+      },
+      "nature": "relaxed",
+      "moves": [
+        "thrash",
+        "stone_edge",
+        "hyper_beam",
+        "protect"
+      ],
+      "item": "ability_shield"
+    },
+    {
+      "species": "forretress",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 251,
+        "def": 62,
+        "spa": 6,
+        "spd": 37,
+        "spe": 11
+      },
+      "nature": "rash",
+      "moves": [
+        "stone_edge",
+        "hard_press",
+        "earth_power",
+        "pounce"
+      ],
+      "item": "pretty_feather"
+    },
+    {
+      "species": "banette",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 167,
+        "atk": 176,
+        "def": 37,
+        "spa": 27,
+        "spd": 1,
+        "spe": 0
+      },
+      "nature": "timid",
+      "moves": [
+        "torment",
+        "encore",
+        "thunder_wave",
+        "swords_dance"
+      ],
+      "item": "hearthflame_mask"
+    },
+    {
+      "species": "tsareena",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 135,
+        "def": 34,
+        "spa": 205,
+        "spd": 10,
+        "spe": 118
+      },
+      "nature": "rash",
+      "moves": [
+        "trailblaze",
+        "mega_kick",
+        "giga_drain",
+        "facade"
+      ],
+      "item": "tr34"
+    },
+    {
+      "species": "dedenne",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 115,
+        "atk": 63,
+        "def": 192,
+        "spa": 35,
+        "spd": 0,
+        "spe": 66
+      },
+      "nature": "rash",
+      "moves": [
+        "volt_switch",
+        "play_rough",
+        "super_fang",
+        "trailblaze"
+      ],
+      "item": "strawberry_sweet"
+    },
+    {
+      "species": "sharpedo",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 5,
+        "atk": 81,
+        "def": 69,
+        "spa": 0,
+        "spd": 228,
+        "spe": 85
+      },
+      "nature": "impish",
+      "moves": [
+        "taunt",
+        "protect",
+        "poison_fang",
+        "scale_shot"
+      ],
+      "item": "metal_powder"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_7",
+  "members": [
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 151,
+        "atk": 0,
+        "def": 100,
+        "spa": 0,
+        "spd": 232,
+        "spe": 18
+      },
+      "nature": "calm",
+      "moves": [
+        "thunder_wave",
+        "tackle",
+        "will_o_wisp",
+        "toxic"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 97,
+        "atk": 0,
+        "def": 86,
+        "spa": 116,
+        "spd": 54,
+        "spe": 83
+      },
+      "nature": "hardy",
+      "moves": [
+        "thunderbolt",
+        "body_slam",
+        "will_o_wisp",
+        "surf"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 199,
+        "def": 166,
+        "spa": 0,
+        "spd": 122,
+        "spe": 17
+      },
+      "nature": "hardy",
+      "moves": [
+        "ice_beam",
+        "dragon_claw",
+        "will_o_wisp",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 144,
+        "atk": 59,
+        "def": 171,
+        "spa": 29,
+        "spd": 0,
+        "spe": 55
+      },
+      "nature": "hardy",
+      "moves": [
+        "dragon_claw",
+        "tackle",
+        "earthquake",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 73,
+        "atk": 39,
+        "def": 148,
+        "spa": 237,
+        "spd": 0,
+        "spe": 6
+      },
+      "nature": "modest",
+      "moves": [
+        "flamethrower",
+        "ice_beam",
+        "dragon_claw",
+        "toxic"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 7,
+        "atk": 2,
+        "def": 76,
+        "spa": 217,
+        "spd": 0,
+        "spe": 175
+      },
+      "nature": "modest",
+      "moves": [
+        "body_slam",
+        "will_o_wisp",
+        "crunch",
+        "flamethrower"
+      ],
+      "item": "none"
+    }
+  ]
+}

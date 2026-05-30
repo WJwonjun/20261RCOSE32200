@@ -1,0 +1,173 @@
+{
+  "name": "gen2_fresh_0",
+  "members": [
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 97,
+        "atk": 0,
+        "def": 2,
+        "spa": 29,
+        "spd": 188,
+        "spe": 132
+      },
+      "nature": "modest",
+      "moves": [
+        "body_slam",
+        "quick_attack",
+        "flamethrower",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 151,
+        "atk": 101,
+        "def": 12,
+        "spa": 0,
+        "spd": 201,
+        "spe": 42
+      },
+      "nature": "modest",
+      "moves": [
+        "crunch",
+        "thunderbolt",
+        "thunder_wave",
+        "protect"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "salamence",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 5,
+        "atk": 164,
+        "def": 0,
+        "spa": 124,
+        "spd": 107,
+        "spe": 51
+      },
+      "nature": "bold",
+      "moves": [
+        "earthquake",
+        "surf",
+        "tackle",
+        "thunderbolt"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 43,
+        "atk": 15,
+        "def": 0,
+        "spa": 63,
+        "spd": 3,
+        "spe": 39
+      },
+      "nature": "adamant",
+      "moves": [
+        "thunderbolt",
+        "thunder_wave",
+        "flamethrower",
+        "will_o_wisp"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 212,
+        "atk": 0,
+        "def": 16,
+        "spa": 87,
+        "spd": 21,
+        "spe": 95
+      },
+      "nature": "modest",
+      "moves": [
+        "earthquake",
+        "quick_attack",
+        "ice_beam",
+        "dragon_claw"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 119,
+        "atk": 195,
+        "def": 111,
+        "spa": 53,
+        "spd": 16,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "body_slam",
+        "protect",
+        "earthquake",
+        "dragon_claw"
+      ],
+      "item": "none"
+    }
+  ]
+}

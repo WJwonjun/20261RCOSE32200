@@ -1,0 +1,173 @@
+{
+  "name": "gen1_fresh_1",
+  "members": [
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 40,
+        "def": 134,
+        "spa": 2,
+        "spd": 112,
+        "spe": 220
+      },
+      "nature": "bold",
+      "moves": [
+        "thunder_wave",
+        "flamethrower",
+        "body_slam",
+        "thunderbolt"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 14,
+        "atk": 239,
+        "def": 168,
+        "spa": 0,
+        "spd": 74,
+        "spe": 11
+      },
+      "nature": "adamant",
+      "moves": [
+        "crunch",
+        "rest",
+        "body_slam",
+        "will_o_wisp"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "machamp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 124,
+        "atk": 0,
+        "def": 249,
+        "spa": 92,
+        "spd": 1,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "protect",
+        "toxic",
+        "rest",
+        "quick_attack"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "salamence",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 23,
+        "atk": 134,
+        "def": 151,
+        "spa": 19,
+        "spd": 115,
+        "spe": 0
+      },
+      "nature": "timid",
+      "moves": [
+        "thunderbolt",
+        "rest",
+        "flamethrower",
+        "toxic"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 170,
+        "atk": 31,
+        "def": 73,
+        "spa": 0,
+        "spd": 232,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "dragon_claw",
+        "earthquake",
+        "tackle",
+        "ice_beam"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 102,
+        "atk": 0,
+        "def": 56,
+        "spa": 59,
+        "spd": 186,
+        "spe": 83
+      },
+      "nature": "hardy",
+      "moves": [
+        "will_o_wisp",
+        "thunderbolt",
+        "dragon_claw",
+        "toxic"
+      ],
+      "item": "none"
+    }
+  ]
+}

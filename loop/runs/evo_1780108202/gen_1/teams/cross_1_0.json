@@ -1,0 +1,170 @@
+{
+  "name": "cross_1_0",
+  "members": [
+    {
+      "species": "espeon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 117,
+        "atk": 0,
+        "def": 12,
+        "spa": 144,
+        "spd": 2,
+        "spe": 159
+      },
+      "nature": "jolly",
+      "moves": [
+        "morning_sun",
+        "helping_hand",
+        "psychic_fangs",
+        "last_resort"
+      ],
+      "item": "shuca_berry"
+    },
+    {
+      "species": "leafeon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 2,
+        "atk": 139,
+        "def": 0,
+        "spa": 213,
+        "spd": 40,
+        "spe": 112
+      },
+      "nature": "jolly",
+      "moves": [
+        "bite",
+        "mud_slap",
+        "dig",
+        "leech_seed"
+      ],
+      "item": "falinksite"
+    },
+    {
+      "species": "hisuian_arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 240,
+        "def": 16,
+        "spa": 8,
+        "spd": 3,
+        "spe": 224
+      },
+      "nature": "serious",
+      "moves": [
+        "pound"
+      ],
+      "item": "tamato_berry"
+    },
+    {
+      "species": "vanilluxe",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 55,
+        "def": 0,
+        "spa": 111,
+        "spd": 152,
+        "spe": 80
+      },
+      "nature": "adamant",
+      "moves": [
+        "self_destruct",
+        "light_screen",
+        "ice_spinner",
+        "icicle_spear"
+      ],
+      "item": "eevium_z"
+    },
+    {
+      "species": "salazzle",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 33,
+        "atk": 85,
+        "def": 163,
+        "spa": 8,
+        "spd": 197,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "body_slam",
+        "torment",
+        "thief",
+        "heat_wave"
+      ],
+      "item": "leaf_stone"
+    },
+    {
+      "species": "beartic",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 35,
+        "def": 149,
+        "spa": 213,
+        "spd": 94,
+        "spe": 4
+      },
+      "nature": "gentle",
+      "moves": [
+        "endeavor",
+        "sheer_cold",
+        "throat_chop",
+        "scary_face"
+      ],
+      "item": "aggronite"
+    }
+  ]
+}

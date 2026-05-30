@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_3",
+  "members": [
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 178,
+        "atk": 71,
+        "def": 3,
+        "spa": 0,
+        "spd": 245,
+        "spe": 10
+      },
+      "nature": "timid",
+      "moves": [
+        "crunch",
+        "will_o_wisp",
+        "tackle",
+        "surf"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "machamp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 122,
+        "atk": 12,
+        "def": 149,
+        "spa": 14,
+        "spd": 128,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "surf",
+        "earthquake",
+        "ice_beam",
+        "crunch"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 7,
+        "def": 30,
+        "spa": 220,
+        "spd": 172,
+        "spe": 51
+      },
+      "nature": "adamant",
+      "moves": [
+        "rest",
+        "crunch",
+        "protect",
+        "surf"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 30,
+        "atk": 66,
+        "def": 52,
+        "spa": 80,
+        "spd": 0,
+        "spe": 239
+      },
+      "nature": "bold",
+      "moves": [
+        "rest",
+        "quick_attack",
+        "earthquake",
+        "crunch"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 18,
+        "atk": 144,
+        "def": 137,
+        "spa": 0,
+        "spd": 159,
+        "spe": 25
+      },
+      "nature": "calm",
+      "moves": [
+        "ice_beam",
+        "will_o_wisp",
+        "surf",
+        "body_slam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 77,
+        "atk": 0,
+        "def": 0,
+        "spa": 213,
+        "spd": 78,
+        "spe": 139
+      },
+      "nature": "jolly",
+      "moves": [
+        "earthquake",
+        "protect",
+        "ice_beam",
+        "surf"
+      ],
+      "item": "none"
+    }
+  ]
+}

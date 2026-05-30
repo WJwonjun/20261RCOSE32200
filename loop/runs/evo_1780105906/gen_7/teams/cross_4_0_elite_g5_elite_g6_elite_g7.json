@@ -1,0 +1,173 @@
+{
+  "name": "cross_4_0_elite_g5_elite_g6_elite_g7",
+  "members": [
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 20,
+        "def": 208,
+        "spa": 47,
+        "spd": 11,
+        "spe": 204
+      },
+      "nature": "calm",
+      "moves": [
+        "ice_beam",
+        "quick_attack",
+        "thunder_wave",
+        "flamethrower"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 243,
+        "atk": 6,
+        "def": 113,
+        "spa": 1,
+        "spd": 0,
+        "spe": 125
+      },
+      "nature": "jolly",
+      "moves": [
+        "flamethrower",
+        "body_slam",
+        "crunch",
+        "earthquake"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 228,
+        "def": 16,
+        "spa": 219,
+        "spd": 17,
+        "spe": 13
+      },
+      "nature": "hardy",
+      "moves": [
+        "tackle",
+        "protect",
+        "quick_attack",
+        "will_o_wisp"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 148,
+        "atk": 16,
+        "def": 12,
+        "spa": 125,
+        "spd": 177,
+        "spe": 0
+      },
+      "nature": "timid",
+      "moves": [
+        "crunch",
+        "toxic",
+        "quick_attack",
+        "protect"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 145,
+        "atk": 0,
+        "def": 2,
+        "spa": 199,
+        "spd": 76,
+        "spe": 86
+      },
+      "nature": "calm",
+      "moves": [
+        "surf",
+        "toxic",
+        "thunderbolt",
+        "body_slam"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 188,
+        "atk": 7,
+        "def": 154,
+        "spa": 0,
+        "spd": 9,
+        "spe": 130
+      },
+      "nature": "jolly",
+      "moves": [
+        "ice_beam",
+        "body_slam",
+        "dragon_claw",
+        "surf"
+      ],
+      "item": "none"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "cross_1_1",
+  "members": [
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 1,
+        "def": 14,
+        "spa": 101,
+        "spd": 226,
+        "spe": 164
+      },
+      "nature": "timid",
+      "moves": [
+        "dragon_claw",
+        "earthquake",
+        "rest",
+        "toxic"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 97,
+        "atk": 0,
+        "def": 86,
+        "spa": 116,
+        "spd": 54,
+        "spe": 83
+      },
+      "nature": "hardy",
+      "moves": [
+        "thunderbolt",
+        "body_slam",
+        "will_o_wisp",
+        "surf"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 199,
+        "def": 166,
+        "spa": 0,
+        "spd": 122,
+        "spe": 17
+      },
+      "nature": "hardy",
+      "moves": [
+        "ice_beam",
+        "dragon_claw",
+        "will_o_wisp",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 40,
+        "def": 184,
+        "spa": 111,
+        "spd": 0,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "crunch",
+        "ice_beam",
+        "body_slam",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 73,
+        "atk": 39,
+        "def": 148,
+        "spa": 237,
+        "spd": 0,
+        "spe": 6
+      },
+      "nature": "modest",
+      "moves": [
+        "flamethrower",
+        "ice_beam",
+        "dragon_claw",
+        "toxic"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 224,
+        "def": 145,
+        "spa": 14,
+        "spd": 61,
+        "spe": 10
+      },
+      "nature": "jolly",
+      "moves": [
+        "dragon_claw",
+        "protect",
+        "surf",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

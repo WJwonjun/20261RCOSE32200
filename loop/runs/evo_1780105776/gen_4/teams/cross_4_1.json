@@ -1,0 +1,173 @@
+{
+  "name": "cross_4_1",
+  "members": [
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 153,
+        "def": 26,
+        "spa": 7,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "bold",
+      "moves": [
+        "thunderbolt",
+        "ice_beam",
+        "body_slam",
+        "rest"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 97,
+        "atk": 0,
+        "def": 86,
+        "spa": 116,
+        "spd": 54,
+        "spe": 83
+      },
+      "nature": "hardy",
+      "moves": [
+        "thunderbolt",
+        "body_slam",
+        "will_o_wisp",
+        "surf"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 88,
+        "def": 216,
+        "spa": 16,
+        "spd": 154,
+        "spe": 2
+      },
+      "nature": "hardy",
+      "moves": [
+        "will_o_wisp",
+        "toxic",
+        "crunch",
+        "surf"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 119,
+        "atk": 127,
+        "def": 0,
+        "spa": 131,
+        "spd": 2,
+        "spe": 127
+      },
+      "nature": "modest",
+      "moves": [
+        "will_o_wisp",
+        "crunch",
+        "quick_attack",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 12,
+        "atk": 186,
+        "def": 225,
+        "spa": 67,
+        "spd": 0,
+        "spe": 11
+      },
+      "nature": "timid",
+      "moves": [
+        "quick_attack",
+        "crunch",
+        "body_slam",
+        "dragon_claw"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 236,
+        "atk": 22,
+        "def": 97,
+        "spa": 69,
+        "spd": 81,
+        "spe": 0
+      },
+      "nature": "bold",
+      "moves": [
+        "ice_beam",
+        "will_o_wisp",
+        "body_slam",
+        "dragon_claw"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

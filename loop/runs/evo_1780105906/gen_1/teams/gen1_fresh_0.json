@@ -1,0 +1,173 @@
+{
+  "name": "gen1_fresh_0",
+  "members": [
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 50,
+        "atk": 12,
+        "def": 184,
+        "spa": 200,
+        "spd": 25,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "crunch",
+        "protect",
+        "body_slam",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 128,
+        "atk": 110,
+        "def": 1,
+        "spa": 235,
+        "spd": 0,
+        "spe": 24
+      },
+      "nature": "adamant",
+      "moves": [
+        "surf",
+        "ice_beam",
+        "body_slam",
+        "toxic"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 217,
+        "atk": 0,
+        "def": 128,
+        "spa": 120,
+        "spd": 27,
+        "spe": 13
+      },
+      "nature": "modest",
+      "moves": [
+        "crunch",
+        "rest",
+        "protect",
+        "surf"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 123,
+        "def": 0,
+        "spa": 69,
+        "spd": 73,
+        "spe": 108
+      },
+      "nature": "bold",
+      "moves": [
+        "crunch",
+        "tackle",
+        "quick_attack",
+        "thunderbolt"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "rhydon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 19,
+        "def": 240,
+        "spa": 115,
+        "spd": 69,
+        "spe": 52
+      },
+      "nature": "hardy",
+      "moves": [
+        "body_slam",
+        "quick_attack",
+        "surf",
+        "rest"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 104,
+        "atk": 0,
+        "def": 28,
+        "spa": 121,
+        "spd": 210,
+        "spe": 3
+      },
+      "nature": "calm",
+      "moves": [
+        "flamethrower",
+        "ice_beam",
+        "tackle",
+        "dragon_claw"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "gen3_fresh_0",
+  "members": [
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 247,
+        "atk": 209,
+        "def": 3,
+        "spa": 0,
+        "spd": 41,
+        "spe": 2
+      },
+      "nature": "calm",
+      "moves": [
+        "thunder_wave",
+        "crunch",
+        "earthquake",
+        "toxic"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 65,
+        "atk": 69,
+        "def": 195,
+        "spa": 41,
+        "spd": 0,
+        "spe": 115
+      },
+      "nature": "timid",
+      "moves": [
+        "crunch",
+        "ice_beam",
+        "tackle",
+        "body_slam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "rhydon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 20,
+        "atk": 95,
+        "def": 0,
+        "spa": 98,
+        "spd": 60,
+        "spe": 128
+      },
+      "nature": "modest",
+      "moves": [
+        "surf",
+        "crunch",
+        "will_o_wisp",
+        "thunderbolt"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 120,
+        "atk": 17,
+        "def": 60,
+        "spa": 73,
+        "spd": 234,
+        "spe": 0
+      },
+      "nature": "adamant",
+      "moves": [
+        "toxic",
+        "earthquake",
+        "tackle",
+        "rest"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 60,
+        "spa": 12,
+        "spd": 77,
+        "spe": 61
+      },
+      "nature": "adamant",
+      "moves": [
+        "thunder_wave",
+        "quick_attack",
+        "tackle",
+        "thunderbolt"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 183,
+        "def": 74,
+        "spa": 0,
+        "spd": 36,
+        "spe": 109
+      },
+      "nature": "timid",
+      "moves": [
+        "will_o_wisp",
+        "body_slam",
+        "dragon_claw",
+        "quick_attack"
+      ],
+      "item": "none"
+    }
+  ]
+}

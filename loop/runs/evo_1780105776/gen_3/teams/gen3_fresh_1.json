@@ -1,0 +1,173 @@
+{
+  "name": "gen3_fresh_1",
+  "members": [
+    {
+      "species": "salamence",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 95,
+        "atk": 99,
+        "def": 162,
+        "spa": 11,
+        "spd": 0,
+        "spe": 64
+      },
+      "nature": "bold",
+      "moves": [
+        "thunderbolt",
+        "protect",
+        "toxic",
+        "rest"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 5,
+        "atk": 90,
+        "def": 164,
+        "spa": 139,
+        "spd": 86,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "flamethrower",
+        "tackle",
+        "toxic",
+        "thunderbolt"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 51,
+        "atk": 202,
+        "def": 9,
+        "spa": 75,
+        "spd": 11,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "crunch",
+        "dragon_claw",
+        "body_slam",
+        "thunder_wave"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 220,
+        "atk": 73,
+        "def": 99,
+        "spa": 1,
+        "spd": 0,
+        "spe": 91
+      },
+      "nature": "bold",
+      "moves": [
+        "earthquake",
+        "tackle",
+        "toxic",
+        "ice_beam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 249,
+        "atk": 127,
+        "def": 47,
+        "spa": 0,
+        "spd": 63,
+        "spe": 11
+      },
+      "nature": "adamant",
+      "moves": [
+        "crunch",
+        "body_slam",
+        "toxic",
+        "ice_beam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 26,
+        "atk": 82,
+        "def": 139,
+        "spa": 20,
+        "spd": 75,
+        "spe": 0
+      },
+      "nature": "hardy",
+      "moves": [
+        "rest",
+        "dragon_claw",
+        "protect",
+        "ice_beam"
+      ],
+      "item": "none"
+    }
+  ]
+}

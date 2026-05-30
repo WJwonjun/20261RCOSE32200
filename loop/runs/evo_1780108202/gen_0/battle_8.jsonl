@@ -1,0 +1,322 @@
+# mode: sidecar (socket=/tmp/pokemon_sidecar_evo_1780108202.sock) rulebook=rulebook/rulebook.md
+{"event":"battle_start","team_a":"Ampharos lead","team_b":"Krookodile lead"}
+{"event":"turn_start","turn":1}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Ampharos","damage":85,"hp_remaining":82}
+{"event":"move","pokemon":"Ampharos","move":"dig"}
+{"event":"damage","target":"Krookodile","damage":35,"hp_remaining":150}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":82,"hp_b":150,"turn":1}
+{"event":"turn_start","turn":2}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Ampharos","damage":55,"hp_remaining":27}
+{"event":"move","pokemon":"Ampharos","move":"dig"}
+{"event":"damage","target":"Krookodile","damage":33,"hp_remaining":117}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":27,"hp_b":117,"turn":2}
+{"event":"turn_start","turn":3}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Ampharos","damage":62,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Ampharos","in":"Pikachu"}
+{"event":"move","pokemon":"Pikachu","move":"knock_off"}
+{"event":"damage","target":"Krookodile","damage":15,"hp_remaining":102}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":141,"hp_b":102,"turn":3}
+{"event":"turn_start","turn":4}
+{"event":"move","pokemon":"Pikachu","move":"knock_off"}
+{"event":"damage","target":"Krookodile","damage":14,"hp_remaining":88}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Pikachu","damage":110,"hp_remaining":31}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":31,"hp_b":88,"turn":4}
+{"event":"turn_start","turn":5}
+{"event":"move","pokemon":"Pikachu","move":"knock_off"}
+{"event":"damage","target":"Krookodile","damage":14,"hp_remaining":74}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Pikachu","damage":112,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Pikachu","in":"Watchog"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":135,"hp_b":74,"turn":5}
+{"event":"turn_start","turn":6}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Watchog","damage":73,"hp_remaining":62}
+{"event":"move","pokemon":"Watchog","move":"bullet_seed"}
+{"event":"damage","target":"Krookodile","damage":30,"hp_remaining":44}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":62,"hp_b":44,"turn":6}
+{"event":"turn_start","turn":7}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Watchog","damage":74,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Watchog","in":"Rhyperior"}
+{"event":"move","pokemon":"Rhyperior","move":"sunny_day"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":202,"hp_b":44,"turn":7}
+{"event":"turn_start","turn":8}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Rhyperior","damage":21,"hp_remaining":181}
+{"event":"move","pokemon":"Rhyperior","move":"sunny_day"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":181,"hp_b":44,"turn":8}
+{"event":"turn_start","turn":9}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Rhyperior","damage":23,"hp_remaining":158}
+{"event":"move","pokemon":"Rhyperior","move":"sunny_day"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":158,"hp_b":44,"turn":9}
+{"event":"turn_start","turn":10}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Rhyperior","damage":20,"hp_remaining":138}
+{"event":"move","pokemon":"Rhyperior","move":"sunny_day"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":138,"hp_b":44,"turn":10}
+{"event":"turn_start","turn":11}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Rhyperior","damage":20,"hp_remaining":118}
+{"event":"move","pokemon":"Rhyperior","move":"sunny_day"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":118,"hp_b":44,"turn":11}
+{"event":"turn_start","turn":12}
+{"event":"move","pokemon":"Krookodile","move":"thrash"}
+{"event":"damage","target":"Rhyperior","damage":21,"hp_remaining":97}
+{"event":"move","pokemon":"Rhyperior","move":"sunny_day"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":97,"hp_b":44,"turn":12}
+{"event":"turn_start","turn":13}
+{"event":"move","pokemon":"Krookodile","move":"stone_edge"}
+{"event":"damage","target":"Rhyperior","damage":18,"hp_remaining":79}
+{"event":"move","pokemon":"Rhyperior","move":"sunny_day"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":79,"hp_b":44,"turn":13}
+{"event":"turn_start","turn":14}
+{"event":"move","pokemon":"Krookodile","move":"stone_edge"}
+{"event":"miss","pokemon":"Krookodile"}
+{"event":"move","pokemon":"Rhyperior","move":"sunny_day"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":79,"hp_b":44,"turn":14}
+{"event":"turn_start","turn":15}
+{"event":"move","pokemon":"Krookodile","move":"stone_edge"}
+{"event":"damage","target":"Rhyperior","damage":20,"hp_remaining":59}
+{"event":"move","pokemon":"Rhyperior","move":"iron_tail"}
+{"event":"miss","pokemon":"Rhyperior"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":59,"hp_b":44,"turn":15}
+{"event":"turn_start","turn":16}
+{"event":"move","pokemon":"Krookodile","move":"stone_edge"}
+{"event":"damage","target":"Rhyperior","damage":17,"hp_remaining":42}
+{"event":"move","pokemon":"Rhyperior","move":"iron_tail"}
+{"event":"damage","target":"Krookodile","damage":68,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Krookodile","in":"Forretress"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":42,"hp_b":150,"turn":16}
+{"event":"turn_start","turn":17}
+{"event":"move","pokemon":"Forretress","move":"stone_edge"}
+{"event":"damage","target":"Rhyperior","damage":28,"hp_remaining":14}
+{"event":"move","pokemon":"Rhyperior","move":"iron_tail"}
+{"event":"damage","target":"Forretress","damage":24,"hp_remaining":126}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":14,"hp_b":126,"turn":17}
+{"event":"turn_start","turn":18}
+{"event":"move","pokemon":"Forretress","move":"stone_edge"}
+{"event":"damage","target":"Rhyperior","damage":19,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Rhyperior","in":"Mega Lopunny"}
+{"event":"move","pokemon":"Mega Lopunny","move":"draining_kiss"}
+{"event":"damage","target":"Forretress","damage":10,"hp_remaining":116}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":160,"hp_b":116,"turn":18}
+{"event":"turn_start","turn":19}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Forretress","damage":38,"hp_remaining":78}
+{"event":"move","pokemon":"Forretress","move":"stone_edge"}
+{"event":"damage","target":"Mega Lopunny","damage":42,"hp_remaining":118}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":118,"hp_b":78,"turn":19}
+{"event":"turn_start","turn":20}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Forretress","damage":24,"hp_remaining":54}
+{"event":"move","pokemon":"Forretress","move":"stone_edge"}
+{"event":"damage","target":"Mega Lopunny","damage":23,"hp_remaining":95}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":95,"hp_b":54,"turn":20}
+{"event":"turn_start","turn":21}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Forretress","damage":26,"hp_remaining":28}
+{"event":"move","pokemon":"Forretress","move":"stone_edge"}
+{"event":"damage","target":"Mega Lopunny","damage":25,"hp_remaining":70}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":70,"hp_b":28,"turn":21}
+{"event":"turn_start","turn":22}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Forretress","damage":27,"hp_remaining":1}
+{"event":"move","pokemon":"Forretress","move":"stone_edge"}
+{"event":"damage","target":"Mega Lopunny","damage":27,"hp_remaining":43}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":1,"turn":22}
+{"event":"turn_start","turn":23}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Forretress","damage":24,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Forretress","in":"Banette"}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":23}
+{"event":"turn_start","turn":24}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":24}
+{"event":"turn_start","turn":25}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":25}
+{"event":"turn_start","turn":26}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":26}
+{"event":"turn_start","turn":27}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":27}
+{"event":"turn_start","turn":28}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":28}
+{"event":"turn_start","turn":29}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":29}
+{"event":"turn_start","turn":30}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":30}
+{"event":"turn_start","turn":31}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":31}
+{"event":"turn_start","turn":32}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":32}
+{"event":"turn_start","turn":33}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":33}
+{"event":"turn_start","turn":34}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":34}
+{"event":"turn_start","turn":35}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":35}
+{"event":"turn_start","turn":36}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":36}
+{"event":"turn_start","turn":37}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":37}
+{"event":"turn_start","turn":38}
+{"event":"move","pokemon":"Mega Lopunny","move":"mach_punch"}
+{"event":"damage","target":"Banette","damage":0,"hp_remaining":160}
+{"event":"move","pokemon":"Banette","move":"torment"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":160,"turn":38}
+{"event":"turn_start","turn":39}
+{"event":"move","pokemon":"Mega Lopunny","move":"draining_kiss"}
+{"event":"damage","target":"Banette","damage":18,"hp_remaining":142}
+{"event":"move","pokemon":"Banette","move":"encore"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":142,"turn":39}
+{"event":"turn_start","turn":40}
+{"event":"move","pokemon":"Mega Lopunny","move":"draining_kiss"}
+{"event":"damage","target":"Banette","damage":19,"hp_remaining":123}
+{"event":"move","pokemon":"Banette","move":"encore"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":123,"turn":40}
+{"event":"turn_start","turn":41}
+{"event":"move","pokemon":"Mega Lopunny","move":"draining_kiss"}
+{"event":"damage","target":"Banette","damage":19,"hp_remaining":104}
+{"event":"move","pokemon":"Banette","move":"encore"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":104,"turn":41}
+{"event":"turn_start","turn":42}
+{"event":"move","pokemon":"Mega Lopunny","move":"draining_kiss"}
+{"event":"damage","target":"Banette","damage":21,"hp_remaining":83}
+{"event":"move","pokemon":"Banette","move":"encore"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":83,"turn":42}
+{"event":"turn_start","turn":43}
+{"event":"move","pokemon":"Mega Lopunny","move":"draining_kiss"}
+{"event":"damage","target":"Banette","damage":20,"hp_remaining":63}
+{"event":"move","pokemon":"Banette","move":"encore"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":63,"turn":43}
+{"event":"turn_start","turn":44}
+{"event":"move","pokemon":"Mega Lopunny","move":"draining_kiss"}
+{"event":"damage","target":"Banette","damage":19,"hp_remaining":44}
+{"event":"move","pokemon":"Banette","move":"encore"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":44,"turn":44}
+{"event":"turn_start","turn":45}
+{"event":"move","pokemon":"Mega Lopunny","move":"draining_kiss"}
+{"event":"damage","target":"Banette","damage":20,"hp_remaining":24}
+{"event":"move","pokemon":"Banette","move":"encore"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":24,"turn":45}
+{"event":"turn_start","turn":46}
+{"event":"move","pokemon":"Mega Lopunny","move":"draining_kiss"}
+{"event":"damage","target":"Banette","damage":20,"hp_remaining":4}
+{"event":"move","pokemon":"Banette","move":"encore"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":43,"hp_b":4,"turn":46}
+{"event":"turn_start","turn":47}
+{"event":"move","pokemon":"Mega Lopunny","move":"draining_kiss"}
+{"event":"damage","target":"Banette","damage":33,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Banette","in":"Tsareena"}
+{"event":"move","pokemon":"Tsareena","move":"giga_drain"}
+{"event":"damage","target":"Mega Lopunny","damage":39,"hp_remaining":4}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":4,"hp_b":147,"turn":47}
+{"event":"turn_start","turn":48}
+{"event":"move","pokemon":"Mega Lopunny","move":"draining_kiss"}
+{"event":"damage","target":"Tsareena","damage":16,"hp_remaining":131}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Lopunny","damage":41,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Mega Lopunny","in":"Mega Heracross"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":168,"hp_b":131,"turn":48}
+{"event":"turn_start","turn":49}
+{"event":"move","pokemon":"Mega Heracross","move":"helping_hand"}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Heracross","damage":16,"hp_remaining":152}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":152,"hp_b":131,"turn":49}
+{"event":"turn_start","turn":50}
+{"event":"move","pokemon":"Mega Heracross","move":"helping_hand"}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Heracross","damage":18,"hp_remaining":134}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":134,"hp_b":131,"turn":50}
+{"event":"turn_start","turn":51}
+{"event":"move","pokemon":"Mega Heracross","move":"helping_hand"}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Heracross","damage":16,"hp_remaining":118}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":118,"hp_b":131,"turn":51}
+{"event":"turn_start","turn":52}
+{"event":"move","pokemon":"Mega Heracross","move":"helping_hand"}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Heracross","damage":16,"hp_remaining":102}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":102,"hp_b":131,"turn":52}
+{"event":"turn_start","turn":53}
+{"event":"move","pokemon":"Mega Heracross","move":"helping_hand"}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Heracross","damage":16,"hp_remaining":86}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":86,"hp_b":131,"turn":53}
+{"event":"turn_start","turn":54}
+{"event":"move","pokemon":"Mega Heracross","move":"helping_hand"}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Heracross","damage":17,"hp_remaining":69}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":69,"hp_b":131,"turn":54}
+{"event":"turn_start","turn":55}
+{"event":"move","pokemon":"Mega Heracross","move":"helping_hand"}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Heracross","damage":15,"hp_remaining":54}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":54,"hp_b":131,"turn":55}
+{"event":"turn_start","turn":56}
+{"event":"move","pokemon":"Mega Heracross","move":"helping_hand"}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Heracross","damage":17,"hp_remaining":37}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":37,"hp_b":131,"turn":56}
+{"event":"turn_start","turn":57}
+{"event":"move","pokemon":"Mega Heracross","move":"helping_hand"}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Heracross","damage":16,"hp_remaining":21}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":21,"hp_b":131,"turn":57}
+{"event":"turn_start","turn":58}
+{"event":"move","pokemon":"Mega Heracross","move":"helping_hand"}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Heracross","damage":17,"hp_remaining":4}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":4,"hp_b":131,"turn":58}
+{"event":"turn_start","turn":59}
+{"event":"move","pokemon":"Mega Heracross","move":"helping_hand"}
+{"event":"move","pokemon":"Tsareena","move":"trailblaze"}
+{"event":"damage","target":"Mega Heracross","damage":17,"hp_remaining":0}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":0,"hp_b":131,"turn":59}
+{"event":"battle_end","winner":"B","team":"Krookodile side"}

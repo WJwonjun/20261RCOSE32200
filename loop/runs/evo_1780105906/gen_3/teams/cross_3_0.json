@@ -1,0 +1,173 @@
+{
+  "name": "cross_3_0",
+  "members": [
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 203,
+        "atk": 4,
+        "def": 0,
+        "spa": 8,
+        "spd": 218,
+        "spe": 33
+      },
+      "nature": "timid",
+      "moves": [
+        "ice_beam",
+        "toxic",
+        "thunderbolt",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 243,
+        "atk": 6,
+        "def": 113,
+        "spa": 1,
+        "spd": 0,
+        "spe": 125
+      },
+      "nature": "bold",
+      "moves": [
+        "flamethrower",
+        "body_slam",
+        "crunch",
+        "tackle"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 15,
+        "atk": 188,
+        "def": 6,
+        "spa": 220,
+        "spd": 0,
+        "spe": 46
+      },
+      "nature": "calm",
+      "moves": [
+        "flamethrower",
+        "protect",
+        "rest",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 109,
+        "atk": 0,
+        "def": 136,
+        "spa": 186,
+        "spd": 35,
+        "spe": 14
+      },
+      "nature": "adamant",
+      "moves": [
+        "thunder_wave",
+        "surf",
+        "will_o_wisp",
+        "crunch"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 84,
+        "def": 3,
+        "spa": 233,
+        "spd": 116,
+        "spe": 46
+      },
+      "nature": "calm",
+      "moves": [
+        "dragon_claw",
+        "crunch",
+        "tackle",
+        "will_o_wisp"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 66,
+        "def": 0,
+        "spa": 163,
+        "spd": 191,
+        "spe": 85
+      },
+      "nature": "bold",
+      "moves": [
+        "surf",
+        "will_o_wisp",
+        "quick_attack",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

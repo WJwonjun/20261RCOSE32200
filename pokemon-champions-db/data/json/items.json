@@ -1,0 +1,4083 @@
+[
+ {
+  "name_en": "Ability Shield",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Holder's Ability cannot be changed, suppressed, or ignored by any effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Abomasite",
+  "name_ko": "눈설왕나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by an Abomasnow, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Absolite",
+  "name_ko": "앱솔나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by an Absol, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Absolite Z",
+  "name_ko": null,
+  "category": "Z-Crystal",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Absorb Bulb",
+  "name_ko": "구근",
+  "category": "Other",
+  "desc_en": "Raises holder's Sp. Atk by 1 stage if hit by a Water-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Adamant Crystal",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Adamant Orb",
+  "name_ko": "금강옥",
+  "category": "Other",
+  "desc_en": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Adrenaline Orb",
+  "name_ko": "주눅구슬",
+  "category": "Other",
+  "desc_en": "Raises holder's Speed by 1 stage if it gets affected by Intimidate. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Aerodactylite",
+  "name_ko": "프테라나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by an Aerodactyl, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Aggronite",
+  "name_ko": "보스로라나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by an Aggron, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Aguav Berry",
+  "name_ko": "아바열매",
+  "category": "Berry",
+  "desc_en": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Air Balloon",
+  "name_ko": "풍선",
+  "category": "Other",
+  "desc_en": "Holder is immune to Ground-type attacks. Pops when holder is hit.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Alakazite",
+  "name_ko": "후디나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by an Alakazam, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Aloraichium Z",
+  "name_ko": "알로라이Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Altarianite",
+  "name_ko": "파비코리나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by an Altaria, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ampharosite",
+  "name_ko": "전룡나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by an Ampharos, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Apicot Berry",
+  "name_ko": "규살열매",
+  "category": "Berry",
+  "desc_en": "Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Armor Fossil",
+  "name_ko": "방패의화석",
+  "category": "Other",
+  "desc_en": "Can be revived into Shieldon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Aspear Berry",
+  "name_ko": "배리열매",
+  "category": "Berry",
+  "desc_en": "Holder is cured if it is frozen. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Assault Vest",
+  "name_ko": "돌격조끼",
+  "category": "Other",
+  "desc_en": "Holder's Sp. Def is 1.5x, but it can only select damaging moves.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Audinite",
+  "name_ko": "다부니나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by an Audino, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Auspicious Armor",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Evolves Charcadet into Armarouge when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Babiri Berry",
+  "name_ko": "바리비열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Steel-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Banettite",
+  "name_ko": "다크펫나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Banette, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Barbaracite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Barbaracle, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Baxcalibrite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Beast Ball",
+  "name_ko": "울트라볼",
+  "category": "Other",
+  "desc_en": "A special Poke Ball designed to catch Ultra Beasts.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Beedrillite",
+  "name_ko": "독침붕나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Beedrill, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Belue Berry",
+  "name_ko": "루베열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Berry",
+  "name_ko": null,
+  "category": "Berry",
+  "desc_en": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Berry Juice",
+  "name_ko": "나무열매쥬스",
+  "category": "Other",
+  "desc_en": "Restores 20 HP when at 1/2 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Berry Sweet",
+  "name_ko": "베리사탕공예",
+  "category": "Other",
+  "desc_en": "Evolves Milcery into Alcremie when held and spun around.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Berserk Gene",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Big Nugget",
+  "name_ko": "큰금구슬",
+  "category": "Other",
+  "desc_en": "A big nugget of pure gold that gives off a lustrous gleam.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Big Root",
+  "name_ko": "큰뿌리",
+  "category": "Other",
+  "desc_en": "Holder gains 1.3x HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Binding Band",
+  "name_ko": "조임밴드",
+  "category": "Other",
+  "desc_en": "Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Bitter Berry",
+  "name_ko": null,
+  "category": "Berry",
+  "desc_en": "(Gen 2) Holder is cured if it is confused. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Black Belt",
+  "name_ko": "검은띠",
+  "category": "Other",
+  "desc_en": "Holder's Fighting-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Black Glasses",
+  "name_ko": "검은안경",
+  "category": "Other",
+  "desc_en": "Holder's Dark-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Black Sludge",
+  "name_ko": "검은진흙",
+  "category": "Other",
+  "desc_en": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Blastoisinite",
+  "name_ko": "거북왕나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Blastoise, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Blazikenite",
+  "name_ko": "번치코나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Blaziken, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Blue Orb",
+  "name_ko": "쪽빛구슬",
+  "category": "Other",
+  "desc_en": "If held by a Kyogre, this item triggers its Primal Reversion in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Bluk Berry",
+  "name_ko": "블리열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Blunder Policy",
+  "name_ko": "허탕보험",
+  "category": "Other",
+  "desc_en": "If the holder misses due to accuracy, its Speed is raised by 2 stages. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Booster Energy",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Activates the Protosynthesis or Quark Drive Abilities. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Bottle Cap",
+  "name_ko": "은왕관",
+  "category": "Other",
+  "desc_en": "Used for Hyper Training. One of a Pokemon's stats is calculated with an IV of 31.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Bright Powder",
+  "name_ko": "반짝가루",
+  "category": "Other",
+  "desc_en": "The accuracy of attacks against the holder is 0.9x.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Bug Gem",
+  "name_ko": "벌레주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Bug-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Bug Memory",
+  "name_ko": "버그메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Bug type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Buginium Z",
+  "name_ko": "벌레Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Bug move, this item allows it to use a Bug Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Burn Drive",
+  "name_ko": "블레이즈카세트",
+  "category": "Other",
+  "desc_en": "Holder's Techno Blast is Fire type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Burnt Berry",
+  "name_ko": null,
+  "category": "Berry",
+  "desc_en": "(Gen 2) Holder is cured if it is frozen. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cameruptite",
+  "name_ko": "폭타나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Camerupt, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cell Battery",
+  "name_ko": "충전지",
+  "category": "Other",
+  "desc_en": "Raises holder's Attack by 1 if hit by an Electric-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Chandelurite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Chandelure, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Charcoal",
+  "name_ko": "목탄",
+  "category": "Other",
+  "desc_en": "Holder's Fire-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Charizardite X",
+  "name_ko": "리자몽나이트X",
+  "category": "Other",
+  "desc_en": "If held by a Charizard, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Charizardite Y",
+  "name_ko": "리자몽나이트Y",
+  "category": "Other",
+  "desc_en": "If held by a Charizard, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Charti Berry",
+  "name_ko": "루미열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Rock-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cheri Berry",
+  "name_ko": "버치열매",
+  "category": "Berry",
+  "desc_en": "Holder cures itself if it is paralyzed. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cherish Ball",
+  "name_ko": "프레셔스볼",
+  "category": "Other",
+  "desc_en": "A rare Poke Ball that has been crafted to commemorate an occasion.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Chesnaughtite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Chesnaught, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Chesto Berry",
+  "name_ko": "유루열매",
+  "category": "Berry",
+  "desc_en": "Holder wakes up if it is asleep. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Chilan Berry",
+  "name_ko": "카리열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a Normal-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Chill Drive",
+  "name_ko": "프리즈카세트",
+  "category": "Other",
+  "desc_en": "Holder's Techno Blast is Ice type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Chimechite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Chipped Pot",
+  "name_ko": "이빠진포트",
+  "category": "Other",
+  "desc_en": "Evolves Sinistea-Antique into Polteageist-Antique when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Choice Band",
+  "name_ko": "구애머리띠",
+  "category": "Other",
+  "desc_en": "Holder's Attack is 1.5x, but it can only select the first move it executes.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Choice Scarf",
+  "name_ko": "구애스카프",
+  "category": "Other",
+  "desc_en": "Holder's Speed is 1.5x, but it can only select the first move it executes.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Choice Specs",
+  "name_ko": "구애안경",
+  "category": "Other",
+  "desc_en": "Holder's Sp. Atk is 1.5x, but it can only select the first move it executes.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Chople Berry",
+  "name_ko": "로플열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Fighting-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Claw Fossil",
+  "name_ko": "발톱화석",
+  "category": "Other",
+  "desc_en": "Can be revived into Anorith.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Clear Amulet",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Prevents other Pokemon from lowering the holder's stat stages.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Clefablite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Clefable, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Clover Sweet",
+  "name_ko": "네잎사탕공예",
+  "category": "Other",
+  "desc_en": "Evolves Milcery into Alcremie when held and spun around.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Coba Berry",
+  "name_ko": "바코열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Flying-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Colbur Berry",
+  "name_ko": "마코열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Dark-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cornerstone Mask",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Ogerpon-Cornerstone: 1.2x power attacks; Terastallize to gain Embody Aspect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cornn Berry",
+  "name_ko": "수숙열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cover Fossil",
+  "name_ko": "덮개화석",
+  "category": "Other",
+  "desc_en": "Can be revived into Tirtouga.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Covert Cloak",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "The holder is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause the holder to flinch, cause the holder's stat stages to be lowered, as well as Anchor Shot, Eerie Spell, Fling, Psychic Noise, Salt Cure, Spirit Shackle, Syrup Bomb, and Throat Chop. The effect of Sparkling Aria is prevented if the holder is the only target. Secondary effects added by King's Rock, Razor Fang, and the Poison Touch, Stench, and Toxic Chain Abilities are also prevented against the holder.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Crabominite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Cracked Pot",
+  "name_ko": "깨진포트",
+  "category": "Other",
+  "desc_en": "Evolves Sinistea into Polteageist when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Crucibellite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Crucibelle, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Custap Berry",
+  "name_ko": "애슈열매",
+  "category": "Berry",
+  "desc_en": "Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Damp Rock",
+  "name_ko": "축축한바위",
+  "category": "Other",
+  "desc_en": "Holder's use of Rain Dance lasts 8 turns instead of 5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dark Gem",
+  "name_ko": "악주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Dark-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dark Memory",
+  "name_ko": "다크메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Dark type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Darkinium Z",
+  "name_ko": "악Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Dark move, this item allows it to use a Dark Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Darkranite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dawn Stone",
+  "name_ko": "각성의돌",
+  "category": "Other",
+  "desc_en": "Evolves male Kirlia into Gallade and female Snorunt into Froslass when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Decidium Z",
+  "name_ko": "모크나이퍼Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Deep Sea Scale",
+  "name_ko": "심해의비늘",
+  "category": "Other",
+  "desc_en": "If held by a Clamperl, its Sp. Def is doubled. Evolves Clamperl into Gorebyss when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Deep Sea Tooth",
+  "name_ko": "심해의이빨",
+  "category": "Other",
+  "desc_en": "If held by a Clamperl, its Sp. Atk is doubled. Evolves Clamperl into Huntail when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Delphoxite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Delphox, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Destiny Knot",
+  "name_ko": "빨간실",
+  "category": "Other",
+  "desc_en": "If holder becomes infatuated, the other Pokemon also becomes infatuated.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Diancite",
+  "name_ko": "디안시나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Diancie, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dive Ball",
+  "name_ko": "다이브볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball that works especially well on Pokemon that live underwater.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dome Fossil",
+  "name_ko": "껍질화석",
+  "category": "Other",
+  "desc_en": "Can be revived into Kabuto.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Douse Drive",
+  "name_ko": "아쿠아카세트",
+  "category": "Other",
+  "desc_en": "Holder's Techno Blast is Water type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Draco Plate",
+  "name_ko": "용의플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Dragon-type attacks have 1.2x power. Judgment is Dragon type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dragalgite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Dragalge, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dragon Fang",
+  "name_ko": "용의이빨",
+  "category": "Other",
+  "desc_en": "Holder's Dragon-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dragon Gem",
+  "name_ko": "드래곤주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Dragon-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dragon Memory",
+  "name_ko": "드래곤메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Dragon type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dragon Scale",
+  "name_ko": "용의비늘",
+  "category": "Other",
+  "desc_en": "Evolves Seadra into Kingdra when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dragoninite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Dragonite, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dragonium Z",
+  "name_ko": "드래곤Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Drampanite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Drampa, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dread Plate",
+  "name_ko": "공포플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Dark-type attacks have 1.2x power. Judgment is Dark type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dream Ball",
+  "name_ko": "드림볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball that makes it easier to catch wild Pokémon while they're asleep.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dubious Disc",
+  "name_ko": "괴상한패치",
+  "category": "Other",
+  "desc_en": "Evolves Porygon2 into Porygon-Z when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Durin Berry",
+  "name_ko": "두리열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dusk Ball",
+  "name_ko": "다크볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Dusk Stone",
+  "name_ko": "어둠의돌",
+  "category": "Other",
+  "desc_en": "Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, and Doublade into Aegislash when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Earth Plate",
+  "name_ko": "대지플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Ground-type attacks have 1.2x power. Judgment is Ground type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Eelektrossite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by an Eelektross, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Eevium Z",
+  "name_ko": "이브이Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by an Eevee with Last Resort, it can use Extreme Evoboost.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Eject Button",
+  "name_ko": "탈출버튼",
+  "category": "Other",
+  "desc_en": "If holder survives a hit, it immediately switches out to a chosen ally. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Eject Pack",
+  "name_ko": "탈출팩",
+  "category": "Other",
+  "desc_en": "If the holder's stat stages are lowered, it switches to a chosen ally. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Electirizer",
+  "name_ko": "에레키부스터",
+  "category": "Other",
+  "desc_en": "Evolves Electabuzz into Electivire when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Electric Gem",
+  "name_ko": "전기주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Electric-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Electric Memory",
+  "name_ko": "일렉트릭메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Electric type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Electric Seed",
+  "name_ko": "일렉트릭시드",
+  "category": "Other",
+  "desc_en": "If the terrain is Electric Terrain, raises holder's Defense by 1 stage. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Electrium Z",
+  "name_ko": "전기Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has an Electric move, this item allows it to use an Electric Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Emboarite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by an Emboar, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Enigma Berry",
+  "name_ko": "의문열매",
+  "category": "Berry",
+  "desc_en": "Restores 1/4 max HP after holder is hit by a supereffective move. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Eviolite",
+  "name_ko": "진화의휘석",
+  "category": "Mega Stone",
+  "desc_en": "If holder's species can evolve, its Defense and Sp. Def are 1.5x.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Excadrite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by an Excadrill, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Expert Belt",
+  "name_ko": "달인의띠",
+  "category": "Other",
+  "desc_en": "Holder's attacks that are super effective against the target do 1.2x damage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fairium Z",
+  "name_ko": "페어리Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fairy Feather",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Holder's Fairy-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fairy Gem",
+  "name_ko": "페어리주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Fairy-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fairy Memory",
+  "name_ko": "페어리메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Fairy type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Falinksite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Falinks, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fast Ball",
+  "name_ko": "스피드볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Feraligite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Feraligatr, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fighting Gem",
+  "name_ko": "격투주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Fighting-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fighting Memory",
+  "name_ko": "파이팅메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Fighting type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fightinium Z",
+  "name_ko": "격투Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Figy Berry",
+  "name_ko": "무화열매",
+  "category": "Berry",
+  "desc_en": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fire Gem",
+  "name_ko": "불꽃주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Fire-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fire Memory",
+  "name_ko": "파이어메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Fire type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fire Stone",
+  "name_ko": "불꽃의돌",
+  "category": "Other",
+  "desc_en": "Evolves Vulpix into Ninetales, Growlithe into Arcanine, Eevee into Flareon, and Pansear into Simisear when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Firium Z",
+  "name_ko": "불꽃Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Fire move, this item allows it to use a Fire Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fist Plate",
+  "name_ko": "주먹플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Fighting-type attacks have 1.2x power. Judgment is Fighting type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Flame Orb",
+  "name_ko": "화염구슬",
+  "category": "Other",
+  "desc_en": "At the end of every turn, this item attempts to burn the holder.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Flame Plate",
+  "name_ko": "불구슬플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Fire-type attacks have 1.2x power. Judgment is Fire type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Float Stone",
+  "name_ko": "가벼운돌",
+  "category": "Other",
+  "desc_en": "Holder's weight is halved.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Floettite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by an Eternal Flower Floette, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Flower Sweet",
+  "name_ko": "꽃사탕공예",
+  "category": "Other",
+  "desc_en": "Evolves Milcery into Alcremie when held and spun around.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Flying Gem",
+  "name_ko": "비행주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Flying-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Flying Memory",
+  "name_ko": "플라잉메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Flying type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Flyinium Z",
+  "name_ko": "비행Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Flying move, this item allows it to use a Flying Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Focus Band",
+  "name_ko": "기합의머리띠",
+  "category": "Other",
+  "desc_en": "Holder has a 10% chance to survive an attack that would KO it with 1 HP.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Focus Sash",
+  "name_ko": "기합의띠",
+  "category": "Other",
+  "desc_en": "If holder's HP is full, will survive an attack that would KO it with 1 HP. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fossilized Bird",
+  "name_ko": "화석새",
+  "category": "Other",
+  "desc_en": "Can revive into Dracozolt with Fossilized Drake or Arctozolt with Fossilized Dino.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fossilized Dino",
+  "name_ko": "화석긴목",
+  "category": "Other",
+  "desc_en": "Can revive into Arctovish with Fossilized Fish or Arctozolt with Fossilized Bird.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fossilized Drake",
+  "name_ko": "화석용",
+  "category": "Other",
+  "desc_en": "Can revive into Dracozolt with Fossilized Bird or Dracovish with Fossilized Fish.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Fossilized Fish",
+  "name_ko": "화석물고기",
+  "category": "Other",
+  "desc_en": "Can revive into Dracovish with Fossilized Drake or Arctovish with Fossilized Dino.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Friend Ball",
+  "name_ko": "프렌드볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball that makes caught Pokemon more friendly.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Froslassite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Froslass, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Full Incense",
+  "name_ko": "만복향로",
+  "category": "Other",
+  "desc_en": "Holder moves last in its priority bracket.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Galarica Cuff",
+  "name_ko": "가라두구팔찌",
+  "category": "Other",
+  "desc_en": "Evolves Galarian Slowpoke into Galarian Slowbro when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Galarica Wreath",
+  "name_ko": "가라두구머리장식",
+  "category": "Other",
+  "desc_en": "Evolves Galarian Slowpoke into Galarian Slowking when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Galladite",
+  "name_ko": "엘레이드나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Gallade, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ganlon Berry",
+  "name_ko": "용아열매",
+  "category": "Berry",
+  "desc_en": "Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Garchompite",
+  "name_ko": "한카리아스나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Garchomp, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Garchompite Z",
+  "name_ko": null,
+  "category": "Z-Crystal",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Gardevoirite",
+  "name_ko": "가디안나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Gardevoir, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Gengarite",
+  "name_ko": "팬텀나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Gengar, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ghost Gem",
+  "name_ko": "고스트주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Ghost-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ghost Memory",
+  "name_ko": "고스트메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Ghost type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ghostium Z",
+  "name_ko": "고스트Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Glalitite",
+  "name_ko": "얼음귀신나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Glalie, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Glimmoranite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Gold Berry",
+  "name_ko": null,
+  "category": "Berry",
+  "desc_en": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Gold Bottle Cap",
+  "name_ko": "금왕관",
+  "category": "Other",
+  "desc_en": "Used for Hyper Training. All of a Pokemon's stats are calculated with an IV of 31.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Golisopite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Golurkite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Grass Gem",
+  "name_ko": "풀주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Grass-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Grass Memory",
+  "name_ko": "그래스메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Grass type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Grassium Z",
+  "name_ko": "풀Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Grass move, this item allows it to use a Grass Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Grassy Seed",
+  "name_ko": "그래스시드",
+  "category": "Other",
+  "desc_en": "If the terrain is Grassy Terrain, raises holder's Defense by 1 stage. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Great Ball",
+  "name_ko": "수퍼볼",
+  "category": "Other",
+  "desc_en": "A high-performance Ball that provides a higher catch rate than a Poke Ball.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Greninjite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Greninja, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Grepa Berry",
+  "name_ko": "또뽀열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Grip Claw",
+  "name_ko": "끈기갈고리손톱",
+  "category": "Other",
+  "desc_en": "Holder's partial-trapping moves always last 7 turns.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Griseous Core",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Griseous Orb",
+  "name_ko": "백금옥",
+  "category": "Other",
+  "desc_en": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ground Gem",
+  "name_ko": "땅주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Ground-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ground Memory",
+  "name_ko": "그라운드메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Ground type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Groundium Z",
+  "name_ko": "땅Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Ground move, this item allows it to use a Ground Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Gyaradosite",
+  "name_ko": "갸라도스나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Gyarados, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Haban Berry",
+  "name_ko": "하반열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Dragon-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Hard Stone",
+  "name_ko": "딱딱한돌",
+  "category": "Other",
+  "desc_en": "Holder's Rock-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Hawluchanite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Hawlucha, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Heal Ball",
+  "name_ko": "힐볼",
+  "category": "Other",
+  "desc_en": "A remedial Poke Ball that restores the caught Pokemon's HP and status problem.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Hearthflame Mask",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Ogerpon-Hearthflame: 1.2x power attacks; Terastallize to gain Embody Aspect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Heat Rock",
+  "name_ko": "뜨거운바위",
+  "category": "Other",
+  "desc_en": "Holder's use of Sunny Day lasts 8 turns instead of 5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Heatranite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Heavy Ball",
+  "name_ko": "헤비볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball for catching very heavy Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Heavy-Duty Boots",
+  "name_ko": "통굽부츠",
+  "category": "Other",
+  "desc_en": "When switching in, the holder is unaffected by hazards on its side of the field.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Helix Fossil",
+  "name_ko": "조개화석",
+  "category": "Other",
+  "desc_en": "Can be revived into Omanyte.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Heracronite",
+  "name_ko": "헤라크로스나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Heracross, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Hondew Berry",
+  "name_ko": "로매열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Houndoominite",
+  "name_ko": "헬가나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Houndoom, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Iapapa Berry",
+  "name_ko": "파야열매",
+  "category": "Berry",
+  "desc_en": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ice Berry",
+  "name_ko": null,
+  "category": "Berry",
+  "desc_en": "(Gen 2) Holder is cured if it is burned. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ice Gem",
+  "name_ko": "얼음주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Ice-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ice Memory",
+  "name_ko": "아이스메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Ice type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ice Stone",
+  "name_ko": "얼음의돌",
+  "category": "Other",
+  "desc_en": "Evolves Alolan Sandshrew into Alolan Sandslash, Alolan Vulpix into Alolan Ninetales, Eevee into Glaceon, and Galarian Darumaka into Galarian Darmanitan when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Icicle Plate",
+  "name_ko": "고드름플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Ice-type attacks have 1.2x power. Judgment is Ice type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Icium Z",
+  "name_ko": "얼음Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has an Ice move, this item allows it to use an Ice Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Icy Rock",
+  "name_ko": "차가운바위",
+  "category": "Other",
+  "desc_en": "Holder's use of Snowscape lasts 8 turns instead of 5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Incinium Z",
+  "name_ko": "어흥염Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Insect Plate",
+  "name_ko": "비단벌레플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Bug-type attacks have 1.2x power. Judgment is Bug type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Iron Ball",
+  "name_ko": "검은철구",
+  "category": "Other",
+  "desc_en": "Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Iron Plate",
+  "name_ko": "강철플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Steel-type attacks have 1.2x power. Judgment is Steel type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Jaboca Berry",
+  "name_ko": "자보열매",
+  "category": "Berry",
+  "desc_en": "If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Jaw Fossil",
+  "name_ko": "턱화석",
+  "category": "Other",
+  "desc_en": "Can be revived into Tyrunt.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Kangaskhanite",
+  "name_ko": "캥카나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Kangaskhan, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Kasib Berry",
+  "name_ko": "수불열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Ghost-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Kebia Berry",
+  "name_ko": "으름열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Poison-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Kee Berry",
+  "name_ko": "악키열매",
+  "category": "Berry",
+  "desc_en": "Raises holder's Defense by 1 stage after it is hit by a physical attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Kelpsy Berry",
+  "name_ko": "시마열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "King's Rock",
+  "name_ko": "왕의징표석",
+  "category": "Other",
+  "desc_en": "Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Poliwhirl into Politoed and Slowpoke into Slowking when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Kommonium Z",
+  "name_ko": "짜랑고우거Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lagging Tail",
+  "name_ko": "느림보꼬리",
+  "category": "Other",
+  "desc_en": "Holder moves last in its priority bracket.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lansat Berry",
+  "name_ko": "랑사열매",
+  "category": "Berry",
+  "desc_en": "Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Latiasite",
+  "name_ko": "라티아스나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Latias, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Latiosite",
+  "name_ko": "라티오스나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Latios, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lax Incense",
+  "name_ko": "무사태평향로",
+  "category": "Other",
+  "desc_en": "The accuracy of attacks against the holder is 0.9x.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Leaf Stone",
+  "name_ko": "리프의돌",
+  "category": "Other",
+  "desc_en": "Evolves Gloom into Vileplume, Weepinbell into Victreebel, Exeggcute into Exeggutor or Alolan Exeggutor, Eevee into Leafeon, Nuzleaf into Shiftry, and Pansage into Simisage when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Leek",
+  "name_ko": "대파",
+  "category": "Other",
+  "desc_en": "If held by a Farfetch’d or Sirfetch’d, its critical hit ratio is raised by 2 stages.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Leftovers",
+  "name_ko": "먹다남은음식",
+  "category": "Other",
+  "desc_en": "At the end of every turn, holder restores 1/16 of its max HP.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Leppa Berry",
+  "name_ko": "과사열매",
+  "category": "Berry",
+  "desc_en": "Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Level Ball",
+  "name_ko": "레벨볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball for catching Pokemon that are a lower level than your own.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Liechi Berry",
+  "name_ko": "치리열매",
+  "category": "Berry",
+  "desc_en": "Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Life Orb",
+  "name_ko": "생명의구슬",
+  "category": "Other",
+  "desc_en": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Light Ball",
+  "name_ko": "전기구슬",
+  "category": "Other",
+  "desc_en": "If held by a Pikachu, its Attack and Sp. Atk are doubled.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Light Clay",
+  "name_ko": "빛의점토",
+  "category": "Other",
+  "desc_en": "Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Loaded Dice",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "The holder's moves that normally hit 2 to 5 times instead hit 4 or 5 times. If the first hit is successful, the holder's use of Triple Kick or Triple Axel hits 3 times, and Population Bomb hits 4 to 10 times, at random.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lopunnite",
+  "name_ko": "이어롭나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Lopunny, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Love Ball",
+  "name_ko": "러브러브볼",
+  "category": "Other",
+  "desc_en": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Love Sweet",
+  "name_ko": "하트사탕공예",
+  "category": "Other",
+  "desc_en": "Evolves Milcery into Alcremie when held and spun around.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lucarionite",
+  "name_ko": "루카리오나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Lucario, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lucarionite Z",
+  "name_ko": null,
+  "category": "Z-Crystal",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lucky Punch",
+  "name_ko": "럭키펀치",
+  "category": "Other",
+  "desc_en": "If held by a Chansey, its critical hit ratio is raised by 2 stages.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lum Berry",
+  "name_ko": "리샘열매",
+  "category": "Berry",
+  "desc_en": "Holder cures itself if it has a non-volatile status or is confused. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Luminous Moss",
+  "name_ko": "빛이끼",
+  "category": "Other",
+  "desc_en": "Raises holder's Sp. Def by 1 stage if hit by a Water-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lunalium Z",
+  "name_ko": "루나아라Z",
+  "category": "Z-Crystal",
+  "desc_en": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lure Ball",
+  "name_ko": "루어볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball for catching Pokemon hooked by a Rod when fishing.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lustrous Globe",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lustrous Orb",
+  "name_ko": "백옥",
+  "category": "Other",
+  "desc_en": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Luxury Ball",
+  "name_ko": "럭셔리볼",
+  "category": "Other",
+  "desc_en": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Lycanium Z",
+  "name_ko": "루가루암Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Macho Brace",
+  "name_ko": "교정깁스",
+  "category": "Other",
+  "desc_en": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Magearnite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Magmarizer",
+  "name_ko": "마그마부스터",
+  "category": "Other",
+  "desc_en": "Evolves Magmar into Magmortar when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Magnet",
+  "name_ko": "자석",
+  "category": "Other",
+  "desc_en": "Holder's Electric-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mago Berry",
+  "name_ko": "마고열매",
+  "category": "Berry",
+  "desc_en": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Magost Berry",
+  "name_ko": "고스티열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mail",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Malamarite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Malamar, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Malicious Armor",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Evolves Charcadet into Ceruledge when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Manectite",
+  "name_ko": "썬더볼트나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Manectric, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Maranga Berry",
+  "name_ko": "타라프열매",
+  "category": "Berry",
+  "desc_en": "Raises holder's Sp. Def by 1 stage after it is hit by a special attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Marshadium Z",
+  "name_ko": "마샤도Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Master Ball",
+  "name_ko": "마스터볼",
+  "category": "Other",
+  "desc_en": "The best Ball with the ultimate performance. It will catch any wild Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Masterpiece Teacup",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Evolves Poltchageist-Artisan into Sinistcha-Masterpiece when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mawilite",
+  "name_ko": "입치트나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Mawile, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Meadow Plate",
+  "name_ko": "초록플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Grass-type attacks have 1.2x power. Judgment is Grass type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Medichamite",
+  "name_ko": "요가램나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Medicham, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Meganiumite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Meganium, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mental Herb",
+  "name_ko": "멘탈허브",
+  "category": "Other",
+  "desc_en": "Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Meowsticite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Metagrossite",
+  "name_ko": "메타그로스나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Metagross, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Metal Alloy",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Evolves Duraludon into Archaludon when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Metal Coat",
+  "name_ko": "금속코트",
+  "category": "Other",
+  "desc_en": "Holder's Steel-type attacks have 1.2x power. Evolves Onix into Steelix and Scyther into Scizor when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Metal Powder",
+  "name_ko": "금속파우더",
+  "category": "Other",
+  "desc_en": "If held by a Ditto that hasn't Transformed, its Defense is doubled.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Metronome",
+  "name_ko": "메트로놈",
+  "category": "Other",
+  "desc_en": "Damage of moves used on consecutive turns is increased. Max 2x after 5 turns.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mewnium Z",
+  "name_ko": "뮤Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by a Mew with Psychic, it can use Genesis Supernova.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mewtwonite X",
+  "name_ko": "뮤츠나이트X",
+  "category": "Other",
+  "desc_en": "If held by a Mewtwo, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mewtwonite Y",
+  "name_ko": "뮤츠나이트Y",
+  "category": "Other",
+  "desc_en": "If held by a Mewtwo, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Micle Berry",
+  "name_ko": "미클열매",
+  "category": "Berry",
+  "desc_en": "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mimikium Z",
+  "name_ko": "따라큐Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mind Plate",
+  "name_ko": "이상한플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Psychic-type attacks have 1.2x power. Judgment is Psychic type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mint Berry",
+  "name_ko": null,
+  "category": "Berry",
+  "desc_en": "(Gen 2) Holder wakes up if it is asleep. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Miracle Berry",
+  "name_ko": null,
+  "category": "Berry",
+  "desc_en": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Miracle Seed",
+  "name_ko": "기적의씨",
+  "category": "Other",
+  "desc_en": "Holder's Grass-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mirror Herb",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "When an opposing Pokemon raises a stat stage, the holder copies it. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Misty Seed",
+  "name_ko": "미스트시드",
+  "category": "Other",
+  "desc_en": "If the terrain is Misty Terrain, raises holder's Sp. Def by 1 stage. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Moon Ball",
+  "name_ko": "문볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball for catching Pokemon that evolve using the Moon Stone.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Moon Stone",
+  "name_ko": "달의돌",
+  "category": "Other",
+  "desc_en": "Evolves Nidorina into Nidoqueen, Nidorino into Nidoking, Clefairy into Clefable, Jigglypuff into Wigglytuff, Skitty into Delcatty, and Munna into Musharna when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Muscle Band",
+  "name_ko": "힘의머리띠",
+  "category": "Other",
+  "desc_en": "Holder's physical attacks have 1.1x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mystery Berry",
+  "name_ko": null,
+  "category": "Berry",
+  "desc_en": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Mystic Water",
+  "name_ko": "신비의물방울",
+  "category": "Other",
+  "desc_en": "Holder's Water-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Nanab Berry",
+  "name_ko": "나나열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Nest Ball",
+  "name_ko": "네스트볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball that works especially well on weaker Pokemon in the wild.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Net Ball",
+  "name_ko": "넷트볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball that works especially well on Water- and Bug-type Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Never-Melt Ice",
+  "name_ko": "녹지않는얼음",
+  "category": "Other",
+  "desc_en": "Holder's Ice-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Nomel Berry",
+  "name_ko": "노멜열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Normal Gem",
+  "name_ko": "노말주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Normal-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Normalium Z",
+  "name_ko": "노말Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Normal move, this item allows it to use a Normal Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Occa Berry",
+  "name_ko": "오카열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Fire-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Odd Incense",
+  "name_ko": "괴상한향로",
+  "category": "Other",
+  "desc_en": "Holder's Psychic-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Old Amber",
+  "name_ko": "비밀의호박",
+  "category": "Other",
+  "desc_en": "Can be revived into Aerodactyl.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Oran Berry",
+  "name_ko": "오랭열매",
+  "category": "Berry",
+  "desc_en": "Restores 10 HP when at 1/2 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Oval Stone",
+  "name_ko": "동글동글돌",
+  "category": "Other",
+  "desc_en": "Evolves Happiny into Chansey when held and leveled up during the day.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "PRZ Cure Berry",
+  "name_ko": null,
+  "category": "Berry",
+  "desc_en": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "PSN Cure Berry",
+  "name_ko": null,
+  "category": "Berry",
+  "desc_en": "(Gen 2) Holder is cured if it is poisoned. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pamtre Berry",
+  "name_ko": "자야열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Park Ball",
+  "name_ko": "파크볼",
+  "category": "Other",
+  "desc_en": "A special Poke Ball for the Pal Park.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Passho Berry",
+  "name_ko": "꼬시개열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Water-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Payapa Berry",
+  "name_ko": "야파열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Psychic-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pecha Berry",
+  "name_ko": "복슝열매",
+  "category": "Berry",
+  "desc_en": "Holder is cured if it is poisoned. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Persim Berry",
+  "name_ko": "시몬열매",
+  "category": "Berry",
+  "desc_en": "Holder is cured if it is confused. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Petaya Berry",
+  "name_ko": "야타비열매",
+  "category": "Berry",
+  "desc_en": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pidgeotite",
+  "name_ko": "피죤투나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Pidgeot, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pikanium Z",
+  "name_ko": "피카츄Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by a Pikachu with Volt Tackle, it can use Catastropika.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pikashunium Z",
+  "name_ko": "지우피카Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pinap Berry",
+  "name_ko": "파인열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pink Bow",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pinsirite",
+  "name_ko": "쁘사이저나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Pinsir, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pixie Plate",
+  "name_ko": "정령플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Fairy-type attacks have 1.2x power. Judgment is Fairy type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Plume Fossil",
+  "name_ko": "날개화석",
+  "category": "Other",
+  "desc_en": "Can be revived into Archen.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Poison Barb",
+  "name_ko": "독바늘",
+  "category": "Other",
+  "desc_en": "Holder's Poison-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Poison Gem",
+  "name_ko": "독주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Poison-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Poison Memory",
+  "name_ko": "포이즌메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Poison type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Poisonium Z",
+  "name_ko": "독Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Poison move, this item allows it to use a Poison Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Poke Ball",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "A device for catching wild Pokemon. It is designed as a capsule system.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Polkadot Bow",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pomeg Berry",
+  "name_ko": "유석열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Power Anklet",
+  "name_ko": "파워앵클릿",
+  "category": "Other",
+  "desc_en": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Power Band",
+  "name_ko": "파워밴드",
+  "category": "Other",
+  "desc_en": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Power Belt",
+  "name_ko": "파워벨트",
+  "category": "Other",
+  "desc_en": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Power Bracer",
+  "name_ko": "파워리스트",
+  "category": "Other",
+  "desc_en": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Power Herb",
+  "name_ko": "파워풀허브",
+  "category": "Other",
+  "desc_en": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Power Lens",
+  "name_ko": "파워렌즈",
+  "category": "Other",
+  "desc_en": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Power Weight",
+  "name_ko": "파워웨이트",
+  "category": "Other",
+  "desc_en": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Premier Ball",
+  "name_ko": "프레미어볼",
+  "category": "Other",
+  "desc_en": "A rare Poke Ball that has been crafted to commemorate an event.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pretty Feather",
+  "name_ko": "고운날개",
+  "category": "Other",
+  "desc_en": "Though this feather is beautiful, it's just a regular feather and has no effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Primarium Z",
+  "name_ko": "누리레느Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Prism Scale",
+  "name_ko": "고운비늘",
+  "category": "Other",
+  "desc_en": "Evolves Feebas into Milotic when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Protective Pads",
+  "name_ko": "방호패드",
+  "category": "Other",
+  "desc_en": "Holder's moves are protected from adverse contact effects, except Pickpocket.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Protector",
+  "name_ko": "프로텍터",
+  "category": "Other",
+  "desc_en": "Evolves Rhydon into Rhyperior when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Psychic Gem",
+  "name_ko": "에스퍼주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Psychic-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Psychic Memory",
+  "name_ko": "사이킥메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Psychic type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Psychic Seed",
+  "name_ko": "사이코시드",
+  "category": "Other",
+  "desc_en": "If the terrain is Psychic Terrain, raises holder's Sp. Def by 1 stage. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Psychium Z",
+  "name_ko": "에스퍼Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Punching Glove",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Holder's punch-based attacks have 1.1x power and do not make contact.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Pyroarite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Pyroar, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Qualot Berry",
+  "name_ko": "파비열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Quick Ball",
+  "name_ko": "퀵볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball that provides a better catch rate at the start of a wild encounter.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Quick Claw",
+  "name_ko": "선제공격손톱",
+  "category": "Other",
+  "desc_en": "Each turn, holder has a 20% chance to move first in its priority bracket.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Quick Powder",
+  "name_ko": "스피드파우더",
+  "category": "Other",
+  "desc_en": "If held by a Ditto that hasn't Transformed, its Speed is doubled.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rabuta Berry",
+  "name_ko": "라부탐열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Raichunite X",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Raichunite Y",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rare Bone",
+  "name_ko": "귀중한뼈",
+  "category": "Other",
+  "desc_en": "No competitive use other than when used with Fling.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rawst Berry",
+  "name_ko": "복분열매",
+  "category": "Berry",
+  "desc_en": "Holder is cured if it is burned. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Razor Claw",
+  "name_ko": "예리한손톱",
+  "category": "Other",
+  "desc_en": "Holder's critical hit ratio is raised by 1 stage. Evolves Sneasel into Weavile when held and leveled up during the night.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Razor Fang",
+  "name_ko": "예리한이빨",
+  "category": "Other",
+  "desc_en": "Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Gligar into Gliscor when held and leveled up during the night.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Razz Berry",
+  "name_ko": "라즈열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Reaper Cloth",
+  "name_ko": "영계의천",
+  "category": "Other",
+  "desc_en": "Evolves Dusclops into Dusknoir when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Red Card",
+  "name_ko": "레드카드",
+  "category": "Other",
+  "desc_en": "If holder survives a hit, attacker is forced to switch to a random ally. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Red Orb",
+  "name_ko": "주홍구슬",
+  "category": "Other",
+  "desc_en": "If held by a Groudon, this item triggers its Primal Reversion in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Repeat Ball",
+  "name_ko": "리피드볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball that works well on Pokemon species that were previously caught.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ribbon Sweet",
+  "name_ko": "리본사탕공예",
+  "category": "Other",
+  "desc_en": "Evolves Milcery into Alcremie when held and spun around.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rindo Berry",
+  "name_ko": "린드열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Grass-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ring Target",
+  "name_ko": "겨냥표적",
+  "category": "Other",
+  "desc_en": "The holder's type immunities granted solely by its typing are negated.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rock Gem",
+  "name_ko": "바위주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Rock-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rock Incense",
+  "name_ko": "암석향로",
+  "category": "Other",
+  "desc_en": "Holder's Rock-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rock Memory",
+  "name_ko": "락메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Rock type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rockium Z",
+  "name_ko": "바위Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Rock move, this item allows it to use a Rock Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rocky Helmet",
+  "name_ko": "울퉁불퉁멧",
+  "category": "Other",
+  "desc_en": "If holder is hit by a contact move, the attacker loses 1/6 of its max HP.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Room Service",
+  "name_ko": "룸서비스",
+  "category": "Other",
+  "desc_en": "If Trick Room is active, the holder's Speed is lowered by 1 stage. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Root Fossil",
+  "name_ko": "뿌리화석",
+  "category": "Other",
+  "desc_en": "Can be revived into Lileep.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rose Incense",
+  "name_ko": "꽃향로",
+  "category": "Other",
+  "desc_en": "Holder's Grass-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Roseli Berry",
+  "name_ko": "로셀열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Fairy-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rowap Berry",
+  "name_ko": "애터열매",
+  "category": "Berry",
+  "desc_en": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rusted Shield",
+  "name_ko": "녹슨방패",
+  "category": "Other",
+  "desc_en": "If held by a Zamazenta, this item changes its forme to Crowned Shield.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Rusted Sword",
+  "name_ko": "녹슨검",
+  "category": "Other",
+  "desc_en": "If held by a Zacian, this item changes its forme to Crowned Sword.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sablenite",
+  "name_ko": "깜까미나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Sableye, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sachet",
+  "name_ko": "향기주머니",
+  "category": "Other",
+  "desc_en": "Evolves Spritzee into Aromatisse when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Safari Ball",
+  "name_ko": "사파리볼",
+  "category": "Other",
+  "desc_en": "A special Poke Ball that is used only in the Safari Zone and Great Marsh.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Safety Goggles",
+  "name_ko": "방진고글",
+  "category": "Other",
+  "desc_en": "Holder is immune to powder moves and damage from Sandstorm or Hail.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sail Fossil",
+  "name_ko": "지느러미화석",
+  "category": "Other",
+  "desc_en": "Can be revived into Amaura.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Salac Berry",
+  "name_ko": "캄라열매",
+  "category": "Berry",
+  "desc_en": "Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Salamencite",
+  "name_ko": "보만다나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Salamence, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sceptilite",
+  "name_ko": "나무킹나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Sceptile, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Scizorite",
+  "name_ko": "핫삼나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Scizor, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Scolipite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Scolipede, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Scope Lens",
+  "name_ko": "초점렌즈",
+  "category": "Other",
+  "desc_en": "Holder's critical hit ratio is raised by 1 stage.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Scovillainite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Scraftinite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Scrafty, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sea Incense",
+  "name_ko": "바닷물향로",
+  "category": "Other",
+  "desc_en": "Holder's Water-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sharp Beak",
+  "name_ko": "예리한부리",
+  "category": "Other",
+  "desc_en": "Holder's Flying-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sharpedonite",
+  "name_ko": "샤크니아나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Sharpedo, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Shed Shell",
+  "name_ko": "아름다운허물",
+  "category": "Other",
+  "desc_en": "Holder cannot be prevented from choosing to switch out by any effect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Shell Bell",
+  "name_ko": "조개껍질방울",
+  "category": "Other",
+  "desc_en": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Shiny Stone",
+  "name_ko": "빛의돌",
+  "category": "Other",
+  "desc_en": "Evolves Togetic into Togekiss, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Shock Drive",
+  "name_ko": "번개카세트",
+  "category": "Other",
+  "desc_en": "Holder's Techno Blast is Electric type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Shuca Berry",
+  "name_ko": "슈캐열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Ground-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Silk Scarf",
+  "name_ko": "실크스카프",
+  "category": "Other",
+  "desc_en": "Holder's Normal-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Silver Powder",
+  "name_ko": "은빛가루",
+  "category": "Other",
+  "desc_en": "Holder's Bug-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sitrus Berry",
+  "name_ko": "자뭉열매",
+  "category": "Berry",
+  "desc_en": "Restores 1/4 max HP when at 1/2 max HP or less. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Skarmorite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Skarmory, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Skull Fossil",
+  "name_ko": "두개의화석",
+  "category": "Other",
+  "desc_en": "Can be revived into Cranidos.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sky Plate",
+  "name_ko": "푸른하늘플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Flying-type attacks have 1.2x power. Judgment is Flying type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Slowbronite",
+  "name_ko": "야도란나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Slowbro, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Smooth Rock",
+  "name_ko": "보송보송바위",
+  "category": "Other",
+  "desc_en": "Holder's use of Sandstorm lasts 8 turns instead of 5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Snorlium Z",
+  "name_ko": "잠만보Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Snowball",
+  "name_ko": "눈덩이",
+  "category": "Other",
+  "desc_en": "Raises holder's Attack by 1 if hit by an Ice-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Soft Sand",
+  "name_ko": "부드러운모래",
+  "category": "Other",
+  "desc_en": "Holder's Ground-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Solganium Z",
+  "name_ko": "솔가레오Z",
+  "category": "Z-Crystal",
+  "desc_en": "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Soul Dew",
+  "name_ko": "마음의물방울",
+  "category": "Other",
+  "desc_en": "If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Spell Tag",
+  "name_ko": "저주의부적",
+  "category": "Other",
+  "desc_en": "Holder's Ghost-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Spelon Berry",
+  "name_ko": "메호키열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Splash Plate",
+  "name_ko": "물방울플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Water-type attacks have 1.2x power. Judgment is Water type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Spooky Plate",
+  "name_ko": "원령플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sport Ball",
+  "name_ko": "콤페볼",
+  "category": "Other",
+  "desc_en": "A special Poke Ball for the Bug-Catching Contest.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Star Sweet",
+  "name_ko": "스타사탕공예",
+  "category": "Other",
+  "desc_en": "Evolves Milcery into Alcremie when held and spun around.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Staraptite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Starf Berry",
+  "name_ko": "스타열매",
+  "category": "Berry",
+  "desc_en": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Starminite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Starmie, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Steel Gem",
+  "name_ko": "강철주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Steel-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Steel Memory",
+  "name_ko": "스틸메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Steel type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Steelium Z",
+  "name_ko": "강철Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Steel move, this item allows it to use a Steel Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Steelixite",
+  "name_ko": "강철톤나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Steelix, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Stick",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "If held by a Farfetch’d, its critical hit ratio is raised by 2 stages.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sticky Barb",
+  "name_ko": "끈적끈적바늘",
+  "category": "Other",
+  "desc_en": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Stone Plate",
+  "name_ko": "암석플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Rock-type attacks have 1.2x power. Judgment is Rock type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Strange Ball",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Placeholder if caught in Poke Ball not in current game.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Strawberry Sweet",
+  "name_ko": "딸기사탕공예",
+  "category": "Other",
+  "desc_en": "Evolves Milcery into Alcremie when held and spun around.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sun Stone",
+  "name_ko": "태양의돌",
+  "category": "Other",
+  "desc_en": "Evolves Gloom into Bellossom, Sunkern into Sunflora, Cottonee into Whimsicott, Petilil into Lilligant, and Helioptile into Heliolisk when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Swampertite",
+  "name_ko": "대짱이나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Swampert, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Sweet Apple",
+  "name_ko": "달콤한사과",
+  "category": "Other",
+  "desc_en": "Evolves Applin into Appletun when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Syrupy Apple",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Evolves Applin into Dipplin when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR00",
+  "name_ko": "기술레코드00",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Swords Dance. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR01",
+  "name_ko": "기술레코드01",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Body Slam. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR02",
+  "name_ko": "기술레코드02",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Flamethrower. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR03",
+  "name_ko": "기술레코드03",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Hydro Pump. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR04",
+  "name_ko": "기술레코드04",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Surf. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR05",
+  "name_ko": "기술레코드05",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Ice Beam. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR06",
+  "name_ko": "기술레코드06",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Blizzard. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR07",
+  "name_ko": "기술레코드07",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Low Kick. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR08",
+  "name_ko": "기술레코드08",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Thunderbolt. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR09",
+  "name_ko": "기술레코드09",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Thunder. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR10",
+  "name_ko": "기술레코드10",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Earthquake. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR11",
+  "name_ko": "기술레코드11",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Psychic. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR12",
+  "name_ko": "기술레코드12",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Agility. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR13",
+  "name_ko": "기술레코드13",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Focus Energy. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR14",
+  "name_ko": "기술레코드14",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Metronome. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR15",
+  "name_ko": "기술레코드15",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Fire Blast. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR16",
+  "name_ko": "기술레코드16",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Waterfall. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR17",
+  "name_ko": "기술레코드17",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Amnesia. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR18",
+  "name_ko": "기술레코드18",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Leech Life. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR19",
+  "name_ko": "기술레코드19",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Tri Attack. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR20",
+  "name_ko": "기술레코드20",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Substitute. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR21",
+  "name_ko": "기술레코드21",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Reversal. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR22",
+  "name_ko": "기술레코드22",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Sludge Bomb. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR23",
+  "name_ko": "기술레코드23",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Spikes. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR24",
+  "name_ko": "기술레코드24",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Outrage. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR25",
+  "name_ko": "기술레코드25",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Psyshock. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR26",
+  "name_ko": "기술레코드26",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Endure. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR27",
+  "name_ko": "기술레코드27",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Sleep Talk. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR28",
+  "name_ko": "기술레코드28",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Megahorn. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR29",
+  "name_ko": "기술레코드29",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Baton Pass. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR30",
+  "name_ko": "기술레코드30",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Encore. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR31",
+  "name_ko": "기술레코드31",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Iron Tail. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR32",
+  "name_ko": "기술레코드32",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Crunch. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR33",
+  "name_ko": "기술레코드33",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Shadow Ball. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR34",
+  "name_ko": "기술레코드34",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Future Sight. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR35",
+  "name_ko": "기술레코드35",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Uproar. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR36",
+  "name_ko": "기술레코드36",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Heat Wave. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR37",
+  "name_ko": "기술레코드37",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Taunt. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR38",
+  "name_ko": "기술레코드38",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Trick. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR39",
+  "name_ko": "기술레코드39",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Superpower. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR40",
+  "name_ko": "기술레코드40",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Skill Swap. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR41",
+  "name_ko": "기술레코드41",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Blaze Kick. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR42",
+  "name_ko": "기술레코드42",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Hyper Voice. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR43",
+  "name_ko": "기술레코드43",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Overheat. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR44",
+  "name_ko": "기술레코드44",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Cosmic Power. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR45",
+  "name_ko": "기술레코드45",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Muddy Water. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR46",
+  "name_ko": "기술레코드46",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Iron Defense. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR47",
+  "name_ko": "기술레코드47",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Dragon Claw. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR48",
+  "name_ko": "기술레코드48",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Bulk Up. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR49",
+  "name_ko": "기술레코드49",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Calm Mind. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR50",
+  "name_ko": "기술레코드50",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Leaf Blade. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR51",
+  "name_ko": "기술레코드51",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Dragon Dance. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR52",
+  "name_ko": "기술레코드52",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Gyro Ball. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR53",
+  "name_ko": "기술레코드53",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Close Combat. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR54",
+  "name_ko": "기술레코드54",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Toxic Spikes. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR55",
+  "name_ko": "기술레코드55",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Flare Blitz. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR56",
+  "name_ko": "기술레코드56",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Aura Sphere. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR57",
+  "name_ko": "기술레코드57",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Poison Jab. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR58",
+  "name_ko": "기술레코드58",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Dark Pulse. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR59",
+  "name_ko": "기술레코드59",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Seed Bomb. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR60",
+  "name_ko": "기술레코드60",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move X-Scissor. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR61",
+  "name_ko": "기술레코드61",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Bug Buzz. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR62",
+  "name_ko": "기술레코드62",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Dragon Pulse. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR63",
+  "name_ko": "기술레코드63",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Power Gem. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR64",
+  "name_ko": "기술레코드64",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Focus Blast. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR65",
+  "name_ko": "기술레코드65",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Energy Ball. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR66",
+  "name_ko": "기술레코드66",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Brave Bird. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR67",
+  "name_ko": "기술레코드67",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Earth Power. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR68",
+  "name_ko": "기술레코드68",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Nasty Plot. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR69",
+  "name_ko": "기술레코드69",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Zen Headbutt. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR70",
+  "name_ko": "기술레코드70",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Flash Cannon. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR71",
+  "name_ko": "기술레코드71",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Leaf Storm. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR72",
+  "name_ko": "기술레코드72",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Power Whip. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR73",
+  "name_ko": "기술레코드73",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Gunk Shot. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR74",
+  "name_ko": "기술레코드74",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Iron Head. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR75",
+  "name_ko": "기술레코드75",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Stone Edge. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR76",
+  "name_ko": "기술레코드76",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Stealth Rock. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR77",
+  "name_ko": "기술레코드77",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Grass Knot. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR78",
+  "name_ko": "기술레코드78",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Sludge Wave. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR79",
+  "name_ko": "기술레코드79",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Heavy Slam. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR80",
+  "name_ko": "기술레코드80",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Electro Ball. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR81",
+  "name_ko": "기술레코드81",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Foul Play. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR82",
+  "name_ko": "기술레코드82",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Stored Power. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR83",
+  "name_ko": "기술레코드83",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Ally Switch. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR84",
+  "name_ko": "기술레코드84",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Scald. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR85",
+  "name_ko": "기술레코드85",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Work Up. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR86",
+  "name_ko": "기술레코드86",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Wild Charge. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR87",
+  "name_ko": "기술레코드87",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Drill Run. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR88",
+  "name_ko": "기술레코드88",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Heat Crash. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR89",
+  "name_ko": "기술레코드89",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Hurricane. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR90",
+  "name_ko": "기술레코드90",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Play Rough. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR91",
+  "name_ko": "기술레코드91",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Venom Drench. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR92",
+  "name_ko": "기술레코드92",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Dazzling Gleam. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR93",
+  "name_ko": "기술레코드93",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Darkest Lariat. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR94",
+  "name_ko": "기술레코드94",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move High Horsepower. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR95",
+  "name_ko": "기술레코드95",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Throat Chop. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR96",
+  "name_ko": "기술레코드96",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Pollen Puff. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR97",
+  "name_ko": "기술레코드97",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Psychic Fangs. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR98",
+  "name_ko": "기술레코드98",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Liquidation. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "TR99",
+  "name_ko": "기술레코드99",
+  "category": "Other",
+  "desc_en": "Teaches certain Pokemon the move Body Press. One use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Tamato Berry",
+  "name_ko": "토망열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Tanga Berry",
+  "name_ko": "리체열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Bug-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Tapunium Z",
+  "name_ko": "카푸Z",
+  "category": "Z-Crystal",
+  "desc_en": "If held by a Tapu with Nature's Madness, it can use Guardian of Alola.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Tart Apple",
+  "name_ko": "새콤한사과",
+  "category": "Other",
+  "desc_en": "Evolves Applin into Flapple when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Tatsugirinite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Terrain Extender",
+  "name_ko": "그라운드코트",
+  "category": "Other",
+  "desc_en": "Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Thick Club",
+  "name_ko": "굵은뼈",
+  "category": "Other",
+  "desc_en": "If held by a Cubone or a Marowak, its Attack is doubled.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Throat Spray",
+  "name_ko": "목스프레이",
+  "category": "Other",
+  "desc_en": "Raises holder's Special Attack by 1 stage after it uses a sound move. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Thunder Stone",
+  "name_ko": "천둥의돌",
+  "category": "Other",
+  "desc_en": "Evolves Pikachu into Raichu or Alolan Raichu, Eevee into Jolteon, Eelektrik into Eelektross, and Charjabug into Vikavolt when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Timer Ball",
+  "name_ko": "타이마볼",
+  "category": "Other",
+  "desc_en": "A Poke Ball that becomes better the more turns there are in a battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Toxic Orb",
+  "name_ko": "맹독구슬",
+  "category": "Other",
+  "desc_en": "At the end of every turn, this item attempts to badly poison the holder.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Toxic Plate",
+  "name_ko": "맹독플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Poison-type attacks have 1.2x power. Judgment is Poison type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Twisted Spoon",
+  "name_ko": "휘어진스푼",
+  "category": "Other",
+  "desc_en": "Holder's Psychic-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Tyranitarite",
+  "name_ko": "마기라스나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Tyranitar, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ultra Ball",
+  "name_ko": "하이퍼볼",
+  "category": "Other",
+  "desc_en": "An ultra-performance Ball that provides a higher catch rate than a Great Ball.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Ultranecrozium Z",
+  "name_ko": "울트라네크로Z",
+  "category": "Z-Crystal",
+  "desc_en": "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Unremarkable Teacup",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Evolves Poltchageist into Sinistcha when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Up-Grade",
+  "name_ko": "업그레이드",
+  "category": "Other",
+  "desc_en": "Evolves Porygon into Porygon2 when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Utility Umbrella",
+  "name_ko": "만능우산",
+  "category": "Other",
+  "desc_en": "The holder ignores rain- and sun-based effects, including those of its Ability unless it is Orichalcum Pulse or Protosynthesis. Damage and accuracy calculations from attacks used by the holder are affected by rain and sun, but not attacks used against the holder.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Venusaurite",
+  "name_ko": "이상해꽃나이트",
+  "category": "Mega Stone",
+  "desc_en": "If held by a Venusaur, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Victreebelite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Victreebel, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Vile Vial",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "If held by a Venomicon, its Poison- and Flying-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Wacan Berry",
+  "name_ko": "초나열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Electric-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Water Gem",
+  "name_ko": "물주얼",
+  "category": "Gem",
+  "desc_en": "Holder's first successful Water-type attack will have 1.3x power. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Water Memory",
+  "name_ko": "워터메모리",
+  "category": "Memory",
+  "desc_en": "Holder's Multi-Attack is Water type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Water Stone",
+  "name_ko": "물의돌",
+  "category": "Other",
+  "desc_en": "Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Eevee into Vaporeon, Lombre into Ludicolo, and Panpour into Simipour when used.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Waterium Z",
+  "name_ko": "물Z",
+  "category": "Z-Crystal",
+  "desc_en": "If holder has a Water move, this item allows it to use a Water Z-Move.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Watmel Berry",
+  "name_ko": "슈박열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Wave Incense",
+  "name_ko": "잔물결향로",
+  "category": "Other",
+  "desc_en": "Holder's Water-type attacks have 1.2x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Weakness Policy",
+  "name_ko": "약점보험",
+  "category": "Other",
+  "desc_en": "If holder is hit super effectively, raises Attack, Sp. Atk by 2 stages. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Wellspring Mask",
+  "name_ko": null,
+  "category": "Other",
+  "desc_en": "Ogerpon-Wellspring: 1.2x power attacks; Terastallize to gain Embody Aspect.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Wepear Berry",
+  "name_ko": "서배열매",
+  "category": "Berry",
+  "desc_en": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Whipped Dream",
+  "name_ko": "휘핑팝",
+  "category": "Other",
+  "desc_en": "Evolves Swirlix into Slurpuff when traded.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "White Herb",
+  "name_ko": "하양허브",
+  "category": "Other",
+  "desc_en": "Restores all lowered stat stages to 0 when one is less than 0. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Wide Lens",
+  "name_ko": "광각렌즈",
+  "category": "Other",
+  "desc_en": "The accuracy of attacks by the holder is 1.1x.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Wiki Berry",
+  "name_ko": "위키열매",
+  "category": "Berry",
+  "desc_en": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Wise Glasses",
+  "name_ko": "박식안경",
+  "category": "Other",
+  "desc_en": "Holder's special attacks have 1.1x power.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Yache Berry",
+  "name_ko": "플카열매",
+  "category": "Berry",
+  "desc_en": "Halves damage taken from a supereffective Ice-type attack. Single use.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Zap Plate",
+  "name_ko": "우뢰플레이트",
+  "category": "Plate",
+  "desc_en": "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Zeraorite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": null,
+  "champions_legal": true
+ },
+ {
+  "name_en": "Zoom Lens",
+  "name_ko": "포커스렌즈",
+  "category": "Other",
+  "desc_en": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
+  "champions_legal": true
+ },
+ {
+  "name_en": "Zygardite",
+  "name_ko": null,
+  "category": "Mega Stone",
+  "desc_en": "If held by a Zygarde in Complete Forme, this item allows it to Mega Evolve in battle.",
+  "champions_legal": true
+ }
+]

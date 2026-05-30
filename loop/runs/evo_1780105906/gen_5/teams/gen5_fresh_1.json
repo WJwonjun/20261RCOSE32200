@@ -1,0 +1,173 @@
+{
+  "name": "gen5_fresh_1",
+  "members": [
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 126,
+        "atk": 130,
+        "def": 97,
+        "spa": 1,
+        "spd": 0,
+        "spe": 73
+      },
+      "nature": "timid",
+      "moves": [
+        "tackle",
+        "dragon_claw",
+        "body_slam",
+        "earthquake"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 106,
+        "atk": 0,
+        "def": 14,
+        "spa": 108,
+        "spd": 117,
+        "spe": 161
+      },
+      "nature": "hardy",
+      "moves": [
+        "earthquake",
+        "thunderbolt",
+        "rest",
+        "tackle"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 94,
+        "atk": 5,
+        "def": 206,
+        "spa": 42,
+        "spd": 0,
+        "spe": 155
+      },
+      "nature": "modest",
+      "moves": [
+        "thunder_wave",
+        "quick_attack",
+        "toxic",
+        "ice_beam"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 84,
+        "def": 215,
+        "spa": 121,
+        "spd": 0,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "body_slam",
+        "earthquake",
+        "toxic",
+        "ice_beam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 226,
+        "atk": 20,
+        "def": 94,
+        "spa": 46,
+        "spd": 64,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "body_slam",
+        "dragon_claw",
+        "will_o_wisp",
+        "surf"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 37,
+        "atk": 49,
+        "def": 90,
+        "spa": 184,
+        "spd": 17,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "toxic",
+        "ice_beam",
+        "tackle",
+        "thunder_wave"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

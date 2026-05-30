@@ -1,0 +1,173 @@
+{
+  "name": "cross_5_0",
+  "members": [
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 127,
+        "atk": 159,
+        "def": 3,
+        "spa": 205,
+        "spd": 0,
+        "spe": 1
+      },
+      "nature": "jolly",
+      "moves": [
+        "crunch",
+        "body_slam",
+        "quick_attack",
+        "thunderbolt"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 120,
+        "def": 11,
+        "spa": 72,
+        "spd": 25,
+        "spe": 212
+      },
+      "nature": "hardy",
+      "moves": [
+        "body_slam",
+        "ice_beam",
+        "crunch",
+        "will_o_wisp"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 35,
+        "atk": 0,
+        "def": 130,
+        "spa": 59,
+        "spd": 20,
+        "spe": 193
+      },
+      "nature": "jolly",
+      "moves": [
+        "earthquake",
+        "dragon_claw",
+        "flamethrower",
+        "protect"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 28,
+        "atk": 243,
+        "def": 5,
+        "spa": 191,
+        "spd": 0,
+        "spe": 35
+      },
+      "nature": "hardy",
+      "moves": [
+        "flamethrower",
+        "dragon_claw",
+        "crunch",
+        "quick_attack"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 33,
+        "def": 83,
+        "spa": 247,
+        "spd": 82,
+        "spe": 46
+      },
+      "nature": "timid",
+      "moves": [
+        "will_o_wisp",
+        "crunch",
+        "ice_beam",
+        "toxic"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 1,
+        "atk": 28,
+        "def": 212,
+        "spa": 150,
+        "spd": 0,
+        "spe": 90
+      },
+      "nature": "bold",
+      "moves": [
+        "thunderbolt",
+        "surf",
+        "quick_attack",
+        "dragon_claw"
+      ],
+      "item": "none"
+    }
+  ]
+}

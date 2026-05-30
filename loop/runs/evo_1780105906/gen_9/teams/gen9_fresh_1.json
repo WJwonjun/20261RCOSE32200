@@ -1,0 +1,173 @@
+{
+  "name": "gen9_fresh_1",
+  "members": [
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 101,
+        "atk": 39,
+        "def": 227,
+        "spa": 0,
+        "spd": 6,
+        "spe": 26
+      },
+      "nature": "modest",
+      "moves": [
+        "crunch",
+        "toxic",
+        "dragon_claw",
+        "body_slam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 22,
+        "atk": 143,
+        "def": 137,
+        "spa": 0,
+        "spd": 124,
+        "spe": 79
+      },
+      "nature": "jolly",
+      "moves": [
+        "thunder_wave",
+        "body_slam",
+        "dragon_claw",
+        "flamethrower"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 55,
+        "atk": 107,
+        "def": 205,
+        "spa": 52,
+        "spd": 0,
+        "spe": 57
+      },
+      "nature": "jolly",
+      "moves": [
+        "body_slam",
+        "earthquake",
+        "flamethrower",
+        "quick_attack"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 97,
+        "atk": 118,
+        "def": 0,
+        "spa": 44,
+        "spd": 13,
+        "spe": 124
+      },
+      "nature": "modest",
+      "moves": [
+        "dragon_claw",
+        "body_slam",
+        "rest",
+        "crunch"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 140,
+        "atk": 166,
+        "def": 16,
+        "spa": 0,
+        "spd": 1,
+        "spe": 185
+      },
+      "nature": "calm",
+      "moves": [
+        "ice_beam",
+        "flamethrower",
+        "earthquake",
+        "crunch"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 141,
+        "atk": 202,
+        "def": 0,
+        "spa": 89,
+        "spd": 26,
+        "spe": 15
+      },
+      "nature": "bold",
+      "moves": [
+        "body_slam",
+        "surf",
+        "tackle",
+        "rest"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

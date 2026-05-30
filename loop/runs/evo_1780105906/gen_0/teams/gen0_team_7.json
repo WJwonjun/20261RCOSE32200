@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_7",
+  "members": [
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 113,
+        "atk": 89,
+        "def": 105,
+        "spa": 0,
+        "spd": 201,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "toxic",
+        "thunder_wave",
+        "will_o_wisp",
+        "body_slam"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 121,
+        "atk": 37,
+        "def": 234,
+        "spa": 46,
+        "spd": 26,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "toxic",
+        "protect",
+        "thunderbolt",
+        "dragon_claw"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 1,
+        "atk": 0,
+        "def": 12,
+        "spa": 9,
+        "spd": 230,
+        "spe": 213
+      },
+      "nature": "timid",
+      "moves": [
+        "will_o_wisp",
+        "thunderbolt",
+        "ice_beam",
+        "body_slam"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 115,
+        "atk": 5,
+        "def": 155,
+        "spa": 78,
+        "spd": 28,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "earthquake",
+        "flamethrower",
+        "surf",
+        "dragon_claw"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "machamp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 2,
+        "atk": 0,
+        "def": 81,
+        "spa": 185,
+        "spd": 1,
+        "spe": 236
+      },
+      "nature": "bold",
+      "moves": [
+        "earthquake",
+        "crunch",
+        "flamethrower",
+        "thunder_wave"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "rhydon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 194,
+        "def": 66,
+        "spa": 27,
+        "spd": 9,
+        "spe": 76
+      },
+      "nature": "adamant",
+      "moves": [
+        "thunder_wave",
+        "ice_beam",
+        "earthquake",
+        "tackle"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

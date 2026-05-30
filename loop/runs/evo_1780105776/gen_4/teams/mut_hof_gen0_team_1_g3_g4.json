@@ -1,0 +1,173 @@
+{
+  "name": "mut_hof_gen0_team_1_g3_g4",
+  "members": [
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 1,
+        "def": 14,
+        "spa": 101,
+        "spd": 226,
+        "spe": 164
+      },
+      "nature": "timid",
+      "moves": [
+        "tackle",
+        "earthquake",
+        "rest",
+        "toxic"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 46,
+        "def": 60,
+        "spa": 165,
+        "spd": 17,
+        "spe": 199
+      },
+      "nature": "calm",
+      "moves": [
+        "toxic",
+        "protect",
+        "dragon_claw",
+        "flamethrower"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 32,
+        "atk": 0,
+        "def": 119,
+        "spa": 70,
+        "spd": 152,
+        "spe": 135
+      },
+      "nature": "modest",
+      "moves": [
+        "thunderbolt",
+        "dragon_claw",
+        "surf",
+        "rest"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 40,
+        "def": 184,
+        "spa": 111,
+        "spd": 0,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "crunch",
+        "tackle",
+        "body_slam",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 138,
+        "atk": 39,
+        "def": 41,
+        "spa": 195,
+        "spd": 0,
+        "spe": 95
+      },
+      "nature": "hardy",
+      "moves": [
+        "rest",
+        "flamethrower",
+        "dragon_claw",
+        "protect"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "salamence",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 181,
+        "atk": 44,
+        "def": 101,
+        "spa": 182,
+        "spd": 0,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "crunch",
+        "toxic",
+        "body_slam",
+        "rest"
+      ],
+      "item": "none"
+    }
+  ]
+}

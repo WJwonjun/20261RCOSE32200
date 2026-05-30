@@ -1,0 +1,170 @@
+{
+  "name": "gen2_fresh_0",
+  "members": [
+    {
+      "species": "simisage",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 3,
+        "atk": 162,
+        "def": 0,
+        "spa": 36,
+        "spd": 189,
+        "spe": 17
+      },
+      "nature": "lax",
+      "moves": [
+        "fake_out",
+        "grassy_glide",
+        "taunt",
+        "trailblaze"
+      ],
+      "item": "protector"
+    },
+    {
+      "species": "spiritomb",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 184,
+        "atk": 36,
+        "def": 1,
+        "spa": 0,
+        "spd": 83,
+        "spe": 198
+      },
+      "nature": "modest",
+      "moves": [
+        "curse",
+        "thief",
+        "round",
+        "helping_hand"
+      ],
+      "item": "steel_memory"
+    },
+    {
+      "species": "drampa",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 106,
+        "atk": 69,
+        "def": 55,
+        "spa": 65,
+        "spd": 193,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "calm_mind",
+        "fire_blast",
+        "flamethrower",
+        "dragon_dance"
+      ],
+      "item": "tr12"
+    },
+    {
+      "species": "raichu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 153,
+        "def": 26,
+        "spa": 7,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "sassy",
+      "moves": [
+        "eerie_impulse",
+        "rest",
+        "thunder_punch",
+        "mega_kick"
+      ],
+      "item": "tr57"
+    },
+    {
+      "species": "emboar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 33,
+        "def": 97,
+        "spa": 136,
+        "spd": 44,
+        "spe": 180
+      },
+      "nature": "lax",
+      "moves": [
+        "high_horsepower",
+        "focus_punch",
+        "facade",
+        "hard_press"
+      ],
+      "item": "power_anklet"
+    },
+    {
+      "species": "alolan_raichu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 235,
+        "atk": 117,
+        "def": 4,
+        "spa": 4,
+        "spd": 0,
+        "spe": 111
+      },
+      "nature": "impish",
+      "moves": [
+        "pound"
+      ],
+      "item": "tr71"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_6",
+  "members": [
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 126,
+        "atk": 37,
+        "def": 62,
+        "spa": 102,
+        "spd": 167,
+        "spe": 0
+      },
+      "nature": "timid",
+      "moves": [
+        "thunder_wave",
+        "quick_attack",
+        "dragon_claw",
+        "thunderbolt"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 7,
+        "atk": 0,
+        "def": 217,
+        "spa": 29,
+        "spd": 234,
+        "spe": 4
+      },
+      "nature": "hardy",
+      "moves": [
+        "flamethrower",
+        "tackle",
+        "dragon_claw",
+        "thunderbolt"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 229,
+        "atk": 40,
+        "def": 0,
+        "spa": 14,
+        "spd": 30,
+        "spe": 190
+      },
+      "nature": "bold",
+      "moves": [
+        "dragon_claw",
+        "thunder_wave",
+        "body_slam",
+        "protect"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 73,
+        "atk": 42,
+        "def": 69,
+        "spa": 0,
+        "spd": 60,
+        "spe": 182
+      },
+      "nature": "jolly",
+      "moves": [
+        "ice_beam",
+        "dragon_claw",
+        "earthquake",
+        "body_slam"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 138,
+        "atk": 53,
+        "def": 104,
+        "spa": 0,
+        "spd": 119,
+        "spe": 84
+      },
+      "nature": "modest",
+      "moves": [
+        "toxic",
+        "protect",
+        "thunderbolt",
+        "surf"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 3,
+        "atk": 76,
+        "def": 241,
+        "spa": 96,
+        "spd": 90,
+        "spe": 0
+      },
+      "nature": "hardy",
+      "moves": [
+        "tackle",
+        "earthquake",
+        "will_o_wisp",
+        "dragon_claw"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

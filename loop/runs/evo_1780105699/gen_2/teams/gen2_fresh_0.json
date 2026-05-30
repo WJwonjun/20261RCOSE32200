@@ -1,0 +1,173 @@
+{
+  "name": "gen2_fresh_0",
+  "members": [
+    {
+      "species": "gengar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 3,
+        "atk": 0,
+        "def": 16,
+        "spa": 221,
+        "spd": 169,
+        "spe": 1
+      },
+      "nature": "adamant",
+      "moves": [
+        "toxic",
+        "dragon_claw",
+        "surf",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 8,
+        "def": 14,
+        "spa": 107,
+        "spd": 189,
+        "spe": 134
+      },
+      "nature": "bold",
+      "moves": [
+        "toxic",
+        "dragon_claw",
+        "crunch",
+        "earthquake"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 6,
+        "def": 116,
+        "spa": 0,
+        "spd": 186,
+        "spe": 200
+      },
+      "nature": "bold",
+      "moves": [
+        "thunder_wave",
+        "rest",
+        "dragon_claw",
+        "toxic"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 113,
+        "def": 125,
+        "spa": 10,
+        "spd": 9,
+        "spe": 182
+      },
+      "nature": "calm",
+      "moves": [
+        "body_slam",
+        "protect",
+        "ice_beam",
+        "thunder_wave"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 154,
+        "def": 55,
+        "spa": 129,
+        "spd": 0,
+        "spe": 6
+      },
+      "nature": "modest",
+      "moves": [
+        "toxic",
+        "quick_attack",
+        "surf",
+        "thunderbolt"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 86,
+        "atk": 25,
+        "def": 105,
+        "spa": 58,
+        "spd": 211,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "dragon_claw",
+        "flamethrower",
+        "thunderbolt",
+        "body_slam"
+      ],
+      "item": "life_orb"
+    }
+  ]
+}

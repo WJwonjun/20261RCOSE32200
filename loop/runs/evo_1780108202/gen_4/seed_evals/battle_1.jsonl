@@ -1,0 +1,137 @@
+# mode: sidecar (socket=/tmp/pokemon_sidecar_evo_1780108202.sock) rulebook=rulebook/rulebook.md
+{"event":"battle_start","team_a":"Incineroar lead","team_b":"Garchomp lead"}
+{"event":"turn_start","turn":1}
+{"event":"move","pokemon":"Garchomp","move":"earthquake"}
+{"event":"damage","target":"Incineroar","damage":199,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Incineroar","in":"Dragonite"}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Garchomp","damage":50,"hp_remaining":133}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":195,"hp_b":133,"turn":1}
+{"event":"turn_start","turn":2}
+{"event":"move","pokemon":"Garchomp","move":"earthquake"}
+{"event":"damage","target":"Dragonite","damage":0,"hp_remaining":195}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Garchomp","damage":52,"hp_remaining":81}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":195,"hp_b":81,"turn":2}
+{"event":"turn_start","turn":3}
+{"event":"move","pokemon":"Garchomp","move":"earthquake"}
+{"event":"damage","target":"Dragonite","damage":0,"hp_remaining":195}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Garchomp","damage":53,"hp_remaining":28}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":195,"hp_b":28,"turn":3}
+{"event":"turn_start","turn":4}
+{"event":"move","pokemon":"Garchomp","move":"earthquake"}
+{"event":"damage","target":"Dragonite","damage":0,"hp_remaining":195}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Garchomp","damage":50,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Garchomp","in":"Talonflame"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":195,"hp_b":153,"turn":4}
+{"event":"turn_start","turn":5}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Dragonite","damage":101,"hp_remaining":94}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Talonflame","damage":33,"hp_remaining":120}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":94,"hp_b":120,"turn":5}
+{"event":"turn_start","turn":6}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Dragonite","damage":103,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Dragonite","in":"Altaria"}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"damage","target":"Talonflame","damage":84,"hp_remaining":36}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":158,"hp_b":36,"turn":6}
+{"event":"turn_start","turn":7}
+{"event":"move","pokemon":"Talonflame","move":"brave_bird"}
+{"event":"damage","target":"Altaria","damage":82,"hp_remaining":76}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"damage","target":"Talonflame","damage":86,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Talonflame","in":"Greninja"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":76,"hp_b":147,"turn":7}
+{"event":"turn_start","turn":8}
+{"event":"move","pokemon":"Greninja","move":"hydro_pump"}
+{"event":"miss","pokemon":"Greninja"}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"damage","target":"Greninja","damage":91,"hp_remaining":56}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":76,"hp_b":56,"turn":8}
+{"event":"turn_start","turn":9}
+{"event":"move","pokemon":"Greninja","move":"hydro_pump"}
+{"event":"damage","target":"Altaria","damage":49,"hp_remaining":27}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"damage","target":"Greninja","damage":94,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Greninja","in":"Mega Charizard X"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":27,"hp_b":153,"turn":9}
+{"event":"turn_start","turn":10}
+{"event":"move","pokemon":"Mega Charizard X","move":"dragon_dance"}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"miss","pokemon":"Altaria"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":27,"hp_b":153,"turn":10}
+{"event":"turn_start","turn":11}
+{"event":"move","pokemon":"Mega Charizard X","move":"dragon_dance"}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"damage","target":"Mega Charizard X","damage":60,"hp_remaining":93}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":27,"hp_b":93,"turn":11}
+{"event":"turn_start","turn":12}
+{"event":"move","pokemon":"Mega Charizard X","move":"dragon_dance"}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"miss","pokemon":"Altaria"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":27,"hp_b":93,"turn":12}
+{"event":"turn_start","turn":13}
+{"event":"move","pokemon":"Mega Charizard X","move":"dragon_dance"}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"damage","target":"Mega Charizard X","damage":61,"hp_remaining":32}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":27,"hp_b":32,"turn":13}
+{"event":"turn_start","turn":14}
+{"event":"move","pokemon":"Mega Charizard X","move":"dragon_dance"}
+{"event":"move","pokemon":"Altaria","move":"dragon_rush"}
+{"event":"damage","target":"Mega Charizard X","damage":108,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Mega Charizard X","in":"Gyarados"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":27,"hp_b":170,"turn":14}
+{"event":"turn_start","turn":15}
+{"event":"move","pokemon":"Gyarados","move":"waterfall"}
+{"event":"damage","target":"Altaria","damage":36,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Altaria","in":"Mega Heracross"}
+{"event":"move","pokemon":"Mega Heracross","move":"substitute"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":155,"hp_b":170,"turn":15}
+{"event":"turn_start","turn":16}
+{"event":"move","pokemon":"Gyarados","move":"waterfall"}
+{"event":"damage","target":"Mega Heracross","damage":61,"hp_remaining":94}
+{"event":"move","pokemon":"Mega Heracross","move":"circle_throw"}
+{"event":"damage","target":"Gyarados","damage":40,"hp_remaining":130}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":94,"hp_b":130,"turn":16}
+{"event":"turn_start","turn":17}
+{"event":"move","pokemon":"Gyarados","move":"waterfall"}
+{"event":"damage","target":"Mega Heracross","damage":58,"hp_remaining":36}
+{"event":"move","pokemon":"Mega Heracross","move":"circle_throw"}
+{"event":"damage","target":"Gyarados","damage":41,"hp_remaining":89}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":36,"hp_b":89,"turn":17}
+{"event":"turn_start","turn":18}
+{"event":"move","pokemon":"Gyarados","move":"waterfall"}
+{"event":"damage","target":"Mega Heracross","damage":58,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Mega Heracross","in":"Bellibolt"}
+{"event":"move","pokemon":"Bellibolt","move":"electric_terrain"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":191,"hp_b":89,"turn":18}
+{"event":"turn_start","turn":19}
+{"event":"move","pokemon":"Gyarados","move":"waterfall"}
+{"event":"damage","target":"Bellibolt","damage":81,"hp_remaining":110}
+{"event":"move","pokemon":"Bellibolt","move":"electric_terrain"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":110,"hp_b":89,"turn":19}
+{"event":"turn_start","turn":20}
+{"event":"move","pokemon":"Gyarados","move":"waterfall"}
+{"event":"damage","target":"Bellibolt","damage":78,"hp_remaining":32}
+{"event":"move","pokemon":"Bellibolt","move":"electric_terrain"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":32,"hp_b":89,"turn":20}
+{"event":"turn_start","turn":21}
+{"event":"move","pokemon":"Gyarados","move":"waterfall"}
+{"event":"damage","target":"Bellibolt","damage":78,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Bellibolt","in":"Mega Golurk"}
+{"event":"move","pokemon":"Mega Golurk","move":"iron_defense"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":166,"hp_b":89,"turn":21}
+{"event":"turn_start","turn":22}
+{"event":"move","pokemon":"Gyarados","move":"waterfall"}
+{"event":"damage","target":"Mega Golurk","damage":147,"hp_remaining":19}
+{"event":"move","pokemon":"Mega Golurk","move":"iron_defense"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":19,"hp_b":89,"turn":22}
+{"event":"turn_start","turn":23}
+{"event":"move","pokemon":"Gyarados","move":"waterfall"}
+{"event":"damage","target":"Mega Golurk","damage":152,"hp_remaining":0}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":0,"hp_b":89,"turn":23}
+{"event":"battle_end","winner":"B","team":"Garchomp side"}

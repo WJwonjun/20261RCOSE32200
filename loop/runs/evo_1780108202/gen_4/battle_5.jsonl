@@ -1,0 +1,133 @@
+# mode: sidecar (socket=/tmp/pokemon_sidecar_evo_1780108202.sock) rulebook=rulebook/rulebook.md
+{"event":"battle_start","team_a":"Kleavor lead","team_b":"Incineroar lead"}
+{"event":"turn_start","turn":1}
+{"event":"move","pokemon":"Kleavor","move":"rest"}
+{"event":"move","pokemon":"Incineroar","move":"flamethrower"}
+{"event":"damage","target":"Kleavor","damage":53,"hp_remaining":97}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":97,"hp_b":191,"turn":1}
+{"event":"turn_start","turn":2}
+{"event":"move","pokemon":"Kleavor","move":"rest"}
+{"event":"move","pokemon":"Incineroar","move":"flamethrower"}
+{"event":"damage","target":"Kleavor","damage":57,"hp_remaining":40}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":40,"hp_b":191,"turn":2}
+{"event":"turn_start","turn":3}
+{"event":"move","pokemon":"Kleavor","move":"rest"}
+{"event":"move","pokemon":"Incineroar","move":"flamethrower"}
+{"event":"damage","target":"Kleavor","damage":53,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Kleavor","in":"Mega Skarmory"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":171,"hp_b":191,"turn":3}
+{"event":"turn_start","turn":4}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Incineroar","damage":51,"hp_remaining":140}
+{"event":"move","pokemon":"Incineroar","move":"flamethrower"}
+{"event":"damage","target":"Mega Skarmory","damage":104,"hp_remaining":67}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":67,"hp_b":140,"turn":4}
+{"event":"turn_start","turn":5}
+{"event":"move","pokemon":"Mega Skarmory","move":"x_scissor"}
+{"event":"damage","target":"Incineroar","damage":55,"hp_remaining":85}
+{"event":"move","pokemon":"Incineroar","move":"flamethrower"}
+{"event":"damage","target":"Mega Skarmory","damage":92,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Mega Skarmory","in":"Serperior"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":150,"hp_b":85,"turn":5}
+{"event":"turn_start","turn":6}
+{"event":"move","pokemon":"Serperior","move":"snore"}
+{"event":"damage","target":"Incineroar","damage":17,"hp_remaining":68}
+{"event":"move","pokemon":"Incineroar","move":"flamethrower"}
+{"event":"damage","target":"Serperior","damage":103,"hp_remaining":47}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":47,"hp_b":68,"turn":6}
+{"event":"turn_start","turn":7}
+{"event":"move","pokemon":"Serperior","move":"snore"}
+{"event":"damage","target":"Incineroar","damage":16,"hp_remaining":52}
+{"event":"move","pokemon":"Incineroar","move":"flamethrower"}
+{"event":"damage","target":"Serperior","damage":95,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Serperior","in":"Mega Heracross"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":186,"hp_b":52,"turn":7}
+{"event":"turn_start","turn":8}
+{"event":"move","pokemon":"Mega Heracross","move":"bug_buzz"}
+{"event":"damage","target":"Incineroar","damage":32,"hp_remaining":20}
+{"event":"move","pokemon":"Incineroar","move":"flamethrower"}
+{"event":"damage","target":"Mega Heracross","damage":96,"hp_remaining":90}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":90,"hp_b":20,"turn":8}
+{"event":"turn_start","turn":9}
+{"event":"move","pokemon":"Mega Heracross","move":"bug_buzz"}
+{"event":"damage","target":"Incineroar","damage":29,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Incineroar","in":"Dragonite"}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Mega Heracross","damage":19,"hp_remaining":71}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":71,"hp_b":195,"turn":9}
+{"event":"turn_start","turn":10}
+{"event":"move","pokemon":"Mega Heracross","move":"bug_buzz"}
+{"event":"damage","target":"Dragonite","damage":14,"hp_remaining":181}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Mega Heracross","damage":19,"hp_remaining":52}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":52,"hp_b":181,"turn":10}
+{"event":"turn_start","turn":11}
+{"event":"move","pokemon":"Mega Heracross","move":"bug_buzz"}
+{"event":"damage","target":"Dragonite","damage":17,"hp_remaining":164}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Mega Heracross","damage":19,"hp_remaining":33}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":33,"hp_b":164,"turn":11}
+{"event":"turn_start","turn":12}
+{"event":"move","pokemon":"Mega Heracross","move":"bug_buzz"}
+{"event":"damage","target":"Dragonite","damage":15,"hp_remaining":149}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Mega Heracross","damage":19,"hp_remaining":14}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":14,"hp_b":149,"turn":12}
+{"event":"turn_start","turn":13}
+{"event":"move","pokemon":"Mega Heracross","move":"bug_buzz"}
+{"event":"damage","target":"Dragonite","damage":14,"hp_remaining":135}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Mega Heracross","damage":18,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Mega Heracross","in":"Dragapult"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":179,"hp_b":135,"turn":13}
+{"event":"turn_start","turn":14}
+{"event":"move","pokemon":"Dragapult","move":"hyper_beam"}
+{"event":"miss","pokemon":"Dragapult"}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Dragapult","damage":0,"hp_remaining":179}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":179,"hp_b":135,"turn":14}
+{"event":"turn_start","turn":15}
+{"event":"move","pokemon":"Dragapult","move":"hyper_beam"}
+{"event":"damage","target":"Dragonite","damage":59,"hp_remaining":76}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Dragapult","damage":0,"hp_remaining":179}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":179,"hp_b":76,"turn":15}
+{"event":"turn_start","turn":16}
+{"event":"move","pokemon":"Dragapult","move":"hyper_beam"}
+{"event":"damage","target":"Dragonite","damage":54,"hp_remaining":22}
+{"event":"move","pokemon":"Dragonite","move":"body_press"}
+{"event":"damage","target":"Dragapult","damage":0,"hp_remaining":179}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":179,"hp_b":22,"turn":16}
+{"event":"turn_start","turn":17}
+{"event":"move","pokemon":"Dragapult","move":"hyper_beam"}
+{"event":"damage","target":"Dragonite","damage":56,"hp_remaining":0}
+{"event":"force_switch","side":"B","out":"Dragonite","in":"Altaria"}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"damage","target":"Dragapult","damage":78,"hp_remaining":101}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":101,"hp_b":158,"turn":17}
+{"event":"turn_start","turn":18}
+{"event":"move","pokemon":"Dragapult","move":"hyper_beam"}
+{"event":"damage","target":"Altaria","damage":66,"hp_remaining":92}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"damage","target":"Dragapult","damage":83,"hp_remaining":18}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":18,"hp_b":92,"turn":18}
+{"event":"turn_start","turn":19}
+{"event":"move","pokemon":"Dragapult","move":"hyper_beam"}
+{"event":"damage","target":"Altaria","damage":61,"hp_remaining":31}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"damage","target":"Dragapult","damage":75,"hp_remaining":0}
+{"event":"force_switch","side":"A","out":"Dragapult","in":"Rotom"}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":138,"hp_b":31,"turn":19}
+{"event":"turn_start","turn":20}
+{"event":"move","pokemon":"Rotom","move":"electro_ball"}
+{"event":"damage","target":"Altaria","damage":0,"hp_remaining":31}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"damage","target":"Rotom","damage":83,"hp_remaining":55}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":55,"hp_b":31,"turn":20}
+{"event":"turn_start","turn":21}
+{"event":"move","pokemon":"Rotom","move":"electro_ball"}
+{"event":"damage","target":"Altaria","damage":0,"hp_remaining":31}
+{"event":"move","pokemon":"Altaria","move":"giga_impact"}
+{"event":"damage","target":"Rotom","damage":77,"hp_remaining":0}
+{"action_source_a":"sidecar","action_source_b":"sidecar","event":"turn_end","hp_a":0,"hp_b":31,"turn":21}
+{"event":"battle_end","winner":"B","team":"Incineroar side"}

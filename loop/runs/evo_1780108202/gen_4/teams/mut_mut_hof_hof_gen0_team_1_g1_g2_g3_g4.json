@@ -1,0 +1,170 @@
+{
+  "name": "mut_mut_hof_hof_gen0_team_1_g1_g2_g3_g4",
+  "members": [
+    {
+      "species": "hisuian_zoroark",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 86,
+        "def": 159,
+        "spa": 43,
+        "spd": 36,
+        "spe": 168
+      },
+      "nature": "serious",
+      "moves": [
+        "pound"
+      ],
+      "item": "terrain_extender"
+    },
+    {
+      "species": "mega_skarmory",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "atk": 141,
+        "def": 110,
+        "spa": 0,
+        "spd": 1,
+        "spe": 0
+      },
+      "nature": "brave",
+      "moves": [
+        "agility",
+        "swords_dance",
+        "rest",
+        "snore"
+      ],
+      "item": "scolipite"
+    },
+    {
+      "species": "serperior",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 244,
+        "def": 32,
+        "spa": 33,
+        "spd": 0,
+        "spe": 184
+      },
+      "nature": "calm",
+      "moves": [
+        "sleep_talk",
+        "petal_blizzard",
+        "swords_dance",
+        "giga_impact"
+      ],
+      "item": "psychic_gem"
+    },
+    {
+      "species": "appletun",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 115,
+        "atk": 68,
+        "def": 0,
+        "spa": 31,
+        "spd": 63,
+        "spe": 119
+      },
+      "nature": "modest",
+      "moves": [
+        "sucker_punch",
+        "gyro_ball",
+        "sunny_day",
+        "helping_hand"
+      ],
+      "item": "fairy_gem"
+    },
+    {
+      "species": "leafeon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 17,
+        "atk": 136,
+        "def": 0,
+        "spa": 124,
+        "spd": 21,
+        "spe": 187
+      },
+      "nature": "calm",
+      "moves": [
+        "bite",
+        "focus_energy",
+        "leaf_storm",
+        "alluring_voice"
+      ],
+      "item": "rindo_berry"
+    },
+    {
+      "species": "rotom",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 102,
+        "atk": 182,
+        "def": 79,
+        "spa": 95,
+        "spd": 0,
+        "spe": 28
+      },
+      "nature": "gentle",
+      "moves": [
+        "electro_ball",
+        "overheat",
+        "discharge",
+        "thunder"
+      ],
+      "item": "masterpiece_teacup"
+    }
+  ]
+}

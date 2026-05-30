@@ -1,0 +1,173 @@
+{
+  "name": "gen3_fresh_1",
+  "members": [
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 171,
+        "def": 0,
+        "spa": 107,
+        "spd": 227,
+        "spe": 1
+      },
+      "nature": "timid",
+      "moves": [
+        "quick_attack",
+        "thunder_wave",
+        "earthquake",
+        "ice_beam"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 166,
+        "atk": 106,
+        "def": 85,
+        "spa": 13,
+        "spd": 2,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "body_slam",
+        "rest",
+        "dragon_claw",
+        "thunder_wave"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 54,
+        "atk": 184,
+        "def": 161,
+        "spa": 0,
+        "spd": 15,
+        "spe": 88
+      },
+      "nature": "timid",
+      "moves": [
+        "tackle",
+        "thunder_wave",
+        "protect",
+        "body_slam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "salamence",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 194,
+        "spa": 37,
+        "spd": 166,
+        "spe": 14
+      },
+      "nature": "modest",
+      "moves": [
+        "flamethrower",
+        "body_slam",
+        "protect",
+        "dragon_claw"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 116,
+        "atk": 15,
+        "def": 0,
+        "spa": 132,
+        "spd": 172,
+        "spe": 15
+      },
+      "nature": "adamant",
+      "moves": [
+        "protect",
+        "flamethrower",
+        "will_o_wisp",
+        "rest"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 95,
+        "atk": 158,
+        "def": 47,
+        "spa": 116,
+        "spd": 0,
+        "spe": 74
+      },
+      "nature": "bold",
+      "moves": [
+        "thunder_wave",
+        "crunch",
+        "earthquake",
+        "body_slam"
+      ],
+      "item": "none"
+    }
+  ]
+}

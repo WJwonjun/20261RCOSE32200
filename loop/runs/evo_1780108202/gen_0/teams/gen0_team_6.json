@@ -1,0 +1,170 @@
+{
+  "name": "gen0_team_6",
+  "members": [
+    {
+      "species": "heracross",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 5,
+        "def": 197,
+        "spa": 0,
+        "spd": 231,
+        "spe": 74
+      },
+      "nature": "relaxed",
+      "moves": [
+        "bulldoze",
+        "snore",
+        "smart_strike",
+        "reversal"
+      ],
+      "item": "tr36"
+    },
+    {
+      "species": "mega_tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 111,
+        "atk": 7,
+        "def": 69,
+        "spa": 0,
+        "spd": 124,
+        "spe": 99
+      },
+      "nature": "mild",
+      "moves": [
+        "snarl",
+        "knock_off",
+        "roar",
+        "aerial_ace"
+      ],
+      "item": "normalium_z"
+    },
+    {
+      "species": "lucario",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 221,
+        "def": 34,
+        "spa": 6,
+        "spd": 118,
+        "spe": 46
+      },
+      "nature": "careful",
+      "moves": [
+        "iron_tail",
+        "payback",
+        "dig",
+        "rest"
+      ],
+      "item": "terrain_extender"
+    },
+    {
+      "species": "hisuian_goodra",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 194,
+        "atk": 24,
+        "def": 0,
+        "spa": 17,
+        "spd": 48,
+        "spe": 225
+      },
+      "nature": "jolly",
+      "moves": [
+        "pound"
+      ],
+      "item": "safety_goggles"
+    },
+    {
+      "species": "pelipper",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 48,
+        "def": 0,
+        "spa": 199,
+        "spd": 5,
+        "spe": 245
+      },
+      "nature": "adamant",
+      "moves": [
+        "muddy_water",
+        "giga_impact",
+        "aqua_ring",
+        "rest"
+      ],
+      "item": "toxic_plate"
+    },
+    {
+      "species": "luxray",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 94,
+        "atk": 0,
+        "def": 65,
+        "spa": 10,
+        "spd": 179,
+        "spe": 119
+      },
+      "nature": "careful",
+      "moves": [
+        "facade",
+        "electro_ball",
+        "baby_doll_eyes",
+        "substitute"
+      ],
+      "item": "lopunnite"
+    }
+  ]
+}

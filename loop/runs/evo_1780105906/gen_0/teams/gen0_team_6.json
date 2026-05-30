@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_6",
+  "members": [
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 46,
+        "atk": 97,
+        "def": 240,
+        "spa": 0,
+        "spd": 19,
+        "spe": 35
+      },
+      "nature": "jolly",
+      "moves": [
+        "ice_beam",
+        "thunder_wave",
+        "surf",
+        "protect"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 17,
+        "atk": 229,
+        "def": 210,
+        "spa": 6,
+        "spd": 29,
+        "spe": 0
+      },
+      "nature": "timid",
+      "moves": [
+        "quick_attack",
+        "toxic",
+        "will_o_wisp",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 79,
+        "atk": 0,
+        "def": 28,
+        "spa": 202,
+        "spd": 86,
+        "spe": 60
+      },
+      "nature": "jolly",
+      "moves": [
+        "dragon_claw",
+        "tackle",
+        "thunderbolt",
+        "crunch"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "machamp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 37,
+        "atk": 20,
+        "def": 18,
+        "spa": 74,
+        "spd": 121,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "will_o_wisp",
+        "body_slam",
+        "flamethrower",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 49,
+        "def": 127,
+        "spa": 10,
+        "spd": 251,
+        "spe": 0
+      },
+      "nature": "calm",
+      "moves": [
+        "will_o_wisp",
+        "protect",
+        "rest",
+        "tackle"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 74,
+        "def": 151,
+        "spa": 25,
+        "spd": 91,
+        "spe": 113
+      },
+      "nature": "bold",
+      "moves": [
+        "body_slam",
+        "surf",
+        "tackle",
+        "earthquake"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

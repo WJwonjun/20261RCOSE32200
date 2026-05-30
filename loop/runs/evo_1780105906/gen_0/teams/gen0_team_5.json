@@ -1,0 +1,173 @@
+{
+  "name": "gen0_team_5",
+  "members": [
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 196,
+        "atk": 5,
+        "def": 3,
+        "spa": 205,
+        "spd": 0,
+        "spe": 80
+      },
+      "nature": "hardy",
+      "moves": [
+        "quick_attack",
+        "thunder_wave",
+        "ice_beam",
+        "toxic"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 13,
+        "atk": 194,
+        "def": 171,
+        "spa": 23,
+        "spd": 0,
+        "spe": 97
+      },
+      "nature": "jolly",
+      "moves": [
+        "thunder_wave",
+        "crunch",
+        "earthquake",
+        "body_slam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 5,
+        "atk": 238,
+        "def": 47,
+        "spa": 52,
+        "spd": 0,
+        "spe": 27
+      },
+      "nature": "modest",
+      "moves": [
+        "tackle",
+        "earthquake",
+        "crunch",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 220,
+        "atk": 142,
+        "def": 0,
+        "spa": 46,
+        "spd": 78,
+        "spe": 19
+      },
+      "nature": "modest",
+      "moves": [
+        "quick_attack",
+        "body_slam",
+        "earthquake",
+        "tackle"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 54,
+        "atk": 14,
+        "def": 233,
+        "spa": 0,
+        "spd": 118,
+        "spe": 83
+      },
+      "nature": "timid",
+      "moves": [
+        "tackle",
+        "thunder_wave",
+        "thunderbolt",
+        "body_slam"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "rhydon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 17,
+        "def": 24,
+        "spa": 235,
+        "spd": 204,
+        "spe": 4
+      },
+      "nature": "hardy",
+      "moves": [
+        "rest",
+        "ice_beam",
+        "quick_attack",
+        "thunderbolt"
+      ],
+      "item": "none"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "gen3_fresh_0",
+  "members": [
+    {
+      "species": "mega_alakazam",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 79,
+        "def": 65,
+        "spa": 226,
+        "spd": 10,
+        "spe": 80
+      },
+      "nature": "brave",
+      "moves": [
+        "role_play",
+        "expanding_force",
+        "taunt",
+        "encore"
+      ],
+      "item": "tr27"
+    },
+    {
+      "species": "pangoro",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 94,
+        "atk": 31,
+        "def": 0,
+        "spa": 69,
+        "spd": 204,
+        "spe": 55
+      },
+      "nature": "bold",
+      "moves": [
+        "quash",
+        "sunny_day",
+        "shadow_claw",
+        "headlong_rush"
+      ],
+      "item": "haban_berry"
+    },
+    {
+      "species": "mega_greninja",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 205,
+        "atk": 21,
+        "def": 54,
+        "spa": 5,
+        "spd": 186,
+        "spe": 0
+      },
+      "nature": "gentle",
+      "moves": [
+        "surf",
+        "toxic_spikes",
+        "spikes",
+        "skitter_smack"
+      ],
+      "item": "tr67"
+    },
+    {
+      "species": "sharpedo",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 10,
+        "atk": 154,
+        "def": 0,
+        "spa": 78,
+        "spd": 109,
+        "spe": 114
+      },
+      "nature": "relaxed",
+      "moves": [
+        "icy_wind",
+        "round",
+        "uproar",
+        "close_combat"
+      ],
+      "item": "nest_ball"
+    },
+    {
+      "species": "meowscarada",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 1,
+        "atk": 131,
+        "def": 0,
+        "spa": 93,
+        "spd": 20,
+        "spe": 205
+      },
+      "nature": "mild",
+      "moves": [
+        "throat_chop",
+        "rest",
+        "thunder_punch",
+        "bite"
+      ],
+      "item": "tr04"
+    },
+    {
+      "species": "scovillain",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 9,
+        "def": 77,
+        "spa": 145,
+        "spd": 4,
+        "spe": 243
+      },
+      "nature": "bold",
+      "moves": [
+        "fire_blast",
+        "sunny_day",
+        "thunder_fang",
+        "rage_powder"
+      ],
+      "item": "excadrite"
+    }
+  ]
+}

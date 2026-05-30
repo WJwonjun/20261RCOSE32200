@@ -1,0 +1,173 @@
+{
+  "name": "cross_2_0",
+  "members": [
+    {
+      "species": "garchomp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 203,
+        "atk": 4,
+        "def": 0,
+        "spa": 8,
+        "spd": 218,
+        "spe": 33
+      },
+      "nature": "jolly",
+      "moves": [
+        "ice_beam",
+        "toxic",
+        "thunderbolt",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 197,
+        "def": 11,
+        "spa": 3,
+        "spd": 69,
+        "spe": 219
+      },
+      "nature": "hardy",
+      "moves": [
+        "rest",
+        "flamethrower",
+        "will_o_wisp",
+        "thunder_wave"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 39,
+        "atk": 46,
+        "def": 217,
+        "spa": 33,
+        "spd": 125,
+        "spe": 0
+      },
+      "nature": "modest",
+      "moves": [
+        "toxic",
+        "thunderbolt",
+        "quick_attack",
+        "crunch"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "snorlax",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 157,
+        "atk": 49,
+        "def": 0,
+        "spa": 106,
+        "spd": 11,
+        "spe": 84
+      },
+      "nature": "calm",
+      "moves": [
+        "dragon_claw",
+        "crunch",
+        "protect",
+        "tackle"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "blastoise",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 98,
+        "atk": 14,
+        "def": 217,
+        "spa": 9,
+        "spd": 0,
+        "spe": 108
+      },
+      "nature": "timid",
+      "moves": [
+        "will_o_wisp",
+        "surf",
+        "ice_beam",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 132,
+        "atk": 127,
+        "def": 79,
+        "spa": 18,
+        "spd": 26,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "surf",
+        "dragon_claw",
+        "tackle",
+        "body_slam"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

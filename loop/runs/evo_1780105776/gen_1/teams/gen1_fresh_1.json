@@ -1,0 +1,173 @@
+{
+  "name": "gen1_fresh_1",
+  "members": [
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 250,
+        "atk": 62,
+        "def": 0,
+        "spa": 120,
+        "spd": 17,
+        "spe": 58
+      },
+      "nature": "timid",
+      "moves": [
+        "thunder_wave",
+        "thunderbolt",
+        "body_slam",
+        "surf"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "charizard",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "spa": 201,
+        "spd": 239,
+        "spe": 64
+      },
+      "nature": "bold",
+      "moves": [
+        "surf",
+        "will_o_wisp",
+        "earthquake",
+        "quick_attack"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 88,
+        "atk": 24,
+        "def": 141,
+        "spa": 0,
+        "spd": 85,
+        "spe": 139
+      },
+      "nature": "bold",
+      "moves": [
+        "ice_beam",
+        "flamethrower",
+        "rest",
+        "quick_attack"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 180,
+        "atk": 3,
+        "def": 190,
+        "spa": 0,
+        "spd": 121,
+        "spe": 12
+      },
+      "nature": "modest",
+      "moves": [
+        "thunder_wave",
+        "toxic",
+        "earthquake",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "rhydon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 233,
+        "atk": 0,
+        "def": 58,
+        "spa": 25,
+        "spd": 0,
+        "spe": 134
+      },
+      "nature": "timid",
+      "moves": [
+        "body_slam",
+        "dragon_claw",
+        "rest",
+        "surf"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 166,
+        "atk": 20,
+        "def": 54,
+        "spa": 0,
+        "spd": 42,
+        "spe": 218
+      },
+      "nature": "modest",
+      "moves": [
+        "flamethrower",
+        "surf",
+        "will_o_wisp",
+        "body_slam"
+      ],
+      "item": "none"
+    }
+  ]
+}

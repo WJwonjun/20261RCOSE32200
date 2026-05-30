@@ -1,0 +1,173 @@
+{
+  "name": "gen4_fresh_1",
+  "members": [
+    {
+      "species": "starmie",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 76,
+        "atk": 71,
+        "def": 76,
+        "spa": 57,
+        "spd": 142,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "rest",
+        "protect",
+        "toxic",
+        "crunch"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "rhydon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 73,
+        "atk": 146,
+        "def": 69,
+        "spa": 0,
+        "spd": 31,
+        "spe": 173
+      },
+      "nature": "calm",
+      "moves": [
+        "dragon_claw",
+        "ice_beam",
+        "flamethrower",
+        "earthquake"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 68,
+        "atk": 54,
+        "def": 0,
+        "spa": 122,
+        "spd": 191,
+        "spe": 51
+      },
+      "nature": "jolly",
+      "moves": [
+        "will_o_wisp",
+        "rest",
+        "toxic",
+        "surf"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "machamp",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 67,
+        "atk": 14,
+        "def": 231,
+        "spa": 171,
+        "spd": 0,
+        "spe": 20
+      },
+      "nature": "modest",
+      "moves": [
+        "ice_beam",
+        "protect",
+        "flamethrower",
+        "rest"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "gyarados",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 3,
+        "atk": 7,
+        "def": 167,
+        "spa": 0,
+        "spd": 225,
+        "spe": 104
+      },
+      "nature": "jolly",
+      "moves": [
+        "earthquake",
+        "tackle",
+        "thunderbolt",
+        "will_o_wisp"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "dragonite",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 106,
+        "atk": 136,
+        "def": 9,
+        "spa": 189,
+        "spd": 44,
+        "spe": 0
+      },
+      "nature": "jolly",
+      "moves": [
+        "body_slam",
+        "earthquake",
+        "dragon_claw",
+        "ice_beam"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "name": "gen6_fresh_1",
+  "members": [
+    {
+      "species": "exeggutor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 101,
+        "atk": 2,
+        "def": 0,
+        "spa": 219,
+        "spd": 98,
+        "spe": 85
+      },
+      "nature": "hardy",
+      "moves": [
+        "body_slam",
+        "protect",
+        "crunch",
+        "flamethrower"
+      ],
+      "item": "life_orb"
+    },
+    {
+      "species": "jolteon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 58,
+        "atk": 50,
+        "def": 43,
+        "spa": 0,
+        "spd": 118,
+        "spe": 231
+      },
+      "nature": "modest",
+      "moves": [
+        "thunder_wave",
+        "thunderbolt",
+        "earthquake",
+        "flamethrower"
+      ],
+      "item": "none"
+    },
+    {
+      "species": "scizor",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 96,
+        "atk": 32,
+        "def": 73,
+        "spa": 198,
+        "spd": 0,
+        "spe": 87
+      },
+      "nature": "calm",
+      "moves": [
+        "surf",
+        "thunder_wave",
+        "crunch",
+        "body_slam"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "tyranitar",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 0,
+        "atk": 34,
+        "def": 4,
+        "spa": 89,
+        "spd": 214,
+        "spe": 165
+      },
+      "nature": "modest",
+      "moves": [
+        "thunderbolt",
+        "toxic",
+        "thunder_wave",
+        "quick_attack"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "arcanine",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 16,
+        "atk": 210,
+        "def": 94,
+        "spa": 26,
+        "spd": 0,
+        "spe": 150
+      },
+      "nature": "adamant",
+      "moves": [
+        "rest",
+        "will_o_wisp",
+        "thunderbolt",
+        "tackle"
+      ],
+      "item": "leftovers"
+    },
+    {
+      "species": "rhydon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 36,
+        "atk": 0,
+        "def": 117,
+        "spa": 94,
+        "spd": 41,
+        "spe": 214
+      },
+      "nature": "timid",
+      "moves": [
+        "rest",
+        "protect",
+        "ice_beam",
+        "thunder_wave"
+      ],
+      "item": "leftovers"
+    }
+  ]
+}
