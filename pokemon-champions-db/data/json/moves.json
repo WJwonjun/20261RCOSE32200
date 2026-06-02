@@ -1,19 +1,5 @@
 [
  {
-  "name_en": "-Champions Attackdex",
-  "name_ko": null,
-  "type_en": null,
-  "type_ko": null,
-  "category": null,
-  "power": null,
-  "accuracy": null,
-  "pp": null,
-  "priority": null,
-  "target": null,
-  "effect_en": null,
-  "champions_legal": true
- },
- {
   "name_en": "Absorb",
   "name_ko": "흡수",
   "type_en": "Grass",

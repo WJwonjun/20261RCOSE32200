@@ -59,15 +59,38 @@ def get_index() -> dict[str, str]:
     return pairs
 
 
+def _is_base_caption(cap: str) -> bool:
+    """True for the base form's move table ('Standard Moves'), False for alternate
+    forms ('Hisuian Form Standard Moves', 'Standard Moves - Male', etc.)."""
+    c = cap.strip()
+    if c == "Standard Moves":
+        return True
+    return c.startswith("Standard Moves") and "Form" not in c and " - " not in c
+
+
 def movepool(html: str) -> list[str]:
+    """Return ONLY the base form's movepool. A Serebii Champions page can contain
+    several 'Standard Moves' tables (one per form: regional, gender, Rotom, etc.);
+    unioning them would give the base form moves it cannot actually learn."""
     soup = BeautifulSoup(html, "lxml")
-    seen, moves = set(), []
-    for a in soup.find_all("a", href=ATK):
-        n = a.get_text(strip=True)
-        if n and n not in seen:
-            seen.add(n)
-            moves.append(n)
-    return moves
+    move_tables = []  # (caption, [move names])
+    for t in soup.find_all("table"):
+        names, seen = [], set()
+        for a in t.find_all("a", href=ATK):
+            n = a.get_text(strip=True)
+            if n and n not in seen:
+                seen.add(n)
+                names.append(n)
+        if names:
+            first_row = t.find("tr")
+            cap = first_row.get_text(" ", strip=True) if first_row else ""
+            move_tables.append((cap, names))
+    if not move_tables:
+        return []
+    for cap, names in move_tables:
+        if _is_base_caption(cap):
+            return names
+    return move_tables[0][1]  # gender-only pages (Meowstic/Basculegion): take first
 
 
 def main() -> int:

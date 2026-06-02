@@ -1,0 +1,198 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  POKEMON_CHAMPIONS_DB: ${{ github.workspace }}/pokemon-champions-db
+
+jobs:
+  core:
+    name: C++ core (build + ctest)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install build deps
+        run: sudo apt-get update && sudo apt-get install -y cmake ninja-build
+
+      - name: Cache CMake FetchContent
+        uses: actions/cache@v4
+        with:
+          path: build/_deps
+          key: cmake-deps-${{ runner.os }}-${{ hashFiles('core/CMakeLists.txt') }}
+          restore-keys: cmake-deps-${{ runner.os }}-
+
+      - name: Configure
+        run: cmake -B build -S . -G Ninja
+
+      - name: Build
+        run: cmake --build build
+
+      - name: Test
+        working-directory: build
+        run: ctest --output-on-failure
+
+      - name: Smoke battle (heuristic)
+        run: |
+          cp build/core/battle_demo build/battle_demo
+          ./build/battle_demo --seed=42 | tail -3
+
+      - name: Upload battle_demo binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: battle_demo-linux
+          path: build/battle_demo
+          if-no-files-found: error
+          retention-days: 1
+
+  sidecar:
+    name: Python sidecar (stub-mode pytest)
+    runs-on: ubuntu-latest
+    env:
+      POKEMON_SIDECAR_STUB: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: sidecar/uv.lock
+
+      - name: Install
+        working-directory: sidecar
+        run: uv sync --extra dev
+
+      - name: Test
+        working-directory: sidecar
+        run: uv run pytest -v
+
+  loop:
+    name: Python loop (GA + smoke)
+    runs-on: ubuntu-latest
+    needs: core
+    env:
+      POKEMON_SIDECAR_STUB: "1"
+      POKEMON_REPO: ${{ github.workspace }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download battle_demo
+        uses: actions/download-artifact@v4
+        with:
+          name: battle_demo-linux
+          path: build
+
+      - name: Make binary executable
+        run: chmod +x build/battle_demo
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: |
+            loop/uv.lock
+            sidecar/uv.lock
+
+      - name: Install sidecar
+        working-directory: sidecar
+        run: uv sync --extra dev
+
+      - name: Install loop
+        working-directory: loop
+        run: uv sync --extra dev
+
+      - name: Test
+        working-directory: loop
+        run: uv run pytest -v
+
+  dashboard:
+    name: Python dashboard (pytest)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: dashboard/uv.lock
+
+      - name: Install
+        working-directory: dashboard
+        run: uv sync --extra dev
+
+      - name: Test
+        working-directory: dashboard
+        run: uv run pytest -v
+
+  e2e-smoke:
+    name: End-to-end (3-gen evolve, stub)
+    runs-on: ubuntu-latest
+    needs: [core, sidecar, loop]
+    env:
+      POKEMON_SIDECAR_STUB: "1"
+      POKEMON_REPO: ${{ github.workspace }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download battle_demo
+        uses: actions/download-artifact@v4
+        with:
+          name: battle_demo-linux
+          path: build
+
+      - name: Make binary executable
+        run: chmod +x build/battle_demo
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: |
+            loop/uv.lock
+            sidecar/uv.lock
+
+      - name: Install sidecar
+        working-directory: sidecar
+        run: uv sync --extra dev
+
+      - name: Install loop
+        working-directory: loop
+        run: uv sync --extra dev
+
+      - name: Run tiny evolve
+        working-directory: loop
+        run: uv run python -m pokemon_loop evolve --generations=2 --pop=4 --battles-per-gen=4 --seed=1
+
+      - name: Audit learnset compliance
+        working-directory: loop
+        run: |
+          uv run python - <<'PY'
+          import glob, json, sys
+          from pokemon_loop.palette import load_palette
+          p = load_palette()
+          runs = sorted(glob.glob("runs/evo_*"))
+          assert runs, "no evolve run produced"
+          latest = runs[-1]
+          total = violations = 0
+          for tf in glob.glob(f"{latest}/gen_*/teams/*.json"):
+              t = json.load(open(tf))
+              for m in t["members"]:
+                  sp = p.species.get(m["species"])
+                  if not sp:
+                      print(f"unknown species {m['species']}"); violations += 1; continue
+                  ls = set(sp.learnset)
+                  for mv in m["moves"]:
+                      total += 1
+                      if mv not in ls:
+                          print(f"violation: {m['species']} -> {mv}")
+                          violations += 1
+          print(f"moves={total} violations={violations}")
+          sys.exit(1 if violations else 0)
+          PY

@@ -36,11 +36,8 @@ _STAT_KEYS = ["hp", "atk", "def", "spa", "spd", "spe"]
 _MAX_TOTAL_EVS = 508
 _MAX_PER_EV = 252
 
-# Fallback moves used when a species' learnset has fewer than 4 entries.
-# TODO: if neither "tackle" nor "pound" is in the loaded moves table this edge
-# case will silently keep fewer moves, which may cause issues with the C++
-# validator. In practice the real DB has both moves.
-_PAD_MOVES = ["tackle", "pound"]
+# Note: species are filtered to learnset >= 4 in palette.py, so _moves_for_species
+# can sample 4 distinct moves without padding.
 
 
 class Member(BaseModel):
@@ -99,24 +96,11 @@ def _random_evs(rng: random.Random) -> dict[str, int]:
 
 
 def _moves_for_species(entry: SpeciesEntry, palette: Palette, rng: random.Random, n: int = 4) -> list[str]:
-    """Sample up to n distinct moves from a species' learnset.
+    """Sample n distinct moves from a species' learnset.
 
-    Edge case: if the learnset has fewer than n moves, pad with _PAD_MOVES
-    (tackle / pound) if they exist in the global moves table, then stop.
-    This edge case is unlikely with real DB data but is documented here.
+    Palette guarantees learnset >= 4, so n=4 sampling always succeeds.
     """
-    pool = list(entry.learnset)
-    if len(pool) >= n:
-        return rng.sample(pool, n)
-
-    # Fewer than n moves available — take all, then pad
-    chosen = list(pool)
-    for pad in _PAD_MOVES:
-        if len(chosen) >= n:
-            break
-        if pad in palette.moves and pad not in chosen:
-            chosen.append(pad)
-    return chosen[:n]
+    return rng.sample(list(entry.learnset), n)
 
 
 def _random_member(entry: SpeciesEntry, palette: Palette, rng: random.Random) -> Member:

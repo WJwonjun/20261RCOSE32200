@@ -145,12 +145,15 @@ def _load_from_json(db_root: Path) -> Palette:
             if mid in moves:
                 learnset_ids.append(mid)
 
-        if not learnset_ids:
+        # GA needs 4 distinct legal moves per member. Species with fewer learnable
+        # moves in the DB (mostly regional/Mega forms the Serebii scraper missed)
+        # are dropped from the palette so we never produce an illegal team.
+        if len(learnset_ids) < 4:
             print(
-                f"WARNING: species '{display}' has an empty learnset after filtering — "
-                "including in palette but it will be pad-only.",
+                f"INFO: excluding '{display}' from palette — learnset size {len(learnset_ids)} < 4",
                 file=sys.stderr,
             )
+            continue
 
         types_raw = [p.get("type1"), p.get("type2")]
         types = tuple(
