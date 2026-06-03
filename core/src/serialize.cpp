@@ -50,7 +50,7 @@ nlohmann::json serialize_legal_action(const Action& a) {
         return {{"action", "move"}, {"target", std::get<MoveAction>(a).move_idx}};
     }
     if (std::holds_alternative<SwitchAction>(a)) {
-        return {{"action", "switch"}, {"target", std::get<SwitchAction>(a).slot}};
+        return {{"action", "switch"}, {"target", std::get<SwitchAction>(a).to}};
     }
     return {{"action", "none"}, {"target", -1}};
 }
