@@ -1,6 +1,6 @@
 # Pokemon Champions — LLM Sidecar
 
-Minimal asyncio Unix-domain-socket sidecar that receives turn state from the C++ Battle Core and returns an LLM-chosen action via Anthropic Claude (Haiku 4.5).
+Minimal asyncio Unix-domain-socket sidecar that receives turn state from the C++ Battle Core and returns an LLM-chosen action. Works with Anthropic Claude or any OpenAI-compatible provider (Gemini / Groq / OpenAI / local Ollama), and falls back to a free offline heuristic stub when no key is set.
 
 ## Install
 
@@ -12,12 +12,27 @@ uv sync --extra dev
 ## Run the server
 
 ```bash
-# Stub mode (no API key needed)
+# Stub mode — free, no API key (offline heuristic)
 POKEMON_SIDECAR_STUB=1 uv run python -m pokemon_sidecar
 
-# Real mode
+# Anthropic Claude
 ANTHROPIC_API_KEY=sk-ant-... uv run python -m pokemon_sidecar
+
+# Google Gemini (free tier key from aistudio.google.com)
+GEMINI_API_KEY=... uv run python -m pokemon_sidecar
+
+# Groq (free tier key from console.groq.com)
+GROQ_API_KEY=... uv run python -m pokemon_sidecar
+
+# Local Ollama (no key, fully offline real LLM)
+OPENAI_API_KEY=ollama OPENAI_BASE_URL=http://localhost:11434/v1 \
+  POKEMON_SIDECAR_MODEL=llama3.1 uv run python -m pokemon_sidecar
 ```
+
+Provider precedence: `POKEMON_SIDECAR_STUB=1` (stub) > any OpenAI-compatible key
+(`GEMINI_API_KEY` / `GROQ_API_KEY` / `OPENAI_API_KEY`) > `ANTHROPIC_API_KEY` >
+stub. Override the model with `POKEMON_SIDECAR_MODEL` (default per provider) and
+the endpoint with `OPENAI_BASE_URL`.
 
 ## Run tests
 

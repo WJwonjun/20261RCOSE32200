@@ -81,18 +81,6 @@ def _stub_selection(state: dict, idempotency_key: str) -> SelectionResult:
     )
 
 
-def _parse_selection_tool_call(response: Any) -> tuple[list[int] | None, int | None]:
-    for block in response.content:
-        if block.type == "tool_use" and block.name == "choose_selection":
-            inp = block.input
-            sel = inp.get("selection")
-            lead = inp.get("lead_idx_in_party")
-            if isinstance(sel, list):
-                sel = [int(i) for i in sel]
-            return sel, (int(lead) if isinstance(lead, int) else None)
-    return None, None
-
-
 def _active_member(team: dict) -> dict:
     """Return the acting team's active Pokemon dict (or {} if unavailable)."""
     party = team.get("party", []) if isinstance(team, dict) else []
@@ -155,8 +143,74 @@ def _stub_result(turn_state: TurnState, idempotency_key: str) -> LLMCallResult:
     )
 
 
+def _openai_config() -> tuple[str, str, str] | None:
+    """(base_url, api_key, model) for an OpenAI-compatible provider, or None.
+
+    Checked before ANTHROPIC_API_KEY so a free key (Gemini/Groq/OpenAI/Ollama)
+    takes precedence. The model can always be overridden with
+    POKEMON_SIDECAR_MODEL; OPENAI_BASE_URL overrides the endpoint (e.g. Ollama
+    at http://localhost:11434/v1)."""
+    model = os.environ.get("POKEMON_SIDECAR_MODEL")
+    if os.environ.get("GEMINI_API_KEY"):
+        return (
+            os.environ.get(
+                "OPENAI_BASE_URL",
+                "https://generativelanguage.googleapis.com/v1beta/openai/",
+            ),
+            os.environ["GEMINI_API_KEY"],
+            model or "gemini-2.0-flash",
+        )
+    if os.environ.get("GROQ_API_KEY"):
+        return (
+            os.environ.get("OPENAI_BASE_URL", "https://api.groq.com/openai/v1"),
+            os.environ["GROQ_API_KEY"],
+            model or "llama-3.3-70b-versatile",
+        )
+    if os.environ.get("OPENAI_API_KEY"):
+        return (
+            os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1"),
+            os.environ["OPENAI_API_KEY"],
+            model or "gpt-4o-mini",
+        )
+    return None
+
+
+def _provider() -> str:
+    """Which backend choose_action/choose_selection use this call."""
+    if os.environ.get("POKEMON_SIDECAR_STUB") == "1":
+        return "stub"
+    if _openai_config() is not None:
+        return "openai"
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        return "anthropic"
+    return "stub"
+
+
 def _use_stub() -> bool:
-    return not os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("POKEMON_SIDECAR_STUB") == "1"
+    return _provider() == "stub"
+
+
+def _openai_tool(anthropic_tool: dict) -> dict:
+    """Convert an Anthropic tool spec to OpenAI function-tool format."""
+    return {
+        "type": "function",
+        "function": {
+            "name": anthropic_tool["name"],
+            "description": anthropic_tool.get("description", ""),
+            "parameters": anthropic_tool["input_schema"],
+        },
+    }
+
+
+def _flatten_messages(system_blocks: list, user_messages: list) -> list[dict]:
+    """Collapse Anthropic system blocks + user messages into OpenAI chat msgs."""
+    system_text = "\n\n".join(
+        b["text"] for b in system_blocks if isinstance(b, dict) and "text" in b
+    )
+    msgs: list[dict] = [{"role": "system", "content": system_text}]
+    for m in user_messages:
+        msgs.append({"role": m["role"], "content": m["content"]})
+    return msgs
 
 
 def _is_legal(action: Action | None, legal_actions: list) -> bool:
@@ -176,27 +230,81 @@ def _is_legal(action: Action | None, legal_actions: list) -> bool:
     return False
 
 
-def _parse_tool_call(response: Any) -> Action | None:
-    for block in response.content:
-        if block.type == "tool_use" and block.name == "choose_action":
-            inp = block.input
-            return Action(
-                action=inp["action"],
-                target=int(inp["target"]),
-                reason=inp.get("reason"),
-            )
-    return None
-
-
 class LLMClient:
     def __init__(self) -> None:
         self._client: Any = None
+        self._openai: Any = None
 
     def _get_client(self) -> Any:
         if self._client is None:
             import anthropic
             self._client = anthropic.AsyncAnthropic(timeout=10.0)
         return self._client
+
+    def _get_openai_client(self, base_url: str, api_key: str) -> Any:
+        if self._openai is None:
+            from openai import AsyncOpenAI
+            self._openai = AsyncOpenAI(base_url=base_url, api_key=api_key, timeout=15.0)
+        return self._openai
+
+    async def _call_tool(
+        self, system_blocks: list, user_messages: list, anthropic_tool: dict
+    ) -> tuple[dict | None, int, int, str | None]:
+        """Force one tool call on the configured provider (OpenAI-compatible if a
+        free/OpenAI key is set, else Anthropic). Returns
+        (tool_input | None, cached_tokens, prompt_tokens, failure_reason)."""
+        tool_name = anthropic_tool["name"]
+        cfg = _openai_config()
+
+        for attempt in range(2):
+            try:
+                if cfg is not None:
+                    base_url, api_key, model = cfg
+                    client = self._get_openai_client(base_url, api_key)
+                    resp = await client.chat.completions.create(
+                        model=model,
+                        max_tokens=256,
+                        messages=_flatten_messages(system_blocks, user_messages),
+                        tools=[_openai_tool(anthropic_tool)],
+                        tool_choice={"type": "function", "function": {"name": tool_name}},
+                    )
+                    usage = getattr(resp, "usage", None)
+                    prompt_tokens = getattr(usage, "prompt_tokens", 0) or 0 if usage else 0
+                    details = getattr(usage, "prompt_tokens_details", None)
+                    cached_tokens = (getattr(details, "cached_tokens", 0) or 0) if details else 0
+                    calls = getattr(resp.choices[0].message, "tool_calls", None)
+                    if calls:
+                        return json.loads(calls[0].function.arguments), cached_tokens, prompt_tokens, None
+                    return None, cached_tokens, prompt_tokens, "parse_fail"
+                else:
+                    client = self._get_client()
+                    resp = await client.messages.create(
+                        model=os.environ.get("POKEMON_SIDECAR_MODEL", "claude-haiku-4-5-20251001"),
+                        max_tokens=256,
+                        system=system_blocks,
+                        messages=user_messages,
+                        tools=[anthropic_tool],
+                        tool_choice={"type": "tool", "name": tool_name},
+                    )
+                    usage = getattr(resp, "usage", None)
+                    cached_tokens = (getattr(usage, "cache_read_input_tokens", 0) or 0) if usage else 0
+                    prompt_tokens = (getattr(usage, "input_tokens", 0) or 0) if usage else 0
+                    for block in resp.content:
+                        if block.type == "tool_use" and block.name == tool_name:
+                            return block.input, cached_tokens, prompt_tokens, None
+                    return None, cached_tokens, prompt_tokens, "parse_fail"
+
+            except Exception as exc:  # SDK-agnostic classification
+                name = type(exc).__name__.lower()
+                if "ratelimit" in name:
+                    return None, 0, 0, "rate_limit"
+                if isinstance(exc, TimeoutError) or "timeout" in name:
+                    return None, 0, 0, "timeout"
+                if attempt == 0:
+                    continue  # transient — retry once
+                return None, 0, 0, "parse_fail"
+
+        return None, 0, 0, "parse_fail"
 
     async def choose_action(
         self,
@@ -205,7 +313,7 @@ class LLMClient:
         team_spec: str,
         idempotency_key: str,
     ) -> LLMCallResult:
-        if _use_stub():
+        if _provider() == "stub":
             return _stub_result(turn_state, idempotency_key)
 
         rulebook_text = Path(rulebook_path).read_text()
@@ -214,55 +322,26 @@ class LLMClient:
         )
 
         start = time.monotonic()
-        failure_reason = None
+        inp, cached_tokens, prompt_tokens, failure_reason = await self._call_tool(
+            system_blocks, user_messages, CHOOSE_ACTION_TOOL
+        )
+
         action = None
-        cached_tokens = 0
-        prompt_tokens = 0
-
-        for attempt in range(2):
+        if inp is not None:
             try:
-                import anthropic
-
-                client = self._get_client()
-                response = await client.messages.create(
-                    model="claude-haiku-4-5-20251001",
-                    max_tokens=256,
-                    system=system_blocks,
-                    messages=user_messages,
-                    tools=[CHOOSE_ACTION_TOOL],
-                    tool_choice={"type": "tool", "name": "choose_action"},
+                cand = Action(
+                    action=inp["action"], target=int(inp["target"]), reason=inp.get("reason")
                 )
-
-                if hasattr(response, "usage"):
-                    cached_tokens = getattr(response.usage, "cache_read_input_tokens", 0) or 0
-                    prompt_tokens = getattr(response.usage, "input_tokens", 0) or 0
-
-                parsed = _parse_tool_call(response)
-                if parsed is None:
-                    action = None
-                    failure_reason = "parse_fail"
-                elif _is_legal(parsed, turn_state.legal_actions):
-                    action = parsed
-                    failure_reason = None
-                    break
-                else:
-                    # Parsed but not a legal {action, target} pair (e.g. out-of-PP
-                    # move, invalid switch target). Retry once; if it persists the
-                    # caller falls back to its own legal heuristic action.
-                    action = None
-                    failure_reason = "schema_violation"
-
-            except anthropic.RateLimitError:
-                failure_reason = "rate_limit"
-                break
-            except TimeoutError:
-                failure_reason = "timeout"
-                break
             except Exception:
-                failure_reason = "parse_fail"
+                cand = None
+            if cand is not None and _is_legal(cand, turn_state.legal_actions):
+                action, failure_reason = cand, None
+            else:
+                # Hallucinated illegal/malformed pick — caller falls back to a
+                # legal heuristic action.
+                failure_reason = "schema_violation"
 
         latency_ms = int((time.monotonic() - start) * 1000)
-
         return LLMCallResult(
             action=action,
             failure_reason=failure_reason,
@@ -281,7 +360,7 @@ class LLMClient:
     ) -> SelectionResult:
         """Team preview (6 -> 3): pick which three party slots to field."""
         party_size = len(selection_state.get("party", []))
-        if _use_stub():
+        if _provider() == "stub":
             return _stub_selection(selection_state, idempotency_key)
 
         rulebook_text = Path(rulebook_path).read_text()
@@ -290,54 +369,25 @@ class LLMClient:
         )
 
         start = time.monotonic()
-        failure_reason = None
+        inp, cached_tokens, prompt_tokens, failure_reason = await self._call_tool(
+            system_blocks, user_messages, CHOOSE_SELECTION_TOOL
+        )
+
         selection: list[int] | None = None
         lead: int | None = None
-        cached_tokens = 0
-        prompt_tokens = 0
-
-        for attempt in range(2):
-            try:
-                import anthropic
-
-                client = self._get_client()
-                response = await client.messages.create(
-                    model="claude-haiku-4-5-20251001",
-                    max_tokens=256,
-                    system=system_blocks,
-                    messages=user_messages,
-                    tools=[CHOOSE_SELECTION_TOOL],
-                    tool_choice={"type": "tool", "name": "choose_selection"},
-                )
-
-                if hasattr(response, "usage"):
-                    cached_tokens = getattr(response.usage, "cache_read_input_tokens", 0) or 0
-                    prompt_tokens = getattr(response.usage, "input_tokens", 0) or 0
-
-                sel, parsed_lead = _parse_selection_tool_call(response)
-                if not _valid_selection(sel, party_size):
-                    selection = None
-                    failure_reason = "schema_violation" if sel is not None else "parse_fail"
-                else:
-                    # Lead must be one of the chosen slots; default to the first.
-                    if parsed_lead not in sel:
-                        parsed_lead = sel[0]
-                    selection = sel
-                    lead = parsed_lead
-                    failure_reason = None
-                    break
-
-            except anthropic.RateLimitError:
-                failure_reason = "rate_limit"
-                break
-            except TimeoutError:
-                failure_reason = "timeout"
-                break
-            except Exception:
-                failure_reason = "parse_fail"
+        if inp is not None:
+            sel = inp.get("selection")
+            if isinstance(sel, list):
+                sel = [int(i) for i in sel if isinstance(i, (int, float))]
+            parsed_lead = inp.get("lead_idx_in_party")
+            if not _valid_selection(sel, party_size):
+                failure_reason = "schema_violation"
+            else:
+                lead = parsed_lead if parsed_lead in sel else sel[0]
+                selection = sel
+                failure_reason = None
 
         latency_ms = int((time.monotonic() - start) * 1000)
-
         return SelectionResult(
             selection=selection,
             lead_idx_in_party=lead,
