@@ -17,6 +17,20 @@ from .sidecar_proc import SidecarProcess
 from .tournament import run_tournament_genomes
 
 
+def population_ranked(population: list[Genome], elo: EloBoard) -> list[tuple[str, float]]:
+    """Rank the current population by Elo rating, best first.
+
+    Elo ratings accumulate names across *all* generations, so the global
+    ``elo.top(k)`` can be dominated by high-rated names from earlier generations
+    that are no longer in the population. Selecting champions or Hall-of-Fame
+    candidates straight from that global list silently drops this generation's
+    genomes — their genome objects only exist in ``population``, so a stale name
+    resolves to ``None`` and is skipped. Filter to the living population first.
+    """
+    pop_names = {g.name for g in population}
+    return [(name, r) for name, r in elo.top(len(population) + 10) if name in pop_names]
+
+
 class Evolution:
     def __init__(
         self,
@@ -170,9 +184,7 @@ class Evolution:
 
                 # 3. Evaluate champion vs seed pool (1 battle per seed)
                 # Find best genome in the *current* population by their Elo rating
-                pop_names = {g.name for g in population}
-                top_in_pop = [(name, r) for name, r in elo.top(len(population) + 10)
-                              if name in pop_names]
+                top_in_pop = population_ranked(population, elo)
                 vs_seed_wins = 0
                 vs_seed_battles = 0
 
@@ -208,9 +220,10 @@ class Evolution:
                             if b_result.winner == "A":
                                 vs_seed_wins += 1
 
-                # 4. Update Hall of Fame
-                top2 = elo.top(2)
-                for name, rating in top2:
+                # 4. Update Hall of Fame with THIS generation's best (not the
+                # global Elo leaders, which may be names from prior generations
+                # whose genome objects are gone from the population).
+                for name, rating in top_in_pop[:2]:
                     genome = next((g for g in population if g.name == name), None)
                     if genome:
                         hof.consider(genome, rating, gen_added=gen)
