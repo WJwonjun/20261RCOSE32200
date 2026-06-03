@@ -7,8 +7,8 @@ import uuid
 from pathlib import Path
 from typing import Any
 
-from .prompt import build_messages
-from .schemas import Action, LLMCallResult, TurnState
+from .prompt import build_messages, build_selection_messages
+from .schemas import Action, LLMCallResult, SelectionResult, TurnState
 
 CHOOSE_ACTION_TOOL: dict[str, Any] = {
     "name": "choose_action",
@@ -23,6 +23,74 @@ CHOOSE_ACTION_TOOL: dict[str, Any] = {
         "required": ["action", "target"],
     },
 }
+
+
+CHOOSE_SELECTION_TOOL: dict[str, Any] = {
+    "name": "choose_selection",
+    "description": "Pick which 3 of your 6 Pokemon to bring to this battle.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "selection": {
+                "type": "array",
+                "items": {"type": "integer"},
+                "minItems": 3,
+                "maxItems": 3,
+                "description": "Three distinct party slot indices (0-5), lead first.",
+            },
+            "lead_idx_in_party": {
+                "type": "integer",
+                "description": "Party slot of the lead Pokemon (must be one of selection).",
+            },
+            "reason": {"type": "string"},
+        },
+        "required": ["selection"],
+    },
+}
+
+
+def _party_totals(party: list) -> list[float]:
+    totals: list[float] = []
+    for p in party:
+        s = p.get("stats", {}) if isinstance(p, dict) else {}
+        totals.append(sum(float(v) for v in s.values() if isinstance(v, (int, float))))
+    return totals
+
+
+def _valid_selection(sel: Any, party_size: int) -> bool:
+    return (
+        isinstance(sel, list)
+        and len(sel) == 3
+        and all(isinstance(i, int) and 0 <= i < party_size for i in sel)
+        and len(set(sel)) == 3
+    )
+
+
+def _stub_selection(state: dict, idempotency_key: str) -> SelectionResult:
+    """Offline team preview: field the 3 highest-stat-total party members,
+    strongest as lead — mirrors the C++ choose_selection heuristic."""
+    party = state.get("party", []) if isinstance(state, dict) else []
+    if len(party) < 3:
+        return SelectionResult(
+            selection=None, failure_reason="schema_violation", idempotency_key=idempotency_key
+        )
+    totals = _party_totals(party)
+    ranked = sorted(range(len(party)), key=lambda i: (-totals[i], i))[:3]
+    return SelectionResult(
+        selection=ranked, lead_idx_in_party=ranked[0], idempotency_key=idempotency_key
+    )
+
+
+def _parse_selection_tool_call(response: Any) -> tuple[list[int] | None, int | None]:
+    for block in response.content:
+        if block.type == "tool_use" and block.name == "choose_selection":
+            inp = block.input
+            sel = inp.get("selection")
+            lead = inp.get("lead_idx_in_party")
+            if isinstance(sel, list):
+                sel = [int(i) for i in sel]
+            return sel, (int(lead) if isinstance(lead, int) else None)
+    return None, None
 
 
 def _active_member(team: dict) -> dict:
@@ -197,6 +265,82 @@ class LLMClient:
 
         return LLMCallResult(
             action=action,
+            failure_reason=failure_reason,
+            latency_ms=latency_ms,
+            cached_tokens=cached_tokens,
+            prompt_tokens=prompt_tokens,
+            idempotency_key=idempotency_key,
+        )
+
+    async def choose_selection(
+        self,
+        selection_state: dict,
+        rulebook_path: str,
+        team_spec: str,
+        idempotency_key: str,
+    ) -> SelectionResult:
+        """Team preview (6 -> 3): pick which three party slots to field."""
+        party_size = len(selection_state.get("party", []))
+        if _use_stub():
+            return _stub_selection(selection_state, idempotency_key)
+
+        rulebook_text = Path(rulebook_path).read_text()
+        system_blocks, user_messages = build_selection_messages(
+            rulebook_text, team_spec, selection_state
+        )
+
+        start = time.monotonic()
+        failure_reason = None
+        selection: list[int] | None = None
+        lead: int | None = None
+        cached_tokens = 0
+        prompt_tokens = 0
+
+        for attempt in range(2):
+            try:
+                import anthropic
+
+                client = self._get_client()
+                response = await client.messages.create(
+                    model="claude-haiku-4-5-20251001",
+                    max_tokens=256,
+                    system=system_blocks,
+                    messages=user_messages,
+                    tools=[CHOOSE_SELECTION_TOOL],
+                    tool_choice={"type": "tool", "name": "choose_selection"},
+                )
+
+                if hasattr(response, "usage"):
+                    cached_tokens = getattr(response.usage, "cache_read_input_tokens", 0) or 0
+                    prompt_tokens = getattr(response.usage, "input_tokens", 0) or 0
+
+                sel, parsed_lead = _parse_selection_tool_call(response)
+                if not _valid_selection(sel, party_size):
+                    selection = None
+                    failure_reason = "schema_violation" if sel is not None else "parse_fail"
+                else:
+                    # Lead must be one of the chosen slots; default to the first.
+                    if parsed_lead not in sel:
+                        parsed_lead = sel[0]
+                    selection = sel
+                    lead = parsed_lead
+                    failure_reason = None
+                    break
+
+            except anthropic.RateLimitError:
+                failure_reason = "rate_limit"
+                break
+            except TimeoutError:
+                failure_reason = "timeout"
+                break
+            except Exception:
+                failure_reason = "parse_fail"
+
+        latency_ms = int((time.monotonic() - start) * 1000)
+
+        return SelectionResult(
+            selection=selection,
+            lead_idx_in_party=lead,
             failure_reason=failure_reason,
             latency_ms=latency_ms,
             cached_tokens=cached_tokens,

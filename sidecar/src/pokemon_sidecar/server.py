@@ -19,11 +19,22 @@ _semaphore: asyncio.Semaphore | None = None
 
 
 async def _handle_request(data: dict[str, Any]) -> dict[str, Any]:
-    turn_state = TurnState(**{k: v for k, v in data.items() if k in TurnState.model_fields})
     rulebook_path: str = data.get("rulebook_path", "/dev/null")
     team_spec: str = data.get("team_spec", "")
     idempotency_key: str = data.get("idempotency_key", str(uuid.uuid4()))
 
+    # Team-preview (6 -> 3) requests carry phase="selection"; everything else is
+    # a per-turn action request.
+    if data.get("phase") == "selection":
+        selection = await _client.choose_selection(
+            selection_state=data,
+            rulebook_path=rulebook_path,
+            team_spec=team_spec,
+            idempotency_key=idempotency_key,
+        )
+        return selection.model_dump()
+
+    turn_state = TurnState(**{k: v for k, v in data.items() if k in TurnState.model_fields})
     result: LLMCallResult = await _client.choose_action(
         turn_state=turn_state,
         rulebook_path=rulebook_path,

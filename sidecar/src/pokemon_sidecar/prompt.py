@@ -46,3 +46,33 @@ def build_messages(
     ]
 
     return system_blocks, user_messages
+
+
+def build_selection_messages(
+    rulebook_text: str,
+    team_spec: str,
+    selection_state: dict,
+) -> tuple[list[dict], list[dict]]:
+    """Messages for the team-preview (6 -> 3) decision."""
+    system_blocks = [
+        {"type": "text", "text": rulebook_text, "cache_control": {"type": "ephemeral"}},
+        {"type": "text", "text": team_spec, "cache_control": {"type": "ephemeral"}},
+    ]
+
+    party = selection_state.get("party", [])
+    n = selection_state.get("select_count", 3)
+    user_messages = [
+        {
+            "role": "user",
+            "content": (
+                f"Team preview. Choose exactly {n} of your 6 Pokemon to bring to "
+                "this battle (the rest stay benched the whole match).\n\n"
+                "Your full party (index = party slot 0-5):\n"
+                + json.dumps(party, indent=2)
+                + "\n\nReturn the chosen party slot indices with the choose_selection "
+                "tool. selection must be 3 distinct indices in 0-5; lead_idx_in_party "
+                "is the slot that starts active and must be one of them."
+            ),
+        }
+    ]
+    return system_blocks, user_messages
