@@ -77,14 +77,17 @@ def reset_palette_cache():
 
 @pytest.fixture()
 def db_root(tmp_path: Path) -> Path:
-    """Create a fake pokemon-champions-db directory with a small pokemon.json."""
-    db = tmp_path / "pokemon-champions-db"
-    data_dir = db / "data" / "json"
+    """Create a fake JSON data dir holding a small pokemon.json.
+
+    POKEMON_CHAMPIONS_DB points directly at the directory containing the JSON
+    files (the Core<->DB contract), so the fixture returns that data/json dir.
+    """
+    data_dir = tmp_path / "pokemon-champions-db" / "data" / "json"
     data_dir.mkdir(parents=True)
     (data_dir / "pokemon.json").write_text(
         json.dumps(SAMPLE_POKEMON), encoding="utf-8"
     )
-    return db
+    return data_dir
 
 
 @pytest.fixture()

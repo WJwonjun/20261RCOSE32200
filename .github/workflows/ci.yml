@@ -12,7 +12,9 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  POKEMON_CHAMPIONS_DB: ${{ github.workspace }}/pokemon-champions-db
+  # Must point at the directory that directly contains the JSON files
+  # (pokemon.json, moves.json, ...), per the Core<->DB contract in AGENTS.md.
+  POKEMON_CHAMPIONS_DB: ${{ github.workspace }}/pokemon-champions-db/data/json
 
 jobs:
   core:

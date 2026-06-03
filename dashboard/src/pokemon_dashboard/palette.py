@@ -19,10 +19,13 @@ _palette_cache: Optional[dict] = None
 
 
 def _db_root() -> Path:
+    # POKEMON_CHAMPIONS_DB points at the directory that *directly* contains the
+    # JSON files (pokemon.json, moves.json, ...), matching the Core<->DB contract
+    # in AGENTS.md and the loop/core loaders. Falls back to the in-repo location.
     env = os.environ.get("POKEMON_CHAMPIONS_DB")
     if env:
         return Path(env)
-    return _REPO_ROOT / "pokemon-champions-db"
+    return _REPO_ROOT / "pokemon-champions-db" / "data" / "json"
 
 
 def _normalize_id(name_en: str) -> str:
@@ -46,7 +49,7 @@ def clear_palette_cache() -> None:
 
 
 def _build_palette() -> dict:
-    json_path = _db_root() / "data" / "json" / "pokemon.json"
+    json_path = _db_root() / "pokemon.json"
     if not json_path.exists():
         raise FileNotFoundError(f"pokemon.json not found at {json_path}")
 
