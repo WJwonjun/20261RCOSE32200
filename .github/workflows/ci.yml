@@ -43,7 +43,8 @@ jobs:
 
       - name: Smoke battle (heuristic)
         run: |
-          cp build/core/battle_demo build/battle_demo
+          # CMAKE_RUNTIME_OUTPUT_DIRECTORY (root CMakeLists) places the binary
+          # directly at build/battle_demo, not build/core/battle_demo.
           ./build/battle_demo --seed=42 | tail -3
 
       - name: Upload battle_demo binary
