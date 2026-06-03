@@ -173,6 +173,7 @@ static void force_switch_if_fainted(Team& team, BattleState& st, const std::stri
                "\",\"out\":\"" + pname(team.active()) +
                "\",\"in\":\"" + pname(team.party[team.selection[next_sel]]) + "\"}");
     team.active_idx_in_selection = next_sel;
+    team.active_slot = team.selection[next_sel]; // keep party-slot view in sync
 }
 
 // ── execute voluntary switch (idx_in_selection) ───────────────────────────────
@@ -185,6 +186,7 @@ static void execute_switch(Team& team, int to_idx_in_sel, BattleState& st, const
                "\",\"out\":\"" + pname(team.active()) +
                "\",\"in\":\"" + pname(target) + "\"}");
     team.active_idx_in_selection = to_idx_in_sel;
+    team.active_slot = team.selection[to_idx_in_sel]; // keep party-slot view in sync
 }
 
 // ── legal_actions (selection-aware) ──────────────────────────────────────────

@@ -118,6 +118,47 @@ TEST_CASE("SidecarClient handles failure_reason=timeout from server", "[ipc]") {
     CHECK(r.failure_reason == "timeout");
 }
 
+TEST_CASE("serialize_acting_team tracks active slot across a switch", "[ipc][serialize]") {
+    // Regression: a voluntary switch updates active_idx_in_selection; the
+    // serialized is_active flag (driven by active_slot) must follow it.
+    BattleState st;
+
+    Pokemon lead;
+    lead.species_id = 1; lead.name = "Bulbasaur"; lead.level = 50;
+    lead.type1 = Type::Grass; lead.type2 = Type::Poison;
+    lead.base_stats = {45, 49, 49, 65, 65, 45};
+    lead.stats      = compute_stats(lead.base_stats, lead.ivs, lead.evs, NATURE_HARDY, 50);
+    lead.current_hp = lead.stats.hp;
+    lead.move_ids   = {1, 0, 0, 0};
+    lead.pp         = {35, 0, 0, 0};
+
+    Pokemon bench = lead;
+    bench.name = "Ivysaur";
+
+    st.team_a.party[0] = lead;
+    st.team_a.party[1] = bench;       // selection[1] target must be alive
+    st.team_a.selection = {0, 1, 2};
+    st.team_a.active_idx_in_selection = 0;
+    st.team_a.active_slot = 0;
+    st.team_b.party[0] = lead;        // opponent active alive so battle isn't terminal
+
+    // Before the switch, party[0] is the active mon.
+    nlohmann::json before = serialize_acting_team(st.team_a);
+    CHECK(before["party"][0]["is_active"] == true);
+    CHECK(before["party"][1]["is_active"] == false);
+
+    // Side A switches to selection index 1; B does nothing.
+    st.apply_action(SwitchAction{1}, NoAction{});
+
+    CHECK(st.team_a.active_idx_in_selection == 1);
+    CHECK(st.team_a.active_slot == 1);
+
+    nlohmann::json after = serialize_acting_team(st.team_a);
+    CHECK(after["party"][0]["is_active"] == false);
+    CHECK(after["party"][1]["is_active"] == true);
+    CHECK(after["active_slot"] == 1);
+}
+
 TEST_CASE("SidecarClient times out when server never responds", "[ipc]") {
     const std::string path = tmp_sock("t3");
     // Server accepts but never writes anything.
