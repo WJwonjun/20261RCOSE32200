@@ -91,6 +91,23 @@ def _use_stub() -> bool:
     return not os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("POKEMON_SIDECAR_STUB") == "1"
 
 
+def _is_legal(action: Action | None, legal_actions: list) -> bool:
+    """True if the action exactly matches one of the turn's legal {action, target}
+    pairs. Guards against an LLM hallucinating an out-of-PP move or invalid
+    switch target — an illegal pick is treated as a schema violation so the
+    caller (C++ demo / loop) falls back to its own legal heuristic."""
+    if action is None:
+        return False
+    for la in legal_actions:
+        if (
+            isinstance(la, dict)
+            and la.get("action") == action.action
+            and la.get("target") == action.target
+        ):
+            return True
+    return False
+
+
 def _parse_tool_call(response: Any) -> Action | None:
     for block in response.content:
         if block.type == "tool_use" and block.name == "choose_action":
@@ -152,11 +169,20 @@ class LLMClient:
                     cached_tokens = getattr(response.usage, "cache_read_input_tokens", 0) or 0
                     prompt_tokens = getattr(response.usage, "input_tokens", 0) or 0
 
-                action = _parse_tool_call(response)
-                if action is not None:
+                parsed = _parse_tool_call(response)
+                if parsed is None:
+                    action = None
+                    failure_reason = "parse_fail"
+                elif _is_legal(parsed, turn_state.legal_actions):
+                    action = parsed
                     failure_reason = None
                     break
-                failure_reason = "parse_fail"
+                else:
+                    # Parsed but not a legal {action, target} pair (e.g. out-of-PP
+                    # move, invalid switch target). Retry once; if it persists the
+                    # caller falls back to its own legal heuristic action.
+                    action = None
+                    failure_reason = "schema_violation"
 
             except anthropic.RateLimitError:
                 failure_reason = "rate_limit"

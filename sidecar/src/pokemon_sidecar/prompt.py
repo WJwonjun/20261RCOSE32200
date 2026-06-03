@@ -24,6 +24,8 @@ def build_messages(
         },
     ]
 
+    legal_actions = turn_state.get("legal_actions", [])
+
     user_messages = [
         {
             "role": "user",
@@ -32,7 +34,13 @@ def build_messages(
                 + json.dumps(turn_state.get("opponent_visible", {}), indent=2)
                 + "\n\nFull turn state:\n"
                 + json.dumps(turn_state, indent=2)
-                + "\n\nChoose the best action using the choose_action tool."
+                + "\n\nLegal actions this turn — you MUST pick exactly one of these "
+                "{action, target} pairs:\n"
+                + json.dumps(legal_actions, indent=2)
+                + "\n\nFor action \"move\", target is the move slot (0-3). For action "
+                "\"switch\", target is the bench slot among your selected Pokemon "
+                "(idx_in_selection, 0-2), not a party slot.\n"
+                "Choose the strongest legal action with the choose_action tool."
             ),
         }
     ]
