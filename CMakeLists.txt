@@ -6,6 +6,13 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}")
 
+# Enable testing at the top-level scope so ctest run from the root build
+# directory (e.g. `make test` -> `ctest --test-dir build`) discovers tests
+# registered by subdirectories. Without this, the root CTestTestfile.cmake
+# omits the `subdirs(core)` entry and ctest reports "No tests were found"
+# even though core/ registers them via Catch's catch_discover_tests.
+enable_testing()
+
 # Include subdirectories if they exist
 if(EXISTS "${CMAKE_CURRENT_SOURCE_DIR}/core/CMakeLists.txt")
   add_subdirectory(core)
