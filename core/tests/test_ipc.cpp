@@ -159,6 +159,34 @@ TEST_CASE("serialize_acting_team tracks active slot across a switch", "[ipc][ser
     CHECK(after["active_slot"] == 1);
 }
 
+TEST_CASE("serialize_selection_state exposes all 6 party mons", "[ipc][serialize]") {
+    BattleState st;
+    for (int i = 0; i < 6; ++i) {
+        Pokemon p;
+        p.species_id = i + 1;
+        p.name       = "Mon" + std::to_string(i);
+        p.level      = 50;
+        p.type1      = Type::Normal;
+        p.base_stats = {100, 100, 100, 100, 100, 100};
+        p.stats      = compute_stats(p.base_stats, p.ivs, p.evs, NATURE_HARDY, 50);
+        p.current_hp = p.stats.hp;
+        p.move_ids   = {1, 0, 0, 0};
+        p.pp         = {35, 0, 0, 0};
+        st.team_a.party[i] = p;
+    }
+
+    nlohmann::json sel = serialize_selection_state(st.team_a, "A");
+    CHECK(sel["side"] == "A");
+    CHECK(sel["select_count"] == 3);
+    REQUIRE(sel["party"].is_array());
+    REQUIRE(sel["party"].size() == 6);
+    for (int i = 0; i < 6; ++i) {
+        CHECK(sel["party"][i]["slot"] == i);
+        CHECK(sel["party"][i].contains("stats"));
+        CHECK(sel["party"][i]["stats"].contains("hp"));
+    }
+}
+
 TEST_CASE("SidecarClient times out when server never responds", "[ipc]") {
     const std::string path = tmp_sock("t3");
     // Server accepts but never writes anything.

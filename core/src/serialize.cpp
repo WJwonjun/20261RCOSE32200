@@ -125,6 +125,16 @@ nlohmann::json serialize_opponent_visible(const Team& opponent, int active_slot)
     return {{"active_slot", active_slot}, {"party", party}};
 }
 
+nlohmann::json serialize_selection_state(const Team& team, const std::string& side) {
+    nlohmann::json party = nlohmann::json::array();
+    for (int i = 0; i < 6; ++i) {
+        nlohmann::json pj = serialize_pokemon(team.party[i]);
+        pj["slot"] = i;
+        party.push_back(pj);
+    }
+    return {{"side", side}, {"party", party}, {"select_count", 3}};
+}
+
 nlohmann::json serialize_turn_state(const BattleState& state, int side) {
     Side s = (side == 0) ? Side::A : Side::B;
     const Team& acting   = state.team(s);

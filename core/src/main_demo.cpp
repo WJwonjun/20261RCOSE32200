@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 #include <cstring>
+#include <array>
+#include <memory>
 #include "battle/state.hpp"
 #include "battle/ai_stub.hpp"
 #include "battle/pokemon.hpp"
@@ -224,12 +226,26 @@ int main(int argc, char* argv[]) {
 
     state.rng = PCG64(rng_seed);
 
-    // Team preview (6 -> 3): each side fields its three strongest Pokemon.
-    // Replaces the previous hard-coded {0,1,2} so all six party members matter.
-    auto apply_selection = [](Team& t, const std::string& side) {
-        t.selection               = choose_selection(t);
-        t.active_idx_in_selection = 0;
-        t.active_slot             = t.selection[0];
+    if (use_sidecar) {
+        std::cout << "# mode: sidecar (socket=" << socket_path
+                  << ") rulebook=" << rulebook_path << "\n";
+    }
+
+    // In sidecar mode the LLM also drives the 6->3 team preview, so create the
+    // client up front (one connection serves selection + per-turn actions).
+    std::unique_ptr<SidecarClient> client;
+    if (use_sidecar) {
+        client = std::make_unique<SidecarClient>(socket_path);
+    }
+
+    // Apply a concrete 6->3 selection to a team and log it (with its source).
+    auto apply_selection = [](Team& t, const std::array<int, 3>& sel, int lead,
+                              const std::string& side, const std::string& source) {
+        t.selection = sel;
+        int lead_pos = 0;
+        for (int i = 0; i < 3; ++i) if (sel[i] == lead) lead_pos = i;
+        t.active_idx_in_selection = lead_pos;
+        t.active_slot             = t.selection[lead_pos];
         nlohmann::json lineup = nlohmann::json::array();
         for (int i = 0; i < 3; ++i) lineup.push_back(t.party[t.selection[i]].name);
         nlohmann::json ev;
@@ -237,15 +253,34 @@ int main(int argc, char* argv[]) {
         ev["side"]     = side;
         ev["selected"] = {t.selection[0], t.selection[1], t.selection[2]};
         ev["lineup"]   = lineup;
+        ev["source"]   = source;
         std::cout << ev.dump() << std::endl;
     };
-    apply_selection(state.team_a, "A");
-    apply_selection(state.team_b, "B");
 
-    if (use_sidecar) {
-        std::cout << "# mode: sidecar (socket=" << socket_path
-                  << ") rulebook=" << rulebook_path << "\n";
-    }
+    // Pick 3-of-6 for one side: ask the LLM in sidecar mode, otherwise (or on
+    // any sidecar failure) use the deterministic strongest-three heuristic.
+    auto select_team = [&](Team& t, const std::string& side) {
+        if (client) {
+            nlohmann::json sel_state = serialize_selection_state(t, side);
+            nlohmann::json spec      = serialize_acting_team(t);
+            SelectionResponse r = client->request_team_selection(
+                sel_state, rulebook_path, spec.dump(),
+                "battle_0:select:" + side, 10000);
+            if (r.selection.has_value()) {
+                apply_selection(t, *r.selection, r.lead_idx_in_party, side, "sidecar");
+                return;
+            }
+            nlohmann::json fail;
+            fail["event"]  = "selection_failure";
+            fail["side"]   = side;
+            fail["reason"] = r.failure_reason;
+            std::cout << fail.dump() << std::endl;
+        }
+        std::array<int, 3> sel = choose_selection(t);
+        apply_selection(t, sel, sel[0], side, "heuristic");
+    };
+    select_team(state.team_a, "A");
+    select_team(state.team_b, "B");
 
     std::cout << "{\"event\":\"battle_start\","
               << "\"team_a\":\"" << state.team_a.active().name << " lead\","
@@ -268,8 +303,7 @@ int main(int argc, char* argv[]) {
             std::cout.flush();
         }
     } else {
-        // Sidecar mode.
-        SidecarClient client(socket_path);
+        // Sidecar mode (client created above for the selection phase).
         size_t printed = 0;
 
         while (!state.is_terminal() && state.turn_no < MAX_TURNS) {
@@ -278,7 +312,7 @@ int main(int argc, char* argv[]) {
             std::string key_a = "battle_0:" + std::to_string(turn) + ":A";
             nlohmann::json ts_a   = serialize_turn_state(state, 0);
             nlohmann::json spec_a = serialize_acting_team(state.team_a);
-            SidecarResponse resp_a = client.request_action(
+            SidecarResponse resp_a = client->request_action(
                 ts_a, rulebook_path, spec_a.dump(), key_a, 10000);
 
             Action action_a;
@@ -300,7 +334,7 @@ int main(int argc, char* argv[]) {
             std::string key_b = "battle_0:" + std::to_string(turn) + ":B";
             nlohmann::json ts_b   = serialize_turn_state(state, 1);
             nlohmann::json spec_b = serialize_acting_team(state.team_b);
-            SidecarResponse resp_b = client.request_action(
+            SidecarResponse resp_b = client->request_action(
                 ts_b, rulebook_path, spec_b.dump(), key_b, 10000);
 
             Action action_b;
