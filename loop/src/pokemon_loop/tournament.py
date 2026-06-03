@@ -100,21 +100,23 @@ def run_tournament(
             battle_idx=idx,
         )
 
-        # Map binary winner ("A" / "B") to team name
-        if result.winner == "A":
-            winner_name = team_a_obj["name"]
-            loser_name = team_b_obj["name"]
-        elif result.winner == "B":
-            winner_name = team_b_obj["name"]
-            loser_name = team_a_obj["name"]
-        else:
-            # draw / timeout — credit both with a loss to keep totals honest
-            winner_name = team_a_obj["name"]
-            loser_name = team_b_obj["name"]
+        name_a, name_b = team_a_obj["name"], team_b_obj["name"]
 
-        records[winner_name].record(won=True, turns=result.turns)
-        records[loser_name].record(won=False, turns=result.turns)
-        return winner_name
+        # Map binary winner ("A" / "B") to team name. On a draw / timeout
+        # neither team won — credit both with a loss to keep totals honest,
+        # and advance team A arbitrarily so the bracket can proceed.
+        if result.winner == "A":
+            records[name_a].record(won=True, turns=result.turns)
+            records[name_b].record(won=False, turns=result.turns)
+            return name_a
+        elif result.winner == "B":
+            records[name_b].record(won=True, turns=result.turns)
+            records[name_a].record(won=False, turns=result.turns)
+            return name_b
+        else:
+            records[name_a].record(won=False, turns=result.turns)
+            records[name_b].record(won=False, turns=result.turns)
+            return name_a
 
     battle_idx = 0
 
@@ -254,20 +256,26 @@ def run_tournament_genomes(
         battle_idx += 1
         results.append(result)
 
+        # On a draw / timeout neither genome won: credit both a loss, apply a
+        # 0.5/0.5 Elo update (not a decisive win for A), advance A arbitrarily.
         if result.winner == "A":
-            winner_name, loser_name = genome_a.name, genome_b.name
+            records[genome_a.name].record(won=True, turns=result.turns)
+            records[genome_b.name].record(won=False, turns=result.turns)
+            if elo is not None:
+                elo.update(genome_a.name, genome_b.name, k=k_elo)
+            return genome_a.name
         elif result.winner == "B":
-            winner_name, loser_name = genome_b.name, genome_a.name
+            records[genome_b.name].record(won=True, turns=result.turns)
+            records[genome_a.name].record(won=False, turns=result.turns)
+            if elo is not None:
+                elo.update(genome_b.name, genome_a.name, k=k_elo)
+            return genome_b.name
         else:
-            winner_name, loser_name = genome_a.name, genome_b.name  # draw: arbitrary
-
-        records[winner_name].record(won=True, turns=result.turns)
-        records[loser_name].record(won=False, turns=result.turns)
-
-        if elo is not None:
-            elo.update(winner_name, loser_name, k=k_elo)
-
-        return winner_name
+            records[genome_a.name].record(won=False, turns=result.turns)
+            records[genome_b.name].record(won=False, turns=result.turns)
+            if elo is not None:
+                elo.update_draw(genome_a.name, genome_b.name, k=k_elo)
+            return genome_a.name
 
     # Handle varying pop sizes — run round-robin when fewer than 8
     n = len(genomes)

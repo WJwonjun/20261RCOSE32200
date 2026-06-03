@@ -30,6 +30,25 @@ class EloBoard:
         self._ratings[winner_name] = ra + k * weight * (1.0 - ea)
         self._ratings[loser_name] = rb + k * weight * (0.0 - eb)
 
+    def update_draw(
+        self,
+        name_a: str,
+        name_b: str,
+        k: float = 32.0,
+        weight: float = 1.0,
+    ) -> None:
+        """Elo update for a drawn game: both sides score 0.5.
+
+        Symmetric — equal-rated teams stay put; an upset (lower-rated team
+        draws a higher-rated one) shifts ratings toward each other.
+        """
+        ra = self.get(name_a)
+        rb = self.get(name_b)
+        ea = 1.0 / (1.0 + 10 ** ((rb - ra) / 400.0))
+        eb = 1.0 / (1.0 + 10 ** ((ra - rb) / 400.0))
+        self._ratings[name_a] = ra + k * weight * (0.5 - ea)
+        self._ratings[name_b] = rb + k * weight * (0.5 - eb)
+
     def top(self, n: int) -> list[tuple[str, float]]:
         """Return the top-n teams sorted by rating descending."""
         return sorted(self._ratings.items(), key=lambda x: -x[1])[:n]

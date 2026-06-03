@@ -62,6 +62,27 @@ def test_multiple_updates_accumulate():
     assert board.get("bob") < 950.0
 
 
+def test_draw_between_equal_teams_is_noop():
+    """Equal-rated teams that draw keep their ratings (score 0.5 == expected 0.5)."""
+    board = EloBoard()
+    board.update_draw("alice", "bob", k=32)
+    assert abs(board.get("alice") - 1000.0) < 0.01
+    assert abs(board.get("bob") - 1000.0) < 0.01
+
+
+def test_draw_is_symmetric_and_not_a_win():
+    """A draw must not credit either side a decisive win; it shifts toward parity."""
+    board = EloBoard()
+    board._ratings["strong"] = 1200.0
+    board._ratings["weak"] = 800.0
+    board.update_draw("strong", "weak", k=32)
+    # Drawing as the favourite loses points; as the underdog gains points.
+    assert board.get("strong") < 1200.0
+    assert board.get("weak") > 800.0
+    # Total rating is conserved (zero-sum), unlike the old "A always wins" path.
+    assert abs((board.get("strong") + board.get("weak")) - 2000.0) < 0.01
+
+
 def test_weight_scales_update():
     board1 = EloBoard()
     board2 = EloBoard()
