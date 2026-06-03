@@ -224,6 +224,24 @@ int main(int argc, char* argv[]) {
 
     state.rng = PCG64(rng_seed);
 
+    // Team preview (6 -> 3): each side fields its three strongest Pokemon.
+    // Replaces the previous hard-coded {0,1,2} so all six party members matter.
+    auto apply_selection = [](Team& t, const std::string& side) {
+        t.selection               = choose_selection(t);
+        t.active_idx_in_selection = 0;
+        t.active_slot             = t.selection[0];
+        nlohmann::json lineup = nlohmann::json::array();
+        for (int i = 0; i < 3; ++i) lineup.push_back(t.party[t.selection[i]].name);
+        nlohmann::json ev;
+        ev["event"]    = "team_selection";
+        ev["side"]     = side;
+        ev["selected"] = {t.selection[0], t.selection[1], t.selection[2]};
+        ev["lineup"]   = lineup;
+        std::cout << ev.dump() << std::endl;
+    };
+    apply_selection(state.team_a, "A");
+    apply_selection(state.team_b, "B");
+
     if (use_sidecar) {
         std::cout << "# mode: sidecar (socket=" << socket_path
                   << ") rulebook=" << rulebook_path << "\n";

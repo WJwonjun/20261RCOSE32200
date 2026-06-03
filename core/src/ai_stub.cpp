@@ -2,9 +2,23 @@
 #include "battle/damage.hpp"
 #include "battle/move.hpp"
 #include "battle/state.hpp"
+#include <algorithm>
+#include <array>
 #include <limits>
 
 namespace battle {
+
+std::array<int, 3> choose_selection(const Team& team) {
+    std::array<int, 6> idx = {0, 1, 2, 3, 4, 5};
+    auto total = [&](int i) {
+        const Stats& s = team.party[i].stats;
+        return s.hp + s.atk + s.def + s.spa + s.spd + s.spe;
+    };
+    // stable_sort: equal totals keep ascending party-index order (deterministic).
+    std::stable_sort(idx.begin(), idx.end(),
+                     [&](int a, int b) { return total(a) > total(b); });
+    return {idx[0], idx[1], idx[2]};
+}
 
 // Picks the legal action with the highest expected damage against the opponent's active.
 // For status moves, expected damage is 0. Switches are considered only if no

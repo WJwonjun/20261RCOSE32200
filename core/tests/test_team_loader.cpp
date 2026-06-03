@@ -1,8 +1,10 @@
 #include <catch2/catch_test_macros.hpp>
 #include <fstream>
 #include <cstdlib>
+#include <set>
 #include "battle/team_loader.hpp"
 #include "battle/champions_data.hpp"
+#include "battle/ai_stub.hpp"
 
 using namespace battle;
 
@@ -35,6 +37,35 @@ static const std::string VALID_TEAM_JSON = R"({
     {"species":"scizor","level":50,"ivs":{"hp":31,"atk":31,"def":31,"spa":31,"spd":31,"spe":31},"evs":{"hp":4,"atk":252,"def":0,"spa":0,"spd":0,"spe":252},"nature":"adamant","moves":["bullet_punch","iron_head","x_scissor","brick_break"],"item":"none"}
   ]
 })";
+
+TEST_CASE("choose_selection fields the 3 strongest by stat total", "[selection]") {
+    Team t;
+    auto set_total = [](Pokemon& p, int v) { p.stats = {v, 0, 0, 0, 0, 0}; };
+    set_total(t.party[0], 100);
+    set_total(t.party[1], 500);
+    set_total(t.party[2], 200);
+    set_total(t.party[3], 600); // strongest
+    set_total(t.party[4], 50);
+    set_total(t.party[5], 400);
+
+    auto sel = choose_selection(t);
+    // Strongest first: 600(#3), 500(#1), 400(#5).
+    CHECK(sel[0] == 3);
+    CHECK(sel[1] == 1);
+    CHECK(sel[2] == 5);
+    std::set<int> distinct(sel.begin(), sel.end());
+    CHECK(distinct.size() == 3);
+    for (int s : sel) CHECK((s >= 0 && s < 6));
+}
+
+TEST_CASE("choose_selection breaks ties by ascending party index", "[selection]") {
+    Team t;
+    for (auto& p : t.party) p.stats = {100, 0, 0, 0, 0, 0}; // all equal
+    auto sel = choose_selection(t);
+    CHECK(sel[0] == 0);
+    CHECK(sel[1] == 1);
+    CHECK(sel[2] == 2);
+}
 
 TEST_CASE("TeamLoader: valid team loads correctly", "[team_loader]") {
     TeamLoaderFixture f;
