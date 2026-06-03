@@ -162,6 +162,34 @@ def test_mutate_always_different():
         )
 
 
+def test_mutate_guarantee_holds_for_four_move_species():
+    """Guarantee a mutation even when no move swap is possible.
+
+    Every species here has exactly 4 learnable moves, so each member already
+    holds its entire learnset and a move swap can never apply. With rate=0.0 no
+    per-site mutation fires either, forcing the at-least-one-mutation guarantee
+    down its fallback path (nature, then item). Regression: previously the
+    guarantee silently no-op'd and returned an identical genome.
+    """
+    moves = {f"m{s}_{i}": _make_move(f"m{s}_{i}") for s in range(6) for i in range(4)}
+    species = {
+        f"sp_{s}": _make_species(f"sp_{s}", [f"m{s}_{i}" for i in range(4)])
+        for s in range(6)
+    }
+    palette = Palette(
+        species=species,
+        moves=moves,
+        items=("item_a", "item_b"),
+        natures=("adamant", "bold"),
+    )
+    for seed in range(50):
+        g = random_genome(palette, "orig", _rng(seed))
+        g2 = mutate(g, palette, _rng(seed + 1000), rate=0.0)
+        assert g.model_dump() != g2.model_dump(), (
+            f"mutate no-op'd on 4-move-species palette at seed={seed}"
+        )
+
+
 def test_mutate_output_item_nature_from_palette():
     g = random_genome(MOCK_PALETTE, "orig", _rng(7))
     for seed in range(20):

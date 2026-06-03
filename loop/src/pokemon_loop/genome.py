@@ -198,13 +198,19 @@ def mutate(g: Genome, palette: Palette, rng: random.Random, rate: float = 0.15) 
             item=new_item,
         ))
 
-    # Guarantee at least 1 mutation
+    # Guarantee at least 1 mutation. A move swap is impossible when the chosen
+    # member's species has exactly 4 learnable moves (every slot is already
+    # filled by its whole learnset, so `candidates` is empty). In that case fall
+    # back to changing the nature, then the item, so a mutation always lands.
     if mutations_applied == 0:
         idx = rng.randrange(len(new_members))
         m = new_members[idx]
         entry = palette.species.get(m.species)
         learnset = list(entry.learnset) if entry else list(palette.moves.keys())
         current_moves = list(m.moves)
+        new_nature = m.nature
+        new_item = m.item
+
         move_idx = rng.randrange(len(current_moves))
         current_move = current_moves[move_idx]
         others = [mv for j, mv in enumerate(current_moves) if j != move_idx]
@@ -212,14 +218,22 @@ def mutate(g: Genome, palette: Palette, rng: random.Random, rate: float = 0.15) 
         candidates = [mv for mv in learnset if mv != current_move and mv not in others]
         if candidates:
             current_moves[move_idx] = rng.choice(candidates)
+        else:
+            nature_alts = [n for n in palette.natures if n != m.nature]
+            item_alts = [it for it in palette.items if it != m.item]
+            if nature_alts:
+                new_nature = rng.choice(nature_alts)
+            elif item_alts:
+                new_item = rng.choice(item_alts)
+
         new_members[idx] = Member(
             species=m.species,
             level=m.level,
             ivs=dict(m.ivs),
             evs=dict(m.evs),
-            nature=m.nature,
+            nature=new_nature,
             moves=current_moves,
-            item=m.item,
+            item=new_item,
         )
 
     return Genome(name=g.name, members=new_members)
