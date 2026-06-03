@@ -25,10 +25,58 @@ CHOOSE_ACTION_TOOL: dict[str, Any] = {
 }
 
 
+def _active_member(team: dict) -> dict:
+    """Return the acting team's active Pokemon dict (or {} if unavailable)."""
+    party = team.get("party", []) if isinstance(team, dict) else []
+    for p in party:
+        if isinstance(p, dict) and p.get("is_active"):
+            return p
+    return party[0] if party and isinstance(party[0], dict) else {}
+
+
+def _best_move_target(active: dict, legal: list) -> int | None:
+    """Pick the legal move with the highest STAB-weighted power.
+
+    Uses only the data already present in the serialized turn state (each move
+    carries `power` and `type`; the active mon carries `type1`/`type2`). Returns
+    the move index, or None when no damaging move is legal (forcing the caller
+    to fall back to whatever first legal action exists, e.g. a switch)."""
+    moves = active.get("moves", []) if isinstance(active, dict) else []
+    atk_types = {active.get("type1"), active.get("type2")}
+    best_target: int | None = None
+    best_score = 0.0
+    for a in legal:
+        if not isinstance(a, dict) or a.get("action") != "move":
+            continue
+        idx = a.get("target")
+        if not isinstance(idx, int) or idx < 0 or idx >= len(moves):
+            continue
+        power = moves[idx].get("power") or 0
+        if power <= 0:
+            continue
+        score = float(power)
+        if moves[idx].get("type") in atk_types:
+            score *= 1.5  # STAB
+        if score > best_score:
+            best_score = score
+            best_target = idx
+    return best_target
+
+
 def _stub_result(turn_state: TurnState, idempotency_key: str) -> LLMCallResult:
-    first = turn_state.legal_actions[0] if turn_state.legal_actions else {"action": "move", "target": 0}
+    legal = turn_state.legal_actions or []
+    first = legal[0] if legal else {"action": "move", "target": 0}
     action_type = first.get("action", "move") if isinstance(first, dict) else "move"
     target = first.get("target", 0) if isinstance(first, dict) else 0
+
+    # Offline policy: instead of blindly taking legal_actions[0] (always move
+    # slot 0 -> monotonous battles), choose the highest-power STAB-weighted move
+    # from the serialized turn state. Falls back to the first legal action when
+    # no damaging move is available (e.g. only status moves, or a forced switch).
+    best = _best_move_target(_active_member(turn_state.acting_team), legal)
+    if best is not None:
+        action_type, target = "move", best
+
     return LLMCallResult(
         action=Action(action=action_type, target=target, reason="stub"),
         failure_reason=None,
